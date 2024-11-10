@@ -396,7 +396,38 @@
     }
 </script>
 <!--_____________________________________________________________-->
+<!--fond 0 et 1-->
+<script>
+    const numParticles = 100; // Nombre total de particules
+    const binaryBackground = document.getElementById('binary-background');
+    const characters = ['0', '1'];
 
+    function createParticle() {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.textContent = characters[Math.floor(Math.random() * characters.length)];
+        particle.style.left = `${Math.random() * 100}vw`;
+        particle.style.top = `${Math.random() * 100}vh`;
+        const duration = Math.random() * 5 + 5; // Durée de l'animation entre 5 et 10 secondes
+        particle.style.animation = `move ${duration}s linear infinite`;
+        binaryBackground.appendChild(particle);
+    }
+
+    function initializeParticles() {
+        binaryBackground.innerHTML = '';
+        for (let i = 0; i < numParticles; i++) {
+            createParticle();
+        }
+    }
+
+    initializeParticles();
+
+    window.addEventListener('resize', () => {
+        // Utilise un debounce pour améliorer la performance
+        clearTimeout(window.resizeTimeout);
+        window.resizeTimeout = setTimeout(initializeParticles, 200);
+    });
+</script>
 
 
 <!-- _____________________________________________________________________________________ -->

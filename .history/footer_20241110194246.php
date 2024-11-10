@@ -396,7 +396,38 @@
     }
 </script>
 <!--_____________________________________________________________-->
+<!--fond 0 et 1-->
+<script>
+    const numParticles = 100; // Nombre total de particules
+    const binaryBackground = document.getElementById('binary-background');
+    const characters = ['0', '1'];
 
+    function createParticle() {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.textContent = characters[Math.floor(Math.random() * characters.length)];
+        particle.style.left = `${Math.random() * 100}vw`;
+        particle.style.top = `${Math.random() * 100}vh`;
+        const duration = Math.random() * 5 + 5; // Durée de l'animation entre 5 et 10 secondes
+        particle.style.animation = `move ${duration}s linear infinite`;
+        binaryBackground.appendChild(particle);
+    }
+
+    function initializeParticles() {
+        binaryBackground.innerHTML = '';
+        for (let i = 0; i < numParticles; i++) {
+            createParticle();
+        }
+    }
+
+    initializeParticles();
+
+    window.addEventListener('resize', () => {
+        // Utilise un debounce pour améliorer la performance
+        clearTimeout(window.resizeTimeout);
+        window.resizeTimeout = setTimeout(initializeParticles, 200);
+    });
+</script>
 
 
 <!-- _____________________________________________________________________________________ -->
@@ -475,6 +506,56 @@
     }
 </script>
 
+<!-- <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Review",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Client Satisfait"
+  },
+  "reviewBody": "Harmony Digital a fourni un excellent service pour la création de notre site web. Très satisfait du résultat et du professionnalisme."
+}
+</script> -->
+
+<!-- <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Service",
+  "serviceType": "Référencement SEO",
+  "provider": {
+    "@type": "Organization",
+    "name": "Harmony Digital"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "42"
+  }
+}
+</script> -->
+
+
+
+<!-- FIN SEO -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCWSBWT7"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- _____________________________________________________________________________________ -->
+
+
+<!-- Intégration de WhatsApp et chat ai-->
+<script defer src="https://static.getbutton.io/widget/bundle.js?id=dkNpL"></script>
+
+
 <!-- Script pour mettre à jour l'année dans le footer -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -484,13 +565,66 @@
     });
 </script>
 
+<!-- Script pour le chargement paresseux des vidéos -->
+<script>
+    const lazyVideos = document.querySelectorAll('video.lazy');
+
+    if ('IntersectionObserver' in window) {
+        const lazyVideoObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const video = entry.target;
+
+                    // Définir la source de la vidéo depuis data-src
+                    const src = video.getAttribute('data-src');
+                    if (src) {
+                        video.src = src;
+                        video.load(); // Charger la vidéo
+                        video.classList.remove('lazy'); // Enlever la classe lazy après chargement
+                    }
+
+                    // Arrêter d'observer la vidéo après chargement
+                    lazyVideoObserver.unobserve(video);
+                }
+            });
+        });
+
+        // Observer chaque vidéo
+        lazyVideos.forEach(video => {
+            lazyVideoObserver.observe(video);
+        });
+    }
+</script>
+
 <!-- Scripts -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <!-- Google Tag Manager -->
-
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NCWSBWT7');
+</script>
 <!-- End Google Tag Manager -->
 
 <!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HPGMZYGZ9P"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
 
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-HPGMZYGZ9P');
 </script>
