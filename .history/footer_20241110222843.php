@@ -43,7 +43,7 @@
                                 <strong class="text-white nav-brand-logo">
                                     <span class="text-orange-footer-2">Harmony Digital
                                 </strong>
-                                
+                                >
                             </a>
                         </div>
                         <div class="mb-3 text-center">

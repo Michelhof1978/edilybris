@@ -41,17 +41,20 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-orange-footer-2">Harmony Digital
+                                    <span class="text-orange-footer-2">H</span>armony <span class="text-orange-footer-2">D</span>igital
                                 </strong>
-                                
+                                <span class="orange">.</span>
                             </a>
                         </div>
                         <div class="mb-3 text-center">
-                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25">
+                            <img src="images/robotFooter.webp" loading="lazy" alt="Robot d'illustration pied de page" class="img-fluid w-25">
                         </div>
                         <div class="footer-text">
                             <p class="lead p-3 mx-auto fw-bold">
                                 Nous pouvons réaliser tous vos projets à distance en effectuant des points réguliers via le réseau
+                                <a href="<?php echo DISCORD; ?>" class="text-decoration-custom" target="_blank" rel="noopener noreferrer">
+                                    <span class="text-orange-nav2 underline-discord">Discord</span>
+                                </a>.
                             </p>
                         </div>
 
@@ -113,7 +116,9 @@
                 </div>
             </div>
         </div>
-        <div id="sfca7u2tdtyfyesu1nkrk9qrrw9e57zxcsl"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=a7u2tdtyfyesu1nkrk9qrrw9e57zxcsl&down=async" async></script><br><a href="https://www.compteurdevisite.com">compteur visiteur</a><noscript><a href="https://www.compteurdevisite.com" title="compteur visiteur"><img src="https://counter6.optistats.ovh/private/compteurdevisite.php?c=a7u2tdtyfyesu1nkrk9qrrw9e57zxcsl" border="0" title="compteur visiteur" alt="compteur visiteur"></a></noscript>
+        <!-- <div class="mt-2">
+        <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78096-1" border="0" /></a>
+    </div> -->
     </div>
 </footer>
 <!-- FIN FOOTER MOBILE -->
@@ -138,7 +143,7 @@
                         <i class="fas fa-phone"></i>
                         <div class="cta-text">
                             <h4>Appelez-Nous !</h4>
-                            <span>(+33) 6 23 53 30 18</span>
+                            <span>(+33) 6 66 33 25 88</span>
                         </div>
                     </div>
                 </div>
@@ -161,8 +166,9 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class=">Harmony Digital</span>
+                                    <span class="text-orange-footer-2">H</span>armony <span class="text-orange-footer-2">D</span>igital
                                 </strong>
+                                <span class="orange">.</span>
                             </a>
                         </div>
                         <div class="footer-text">
@@ -216,7 +222,7 @@
                             </form>
                         </div>
                         <div class="mt-3">
-                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25 mt-3">
+                            <img src="images/robotFooter.webp" loading="lazy" alt="Robot d'illustration pied de page" class="img-fluid w-25 mt-3">
                         </div>
                     </div>
                 </div>
@@ -227,9 +233,12 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/" alt="robot gif" class="img-fluid robotFooter">
+                    <img src="images/gif6.gif" alt="robot gif" class="img-fluid robotFooter">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
+                            <a href="https://cvmichel-hoffmann.fr/" target="_blank">
+                                <br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span>
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -341,7 +350,6 @@
 <!--SEO -->
 
 
-_____________________________________________________________________________________
 <!-- Script pour mettre à jour l'année dans le footer -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {

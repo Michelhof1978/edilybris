@@ -41,17 +41,20 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-orange-footer-2">Harmony Digital
+                                    <span class="text-orange-footer-2">H</span>armony <span class="text-orange-footer-2">D</span>igital
                                 </strong>
-                                
+                                <span class="orange">.</span>
                             </a>
                         </div>
                         <div class="mb-3 text-center">
-                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25">
+                            <img src="images/robotFooter.webp" loading="lazy" alt="Robot d'illustration pied de page" class="img-fluid w-25">
                         </div>
                         <div class="footer-text">
                             <p class="lead p-3 mx-auto fw-bold">
                                 Nous pouvons réaliser tous vos projets à distance en effectuant des points réguliers via le réseau
+                                <a href="<?php echo DISCORD; ?>" class="text-decoration-custom" target="_blank" rel="noopener noreferrer">
+                                    <span class="text-orange-nav2 underline-discord">Discord</span>
+                                </a>.
                             </p>
                         </div>
 
@@ -113,7 +116,9 @@
                 </div>
             </div>
         </div>
-        <div id="sfca7u2tdtyfyesu1nkrk9qrrw9e57zxcsl"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=a7u2tdtyfyesu1nkrk9qrrw9e57zxcsl&down=async" async></script><br><a href="https://www.compteurdevisite.com">compteur visiteur</a><noscript><a href="https://www.compteurdevisite.com" title="compteur visiteur"><img src="https://counter6.optistats.ovh/private/compteurdevisite.php?c=a7u2tdtyfyesu1nkrk9qrrw9e57zxcsl" border="0" title="compteur visiteur" alt="compteur visiteur"></a></noscript>
+        <!-- <div class="mt-2">
+        <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78096-1" border="0" /></a>
+    </div> -->
     </div>
 </footer>
 <!-- FIN FOOTER MOBILE -->
@@ -138,7 +143,7 @@
                         <i class="fas fa-phone"></i>
                         <div class="cta-text">
                             <h4>Appelez-Nous !</h4>
-                            <span>(+33) 6 23 53 30 18</span>
+                            <span>(+33) 6 66 33 25 88</span>
                         </div>
                     </div>
                 </div>
@@ -161,8 +166,9 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class=">Harmony Digital</span>
+                                    <span class="text-orange-footer-2">H</span>armony <span class="text-orange-footer-2">D</span>igital
                                 </strong>
+                                <span class="orange">.</span>
                             </a>
                         </div>
                         <div class="footer-text">
@@ -216,7 +222,7 @@
                             </form>
                         </div>
                         <div class="mt-3">
-                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25 mt-3">
+                            <img src="images/robotFooter.webp" loading="lazy" alt="Robot d'illustration pied de page" class="img-fluid w-25 mt-3">
                         </div>
                     </div>
                 </div>
@@ -227,9 +233,12 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/" alt="robot gif" class="img-fluid robotFooter">
+                    <img src="images/gif6.gif" alt="robot gif" class="img-fluid robotFooter">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
+                            <a href="https://cvmichel-hoffmann.fr/" target="_blank">
+                                <br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span>
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -330,7 +339,61 @@
 
 
 <!-- Affichage Popup -->
+<script>
+    // Fonction pour vérifier si le popup a déjà été affiché aujourd'hui
+    function isPopupShown() {
+        const date = new Date();
+        const dateString = `${date.getFullYear()}/${date.getMonth() + 1}/${date.getDate()}`;
+        return document.cookie.includes(`popupShown=${dateString}`);
+    }
 
+    // Fonction pour définir le cookie indiquant que le popup a été affiché aujourd'hui
+    function setPopupShown() {
+        const date = new Date();
+        // Fixer l'expiration à la fin du jour
+        date.setHours(23, 59, 59, 999);
+        const dateString = `${date.getFullYear()}/${date.getMonth() + 1}/${date.getDate()}`;
+        document.cookie = `popupShown=${dateString}; expires=${date.toUTCString()}; path=/`;
+    }
+
+    // Vérifie si le popup n'a pas déjà été montré aujourd'hui
+    if (!isPopupShown()) {
+        let popupDiv = document.createElement("div");
+        popupDiv.className = "popup"; // Ajouter la classe popup
+        popupDiv.style.cssText = "position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 9999; text-align: center;";
+
+        let imgContainer = document.createElement("div");
+        imgContainer.style.cssText = "position: relative; display: inline-block;";
+
+        let img = document.createElement("img");
+        img.src = "images/offre2024.webp";
+        img.style.maxHeight = '100%'; // Ajuster à 100% de la hauteur du popup
+        img.style.maxWidth = '100%'; // Ajuster à 100% de la largeur du popup
+        img.style.width = 'auto'; // Ajuster largeur automatiquement pour maintenir le ratio
+        img.style.height = 'auto'; // Ajuster hauteur automatiquement pour maintenir le ratio
+        imgContainer.appendChild(img);
+
+        let closeButton = document.createElement("button");
+        closeButton.textContent = "✖"; // Symbole de fermeture
+        closeButton.style.cssText = "position: absolute; top: 10px; right: 10px; cursor: pointer; border: none; background: transparent; color: black; font-size: 20px; padding: 0; margin: 0;";
+
+        closeButton.onclick = function() {
+            document.body.removeChild(popupDiv);
+            setPopupShown();
+        };
+
+        imgContainer.appendChild(closeButton);
+        popupDiv.appendChild(imgContainer);
+        document.body.appendChild(popupDiv);
+
+        // Optionnel: fermeture automatique après 30 secondes
+        setTimeout(function() {
+            if (document.body.contains(popupDiv)) {
+                document.body.removeChild(popupDiv);
+            }
+            setPopupShown();
+        }, 30000);
+    }
 </script>
 <!--_____________________________________________________________-->
 
@@ -338,10 +401,80 @@
 
 <!-- _____________________________________________________________________________________ -->
 
+
+<!-- FOND '€', '$'-->
+<script>
+    const totalParticles = 100; // Nombre total de particules
+    const backgroundElement = document.getElementById('binary-background3');
+    const symbols = ['€', '$'];
+
+    function createParticle() {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.textContent = symbols[Math.floor(Math.random() * symbols.length)];
+        particle.style.left = `${Math.random() * 100}vw`;
+        particle.style.top = `${Math.random() * 100}vh`;
+        particle.style.animationDuration = `${Math.random() * 5 + 5}s`; // Durée de l'animation entre 5 et 10 secondes
+        backgroundElement.appendChild(particle);
+    }
+
+    for (let i = 0; i < totalParticles; i++) {
+        createParticle();
+    }
+
+    window.addEventListener('resize', () => {
+        backgroundElement.innerHTML = '';
+        for (let i = 0; i < totalParticles; i++) {
+            createParticle();
+        }
+    });
+</script>
+
+
+
 <!--SEO -->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Harmony Digital",
+        "image": "https://harmony-digital.fr/images/logo.png",
+        "logo": "https://harmony-digital.fr/images/logo.png",
+        "telephone": "+33 6 66 33 25 88",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "LA MOTTE",
+            "addressLocality": "DECIZE",
+            "addressRegion": "Bourgogne-Franche Comté",
+            "postalCode": "58300",
+            "addressCountry": "FR"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 46.78883,
+            "longitude": 3.53106
+        },
+        "priceRange": "€-€€€",
+        "url": "https://www.edilybris.fr/",
+        "description": "Harmony Digital est spécialisée dans la création de sites internet à des tarifs très compétitifs. Nous offrons des solutions personnalisées allant du design web à l'optimisation SEO, pour répondre à tous vos besoins numériques.",
+        "openingHours": [
+            "Mo-Fr 09:00-18:00",
+            "Sa 09:00-12:00"
+        ],
+        "sameAs": [
+            "https://www.linkedin.com/in/michel-h-245436203/"
+        ],
+        "offers": {
+            "@type": "Offer",
+            "url": "https://harmony-digital.fr/",
+            "priceCurrency": "EUR",
+            "price": "100",
+            "priceValidUntil": "2035-12-31",
+            "description": "Création de site internet, création de site web, agence web, agence web Decize, agence web Bourgogne-Franche-Comté, SEO, référencement, développement web, création de logo, marketing digital. Profitez de solutions complètes pour votre présence en ligne avec des services personnalisés et optimisés pour le référencement. Contactez-nous pour des offres exclusives et des réductions spéciales sur la création de votre site internet."
+        }
+    }
+</script>
 
-
-_____________________________________________________________________________________
 <!-- Script pour mettre à jour l'année dans le footer -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {

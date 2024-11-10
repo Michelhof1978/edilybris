@@ -41,13 +41,13 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-orange-footer-2">Harmony Digital
+                                    <span class="text-orange-footer-2">H</span>armony <span class="text-orange-footer-2">D</span>igital
                                 </strong>
-                                
+                                <span class="orange">.</span>
                             </a>
                         </div>
                         <div class="mb-3 text-center">
-                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25">
+                            <img src="images/robotFooter.webp" loading="lazy" alt="Robot d'illustration pied de page" class="img-fluid w-25">
                         </div>
                         <div class="footer-text">
                             <p class="lead p-3 mx-auto fw-bold">

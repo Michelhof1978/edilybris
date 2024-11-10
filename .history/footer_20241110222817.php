@@ -41,9 +41,9 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-orange-footer-2">Harmony Digital
+                                    <span class="text-orange-footer-2">H</span>armony <span class="">Digital
                                 </strong>
-                                
+                                <span class="orange">.</span>
                             </a>
                         </div>
                         <div class="mb-3 text-center">
