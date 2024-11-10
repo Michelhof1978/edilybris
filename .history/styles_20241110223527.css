@@ -431,6 +431,13 @@ width: 100%;
         order: 3;
     }
 
+    .text-orange {
+        font-size: 55px;
+    }
+
+    .text-orange-nav {
+        font-size: 1rem;
+    }
 
     .nav-item {
         min-width: auto;
@@ -457,6 +464,9 @@ width: 100%;
         padding-top: 30px;
     }
 
+    .star {
+        font-size: 10px;
+    }
 
     .nav-brand-logo {
         font-size: 25px;

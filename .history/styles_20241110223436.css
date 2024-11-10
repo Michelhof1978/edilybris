@@ -401,6 +401,17 @@ width: 100%;
 }
 /* END FOOTER */
 
+/*VIDEO DE MARKETING */
+.videoCom {
+	padding: 15px;
+	border: 1px solid #ddd;
+	background: #FFF;
+	/*CSS3 effects */
+	background: linear-gradient(#FFF, #FFF 20%, #EEE 80%, #DDD);
+	border-radius: 2px 2px 2px 2px;
+	box-shadow: 0 0 3px rgba(0,0,0, 0.2); 
+}
+/*VIDEO DE MARKETING */
 
 /* Media queries pour les appareils mobiles */
 @media (max-width: 768px) {
@@ -431,6 +442,13 @@ width: 100%;
         order: 3;
     }
 
+    .text-orange {
+        font-size: 55px;
+    }
+
+    .text-orange-nav {
+        font-size: 1rem;
+    }
 
     .nav-item {
         min-width: auto;
@@ -457,6 +475,9 @@ width: 100%;
         padding-top: 30px;
     }
 
+    .star {
+        font-size: 10px;
+    }
 
     .nav-brand-logo {
         font-size: 25px;
