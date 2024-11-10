@@ -1,10 +1,10 @@
 <?php include("head.php"); ?>
 
- <title></title>
+ <title>Agence Web, Création Site Internet... à Decize dans la Nièvre</title>
  <meta name="description" content="">
  <meta property="og:url" content="https://www.edilybris.fr/">
  <!-- Canonical Link -->
- <link rel="canonical" href="https://www.edilybris.fr/">
+ <link rel="canonical" href="https://harmony-digital.fr/accueil">
 
  <style>
     

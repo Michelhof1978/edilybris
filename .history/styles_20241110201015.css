@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;  /* Assure que html et body prennent toute la largeur de la fenêtre */
+    overflow-x: hidden; /* Évite le débordement horizontal */
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #152f66;
+    color: #ffffff; /* Pour garantir que le texte soit lisible sur ce fond */
+    margin: 0; /* Pour enlever les marges par défaut */
+    padding: 0; /* Pour enlever le padding par défaut */
+}
+
+

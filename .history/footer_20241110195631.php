@@ -18,7 +18,7 @@
                         <i class="fas fa-phone me-2"></i>
                         <div class="cta-text">
                             <h4>Appelez-Nous !</h4>
-                            <span></span>
+                            <span>(+33) 6 66 33 25 88</span>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                         <i class="far fa-envelope-open me-2"></i>
                         <div class="cta-text">
                             <h4>Mail</h4>
-                            <span></span>
+                            <span>michelhoffmann@harmony-digital.fr</span>
                         </div>
                     </div>
                 </div>

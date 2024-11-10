@@ -9,7 +9,7 @@
                         <i class="fas fa-map-marker-alt me-2"></i>
                         <div class="cta-text">
                             <h4>Adresse</h4>
-                            <span>La Motte<br>58 300 Decize</span>
+                            <span>La Motte<br></span>
                         </div>
                     </div>
                 </div>
