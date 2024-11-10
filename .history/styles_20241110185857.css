@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;  /* Assure que html et body prennent toute la largeur de la fenêtre */
+    overflow-x: hidden; /* Évite le débordement horizontal */
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;  /* Assure que html et body prennent toute la largeur de la fenêtre */
+        overflow-x: hidden; /* Évite le débordement horizontal */
+    }
+    
+    body {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-image: url('images/fondNoir2.webp');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    ;
+}
+
