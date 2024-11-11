@@ -220,12 +220,10 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                <a href="https://harmony-digital.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25" style="margin-bottom: -20px;">
-</a>
+                    <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid w-50" style="margin">
+                    <p>Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p><br></p>
                     <div class="copyright-text">
-                        <p>
-                            Copyright &copy; 2022 - <span id="date2"></span> Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br>
+                        <p>Copyright &copy; 2022 - <span id="date2"></span> Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br><span class="pt-5">
                         </p>
                     </div>
                 </div>

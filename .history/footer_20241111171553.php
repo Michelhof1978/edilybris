@@ -105,7 +105,7 @@
                 <div class="text-center">
                     <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid ">
                     <div class="copyright-text">
-                        <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
+                        <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://cvmichel-hoffmann.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
                     </div>
                 </div>
             </div>
@@ -220,17 +220,18 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                <a href="https://harmony-digital.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25" style="margin-bottom: -20px;">
-</a>
+                    <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid w-25">
+                    <p></p>
                     <div class="copyright-text">
-                        <p>
-                            Copyright &copy; 2022 - <span id="date2"></span> Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br>
+                        <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
                         </p>
                     </div>
                 </div>
             </div>
         </div>
+
+
+        <!-- FIN FOOTER DESKTOP -->
 
         <div class="mt-2">
         <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78315-2" border="0" /></a>

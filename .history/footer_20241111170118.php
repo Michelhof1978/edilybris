@@ -27,7 +27,7 @@
                         <i class="far fa-envelope-open me-2"></i>
                         <div class="cta-text">
                             <h4>Mail</h4>
-                            <span>michelhoff1978@gmail.com</span>
+                            <span></span>
                         </div>
                     </div>
                 </div>
@@ -103,17 +103,15 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid ">
+                    <img src="images/logoHarmonyDigital" alt="" class="img-fluid ">
                     <div class="copyright-text">
-                        <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
+                        <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://cvmichel-hoffmann.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="mt-2">
-        <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78315-2" border="0" /></a>
-        </div>   
-        </div>
+        <div id="sfca7u2tdtyfyesu1nkrk9qrrw9e57zxcsl"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=a7u2tdtyfyesu1nkrk9qrrw9e57zxcsl&down=async" async></script><br><a href="https://www.compteurdevisite.com">compteur visiteur</a><noscript><a href="https://www.compteurdevisite.com" title="compteur visiteur"><img src="https://counter6.optistats.ovh/private/compteurdevisite.php?c=a7u2tdtyfyesu1nkrk9qrrw9e57zxcsl" border="0" title="compteur visiteur" alt="compteur visiteur"></a></noscript>
+    </div>
 </footer>
 <!-- FIN FOOTER MOBILE -->
 
@@ -146,7 +144,7 @@
                         <i class="far fa-envelope-open"></i>
                         <div class="cta-text">
                             <h4>Mail</h4>
-                            <span>michelhoff1978@gmail.com</span>
+                            <span></span>
                         </div>
                     </div>
                 </div>
@@ -220,17 +218,17 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                <a href="https://harmony-digital.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25" style="margin-bottom: -20px;">
-</a>
+                    <img src="images/logo.jpg" alt="" class="img-fluid  rounded mb-4">
                     <div class="copyright-text">
-                        <p>
-                            Copyright &copy; 2022 - <span id="date2"></span> Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br>
+                        <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
                         </p>
                     </div>
                 </div>
             </div>
         </div>
+
+
+        <!-- FIN FOOTER DESKTOP -->
 
         <div class="mt-2">
         <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78315-2" border="0" /></a>

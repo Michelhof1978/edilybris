@@ -294,7 +294,7 @@ width: 100%;
 }
 
 .footer-links ul li a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -311,7 +311,7 @@ width: 100%;
 }
 
 .footer-links ul li a:hover {
-    color: #18bed096;
+    color: #2f8193;
 }
 
 /* Styles pour le formulaire de souscription */
@@ -366,7 +366,7 @@ width: 100%;
 }
 
 .footer-menu li:hover a {
-    color: #2f9341;
+    color: #2f8193;
 }
 
 .footer-menu li a {

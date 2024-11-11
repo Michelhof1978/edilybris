@@ -294,7 +294,7 @@ width: 100%;
 }
 
 .footer-links ul li a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -311,7 +311,7 @@ width: 100%;
 }
 
 .footer-links ul li a:hover {
-    color: #18bed096;
+    color: #2f8193;
 }
 
 /* Styles pour le formulaire de souscription */
@@ -333,7 +333,7 @@ width: 100%;
     right: 0;
     background: #2f8193;
     padding: 13px 20px;
-    border: 1px solid #2f8193;
+    border: 1px solid #f9f9f9;
     top: 0;
 }
 
@@ -366,7 +366,7 @@ width: 100%;
 }
 
 .footer-menu li:hover a {
-    color: #2f9341;
+    color: #f9f9f9;
 }
 
 .footer-menu li a {
@@ -377,12 +377,12 @@ width: 100%;
 /* Styles pour les éléments orange */
 .text-orange-footer {
     font-size: 14px;
-    color: #e06717e4;
+    color: #f9f9f9;
 }
 
 .text-orange-footer-2 {
     font-size: 40px;
-    color: #e06717e4;
+    color: #f9f9f9;
 }
 
 .underline-discord {
