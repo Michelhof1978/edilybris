@@ -41,15 +41,18 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-orange-footer-2">Edi'lybris
+                                    <span class="text-orange-footer-2">Harmony Digital
                                 </strong>
                                 
                             </a>
                         </div>
                         <div class="mb-3 text-center">
-                            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25">
+                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25">
                         </div>
                         <div class="footer-text">
+                            <p class="lead p-3 mx-auto fw-bold">
+                                Nous pouvons réaliser tous vos projets à distance en effectuant des points réguliers via le réseau
+                            </p>
                         </div>
 
                         <div class="footer-social-icon">
@@ -103,7 +106,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/logo.jpg" alt="" class="img-fluid ">
+                    <img src="images/gif6.gif" alt="robot gif" class="img-fluid robotFooter">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://cvmichel-hoffmann.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
                     </div>
@@ -163,13 +166,14 @@
                             </a>
                         </div>
                         <div class="footer-text">
+                    
                         </div>
                         <div class="footer-social-icon">
                             <span class="pt-3 me-4">Suivez-nous !</span>
-                            <a href="" target="_blank">
+                            <a href="https://www.youtube.com/channel/UCSHUogEcs5VBu6IfBbqJ42g" target="_blank">
                                 <i class="fab fa-youtube youtube-bg"></i>
                             </a>
-                            <a href="" target="_blank">
+                            <a href="https://www.linkedin.com/in/michel-h-245436203/" target="_blank">
                                 <i class="fab fa-linkedin linkedin-bg"></i>
                             </a>
                         </div>
@@ -207,7 +211,7 @@
                             </form>
                         </div>
                         <div class="mt-3">
-                            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25 mt-3">
+                            <img src="images/.webp" loading="lazy" alt="" class="img-fluid w-25 mt-3">
                         </div>
                     </div>
                 </div>
@@ -218,7 +222,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/logo.jpg" alt="" class="img-fluid rounded mb-4">
+                    <img src="images/" alt="robot gif" class="img-fluid robotFooter">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
                         </p>

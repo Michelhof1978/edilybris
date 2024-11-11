@@ -218,7 +218,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/logo.jpg" alt="" class="img-fluid rounded mb-4">
+                    <img src="images/logo.jpg" alt="" class="img-fluid robotFooter rounded mb-4">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
                         </p>

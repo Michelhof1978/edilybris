@@ -41,13 +41,13 @@
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-orange-footer-2">Edi'lybris
+                                    <span class="text-orange-footer-2">Harmony Digital
                                 </strong>
                                 
                             </a>
                         </div>
                         <div class="mb-3 text-center">
-                            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25">
+                            <img src="images/plumeFooter" loading="lazy" alt="" class="img-fluid w-25">
                         </div>
                         <div class="footer-text">
                         </div>
@@ -218,7 +218,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/logo.jpg" alt="" class="img-fluid rounded mb-4">
+                    <img src="images/logo.jpg" alt="" class="img-fluid robotFooter rounded mb-4">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date2"></span>, Droits réservés
                         </p>

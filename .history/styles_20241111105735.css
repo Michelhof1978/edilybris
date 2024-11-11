@@ -366,7 +366,7 @@ width: 100%;
 }
 
 .footer-menu li:hover a {
-    color: #2f8193;
+    color: #e06717e4;
 }
 
 .footer-menu li a {
@@ -377,12 +377,12 @@ width: 100%;
 /* Styles pour les éléments orange */
 .text-orange-footer {
     font-size: 14px;
-    color: #2f8193;
+    color: #e06717e4;
 }
 
 .text-orange-footer-2 {
     font-size: 40px;
-    color: #2f8193;
+    color: #e06717e4;
 }
 
 .underline-discord {

@@ -311,7 +311,7 @@ width: 100%;
 }
 
 .footer-links ul li a:hover {
-    color: #2f8193;
+    color: rgb(198, 119, 8);
 }
 
 /* Styles pour le formulaire de souscription */
@@ -331,9 +331,9 @@ width: 100%;
 .subscribe-form button {
     position: absolute;
     right: 0;
-    background: #2f8193;
+    background: #ff5e14;
     padding: 13px 20px;
-    border: 1px solid #2f8193;
+    border: 1px solid #e06717e4;
     top: 0;
 }
 
@@ -366,7 +366,7 @@ width: 100%;
 }
 
 .footer-menu li:hover a {
-    color: #2f8193;
+    color: #e06717e4;
 }
 
 .footer-menu li a {
@@ -377,12 +377,12 @@ width: 100%;
 /* Styles pour les éléments orange */
 .text-orange-footer {
     font-size: 14px;
-    color: #2f8193;
+    color: #e06717e4;
 }
 
 .text-orange-footer-2 {
     font-size: 40px;
-    color: #2f8193;
+    color: #e06717e4;
 }
 
 .underline-discord {
