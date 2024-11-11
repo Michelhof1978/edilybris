@@ -7,45 +7,7 @@
  <link rel="canonical" href="https://www.edilybris.fr/">
 
  <style>
-    .container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px;
-  padding: 20px;
-}
-
-.card {
-  background-color: #222;
-  width: 200px;
-  border-radius: 10px;
-  overflow: hidden;
-  transition: transform 0.3s;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
-
-.card img {
-  width: 100%;
-  height: auto;
-}
-
-.card-info {
-  padding: 10px;
-  text-align: center;
-}
-
-.card-info h2 {
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-
-.card-info p {
-  font-size: 14px;
-  color: #b3b3b3;
-}
+    
      footer {
          margin-left: -8px;
          margin-right: -7px;

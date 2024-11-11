@@ -9,7 +9,7 @@ html, body {
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-image: url('images/fond.png');
+    background-image: url('images/fond');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -94,7 +94,7 @@ body {
 }
 
 .nav-item a:hover {
-    color: rgb(64, 134, 159);
+    color: rgb(198, 119, 8);
 }
 
 .nav-item {

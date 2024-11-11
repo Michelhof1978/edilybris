@@ -362,10 +362,9 @@ ________________________________________________________________________________
 
 </script>
 
-<script>
+</script>
 document.querySelectorAll('.card').forEach(card => {
   card.addEventListener('click', () => {
     alert("Vous avez cliqué sur " + card.querySelector('h2').textContent);
   });
 });
-</script>
