@@ -47,6 +47,7 @@
   color: #b3b3b3;
 }
 
+
      /* Animation clignotante tarif */
      .custom-animation {
          animation: infiniteBlink 2s infinite;

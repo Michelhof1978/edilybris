@@ -7,7 +7,7 @@
  <link rel="canonical" href="https://www.edilybris.fr/accueil">
 
  <style>
-  .container {
+    .container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -46,6 +46,10 @@
   font-size: 14px;
   color: #b3b3b3;
 }
+     footer {
+         margin-left: -8px;
+         margin-right: -7px;
+     }
 
      /* Animation clignotante tarif */
      .custom-animation {

@@ -346,9 +346,7 @@ width: 100%;
 /* Styles pour la zone de copyright */
 .copyright-area {
     background: #202020;
-    padding: 40px 0;
-    margin-bottom: -30px;
-    padding-top: 10px;
+    
 }
 
 .copyright-text p {
