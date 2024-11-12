@@ -482,6 +482,9 @@ width: 100%;
     margin-left: 20px;
 }
 
+.footer-menu li:hover a {
+    color: #2f9341;
+}
 
 .footer-menu li a {
     font-size: 14px;
@@ -504,7 +507,7 @@ width: 100%;
     bottom: 0;
     left: 0;
     width: 100%;
-    background: rgba(228, 28, 61, 0.427);
+    background: #e06717e4;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -519,7 +522,7 @@ width: 100%;
     margin: 5px;
     cursor: pointer;
     background: #fff;
-    color: #0b69dc;
+    color: #448ce7;
     border: none;
     padding: 5px 10px;
     border-radius: 3px;

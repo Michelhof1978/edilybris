@@ -126,7 +126,6 @@
         <p>Petite description du film 2.</p>
       </div>
     </div>
-    
   </div>
 
  <?php include("footer.php"); ?>

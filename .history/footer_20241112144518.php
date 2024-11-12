@@ -236,7 +236,8 @@
 <!-- COOKIES -->
 <div id="cookie-banner">
     <p><strong>Ce site web utilise des cookies.</strong> </p><br>
-    En cliquant vous acceptez le dépôt de cookies destinés au suivi des visites sur notre site,<br> à l'affichage des boutons de partage et aux remontées de contenus des plateformes sociales <br>
+    Nous utilisons des cookies pour améliorer votre expérience sur notre site web, personnaliser le contenu et analyser notre trafic.<br>
+    Les cookies sont de petits fichiers de données qui sont placés sur votre appareil lorsque vous visitez notre site. <br>
     <div class="mt-4">
         <button onclick="acceptCookies()"><strong>Accepter</strong></button>
         <button onclick="refuseCookies()"><strong>Refuser</strong></button>
@@ -254,7 +255,7 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!--ZOOM SURVOL SOURIS SUR IMAGE CARD-->
-<!-- <script>
+<script>
     function zoomIn(img) {
         img.style.transform = "scale(1.5)"; // agrandi l'image 1.5 fois
         img.style.transition = "transform 0.5s"; // ajoute une transition de 0.5s pour une animation fluide
@@ -264,7 +265,7 @@
         img.style.transform = "scale(1)"; // remettre l'image à sa taille d'origine
         img.style.transition = "transform 0.5s"; // ajoute une transition de 0.5s pour une animation fluide
     }
-</script> -->
+</script>
 
 <!-- _____________________________________________________________________________________ -->
 
@@ -310,6 +311,11 @@
             document.getElementById('cookie-banner').style.display = 'block';
         }, 2000);
     }
+</script>
+
+
+<!-- Affichage Popup -->
+
 </script>
 <!--_____________________________________________________________-->
 

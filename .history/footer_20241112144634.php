@@ -236,7 +236,7 @@
 <!-- COOKIES -->
 <div id="cookie-banner">
     <p><strong>Ce site web utilise des cookies.</strong> </p><br>
-    En cliquant vous acceptez le dépôt de cookies destinés au suivi des visites sur notre site,<br> à l'affichage des boutons de partage et aux remontées de contenus des plateformes sociales <br>
+    En cliquant vous acceptez le dépôt de cookies destinés au suivi des visites sur notre site, à l'affichage des boutons de partage et aux remontées de contenus des plateformes sociales <br>
     <div class="mt-4">
         <button onclick="acceptCookies()"><strong>Accepter</strong></button>
         <button onclick="refuseCookies()"><strong>Refuser</strong></button>

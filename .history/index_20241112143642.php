@@ -104,7 +104,7 @@
  <h1>Catalogue des livres</h1>
   
   <div class="container">
-    <!-- carte 1 -->
+    <!-- Exemple de carte de film -->
     <div class="card">
       <img src="https://via.placeholder.com/200x300" alt="Film 1">
       <div class="card-info">
@@ -119,14 +119,7 @@
         <p>Petite description du film 2.</p>
       </div>
     </div>
-    <div class="card">
-      <img src="https://via.placeholder.com/200x300" alt="Film 2">
-      <div class="card-info">
-        <h2>Film 2</h2>
-        <p>Petite description du film 2.</p>
-      </div>
-    </div>
-    
+    <!-- Ajoutez d'autres cartes de films ici -->
   </div>
 
  <?php include("footer.php"); ?>
