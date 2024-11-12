@@ -136,7 +136,7 @@
   <div class="row justify-content-center">
     <div class="col-12 col-md-10">
       <div class="text-white text-center py-5 rounded-4 p-2" style="background-color: #6c757d;">
-        <h2 class="mb-4">Bienvenue sur le site de notre association</h2>
+        <h1 class="mb-4">Bienvenue sur le site de notre association</h1>
         <p class="lead mb-4">
           Notre association a pour mission de promouvoir la lecture, le partage de connaissances et la découverte d'auteurs talentueux à travers la vente de livres soigneusement sélectionnés. Que vous soyez passionné de littérature, amateur de récits inspirants ou en quête de nouvelles découvertes, vous trouverez chez nous une offre variée de livres issus de plumes diversifiées.
         </p>
