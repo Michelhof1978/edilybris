@@ -103,15 +103,7 @@
         <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
       </div>
     </div>
-    <div class="card">
-    <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
-      <div class="card-info">
-        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
-        <p>Pierre Brandao</p>
-        <p class="text-success fw-bold">28,00 €</p>
-        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
-      </div>
-    </div>
+    
   </div>
 
  <?php include("footer.php"); ?>

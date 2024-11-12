@@ -47,7 +47,7 @@
   color: #b3b3b3;
 }
 
-     /* Animation clignotante tarif promo*/
+     /* Animation clignotante tarif */
      .custom-animation {
          animation: infiniteBlink 2s infinite;
          /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
@@ -67,12 +67,41 @@
 
      /* Fin Animation clignotante tarif */
 
+     /* Effet survol logo */
+     .imgcard2 {
+         transition: transform 0.5s ease;
+     }
+
+     /* Animation lors du survol */
+     .imgcard2:hover {
+         transform: rotateY(360deg);
+     }
+
+     .card2 {
+         transform: scale(0.7);
+         transform-origin: center center;
+         flex: 1 0 30%;
+         box-sizing: border-box;
+         margin: 0 -90px;
+         background-image: url('images/fondNoir2.webp');
+         background-size: cover;
+         background-position: center;
+         background-repeat: no-repeat;
+     }
+
+
+     .img-small {
+         max-width: 50px;
+         height: auto;
+         /* Maintient les proportions de l'image */
+     }
+
  </style>
 
  </head>
  <?php include("header.php"); ?>
  
- <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
+ <h1>Catalogue des livres</h1>
   
   <div class="container">
     <!-- carte 1 -->
@@ -81,37 +110,23 @@
       <div class="card-info">
         <h2 class="text-white">LUCIOLES MAGIQUES </h2>
         <p>Pierre Brandao</p>
-        <p class="text-success fw-bold">28,00 €</p>
-        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
       </div>
     </div>
     <div class="card">
-    <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
+      <img src="https://via.placeholder.com/200x300" alt="Film 2">
       <div class="card-info">
-        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
-        <p>Pierre Brandao</p>
-        <p class="text-success fw-bold">28,00 €</p>
-        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+        <h2>Film 2</h2>
+        <p>Petite description du film 2.</p>
       </div>
     </div>
     <div class="card">
-    <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
+      <img src="https://via.placeholder.com/200x300" alt="Film 2">
       <div class="card-info">
-        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
-        <p>Pierre Brandao</p>
-        <p class="text-success fw-bold">28,00 €</p>
-        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+        <h2>Film 2</h2>
+        <p>Petite description du film 2.</p>
       </div>
     </div>
-    <div class="card">
-    <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
-      <div class="card-info">
-        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
-        <p>Pierre Brandao</p>
-        <p class="text-success fw-bold">28,00 €</p>
-        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
-      </div>
-    </div>
+    
   </div>
 
  <?php include("footer.php"); ?>
