@@ -282,23 +282,6 @@ width: 100%;
 
 
 
-.footer-social-icon i {
-    font-size: 2rem; /* Taille des icônes */
-    margin-right: 8px; /* Moins d'espace entre les icônes */
-    transition: transform 0.3s, color 0.3s;
-}
-
-.facebook-icon {
-    color: #3b5998; /* Couleur de Facebook */
-}
-
-.instagram-icon {
-    color: #e4405f; /* Couleur d'Instagram */
-}
-
-.footer-social-icon a:hover i {
-    transform: scale(1.2);
-}
 
 
 /* Styles pour les titres des widgets */

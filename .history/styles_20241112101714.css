@@ -279,26 +279,27 @@ width: 100%;
     border-radius: 50%;
 }
 
-
-
-
 .footer-social-icon i {
-    font-size: 2rem; /* Taille des icônes */
-    margin-right: 8px; /* Moins d'espace entre les icônes */
+    font-size: 2rem; /* Taille de l'icône, ajustez selon vos préférences */
+    margin-right: 15px;
     transition: transform 0.3s, color 0.3s;
 }
 
 .facebook-icon {
-    color: #3b5998; /* Couleur de Facebook */
+    color: #3b5998; /* Couleur Facebook */
 }
 
 .instagram-icon {
-    color: #e4405f; /* Couleur d'Instagram */
+    color: #e4405f; /* Couleur Instagram */
 }
 
+/* Effet au survol */
 .footer-social-icon a:hover i {
-    transform: scale(1.2);
+    transform: scale(1.2); /* Agrandissement au survol */
 }
+
+
+
 
 
 /* Styles pour les titres des widgets */

@@ -155,15 +155,23 @@
                         </div>
                         <div class="footer-text">
                         </div>
-                        <div class="footer-social-icon">
-    <span class="pt-3 ms-5 me-4">Suivez-nous !</span>
-    <a href="https://www.facebook.com/edilybris/" target="_blank">
-        <i class="fab fa-facebook facebook-icon"></i>
-    </a>
-    <a href="https://www.instagram.com/edilybris/" target="_blank">
-        <i class="fab fa-instagram instagram-icon"></i>
-    </a>
-</div>
+                        .footer-social-icon i {
+    font-size: 2rem; /* Taille des icônes */
+    margin-right: 8px; /* Moins d'espace entre les icônes */
+    transition: transform 0.3s, color 0.3s;
+}
+
+.facebook-icon {
+    color: #3b5998; /* Couleur de Facebook */
+}
+
+.instagram-icon {
+    color: #e4405f; /* Couleur d'Instagram */
+}
+
+.footer-social-icon a:hover i {
+    transform: scale(1.2);
+}
 
                     </div>
                 </div>

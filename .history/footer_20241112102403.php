@@ -160,7 +160,7 @@
     <a href="https://www.facebook.com/edilybris/" target="_blank">
         <i class="fab fa-facebook facebook-icon"></i>
     </a>
-    <a href="https://www.instagram.com/edilybris/" target="_blank">
+    <a href="https://www.instagram.com" target="_blank">
         <i class="fab fa-instagram instagram-icon"></i>
     </a>
 </div>
