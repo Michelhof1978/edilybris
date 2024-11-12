@@ -382,7 +382,7 @@ width: 100%;
 .subscribe-form button {
     position: absolute;
     right: 0;
-    background: rgba(228, 28, 61, 0.427);
+    background: #2f8193;
     padding: 13px 20px;
     border: 1px solid #2f8193;
     top: 0;

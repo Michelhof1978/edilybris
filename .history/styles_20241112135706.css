@@ -296,6 +296,8 @@ width: 100%;
 }
 
 
+
+
 .footer-social-icon i {
     font-size: 2rem; /* Taille des icônes */
     margin-right: 8px; /* Moins d'espace entre les icônes */
@@ -331,7 +333,7 @@ width: 100%;
     bottom: -15px;
     height: 2px;
     width: 50px;
-    background: rgba(228, 28, 61, 0.427);
+    background: #2f8193;
 }
 
 /* Styles pour les liens utiles */
@@ -382,7 +384,7 @@ width: 100%;
 .subscribe-form button {
     position: absolute;
     right: 0;
-    background: rgba(228, 28, 61, 0.427);
+    background: #2f8193;
     padding: 13px 20px;
     border: 1px solid #2f8193;
     top: 0;
