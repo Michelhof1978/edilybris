@@ -76,57 +76,45 @@
   
   <div class="container">
     <!-- carte 1 -->
-<a href="page-details-1.html" class="card-link">
-  <div class="card">
+    <div class="card">
     <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
-    <div class="card-info">
-      <h2 class="text-white">LUCIOLES MAGIQUES</h2>
-      <p>Pierre Brandao</p>
-      <p class="text-success fw-bold">28,00 €</p>
-      <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      <div class="card-info">
+        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
+        <p>Pierre Brandao</p>
+        <p class="text-success fw-bold">28,00 €</p>
+        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      </div>
     </div>
-  </div>
-</a>
-
-<!-- carte 2 -->
-<a href="page-details-2.html" class="card-link">
-  <div class="card">
+     <!-- carte 2 -->
+    <div class="card">
     <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
-    <div class="card-info">
-      <h2 class="text-white">LUCIOLES MAGIQUES</h2>
-      <p>Pierre Brandao</p>
-      <p class="text-success fw-bold">28,00 €</p>
-      <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      <div class="card-info">
+        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
+        <p>Pierre Brandao</p>
+        <p class="text-success fw-bold">28,00 €</p>
+        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      </div>
     </div>
-  </div>
-</a>
-
-<!-- carte 3 -->
-<a href="page-details-3.html" class="card-link">
-  <div class="card">
+     <!-- carte 3 -->
+    <div class="card">
     <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
-    <div class="card-info">
-      <h2 class="text-white">LUCIOLES MAGIQUES</h2>
-      <p>Pierre Brandao</p>
-      <p class="text-success fw-bold">28,00 €</p>
-      <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      <div class="card-info">
+        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
+        <p>Pierre Brandao</p>
+        <p class="text-success fw-bold">28,00 €</p>
+        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      </div>
     </div>
-  </div>
-</a>
-
-<!-- carte 4 -->
-<a href="page-details-4.html" class="card-link">
-  <div class="card">
+     <!-- carte 4 -->
+    <div class="card">
     <img src="images/pierreBrandao/luciolesMagiques.png" alt="">
-    <div class="card-info">
-      <h2 class="text-white">LUCIOLES MAGIQUES</h2>
-      <p>Pierre Brandao</p>
-      <p class="text-success fw-bold">28,00 €</p>
-      <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      <div class="card-info">
+        <h2 class="text-white">LUCIOLES MAGIQUES </h2>
+        <p>Pierre Brandao</p>
+        <p class="text-success fw-bold">28,00 €</p>
+        <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</p>
+      </div>
     </div>
-  </div>
-</a>
-
   </div>
 
  <?php include("footer.php"); ?>
