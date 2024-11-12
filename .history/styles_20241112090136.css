@@ -158,33 +158,18 @@ width: 100%;
 }
 
 .footer-cta .row {
-    display: flex;
-    flex-wrap: nowrap; /* Empêche le retour à la ligne */
-    gap: 2rem; /* Espace entre chaque colonne */
-}
-
-.footer-cta .col {
-    flex: 1;
-    text-align: center;
-    display: flex;
-    align-items: center; /* Aligne les icônes et le texte verticalement */
-    justify-content: center;
+    gap: 2rem; /* Espace entre chaque section (Adresse, Téléphone, Mail) */
 }
 
 .footer-cta i {
     font-size: 1.5rem;
-    color: #fffbfb;
-    margin-right: 0.5rem;
-    display: inline-block;
-    vertical-align: middle; /* Assure que les icônes restent au même niveau */
+    color: #333;
+    margin-right: 0.5rem; /* Espace entre l'icône et le texte */
 }
 
 .footer-cta span {
     font-size: 1rem;
     color: #555;
-    display: inline-block;
-    vertical-align: middle; /* Assure que le texte reste aligné avec les icônes */
-    line-height: 1.2; /* Ajuste l'espacement vertical si nécessaire */
 }
 
 .footer-section {

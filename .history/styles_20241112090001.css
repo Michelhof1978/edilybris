@@ -157,34 +157,31 @@ width: 100%;
 width: 100%;
 }
 
-.footer-cta .row {
-    display: flex;
-    flex-wrap: nowrap; /* Empêche le retour à la ligne */
-    gap: 2rem; /* Espace entre chaque colonne */
+.footer-cta .single-cta {
+    flex-direction: row;
+    text-align: left;
 }
 
-.footer-cta .col {
-    flex: 1;
-    text-align: center;
-    display: flex;
-    align-items: center; /* Aligne les icônes et le texte verticalement */
-    justify-content: center;
+.footer-cta .cta-text h4 {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.footer-cta .cta-text span {
+    display: block;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.footer-cta .row {
+    gap: 2rem; /* Espace entre les colonnes */
 }
 
 .footer-cta i {
     font-size: 1.5rem;
-    color: #fffbfb;
+    color: #333;
     margin-right: 0.5rem;
-    display: inline-block;
-    vertical-align: middle; /* Assure que les icônes restent au même niveau */
-}
-
-.footer-cta span {
-    font-size: 1rem;
-    color: #555;
-    display: inline-block;
-    vertical-align: middle; /* Assure que le texte reste aligné avec les icônes */
-    line-height: 1.2; /* Ajuste l'espacement vertical si nécessaire */
 }
 
 .footer-section {

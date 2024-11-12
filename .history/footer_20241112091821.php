@@ -1,38 +1,27 @@
 <!-- FOOTER MOBILE -->
 <footer class="footer-section d-block d-md-none ">
     <div class="container">
-        <!-- Section CTA -->
-        <div class="footer-cta pt-5 pb-5 text-center">
-            <div class="row justify-content-center">
-                <div class="col-12 mb-4">
-                    <div class="single-cta d-flex align-items-center justify-content-center">
-                        <i class="fas fa-map-marker-alt me-2"></i>
-                        <div class="cta-text">
-                            <h4>Adresse</h4>
-                            <span>La Motte<br>58 300 Decize</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 mb-4">
-                    <div class="single-cta d-flex align-items-center justify-content-center">
-                        <i class="fas fa-phone me-2"></i>
-                        <div class="cta-text">
-                            <h4>Appelez-Nous !</h4>
-                            <span></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 mb-4">
-                    <div class="single-cta d-flex align-items-center justify-content-center">
-                        <i class="far fa-envelope-open me-2"></i>
-                        <div class="cta-text">
-                            <h4>Mail</h4>
-                            <span>michelhoff1978@gmail.com</span>
-                        </div>
-                    </div>
-                </div>
+    <div class="footer-cta pt-5 pb-5">
+        <div class="row d-flex justify-content-center align-items-center">
+            <!-- Adresse -->
+            <div class="col d-flex align-items-center justify-content-center">
+                <i class="fas fa-map-marker-alt me-2"></i>
+                <span>La Motte, 58 300 Decize</span>
+            </div>
+            <!-- Téléphone -->
+            <div class="col d-flex align-items-center justify-content-center">
+                <i class="fas fa-phone me-2"></i>
+                <span>06 00 00 00 00</span>
+            </div>
+            <!-- Email -->
+            <div class="col d-flex align-items-center justify-content-center">
+                <i class="far fa-envelope-open me-2"></i>
+                <span>michelhoff1978@gmail.com</span>
             </div>
         </div>
+    </div>
+</div>
+
         <!-- Footer Content -->
         <div class="footer-content text-center">
             <div class="row justify-content-center">
@@ -119,28 +108,39 @@
 
 <!-- FOOTER DESKTOP -->
 <footer class="footer-section d-none d-md-block">
-<div class="container">
-    <div class="footer-cta pt-5 pb-5">
-        <div class="row d-flex justify-content-center align-items-center">
-            <!-- Adresse -->
-            <div class="col d-flex align-items-center justify-content-center">
-                <i class="fas fa-map-marker-alt me-2"></i>
-                <span>La Motte, 58 300 Decize</span>
-            </div>
-            <!-- Téléphone -->
-            <div class="col d-flex align-items-center justify-content-center">
-                <i class="fas fa-phone me-2"></i>
-                <span>06 00 00 00 00</span>
-            </div>
-            <!-- Email -->
-            <div class="col d-flex align-items-center justify-content-center">
-                <i class="far fa-envelope-open me-2"></i>
-                <span>michelhoff1978@gmail.com</span>
+    <div class="container">
+        <!-- Section CTA -->
+        <div class="footer-cta pt-5 pb-5">
+            <div class="row text-center">
+                <div class="col-xl-4 col-md-4 mb-30">
+                    <div class="single-cta">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <div class="cta-text">
+                            <h4>Adresse</h4>
+                            <span>La Motte<br>58 300 Decize</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 mb-30">
+                    <div class="single-cta">
+                        <i class="fas fa-phone"></i>
+                        <div class="cta-text">
+                            <h4>Appelez-Nous !</h4>
+                            <span>(+33) 6 23 53 30 18</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 mb-30">
+                    <div class="single-cta">
+                        <i class="far fa-envelope-open"></i>
+                        <div class="cta-text">
+                            <h4>Mail</h4>
+                            <span>michelhoff1978@gmail.com</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</div>
-</div>
         <!-- Contenu du Footer -->
         <div class="footer-content pt-5 pb-5 text-center">
             <div class="row">
@@ -210,7 +210,7 @@
             <div class="row">
                 <div class="text-center">
                 <a href="https://harmony-digital.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25" style="margin-bottom: -30px;">
+    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25" style="margin-bottom: -20px;">
 </a>
                     <div class="copyright-text">
                         <p>

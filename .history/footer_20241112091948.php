@@ -140,7 +140,7 @@
         </div>
     </div>
 </div>
-</div>
+
         <!-- Contenu du Footer -->
         <div class="footer-content pt-5 pb-5 text-center">
             <div class="row">
