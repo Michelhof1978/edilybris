@@ -142,7 +142,7 @@
 </div>
 </div>
         <!-- Contenu du Footer -->
-        <div class="footer-content pt-5 pb-5 justify-content-center">
+        <div class="footer-content pt-5 pb-5 text">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 mb-50">
                     <div class="footer-widget">

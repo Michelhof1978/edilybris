@@ -491,12 +491,9 @@ width: 100%;
     color: #878787;
 }
 
+/* Styles pour les éléments orange */
+
 /* END FOOTER */
 
 
-.footer-widget {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 

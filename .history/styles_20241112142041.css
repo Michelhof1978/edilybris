@@ -494,9 +494,4 @@ width: 100%;
 /* END FOOTER */
 
 
-.footer-widget {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 

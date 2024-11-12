@@ -142,7 +142,7 @@
 </div>
 </div>
         <!-- Contenu du Footer -->
-        <div class="footer-content pt-5 pb-5 justify-content-center">
+        <div class="footer-content pt-5 pb-5 text-center">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 mb-50">
                     <div class="footer-widget">
@@ -168,44 +168,42 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 mb-50">
-                    <div class="footer-widget">
-                        <div class="footer-widget-heading2 text-center text-white m-2">
-                            <h3>Liens utiles</h3>
-                        </div>
-                        <div class="footer-links pb-3">
-                            <ul class="list-unstyled">
-                                <li><a href="mentionsLegales.php">Mentions Légales</a></li>
-                                <li><a href="politiquedeConfidentialite.php">Politique de Confidentialité</a></li>
-                                <li><a href="conditionsGeneralesDeVente.php">CGV</a></li>
-                                <li><a href="formulaireDeContact.php">Contact</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-4 col-lg-4 mb-50">
-                    <div class="footer-widget">
-                        <div class="footer-widget-heading2 text-center text-white m-2">
-                            <h3>Newsletter</h3>
-                        </div>
-                        <div class="footer-text mb-3">
-                            <p>Abonnez-vous à notre newsletter pour rester informé des dernières actualités.</p>
-                        </div>
-                        <div class="subscribe-form">
-                            <form action="newsletter_signup.php" method="post" class="d-flex justify-content-center">
-                                <input type="email" name="email" placeholder="Adresse Mail" class="me-2" required>
-                                <button type="submit"><i class="fab fa-telegram-plane"></i></button>
-                            </form>
-                        </div>
-                        <div class="mt-3">
-                            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25 mt-3">
-                        </div>
-                    </div>
-                </div>
-            </div>
+                <div class="col-md-8 mx-auto mb-50">
+    <div class="footer-widget">
+        <div class="footer-widget-heading2 text-center text-white m-2">
+            <h3>Liens utiles</h3>
+        </div>
+        <div class="footer-links pb-3">
+            <ul class="list-unstyled">
+                <li><a href="mentionsLegales.php">Mentions Légales</a></li>
+                <li><a href="politiquedeConfidentialite.php">Politique de Confidentialité</a></li>
+                <li><a href="conditionsGeneralesDeVente.php">CGV</a></li>
+                <li><a href="formulaireDeContact.php">Contact</a></li>
+            </ul>
         </div>
     </div>
+</div>
+
+<div class="col-md-8 mx-auto mb-50">
+    <div class="footer-widget">
+        <div class="footer-widget-heading2 text-center text-white m-2">
+            <h3>Newsletter</h3>
+        </div>
+        <div class="footer-text mb-3">
+            <p>Abonnez-vous à notre newsletter pour rester informé des dernières actualités.</p>
+        </div>
+        <div class="subscribe-form">
+            <form action="newsletter_signup.php" method="post" class="d-flex justify-content-center">
+                <input type="email" name="email" placeholder="Adresse Mail" class="me-2" required>
+                <button type="submit"><i class="fab fa-telegram-plane"></i></button>
+            </form>
+        </div>
+        <div class="mt-3">
+            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25 mt-3">
+        </div>
+    </div>
+</div>
+
     <div class="copyright-area text-center">
         <div class="container">
             <div class="row">

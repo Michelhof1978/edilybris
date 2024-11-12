@@ -226,20 +226,30 @@ body {
 
 /* FOOTER */
 
-footer{
-position:fixed;
-bottom: 0;
-width: 100%;
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
-.container{
-width: 100%;
+.container {
+    width: 100%;
+}
+
+.footer-section {
+    background: #151414;
+    text-align: center; /* Centre tous les éléments textuels du footer */
+}
+
+.footer-cta {
+    border-bottom: 1px solid #373636;
 }
 
 .footer-cta .row {
     display: flex;
     flex-wrap: nowrap; /* Empêche le retour à la ligne */
     gap: 2rem; /* Espace entre chaque colonne */
+    justify-content: center; /* Centre les icônes d'adresse, téléphone et email */
 }
 
 .footer-cta .col {
@@ -266,53 +276,15 @@ width: 100%;
     line-height: 1.2; /* Ajuste l'espacement vertical si nécessaire */
 }
 
-.footer-section {
-    background: #151414;
-    position: relative;
-    text-align: center;
-}
-
-.footer-cta {
-    border-bottom: 1px solid #373636;
-}
-
-.single-cta i {
-    color: rgba(228, 28, 61, 0.427);
-    font-size: 30px;
-    float: left;
-    margin-top: 8px;
-}
-
-.cta-text {
-    padding-left: 15px;
-    display: inline-block;
-}
-
-.cta-text h4 {
-    color: #fff;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 2px;
-}
-
-.cta-text span {
-    color: #f3ecec;
-    font-size: 15px;
-}
-
 .footer-content {
     display: flex;
-    justify-content: space-between; /* Espacement entre les colonnes */
-    align-items: flex-start; /* Aligne en haut */
+    justify-content: center; /* Centre tous les éléments de contenu */
+    align-items: center;
+    gap: 2rem; /* Espace entre les widgets du footer */
 }
 
-.footer-pattern img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 330px;
-    background-size: cover;
-    background-position: 100% 100%;
+.footer-widget {
+    text-align: center; /* Centre les widgets de manière indépendante */
 }
 
 .footer-logo {
@@ -331,8 +303,9 @@ width: 100%;
 }
 
 .footer-social-icon {
-    display: flex; /* Pour aligner les icônes horizontalement */
-    align-items: center; /* Pour centrer verticalement les icônes */
+    display: flex;
+    justify-content: center; /* Centre les icônes sociales */
+    align-items: center;
 }
 
 .footer-social-icon span {
@@ -357,10 +330,6 @@ width: 100%;
     text-align: center;
     line-height: 38px;
     border-radius: 50%;
-}
-
-
-.footer-social-icon i {
     font-size: 2rem; /* Taille des icônes */
     margin-right: 8px; /* Moins d'espace entre les icônes */
     transition: transform 0.3s, color 0.3s;
@@ -377,7 +346,6 @@ width: 100%;
 .footer-social-icon a:hover i {
     transform: scale(1.2);
 }
-
 
 /* Styles pour les titres des widgets */
 .footer-widget-heading h3 {
@@ -405,34 +373,27 @@ width: 100%;
 }
 
 .footer-links ul li {
-    margin-bottom: 10px;
-}
-
-.footer-links ul li a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-.footer-links ul li a:hover {
-    text-decoration: underline;
-}
-.footer-links ul li {
     margin-bottom: 12px; /* Ajoute une marge inférieure pour séparer les éléments */
 }
 
 .footer-links ul li a {
     color: #878787;
     text-transform: capitalize;
+    text-decoration: none;
 }
 
 .footer-links ul li a:hover {
     color: #ffffff;
+    text-decoration: underline;
 }
 
 /* Styles pour le formulaire de souscription */
 .subscribe-form {
     position: relative;
     overflow: hidden;
+    display: flex;
+    justify-content: center; /* Centre le formulaire d'inscription */
+    align-items: center;
 }
 
 .subscribe-form input {
@@ -464,6 +425,7 @@ width: 100%;
     padding: 40px 0;
     margin-bottom: -30px;
     padding-top: 10px;
+    text-align: center; /* Centre le texte du copyright */
 }
 
 .copyright-text p {
@@ -482,21 +444,11 @@ width: 100%;
     margin-left: 20px;
 }
 
-.footer-menu li:hover a {
-    color: #2f9341;
-}
-
 .footer-menu li a {
     font-size: 14px;
     color: #878787;
 }
 
-/* END FOOTER */
-
-
-.footer-widget {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.footer-menu li:hover a {
+    color: #2f9341;
 }
-

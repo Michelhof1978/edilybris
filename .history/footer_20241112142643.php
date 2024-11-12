@@ -142,7 +142,7 @@
 </div>
 </div>
         <!-- Contenu du Footer -->
-        <div class="footer-content pt-5 pb-5 justify-content-center">
+        <div class="footer-content pt-5 pb-5 text-center">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 mb-50">
                     <div class="footer-widget">
@@ -160,7 +160,7 @@
     <a href="https://www.facebook.com/edilybris/" target="_blank">
         <i class="fab fa-facebook facebook-icon"></i>
     </a>
-    <a href="https://www.instagram.com/edilybris/" target="_blank">
+    <a href="https://www.instagram.com" target="_blank">
         <i class="fab fa-instagram instagram-icon"></i>
     </a>
 </div>
