@@ -10,10 +10,11 @@
                     <!-- Logo et titre -->
                     <a class="navbar-brand ms-2" href="index.php">
                         <strong class="text-white nav-brand-logo">
-                            <span class="">Edi'lybris 
-                        </strong>
-                        
+                            <span class="">Edi'lybris</span> 
+                        </strong> 
                     </a>
+                    <p class="">Association pour les auteurs et les lecteurs
+                    </p>
                 </div>
             </div>
 
@@ -33,9 +34,7 @@
                             <li class="nav-item">
                                 <a class="nav-link fs-5" href="auteurs.php"><strong>Les Auteurs</strong></a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link fs-5" href="actualite.php"><strong>L'actualité</strong></a>
-                            </li>
+
                             <li class="nav-item">
                                 <a class="nav-link fs-5" href="formulaireDeContact.php"><strong>Nous Contactez !</strong></a>
                             </li>

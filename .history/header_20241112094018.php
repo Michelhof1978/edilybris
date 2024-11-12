@@ -10,10 +10,10 @@
                     <!-- Logo et titre -->
                     <a class="navbar-brand ms-2" href="index.php">
                         <strong class="text-white nav-brand-logo">
-                            <span class="">Edi'lybris 
-                        </strong>
-                        
+                            <span class="">Edi'lybris</span> 
+                        </strong> 
                     </a>
+                    <p
                 </div>
             </div>
 
@@ -28,14 +28,12 @@
                     <div class="collapse navbar-collapse mt-2" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto text-center me-3">
                             <li class="nav-item">
-                                <a class="nav-link fs-5"  href="index.php"><strong>Accueil</strong></a>
+                                <a class="nav-link fs-5" aria-current="page" href="index.php"><strong>Accueil</strong></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link fs-5" href="auteurs.php"><strong>Les Auteurs</strong></a>
+                                <a class="nav-link fs-5" href="nousdecouvrir.php"><strong>Les Auteurs</strong></a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link fs-5" href="actualite.php"><strong>L'actualité</strong></a>
-                            </li>
+
                             <li class="nav-item">
                                 <a class="nav-link fs-5" href="formulaireDeContact.php"><strong>Nous Contactez !</strong></a>
                             </li>
