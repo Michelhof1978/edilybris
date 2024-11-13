@@ -17,9 +17,7 @@ body {
 
 /* BANNER BIBLIOTHEQUE HEADER*/
 
-header{
-    background-color: rgba(228, 28, 61, 0.427);;
-}
+he
 #special-header {
     position: relative;
     height: 70vh;
@@ -59,7 +57,7 @@ header{
 }
 
 .nav-item a:hover {
-    color: rgba(225, 72, 72, 0.744);
+    color: rgba(228, 28, 61, 0.427);
 }
 
 .nav-item {

@@ -4,7 +4,7 @@
     ?>
 
 <header>
-        <div class="">
+        <div class="bg-dark">
             <div class="navbar-brand">
                 <div class="container-fluid">
                     <!-- Logo et titre -->
@@ -45,7 +45,7 @@
             </nav>
         </div>
         <div id="special-header">
-            <video autoplay muted  id="video-bg" playsinline>
+            <video autoplay muted loop= id="video-bg" playsinline>
                 <source src="videos/banner.mp4" type="video/mp4">
                 Votre navigateur ne supporte pas la vidéo.
             </video>

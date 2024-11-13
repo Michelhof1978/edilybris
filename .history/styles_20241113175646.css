@@ -15,11 +15,9 @@ body {
     background-repeat: no-repeat;
 }
 
-/* BANNER BIBLIOTHEQUE HEADER*/
+/* BANNER VIDEO HEADER*/
 
-header{
-    background-color: rgba(228, 28, 61, 0.427);;
-}
+
 #special-header {
     position: relative;
     height: 70vh;
@@ -36,30 +34,86 @@ header{
     z-index: 0;
 }
 
+/* POPUP */
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    text-align: center;
+    max-width: 90%; /* Largeur max pour le popup */
+    max-height: 90%; /* Hauteur max pour le popup */
+    overflow: hidden; /* Empêche le débordement */
+  }
+
+  .popup img {
+    max-height: 100%; /* Ajuste l'image pour remplir le popup */
+    max-width: 100%;
+    width: auto;
+    height: auto;
+  }
+
+  .popup button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    color: black;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Styles pour tablettes */
+  @media (max-width: 768px) {
+    .popup {
+      max-width: 80%; /* Ajuste la largeur max pour les tablettes */
+      max-height: 80%; /* Ajuste la hauteur max pour les tablettes */
+    }
+  }
+
+  /* Styles pour mobiles */
+  @media (max-width: 480px) {
+    .popup {
+      max-width: 95%; /* Ajuste la largeur max pour les mobiles */
+      max-height: 95%; /* Ajuste la hauteur max pour les mobiles */
+    }
+
+    .popup button {
+      font-size: 18px; /* Réduit la taille du bouton de fermeture sur les mobiles */
+    }
+  }
+/* FIN POPUP*/
+  
+
 /* NARBAR */
 .navbar {
     height: auto;
 }
 
+.logo
 .text-decoration-custom {
     text-decoration: underline;
     text-decoration-color: rgb(255, 255, 255);
 }
 
 
-.nav-brand-logo {
+/* .nav-brand-logo {
     font-size: 40px;
     font-family: "Special Elite", system-ui;
     font-weight: 400;
     font-style: normal;
-}
+} */
 
 .nav-item a {
     color: rgb(250, 250, 250);
 }
 
 .nav-item a:hover {
-    color: rgba(225, 72, 72, 0.744);
+    color: rgba(228, 28, 61, 0.427);
 }
 
 .nav-item {

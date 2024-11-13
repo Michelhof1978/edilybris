@@ -4,13 +4,13 @@
     ?>
 
 <header>
-        <div class="">
+        <div class="bg-light">
             <div class="navbar-brand">
                 <div class="container-fluid">
                     <!-- Logo et titre -->
                     <a class="navbar-brand ms-2" href="index.php">
                         <strong class="text-white nav-brand-logo">
-                            <span class="">Edi'lybris 
+                            <span class="logo">Edi'lybris 
                         </strong>
                         
                     </a>
@@ -45,7 +45,7 @@
             </nav>
         </div>
         <div id="special-header">
-            <video autoplay muted  id="video-bg" playsinline>
+            <video autoplay muted id="video-bg" playsinline>
                 <source src="videos/banner.mp4" type="video/mp4">
                 Votre navigateur ne supporte pas la vidéo.
             </video>

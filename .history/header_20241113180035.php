@@ -4,7 +4,7 @@
     ?>
 
 <header>
-        <div class="">
+        <div class="bg-dark">
             <div class="navbar-brand">
                 <div class="container-fluid">
                     <!-- Logo et titre -->
