@@ -14,7 +14,7 @@
  </head>
  <?php include("header.php"); ?>
  
- <h1 class="text-white text-center m-4">Soutien et Promotion des Auteurs Littéraires</h1>
+ <h1 class="text-white text-center m-4">Association des Écrivains : Soutien et Promotion des Auteurs Littéraires</h1>
  <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
@@ -169,7 +169,6 @@
         </a>
     </div>
 </div>
-<h2 class="text-white text-center m-4">Nos livres en promotions</h2>
 
   
  <?php include("footer.php"); ?>
