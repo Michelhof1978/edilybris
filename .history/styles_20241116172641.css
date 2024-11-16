@@ -63,7 +63,7 @@ header{
 }
 
 .nav-item a:hover {
-    color: rgba(200, 60, 60, 0.744);
+    color: rgb(200, 60, 60);
 }
 
 .nav-item {
@@ -481,7 +481,8 @@ width: 100%;
  
 
 
-  .book-carousel-container {
+ /* Styles CSS pour les cartes */
+ .book-carousel-container {
     position: relative;
     width: 100%;
     overflow: hidden;
@@ -559,6 +560,7 @@ width: 100%;
     margin-top: 15px;
 }
 
+/* Styles pour les boutons de navigation du carousel (si nécessaire) */
 .carousel-navigation {
     display: flex;
     justify-content: center;
@@ -567,18 +569,14 @@ width: 100%;
 }
 
 .carousel-navigation button {
-    background-color: #ffcc00;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 16px;
-    border-radius: 5px;
+    background-color: #007bff; /* Couleur de fond */
+    color: white; /* Texte blanc */
+    border: none; /* Supprimer les bordures */
+    padding: 10px 20px; /* Espacement */
+    font-size: 16px; /* Taille de police */
+    cursor: pointer; /* Curseur de la souris en forme de main */
 }
 
 .carousel-navigation button:hover {
-    background-color: #f39c12;
-}
-
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
+    background-color: #0056b3; /* Changer la couleur au survol */
 }

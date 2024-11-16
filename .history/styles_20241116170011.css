@@ -63,7 +63,7 @@ header{
 }
 
 .nav-item a:hover {
-    color: rgba(200, 60, 60, 0.744);
+    color: rgb(200, 60, 60);
 }
 
 .nav-item {
@@ -485,26 +485,31 @@ width: 100%;
     position: relative;
     width: 100%;
     overflow: hidden;
+    display: flex;
+    justify-content: center; /* Centrer le carrousel dans l'écran */
+    align-items: center; /* Centrer verticalement si nécessaire */
+    height: 100vh; /* Vous pouvez ajuster la hauteur selon vos besoins */
 }
 
 .book-carousel {
     display: flex;
     transition: transform 0.3s ease;
+    justify-content: center; /* Centrer le groupe de cartes horizontalement */
 }
 
 .book-group {
     display: flex;
     gap: 15px;
-    min-width: 100%;
-    justify-content: flex-start;
+    justify-content: center; /* Centrer les cartes dans chaque groupe */
+    min-width: calc(200px * 5 + 15px * 4); /* Largeur pour 5 cartes avec 15px de gap */
+    /* 200px est la largeur d'une carte, 15px est l'espacement entre les cartes, et *5 pour les cartes */
 }
 
 .book-card {
     background-color: #222;
     border-radius: 8px;
     overflow: hidden;
-    min-width: 200px;
-    max-width: 200px;
+    width: 200px; /* Fixe la largeur des cartes */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.2s;
     display: flex;
@@ -577,8 +582,4 @@ width: 100%;
 
 .carousel-navigation button:hover {
     background-color: #f39c12;
-}
-
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
 }

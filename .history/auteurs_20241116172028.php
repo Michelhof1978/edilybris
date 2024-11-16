@@ -18,7 +18,7 @@
  <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
- <div class="book-carousel-container container">
+ <div class="book-carousel-container container d-flex align-items-center">
     <div class="book-carousel">
         <!-- Group 1 -->
         <div class="book-group mx-auto">
@@ -184,25 +184,18 @@
   
  <?php include("footer.php"); ?>
  <script>
- let currentGroup = 1; // Start with Group 1
+ let currentGroup = 0;
+const groups = document.querySelectorAll('.book-group');
+const totalGroups = groups.length;
 
 function showGroup(direction) {
-    const groups = document.querySelectorAll('.book-group');
     if (direction === 'next') {
-        currentGroup = (currentGroup === 1) ? 2 : 1;
+        currentGroup = (currentGroup + 1) % totalGroups;  // Loop back to the first group
     } else if (direction === 'prev') {
-        currentGroup = (currentGroup === 1) ? 2 : 1;
-    }
-    
-    // Hide both groups
-    groups.forEach(group => group.style.display = 'none');
-    
-    // Show the current group
-    groups[currentGroup - 1].style.display = 'flex';
+        currentGroup = (currentGroup - 1 + totalGroups) % totalGroups;  // Loop back to the last group
+    }   const offset = -currentGroup * 100; // Move the carousel
+    document.querySelector('.book-carousel').style.transform = `translateX(${offset}%)`;
 }
-
-// Initialize the carousel with Group 1 visible
-showGroup('next');
 </script>
  </body>
 

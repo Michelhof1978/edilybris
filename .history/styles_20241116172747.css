@@ -63,7 +63,7 @@ header{
 }
 
 .nav-item a:hover {
-    color: rgba(200, 60, 60, 0.744);
+    color: rgb(200, 60, 60);
 }
 
 .nav-item {
@@ -481,7 +481,8 @@ width: 100%;
  
 
 
-  .book-carousel-container {
+ /* Styles CSS pour les cartes */
+ .book-carousel-container {
     position: relative;
     width: 100%;
     overflow: hidden;
@@ -493,10 +494,11 @@ width: 100%;
 }
 
 .book-group {
-    display: flex;
-    gap: 15px;
-    min-width: 100%;
-    justify-content: flex-start;
+    display: none; /* Masquer tous les groupes par défaut */
+}
+
+.book-group:first-of-type {
+    display: block; /* Afficher uniquement le premier groupe */
 }
 
 .book-card {
@@ -559,6 +561,7 @@ width: 100%;
     margin-top: 15px;
 }
 
+/* Styles pour les boutons de navigation du carousel (si nécessaire) */
 .carousel-navigation {
     display: flex;
     justify-content: center;
@@ -577,8 +580,4 @@ width: 100%;
 
 .carousel-navigation button:hover {
     background-color: #f39c12;
-}
-
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
 }

@@ -485,7 +485,25 @@ width: 100%;
     position: relative;
     width: 100%;
     overflow: hidden;
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    height: 100vh; /* Si vous voulez que le conteneur prenne toute la hauteur de la fenêtre */
 }
+
+.book-carousel {
+    display: flex; /* Pour disposer les cartes en ligne */
+    gap: 20px; /* Espacement entre les cartes, ajustez selon vos besoins */
+}
+
+.card {
+    /* Style des cartes */
+    width: 200px; /* Ajustez la largeur de chaque carte */
+    height: 300px; /* Ajustez la hauteur de chaque carte */
+    background-color: lightblue; /* Juste pour la démonstration */
+    border-radius: 8px; /* Style optionnel */
+}
+
 
 .book-carousel {
     display: flex;
@@ -577,8 +595,4 @@ width: 100%;
 
 .carousel-navigation button:hover {
     background-color: #f39c12;
-}
-
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
 }

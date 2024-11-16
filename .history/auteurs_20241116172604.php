@@ -184,25 +184,19 @@
   
  <?php include("footer.php"); ?>
  <script>
- let currentGroup = 1; // Start with Group 1
-
-function showGroup(direction) {
-    const groups = document.querySelectorAll('.book-group');
-    if (direction === 'next') {
-        currentGroup = (currentGroup === 1) ? 2 : 1;
-    } else if (direction === 'prev') {
-        currentGroup = (currentGroup === 1) ? 2 : 1;
-    }
-    
-    // Hide both groups
-    groups.forEach(group => group.style.display = 'none');
-    
-    // Show the current group
-    groups[currentGroup - 1].style.display = 'flex';
+ .carousel-navigation button {
+    background-color: #007bff; /* Couleur de fond */
+    color: white; /* Texte blanc */
+    border: none; /* Supprimer les bordures */
+    padding: 10px 20px; /* Espacement */
+    font-size: 16px; /* Taille de police */
+    cursor: pointer; /* Curseur de la souris en forme de main */
 }
 
-// Initialize the carousel with Group 1 visible
-showGroup('next');
+.carousel-navigation button:hover {
+    background-color: #0056b3; /* Changer la couleur au survol */
+}
+
 </script>
  </body>
 

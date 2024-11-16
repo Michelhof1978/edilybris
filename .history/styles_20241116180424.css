@@ -485,6 +485,10 @@ width: 100%;
     position: relative;
     width: 100%;
     overflow: hidden;
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    height: 100vh; /* Si vous voulez que le conteneur prenne toute la hauteur de la fenêtre */
 }
 
 .book-carousel {
@@ -577,8 +581,4 @@ width: 100%;
 
 .carousel-navigation button:hover {
     background-color: #f39c12;
-}
-
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
 }

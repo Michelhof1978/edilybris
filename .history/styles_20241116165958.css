@@ -63,7 +63,7 @@ header{
 }
 
 .nav-item a:hover {
-    color: rgba(200, 60, 60, 0.744);
+    color: rgb(200, 60, 60);
 }
 
 .nav-item {
@@ -577,8 +577,4 @@ width: 100%;
 
 .carousel-navigation button:hover {
     background-color: #f39c12;
-}
-
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
 }

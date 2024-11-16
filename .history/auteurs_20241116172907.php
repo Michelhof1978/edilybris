@@ -184,25 +184,28 @@
   
  <?php include("footer.php"); ?>
  <script>
- let currentGroup = 1; // Start with Group 1
+ let currentGroupIndex = 0;
+const groups = document.querySelectorAll('.book-group');
 
 function showGroup(direction) {
-    const groups = document.querySelectorAll('.book-group');
+    // Masquer l'actuel
+    groups[currentGroupIndex].style.display = 'none';
+
+    // Calculer l'index du nouveau groupe
     if (direction === 'next') {
-        currentGroup = (currentGroup === 1) ? 2 : 1;
+        currentGroupIndex = (currentGroupIndex + 1) % groups.length;  // Passer au groupe suivant
     } else if (direction === 'prev') {
-        currentGroup = (currentGroup === 1) ? 2 : 1;
+        currentGroupIndex = (currentGroupIndex - 1 + groups.length) % groups.length;  // Passer au groupe précédent
     }
-    
-    // Hide both groups
-    groups.forEach(group => group.style.display = 'none');
-    
-    // Show the current group
-    groups[currentGroup - 1].style.display = 'flex';
+
+    // Afficher le groupe sélectionné
+    groups[currentGroupIndex].style.display = 'block';
 }
 
-// Initialize the carousel with Group 1 visible
-showGroup('next');
+// Appeler showGroup('next') ou showGroup('prev') en fonction du bouton cliqué
+document.querySelector('.next').addEventListener('click', () => showGroup('next'));
+document.querySelector('.prev').addEventListener('click', () => showGroup('prev'));
+
 </script>
  </body>
 
