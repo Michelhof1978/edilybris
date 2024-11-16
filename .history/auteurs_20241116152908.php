@@ -23,12 +23,11 @@
     <div class="book-card">
         <img src="images/pierreBrandao/luciolesMagiques.png" alt="Book 1" class="book-cover">
         <div class="book-details">
-            <div class="book-title">Book Title 1</div> <!-- Titre du livre ici -->
-            <div class="book-author">Author Name 1</div> <!-- Nom de l'auteur -->
+            <div class="book-title">Book Title 1</div>
+            <div class="book-author">Author Name 1</div>
             <div class="book-description">
                 A brief description of Book 1 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">19.99€</div> <!-- Prix -->
         </div>
     </div>
 
@@ -41,7 +40,6 @@
             <div class="book-description">
                 A brief description of Book 2 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">24.99€</div>
         </div>
     </div>
 
@@ -54,7 +52,6 @@
             <div class="book-description">
                 A brief description of Book 3 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">15.99€</div>
         </div>
     </div>
 
@@ -67,7 +64,6 @@
             <div class="book-description">
                 A brief description of Book 4 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">18.50€</div>
         </div>
     </div>
 
@@ -80,7 +76,6 @@
             <div class="book-description">
                 A brief description of Book 5 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">21.00€</div>
         </div>
     </div>
 
@@ -93,7 +88,6 @@
             <div class="book-description">
                 A brief description of Book 6 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">12.99€</div>
         </div>
     </div>
 
@@ -106,7 +100,6 @@
             <div class="book-description">
                 A brief description of Book 7 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">14.75€</div>
         </div>
     </div>
 
@@ -119,7 +112,6 @@
             <div class="book-description">
                 A brief description of Book 8 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">25.99€</div>
         </div>
     </div>
 
@@ -132,7 +124,6 @@
             <div class="book-description">
                 A brief description of Book 9 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">16.80€</div>
         </div>
     </div>
 
@@ -145,7 +136,6 @@
             <div class="book-description">
                 A brief description of Book 10 goes here. It can be a two-sentence overview.
             </div>
-            <div class="book-price">19.50€</div>
         </div>
     </div>
 </div>

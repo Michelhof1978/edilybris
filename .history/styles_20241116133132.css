@@ -3,12 +3,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
+}
+
 html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;  /* Assure que html et body prennent toute la largeur de la fenêtre */
-    overflow-x: hidden; /* Évite le débordement horizontal */
+    height: 100%;  /* S'assure que le body prend toute la hauteur de l'écran */
+    width: 100%;
+    overflow-x: hidden;  /* Empêche le débordement horizontal */
 }
 
 body {
@@ -17,13 +17,14 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    overflow-y: scroll;  /* Active le défilement principal uniquement */
 }
 
 /* BANNER BIBLIOTHEQUE HEADER*/
-
-header{
-    background-color: rgba(228, 28, 61, 0.427);;
+header {
+    background-color: rgba(228, 28, 61, 0.427);
 }
+
 #special-header {
     position: relative;
     height: 70vh;
@@ -43,13 +44,14 @@ header{
 /* NARBAR */
 .navbar {
     height: auto;
+    max-width: 100%; /* Empêche le débordement */
+    overflow: hidden; /* Empêche tout débordement */
 }
 
 .text-decoration-custom {
     text-decoration: underline;
     text-decoration-color: rgb(255, 255, 255);
 }
-
 
 .nav-brand-logo {
     font-size: 40px;
@@ -99,7 +101,6 @@ header{
     overflow: hidden;
 }
 
-
 #logo-container {
     position: absolute;
     top: 50%;
@@ -113,6 +114,7 @@ header{
     max-height: auto;
 }
 /* FIN BANNER VIDEO*/ 
+
 /* Media queries pour les appareils mobiles */
 @media (max-width: 768px) {
     .navbar {
@@ -142,7 +144,6 @@ header{
         order: 3;
     }
 
-
     .nav-item {
         min-width: auto;
         text-align: center;
@@ -168,7 +169,6 @@ header{
         padding-top: 30px;
     }
 
-
     .nav-brand-logo {
         font-size: 25px;
         font-family: "Special Elite", system-ui;
@@ -178,15 +178,20 @@ header{
 }
 
 /* FOOTER */
-
-footer{
-position:fixed;
-bottom: 0;
-width: 100%;
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000; /* S'assure que le footer reste au-dessus d'autres éléments */
 }
 
-.container{
-width: 100%;
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+    max-width: 100%;
 }
 
 .footer-cta .row {
@@ -223,6 +228,7 @@ width: 100%;
     background: #7b0e0e9b;
     position: relative;
     text-align: center;
+    overflow: hidden; /* Cache tout débordement */
 }
 
 .footer-cta {
@@ -312,7 +318,6 @@ width: 100%;
     border-radius: 50%;
 }
 
-
 .footer-social-icon i {
     font-size: 2rem; /* Taille des icônes */
     margin-right: 8px; /* Moins d'espace entre les icônes */
@@ -331,235 +336,36 @@ width: 100%;
     transform: scale(1.2);
 }
 
-
 /* Styles pour les titres des widgets */
 .footer-widget-heading h3 {
     color: #fff;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 20px; /* Marge ajustée pour plus d'espace au-dessus des liens */
-    position: relative;
+    text-transform: uppercase;
 }
 
-.footer-widget-heading h3::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -15px;
-    height: 2px;
-    width: 50px;
-    background: rgba(228, 28, 61, 0.427);
-}
-
-/* Styles pour les liens utiles */
-.footer-links ul {
-    padding: 0;
-    list-style: none;
-}
-
-.footer-links ul li {
-    margin-bottom: 10px;
-}
-
-.footer-links ul li a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-.footer-links ul li a:hover {
-    text-decoration: underline;
-}
-.footer-links ul li {
-    margin-bottom: 12px; /* Ajoute une marge inférieure pour séparer les éléments */
-}
-
-.footer-links ul li a {
-    color: #878787;
-    text-transform: capitalize;
-}
-
-.footer-links ul li a:hover {
-    color: #ffffff;
-}
-
-/* Styles pour le formulaire de souscription */
-.subscribe-form {
-    position: relative;
-    overflow: hidden;
-}
-
-.subscribe-form input {
-    width: 100%;
-    padding: 14px 28px;
-    background: #2E2E2E;
-    border: 1px solid #2E2E2E;
-    color: #fff;
-}
-
-.subscribe-form button {
-    position: absolute;
-    right: 0;
-    background: rgba(228, 28, 61, 0.427);
-    padding: 13px 20px;
-    border: 1px solid #2f8193;
-    top: 0;
-}
-
-.subscribe-form button i {
-    color: #fff;
-    font-size: 22px;
-    transform: rotate(-6deg);
-}
-
-/* Styles pour la zone de copyright */
-.copyright-area {
-    background: #202020;
-    padding: 40px 0;
-    margin-bottom: -30px;
-    padding-top: 10px;
-}
-
-.copyright-text p {
-    margin: 0;
+.footer-widget-heading h3 span {
+    border-bottom: 2px solid #fffbfb;
+    padding-bottom: 5px;
     font-size: 14px;
-    color: #878787;
+    font-weight: 500;
+    text-transform: uppercase;
 }
 
-.copyright-text p a {
-    color: beige;
-}
-
-/* Styles pour le menu du footer */
-.footer-menu li {
-    display: inline-block;
-    margin-left: 20px;
-}
-
-
-.footer-menu li a {
-    font-size: 14px;
-    color: #878787;
-}
-/* END FOOTER */
-
-.footer-widget {
+/* Assurer que les cartes s'affichent correctement sur toute la largeur */
+.carousel-inner .carousel-item {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-/* COOKIES */
-#cookie-banner {
-    display: none;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background: rgba(228, 28, 61, 0.427);
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-
-  }
-
-  #cookie-banner p {
-    margin: 0 0 10px;
-  }
-
-  #cookie-banner button {
-    margin: 5px;
-    cursor: pointer;
-    background: #fff;
-    color: #0b69dc;
-    border: none;
-    padding: 5px 10px;
-    border-radius: 3px;
-  }
-
-  /* FIN COOKIES */
-  
- 
-
-
-  .section-title {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
-.book-carousel {
-    display: flex;
-    overflow-x: auto;
-    padding-bottom: 10px;
-    gap: 15px;
-    scrollbar-width: thin;
-    scrollbar-color: #555 #222;
-}
-
-.book-carousel::-webkit-scrollbar {
-    height: 8px;
-}
-
-.book-carousel::-webkit-scrollbar-thumb {
-    background-color: #555;
-    border-radius: 4px;
-}
-
-.book-card {
-    background-color: #222;
-    border-radius: 8px;
-    overflow: hidden;
-    min-width: 200px;
-    max-width: 200px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-}
-
-.book-card:hover {
-    transform: scale(1.05);
-}
-
-.book-cover {
-    width: 100%;
-    height: auto;
-    max-height: 250px;
-    object-fit: contain;
-}
-
-.book-details {
-    padding: 15px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
     justify-content: space-between;
-}
-
-.book-title {
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #fff;
-}
-
-.book-author {
-    font-size: 16px;
-    font-weight: bold;
-    color: #ffcc00;
-    margin-bottom: 15px;
-}
-
-.book-description {
-    font-size: 14px;
-    color: #bbb;
-    line-height: 1.5;
-    margin-bottom: 5px;
-}
-
-.book-price {
-    font-size: 16px;
-    font-weight: bold;
-    color: #ffcc00; /* Same color as author */
-    margin-top: 15px; /* Adds spacing between description and price */
-}
+  }
+  
+  .card {
+    width: 18rem;
+    margin-right: 10px;
+  }
+  
+  /* Optional: Enlever le dernier margin-right pour la dernière carte */
+  .carousel-item .card:last-child {
+    margin-right: 0;
+  }
+  

@@ -313,6 +313,26 @@
 </script>
 <!--_____________________________________________________________-->
 <script>
+// script.js
+
+// Fonction pour faire défiler à gauche
+function scrollLeft(button) {
+  const groupContent = button.parentElement.querySelector('.group-content');
+  const cardWidth = groupContent.querySelector('.book-card').offsetWidth; // Largeur d'une carte
+  const gap = parseInt(getComputedStyle(groupContent).gap); // Espacement entre les cartes
+  const scrollAmount = cardWidth * 5 + gap * 4; // 5 cartes + 4 marges
+  groupContent.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+}
+
+// Fonction pour faire défiler à droite
+function scrollRight(button) {
+  const groupContent = button.parentElement.querySelector('.group-content');
+  const cardWidth = groupContent.querySelector('.book-card').offsetWidth; // Largeur d'une carte
+  const gap = parseInt(getComputedStyle(groupContent).gap); // Espacement entre les cartes
+  const scrollAmount = cardWidth * 5 + gap * 4; // 5 cartes + 4 marges
+  groupContent.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+}
+
 
 </script>
 

@@ -313,6 +313,56 @@
 </script>
 <!--_____________________________________________________________-->
 <script>
+// script.js
+
+// Liste des livres avec titre, catégorie, description, image, et tarif
+const books = [];
+const categories = ['fiction', 'non-fiction', 'science', 'fantasy'];
+
+// Générer 50 livres avec des données dynamiques
+for (let i = 1; i <= 50; i++) {
+  const category = categories[i % categories.length];
+  books.push({
+    title: `Livre ${i}`,
+    category: category,
+    description: `Ceci est une courte description du livre ${i}.`,
+    price: `${(Math.random() * 30 + 10).toFixed(2)} €`, // Prix aléatoire entre 10 et 40 €
+    image: `https://via.placeholder.com/200x300?text=Livre+${i}`,
+  });
+}
+
+// Fonction pour afficher les livres
+function displayBooks(filteredBooks) {
+  const container = document.getElementById('book-container');
+  container.innerHTML = ""; // Efface le contenu précédent
+
+  filteredBooks.forEach(book => {
+    const bookCard = document.createElement('div');
+    bookCard.classList.add('book-card');
+    bookCard.innerHTML = `
+      <img src="${book.image}" alt="${book.title}">
+      <div class="info">
+        <h3>${book.title}</h3>
+        <p>${book.description}</p>
+        <div class="price">${book.price}</div>
+      </div>
+    `;
+    container.appendChild(bookCard);
+  });
+}
+
+// Fonction pour filtrer les livres par catégorie
+function filterBooks(category) {
+  if (category === 'all') {
+    displayBooks(books);
+  } else {
+    const filteredBooks = books.filter(book => book.category === category);
+    displayBooks(filteredBooks);
+  }
+}
+
+// Afficher tous les livres au chargement de la page
+displayBooks(books);
 
 </script>
 

@@ -480,8 +480,16 @@ width: 100%;
   
  
 
+  
+  .containerAuteur {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7); /* Ajouter un fond sombre transparent pour mieux voir le texte */
+    border-radius: 10px;
+}
 
-  .section-title {
+.section-title {
     font-size: 24px;
     margin-bottom: 10px;
 }
@@ -512,9 +520,6 @@ width: 100%;
     max-width: 200px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.2s;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
 }
 
 .book-card:hover {
@@ -523,43 +528,28 @@ width: 100%;
 
 .book-cover {
     width: 100%;
-    height: auto;
-    max-height: 250px;
-    object-fit: contain;
+    height: 300px;
+    object-fit: cover;
 }
 
 .book-details {
-    padding: 15px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    padding: 10px;
 }
 
 .book-title {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    margin-bottom: 10px;
-    color: #fff;
-}
-
-.book-author {
-    font-size: 16px;
-    font-weight: bold;
-    color: #ffcc00;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .book-description {
     font-size: 14px;
     color: #bbb;
-    line-height: 1.5;
     margin-bottom: 5px;
 }
 
 .book-price {
     font-size: 16px;
     font-weight: bold;
-    color: #ffcc00; /* Same color as author */
-    margin-top: 15px; /* Adds spacing between description and price */
+    color: #ffcc00;
 }

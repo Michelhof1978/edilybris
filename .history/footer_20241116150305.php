@@ -313,6 +313,22 @@
 </script>
 <!--_____________________________________________________________-->
 <script>
+let scrollAmount = 220; // Distance à faire défiler à chaque clic
+let container = document.querySelector('.carousel');
+
+function scrollCarousel(direction) {
+  if (direction === 'left') {
+    container.scrollBy({
+      left: -scrollAmount,
+      behavior: 'smooth'
+    });
+  } else if (direction === 'right') {
+    container.scrollBy({
+      left: scrollAmount,
+      behavior: 'smooth'
+    });
+  }
+}
 
 </script>
 

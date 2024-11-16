@@ -313,6 +313,74 @@
 </script>
 <!--_____________________________________________________________-->
 <script>
+// script.js
+
+// Liste des livres (générés dynamiquement pour l'exemple)
+const categories = ['fiction', 'non-fiction', 'science', 'fantasy', 'biographie'];
+const books = [];
+
+// Générer 50 livres
+for (let i = 1; i <= 50; i++) {
+  books.push({
+    title: `Livre ${i}`,
+    category: categories[i % categories.length],
+    description: `Ceci est une description pour le livre ${i}.`,
+    price: `${(Math.random() * 30 + 10).toFixed(2)} €`,
+    image: `https://via.placeholder.com/200x150?text=Livre+${i}`,
+  });
+}
+
+// Fonction pour créer un groupe de livres
+function createGroup(title, groupBooks) {
+  const group = document.createElement('div');
+  group.classList.add('group');
+
+  group.innerHTML = `
+    <h2 class="group-title">${title}</h2>
+    <div class="group-content">
+      ${groupBooks.map(book => `
+        <div class="book-card">
+          <img src="${book.image}" alt="${book.title}">
+          <div class="info">
+            <h3>${book.title}</h3>
+            <p>${book.description}</p>
+            <div class="price">${book.price}</div>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+    <button class="scroll-btn left" onclick="scrollLeft(this)">&#9664;</button>
+    <button class="scroll-btn right" onclick="scrollRight(this)">&#9654;</button>
+  `;
+
+  return group;
+}
+
+// Fonction pour faire défiler à gauche
+function scrollLeft(button) {
+  const groupContent = button.parentElement.querySelector('.group-content');
+  const cardWidth = groupContent.querySelector('.book-card').offsetWidth; // Largeur d'une carte
+  const scrollAmount = cardWidth * 5 + 20 * 5; // 5 cartes + leurs marges
+  groupContent.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+}
+
+// Fonction pour faire défiler à droite
+function scrollRight(button) {
+  const groupContent = button.parentElement.querySelector('.group-content');
+  const cardWidth = groupContent.querySelector('.book-card').offsetWidth; // Largeur d'une carte
+  const scrollAmount = cardWidth * 5 + 20 * 5; // 5 cartes + leurs marges
+  groupContent.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+}
+
+// Ajouter les groupes dans le conteneur principal
+const groupsContainer = document.getElementById('groups-container');
+
+categories.forEach((category, index) => {
+  const groupBooks = books.slice(index * 10, (index + 1) * 10);
+  const group = createGroup(category.toUpperCase(), groupBooks);
+  groupsContainer.appendChild(group);
+});
+
 
 </script>
 
