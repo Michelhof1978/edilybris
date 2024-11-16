@@ -80,7 +80,7 @@
   
   
 
- <div class="container mt-4">
+<div class="container mt-4">
   <!-- Carrousel principal -->
   <div id="carouselExample" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">

@@ -1,9 +1,5 @@
 /* Général */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+
 html, body {
     margin: 0;
     padding: 0;
@@ -177,6 +173,34 @@ header{
     }
 }
 
+
+/* Change la couleur des flèches de navigation du carrousel en noir */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgb(246, 239, 239) !important;
+  margin-top: 450px;
+  margin-left: -230px;
+  margin-right: ;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black !important;
+}
+
+/* Positionner les flèches à l'extérieur des cartes */
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+
+
+
+
 /* FOOTER */
 
 footer{
@@ -220,7 +244,7 @@ width: 100%;
 }
 
 .footer-section {
-    background: #7b0e0e9b;
+    background: rgba(228, 28, 61, 0.427);
     position: relative;
     text-align: center;
 }
@@ -485,41 +509,4 @@ width: 100%;
   .card-link:hover {
     opacity: 0.8; /* Un effet de survol */
   }
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-    padding: 20px;
-  }
   
-  .card {
-    background-color: #222;
-    width: 200px;
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.3s;
-  }
-  .card:hover {
-    transform: scale(1.05);
-  }
-  
-  .card img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .card-info {
-    padding: 10px;
-    text-align: center;
-  }
-  
-  .card-info h2 {
-    font-size: 18px;
-    margin-bottom: 10px;
-  }
-  
-  .card-info p {
-    font-size: 14px;
-    color: #b3b3b3;
-  }
