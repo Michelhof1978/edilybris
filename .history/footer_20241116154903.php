@@ -125,7 +125,7 @@
             <!-- Adresse -->
             <div class="col d-flex align-items-center justify-content-center">
                 <i class="fas fa-map-marker-alt me-2"></i>
-                <span>Adresse à fournir</span>
+                <span>Adresss</span>
             </div>
             <!-- Téléphone -->
             <div class="col d-flex align-items-center justify-content-center">
