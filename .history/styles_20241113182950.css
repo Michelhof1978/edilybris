@@ -173,94 +173,6 @@ header{
     }
 }
 
-.carousel-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Cache la barre de défilement verticale */
-  }
-  
-  .carousel {
-    display: flex;
-    flex-wrap: nowrap; /* Les cartes restent sur une seule ligne */
-    gap: 20px; /* Espacement entre les cartes */
-    transition: transform 0.3s ease; /* Défilement fluide */
-  }
-  
-  .card {
-    background-color: #222;
-    width: 200px; /* Largeur de chaque carte */
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.3s;
-  }
-  
-  .card:hover {
-    transform: scale(1.05); /* Effet au survol */
-  }
-  
-  .card img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .card-info {
-    padding: 10px;
-    text-align: center;
-  }
-  
-  .card-info h2 {
-    font-size: 18px;
-    margin-bottom: 10px;
-  }
-  
-  .card-info p {
-    font-size: 14px;
-    color: #b3b3b3;
-  }
-  
-  /* Style des boutons de flèches */
-  .carousel-btn {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    border: none;
-    padding: 10px;
-    font-size: 24px;
-    cursor: pointer;
-    z-index: 10;
-  }
-  
-  .carousel-btn.left {
-    left: 10px;
-  }
-  
-  .carousel-btn.right {
-    right: 10px;
-  }
-  
-
-     /* Animation clignotante tarif promo*/
-     .custom-animation {
-         animation: infiniteBlink 2s infinite;
-         /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
-     }
-
-     @keyframes infiniteBlink {
-
-         0%,
-         100% {
-             opacity: 1;
-         }
-
-         50% {
-             opacity: 0;
-         }
-     }
-
-     /* Fin Animation clignotante tarif */
-
 /* FOOTER */
 
 footer{
@@ -304,7 +216,7 @@ width: 100%;
 }
 
 .footer-section {
-    background: rgba(228, 28, 61, 0.427);
+    background: #7b0e0e9b;
     position: relative;
     text-align: center;
 }

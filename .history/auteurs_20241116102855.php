@@ -74,36 +74,91 @@
 </div>
   </div>
 
-  <div class="container">
-  <div class="row justify-content-center">
-    <div class="col-12 col-md-10">
-      <div class="text-center py-5 rounded-4 p-2" style="background-color: #1d1f20; color: #dcdcdc;">
-        <h2 class="mb-4">Bienvenue sur le site de notre association</h2>
-        <p class="lead mb-4">
-          Notre association a pour mission de promouvoir la lecture, le partage de connaissances et la découverte d'auteurs talentueux à travers la vente de livres soigneusement sélectionnés. Que vous soyez passionné de littérature, amateur de récits inspirants ou en quête de nouvelles découvertes, vous trouverez chez nous une offre variée de livres issus de plumes diversifiées.
-        </p>
 
-        <h3 class="mt-4 mb-3">Des auteurs pour tous les goûts</h3>
-        <p class="mb-4">
-          Nous avons rassemblé des ouvrages d'auteurs émergents et confirmés, dans une multitude de genres : romans, essais, poésies, récits de voyage, ouvrages jeunesse et bien plus encore. Chaque livre est une invitation à explorer des univers uniques et à échanger des idées.
-        </p>
+  <div>
+ <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
+  
+  <!-- Dépendance Bootstrap -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-        <h3 class="mt-4 mb-3">Notre engagement</h3>
-        <p class="mb-4">
-          Au-delà de la simple vente, notre association se veut un lieu de rencontre pour les amoureux du livre et de la culture. En achetant chez nous, vous soutenez non seulement des auteurs, mais également une démarche collective dédiée à la valorisation de la littérature sous toutes ses formes.
-        </p>
-
-        <h3 class="mt-4 mb-3">Faites partie de l’aventure !</h3>
-        <p>
-          Nous vous invitons à explorer notre catalogue en ligne, à découvrir de nouveaux auteurs et à rejoindre notre communauté de lecteurs. Ensemble, partageons notre passion pour les livres et soutenons la création littéraire.
-        </p>
+<div class="container mt-4">
+  <!-- Carrousel principal -->
+  <div id="carouselExample" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+        <div class="d-flex">
+          <div class="card" style="width: 18rem; margin-right: 20px;">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">LUCIOLES MAGIQUES</h5>
+              <p class="card-text">Pierre Brandao</p>
+              <p class="text-success fw-bold">28,00 €</p>
+              <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem; margin-right: 20px;">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">LUCIOLES MAGIQUES</h5>
+              <p class="card-text">Pierre Brandao</p>
+              <p class="text-success fw-bold">28,00 €</p>
+              <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
+            </div>
+          </div>
+          <!-- Ajouter plus de cartes ici si nécessaire -->
+        </div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="carousel-item">
+        <div class="d-flex">
+          <div class="card" style="width: 18rem; margin-right: 20px;">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">LUCIOLES MAGIQUES</h5>
+              <p class="card-text">Pierre Brandao</p>
+              <p class="text-success fw-bold">28,00 €</p>
+              <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem; margin-right: 20px;">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">LUCIOLES MAGIQUES</h5>
+              <p class="card-text">Pierre Brandao</p>
+              <p class="text-success fw-bold">28,00 €</p>
+              <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
+            </div>
+          </div>
+          <!-- Ajouter plus de cartes ici si nécessaire -->
+        </div>
       </div>
     </div>
+    <!-- Contrôles de navigation -->
+    <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
 </div>
 
-<div>
- <h2 class="text-white text-center m-4">Nos promotions</h2>
+<!-- Script Bootstrap -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+
+
+
+
+
+
+  <h2 class="text-white text-center m-4">Nos promotions</h2>
   
   <div class="container">
     <!-- carte 1 -->

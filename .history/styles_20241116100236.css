@@ -173,29 +173,23 @@ header{
     }
 }
 
-.carousel-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Cache la barre de défilement verticale */
-  }
-  
-  .carousel {
+.container {
     display: flex;
-    flex-wrap: nowrap; /* Les cartes restent sur une seule ligne */
-    gap: 20px; /* Espacement entre les cartes */
-    transition: transform 0.3s ease; /* Défilement fluide */
+    flex-wrap: wrap; /* Permet aux cartes de passer à la ligne suivante si l'espace est insuffisant */
+    justify-content: space-between; /* Équilibre l'espacement entre les cartes */
+    gap: 20px; /* Ajoute un espace entre les cartes */
   }
   
   .card {
     background-color: #222;
-    width: 200px; /* Largeur de chaque carte */
+    width: 200px;
     border-radius: 10px;
     overflow: hidden;
     transition: transform 0.3s;
   }
   
   .card:hover {
-    transform: scale(1.05); /* Effet au survol */
+    transform: scale(1.05);
   }
   
   .card img {
@@ -218,48 +212,25 @@ header{
     color: #b3b3b3;
   }
   
-  /* Style des boutons de flèches */
-  .carousel-btn {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    border: none;
-    padding: 10px;
-    font-size: 24px;
-    cursor: pointer;
-    z-index: 10;
-  }
+       /* Animation clignotante tarif promo*/
+       .custom-animation {
+           animation: infiniteBlink 2s infinite;
+           /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
+       }
   
-  .carousel-btn.left {
-    left: 10px;
-  }
+       @keyframes infiniteBlink {
   
-  .carousel-btn.right {
-    right: 10px;
-  }
+           0%,
+           100% {
+               opacity: 1;
+           }
   
-
-     /* Animation clignotante tarif promo*/
-     .custom-animation {
-         animation: infiniteBlink 2s infinite;
-         /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
-     }
-
-     @keyframes infiniteBlink {
-
-         0%,
-         100% {
-             opacity: 1;
-         }
-
-         50% {
-             opacity: 0;
-         }
-     }
-
-     /* Fin Animation clignotante tarif */
+           50% {
+               opacity: 0;
+           }
+       }
+  
+       /* Fin Animation clignotante tarif */
 
 /* FOOTER */
 

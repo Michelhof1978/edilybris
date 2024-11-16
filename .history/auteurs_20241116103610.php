@@ -78,18 +78,15 @@
   <div>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
-  <!-- Dépendance Bootstrap -->
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-
-<div class="container mt-4">
+ <div class="container mt-4">
   <!-- Carrousel principal -->
-  <div id="carouselExample" class="carousel slide" data-ride="carousel">
+  <div id="carouselExample" class="carousel slide" data-ride="carousel" data-interval="2000">
     <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="d-flex">
           <!-- Cartes -->
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -98,7 +95,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -107,7 +104,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -116,7 +113,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -125,7 +122,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -140,7 +137,7 @@
       <div class="carousel-item">
         <div class="d-flex">
           <!-- Cartes -->
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -149,7 +146,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -158,7 +155,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -167,7 +164,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -176,7 +173,7 @@
               <p>LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...</p>
             </div>
           </div>
-          <div class="card" style="width: 18rem; margin-right: 20px;">
+          <div class="card">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">LUCIOLES MAGIQUES</h5>
@@ -199,12 +196,6 @@
     </a>
   </div>
 </div>
-
-<!-- Script Bootstrap -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
 
 
 

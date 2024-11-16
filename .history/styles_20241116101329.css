@@ -173,29 +173,30 @@ header{
     }
 }
 
-.carousel-container {
+.container-wrapper {
     position: relative;
     width: 100%;
-    overflow: hidden; /* Cache la barre de défilement verticale */
+    overflow: hidden; /* Cache tout débordement des cartes */
   }
   
-  .carousel {
+  .container {
     display: flex;
-    flex-wrap: nowrap; /* Les cartes restent sur une seule ligne */
-    gap: 20px; /* Espacement entre les cartes */
-    transition: transform 0.3s ease; /* Défilement fluide */
+    flex-wrap: nowrap; /* Empêche les cartes de passer à la ligne suivante */
+    gap: 20px;
+    justify-content: flex-start; /* Aligne les cartes à gauche */
+    transition: transform 0.3s ease; /* Animation fluide au défilement */
   }
   
   .card {
     background-color: #222;
-    width: 200px; /* Largeur de chaque carte */
+    width: 200px; /* Largeur des cartes */
     border-radius: 10px;
     overflow: hidden;
     transition: transform 0.3s;
   }
   
   .card:hover {
-    transform: scale(1.05); /* Effet au survol */
+    transform: scale(1.05);
   }
   
   .card img {
@@ -218,12 +219,12 @@ header{
     color: #b3b3b3;
   }
   
-  /* Style des boutons de flèches */
-  .carousel-btn {
+  /* Styles pour les flèches de navigation */
+  .scroll-btn {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: #222;
     color: white;
     border: none;
     padding: 10px;
@@ -232,34 +233,34 @@ header{
     z-index: 10;
   }
   
-  .carousel-btn.left {
+  .scroll-btn.left {
     left: 10px;
   }
   
-  .carousel-btn.right {
+  .scroll-btn.right {
     right: 10px;
   }
   
-
-     /* Animation clignotante tarif promo*/
-     .custom-animation {
-         animation: infiniteBlink 2s infinite;
-         /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
-     }
-
-     @keyframes infiniteBlink {
-
-         0%,
-         100% {
-             opacity: 1;
-         }
-
-         50% {
-             opacity: 0;
-         }
-     }
-
-     /* Fin Animation clignotante tarif */
+  
+       /* Animation clignotante tarif promo*/
+       .custom-animation {
+           animation: infiniteBlink 2s infinite;
+           /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
+       }
+  
+       @keyframes infiniteBlink {
+  
+           0%,
+           100% {
+               opacity: 1;
+           }
+  
+           50% {
+               opacity: 0;
+           }
+       }
+  
+       /* Fin Animation clignotante tarif */
 
 /* FOOTER */
 

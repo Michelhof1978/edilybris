@@ -247,10 +247,9 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!-- Scripts JavaScript -->
-<!-- Script Bootstrap -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous" async></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <!-- _____________________________________________________________________________________ -->
 
@@ -313,19 +312,19 @@
     }
 </script>
 <!--_____________________________________________________________-->
-<script>
-let scrollAmount = 220; // Distance à faire défiler à chaque clic
-let container = document.querySelector('.carousel');
 
-function scrollCarousel(direction) {
+function scrollContainer(direction) {
+  const container = document.querySelector('.container');
+  const scrollAmount = 220; // La distance en pixels que nous voulons faire défiler à chaque clic (ajustez selon la taille de vos cartes)
+
   if (direction === 'left') {
     container.scrollBy({
-      left: -scrollAmount,
+      left: -scrollAmount, // Défilement vers la gauche
       behavior: 'smooth'
     });
   } else if (direction === 'right') {
     container.scrollBy({
-      left: scrollAmount,
+      left: scrollAmount, // Défilement vers la droite
       behavior: 'smooth'
     });
   }
