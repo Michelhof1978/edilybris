@@ -59,11 +59,11 @@ header{
 }
 
 .nav-item a {
-    color: #ffcc00;
+    color: rgb(250, 250, 250);
 }
 
 .nav-item a:hover {
-    color: rgb(200, 60, 60);
+    color: rgba(225, 72, 72, 0.744);
 }
 
 .nav-item {
@@ -485,18 +485,21 @@ width: 100%;
     position: relative;
     width: 100%;
     overflow: hidden;
+    display: flex;
+    justify-content: center; /* Centrer le carrousel */
 }
 
 .book-carousel {
     display: flex;
     transition: transform 0.3s ease;
+    justify-content: center; /* Centrer les groupes à l'intérieur du carrousel */
 }
 
 .book-group {
     display: flex;
     gap: 15px;
-    min-width: 100%;
-    justify-content: flex-start;
+    min-width: 100%; /* Chaque groupe prend 100% de la largeur du carrousel */
+    justify-content: center; /* Centrer les cartes à l'intérieur du groupe */
 }
 
 .book-card {

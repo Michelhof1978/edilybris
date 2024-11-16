@@ -18,14 +18,14 @@
  <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
- <div class="book-carousel-container justify content-center">
+ <div class="book-carousel-container">
     <div class="book-carousel">
         <!-- Group 1 -->
         <div class="book-group">
             <!-- Card 1 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
-                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
                     <div class="book-details">
                         <div class="book-title">Lucioles Magiques</div>
                         <div class="book-author">Pierre Brandao</div>
@@ -36,7 +36,6 @@
                     </div>
                 </a>
             </div>
-
             <!-- Card 2 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
@@ -49,9 +48,8 @@
                         </div>
                         <div class="book-price">24.99€</div>
                     </div>
-                    </a>
+                </a>
             </div>
-
             <!-- Card 3 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
@@ -66,8 +64,8 @@
                     </div>
                 </a>
             </div>
- <!-- Card 4 -->
- <div class="book-card">
+            <!-- Card 4 -->
+            <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
                     <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
                     <div class="book-details">
@@ -80,7 +78,6 @@
                     </div>
                 </a>
             </div>
-
             <!-- Card 5 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
@@ -113,8 +110,8 @@
                     </div>
                 </a>
             </div>
-             <!-- Card 7 -->
-             <div class="book-card">
+            <!-- Card 7 -->
+            <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
                     <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
                     <div class="book-details">
@@ -127,7 +124,6 @@
                     </div>
                 </a>
             </div>
-
             <!-- Card 8 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
@@ -136,13 +132,12 @@
                         <div class="book-title">Lucioles Magiques</div>
                         <div class="book-author">Pierre Brandao</div>
                         <div class="book-description">
-                        LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                         </div>
                         <div class="book-price">20.00€</div>
                     </div>
                 </a>
             </div>
-
             <!-- Card 9 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
@@ -157,8 +152,8 @@
                     </div>
                 </a>
             </div>
-             <!-- Card 10 -->
-             <div class="book-card">
+            <!-- Card 10 -->
+            <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
                     <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
                     <div class="book-details">
@@ -173,6 +168,8 @@
             </div>
         </div>
     </div>
+
+    <!-- Navigation Buttons -->
     <div class="carousel-navigation">
         <button class="prev" onclick="showGroup('prev')">Précédent</button>
         <button class="next" onclick="showGroup('next')">Suivant</button>

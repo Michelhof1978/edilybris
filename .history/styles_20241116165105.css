@@ -59,11 +59,11 @@ header{
 }
 
 .nav-item a {
-    color: #ffcc00;
+    color: rgb(250, 250, 250);
 }
 
 .nav-item a:hover {
-    color: rgb(200, 60, 60);
+    color: rgba(225, 72, 72, 0.744);
 }
 
 .nav-item {
@@ -569,7 +569,7 @@ width: 100%;
 .carousel-navigation button {
     background-color: #ffcc00;
     border: none;
-    padding: 10px 20px;
+    padding: 20px 20px;
     cursor: pointer;
     font-size: 16px;
     border-radius: 5px;

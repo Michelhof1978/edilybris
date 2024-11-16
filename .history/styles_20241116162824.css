@@ -18,7 +18,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
-
 /* BANNER BIBLIOTHEQUE HEADER*/
 
 header{
@@ -44,7 +43,6 @@ header{
 .navbar {
     height: auto;
 }
-
 .text-decoration-custom {
     text-decoration: underline;
     text-decoration-color: rgb(255, 255, 255);
@@ -59,17 +57,16 @@ header{
 }
 
 .nav-item a {
-    color: #ffcc00;
+    color: rgb(250, 250, 250);
 }
 
 .nav-item a:hover {
-    color: rgb(200, 60, 60);
+    color: rgba(225, 72, 72, 0.744);
 }
 
 .nav-item {
     min-width: 12vw;
 }
-
 .nav-spacing {
     margin-left: 5px;
     margin-right: 5px;
@@ -91,7 +88,6 @@ header{
     /* Change la couleur du hamburger en blanc */
 }
 /* FIN NARBAR */
-
 /* BANNER VIDEO HEADER*/
 #special-header {
     position: relative;
@@ -111,8 +107,7 @@ header{
 #logo-container img {
     max-width: 280px;
     max-height: auto;
-}
-/* FIN BANNER VIDEO*/ 
+}/* FIN BANNER VIDEO*/ 
 /* Media queries pour les appareils mobiles */
 @media (max-width: 768px) {
     .navbar {
@@ -158,7 +153,6 @@ header{
         flex-direction: column;
         align-items: center;
     }
-
     #special-header {
         height: 25vh;
     }
@@ -184,205 +178,198 @@ position:fixed;
 bottom: 0;
 width: 100%;
 }
-
 .container{
-width: 100%;
-}
+    width: 100%;
+    }
+    
+    .footer-cta .row {
+        display: flex;
+        flex-wrap: nowrap; /* Empêche le retour à la ligne */
+        gap: 2rem; /* Espace entre chaque colonne */
+    }
+    
+    .footer-cta .col {
+        flex: 1;
+        text-align: center;
+        display: flex;
+        align-items: center; /* Aligne les icônes et le texte verticalement */
+        justify-content: center;
+    }
+    .footer-cta i {
+        font-size: 1.5rem;
+        color: #fffbfb;
+        margin-right: 0.5rem;
+        display: inline-block;
+        vertical-align: middle; /* Assure que les icônes restent au même niveau */
+    }
+    
+    .footer-cta span {
+        font-size: 1rem;
+        color: #d1d0d0;
+        display: inline-block;
+        vertical-align: middle; /* Assure que le texte reste aligné avec les icônes */
+        line-height: 1.2; /* Ajuste l'espacement vertical si nécessaire */
+    }
+    
+    .footer-section {
+        background: #7b0e0e9b;
+        position: relative;
+        text-align: center;
+    }
+    .footer-cta {
+        border-bottom: 1px solid #373636;
+    }
+    
+    .single-cta i {
+        color: rgba(228, 28, 61, 0.427);
+        font-size: 30px;
+        float: left;
+        margin-top: 8px;
+    }
+    
+    .cta-text {
+        padding-left: 15px;
+        display: inline-block;
+    }
+    
+    .cta-text h4 {
+        color: #fff;
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
 
-.footer-cta .row {
-    display: flex;
-    flex-wrap: nowrap; /* Empêche le retour à la ligne */
-    gap: 2rem; /* Espace entre chaque colonne */
-}
+    .cta-text span {
+        color: #f3ecec;
+        font-size: 15px;
+    }
+    
+    .footer-content {
+        display: flex;
+        justify-content: space-between; /* Espacement entre les colonnes */
+        align-items: flex-start; /* Aligne en haut */
+    }
+    
+    .footer-pattern img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 330px;
+        background-size: cover;
+        background-position: 100% 100%;
+    }
+    .footer-logo {
+        margin-bottom: 30px;
+    }
+    
+    .footer-logo img {
+        max-width: 200px;
+    }
+    
+    .footer-text p {
+        margin-bottom: 14px;
+        font-size: 14px;
+        color: #f1eeee;
+        line-height: 28px;
+    }
+    
+    .footer-social-icon {
+        display: flex; /* Pour aligner les icônes horizontalement */
+        align-items: center; /* Pour centrer verticalement les icônes */
+    }
 
-.footer-cta .col {
-    flex: 1;
-    text-align: center;
-    display: flex;
-    align-items: center; /* Aligne les icônes et le texte verticalement */
-    justify-content: center;
-}
+    .footer-social-icon span {
+        color: #fff;
+        display: block;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 20px;
+    }
+    
+    .footer-social-icon a {
+        color: #fff;
+        font-size: 16px;
+        margin-right: 15px;
+        transition: none; /* Retire la transition pour éviter les changements de couleur au survol */
+    }
 
-.footer-cta i {
-    font-size: 1.5rem;
-    color: #fffbfb;
-    margin-right: 0.5rem;
-    display: inline-block;
-    vertical-align: middle; /* Assure que les icônes restent au même niveau */
-}
+    .footer-social-icon i {
+        height: 40px;
+        width: 40px;
+        text-align: center;
+        line-height: 38px;
+        border-radius: 50%;
+    }
+    
+    
+    .footer-social-icon i {
+        font-size: 2rem; /* Taille des icônes */
+        margin-right: 8px; /* Moins d'espace entre les icônes */
+        transition: transform 0.3s, color 0.3s;
+    }
+    
+    .facebook-icon {
+        color: #3b5998; /* Couleur de Facebook */
+    }
+    .instagram-icon {
+        color: #e4405f; /* Couleur d'Instagram */
+    }
+    
+    .footer-social-icon a:hover i {
+        transform: scale(1.2);
+    }
+    
+    
+    /* Styles pour les titres des widgets */
+    .footer-widget-heading h3 {
+        color: #fff;
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 20px; /* Marge ajustée pour plus d'espace au-dessus des liens */
+        position: relative;
+    }
 
-.footer-cta span {
-    font-size: 1rem;
-    color: #d1d0d0;
-    display: inline-block;
-    vertical-align: middle; /* Assure que le texte reste aligné avec les icônes */
-    line-height: 1.2; /* Ajuste l'espacement vertical si nécessaire */
-}
-
-.footer-section {
-    background: #7b0e0e9b;
-    position: relative;
-    text-align: center;
-}
-
-.footer-cta {
-    border-bottom: 1px solid #373636;
-}
-
-.single-cta i {
-    color: rgba(228, 28, 61, 0.427);
-    font-size: 30px;
-    float: left;
-    margin-top: 8px;
-}
-
-.cta-text {
-    padding-left: 15px;
-    display: inline-block;
-}
-
-.cta-text h4 {
-    color: #fff;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 2px;
-}
-
-.cta-text span {
-    color: #f3ecec;
-    font-size: 15px;
-}
-
-.footer-content {
-    display: flex;
-    justify-content: space-between; /* Espacement entre les colonnes */
-    align-items: flex-start; /* Aligne en haut */
-}
-
-.footer-pattern img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 330px;
-    background-size: cover;
-    background-position: 100% 100%;
-}
-
-.footer-logo {
-    margin-bottom: 30px;
-}
-
-.footer-logo img {
-    max-width: 200px;
-}
-
-.footer-text p {
-    margin-bottom: 14px;
-    font-size: 14px;
-    color: #f1eeee;
-    line-height: 28px;
-}
-
-.footer-social-icon {
-    display: flex; /* Pour aligner les icônes horizontalement */
-    align-items: center; /* Pour centrer verticalement les icônes */
-}
-
-.footer-social-icon span {
-    color: #fff;
-    display: block;
-    font-size: 20px;
-    font-weight: 700;
-    font-family: 'Poppins', sans-serif;
-    margin-bottom: 20px;
-}
-
-.footer-social-icon a {
-    color: #fff;
-    font-size: 16px;
-    margin-right: 15px;
-    transition: none; /* Retire la transition pour éviter les changements de couleur au survol */
-}
-
-.footer-social-icon i {
-    height: 40px;
-    width: 40px;
-    text-align: center;
-    line-height: 38px;
-    border-radius: 50%;
-}
-
-
-.footer-social-icon i {
-    font-size: 2rem; /* Taille des icônes */
-    margin-right: 8px; /* Moins d'espace entre les icônes */
-    transition: transform 0.3s, color 0.3s;
-}
-
-.facebook-icon {
-    color: #3b5998; /* Couleur de Facebook */
-}
-
-.instagram-icon {
-    color: #e4405f; /* Couleur d'Instagram */
-}
-
-.footer-social-icon a:hover i {
-    transform: scale(1.2);
-}
-
-
-/* Styles pour les titres des widgets */
-.footer-widget-heading h3 {
-    color: #fff;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 20px; /* Marge ajustée pour plus d'espace au-dessus des liens */
-    position: relative;
-}
-
-.footer-widget-heading h3::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -15px;
-    height: 2px;
-    width: 50px;
-    background: rgba(228, 28, 61, 0.427);
-}
-
-/* Styles pour les liens utiles */
-.footer-links ul {
-    padding: 0;
-    list-style: none;
-}
-
-.footer-links ul li {
-    margin-bottom: 10px;
-}
-
-.footer-links ul li a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-.footer-links ul li a:hover {
-    text-decoration: underline;
-}
-.footer-links ul li {
-    margin-bottom: 12px; /* Ajoute une marge inférieure pour séparer les éléments */
-}
-
-.footer-links ul li a {
-    color: #878787;
-    text-transform: capitalize;
-}
-
-.footer-links ul li a:hover {
-    color: #ffffff;
-}
-
-/* Styles pour le formulaire de souscription */
+    .footer-widget-heading h3::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -15px;
+        height: 2px;
+        width: 50px;
+        background: rgba(228, 28, 61, 0.427);
+    }
+    
+    /* Styles pour les liens utiles */
+    .footer-links ul {
+        padding: 0;
+        list-style: none;
+    }
+    
+    .footer-links ul li {
+        margin-bottom: 10px;
+    }
+    .footer-links ul li a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+    .footer-links ul li a:hover {
+        text-decoration: underline;
+    }
+    .footer-links ul li {
+        margin-bottom: 12px; /* Ajoute une marge inférieure pour séparer les éléments */
+    }
+    
+    .footer-links ul li a {
+        color: #878787;
+        text-transform: capitalize;
+    }
+    
+    .footer-links ul li a:hover {
+        color: #ffffff;
+    }
+    /* Styles pour le formulaire de souscription */
 .subscribe-form {
     position: relative;
     overflow: hidden;
@@ -404,7 +391,6 @@ width: 100%;
     border: 1px solid #2f8193;
     top: 0;
 }
-
 .subscribe-form button i {
     color: #fff;
     font-size: 22px;
@@ -428,7 +414,6 @@ width: 100%;
 .copyright-text p a {
     color: beige;
 }
-
 /* Styles pour le menu du footer */
 .footer-menu li {
     display: inline-block;
@@ -447,7 +432,6 @@ width: 100%;
     flex-direction: column;
     align-items: center;
 }
-
 /* COOKIES */
 #cookie-banner {
     display: none;
@@ -465,7 +449,6 @@ width: 100%;
   #cookie-banner p {
     margin: 0 0 10px;
   }
-
   #cookie-banner button {
     margin: 5px;
     cursor: pointer;
@@ -477,16 +460,12 @@ width: 100%;
   }
 
   /* FIN COOKIES */
-  
- 
-
 
   .book-carousel-container {
     position: relative;
     width: 100%;
     overflow: hidden;
 }
-
 .book-carousel {
     display: flex;
     transition: transform 0.3s ease;
@@ -498,7 +477,6 @@ width: 100%;
     min-width: 100%;
     justify-content: flex-start;
 }
-
 .book-card {
     background-color: #222;
     border-radius: 8px;
@@ -521,60 +499,4 @@ width: 100%;
     height: auto;
     max-height: 250px;
     object-fit: contain;
-}
-
-.book-details {
-    padding: 15px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-.book-title {
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #fff;
-}
-
-.book-author {
-    font-size: 16px;
-    font-weight: bold;
-    color: #ffcc00;
-    margin-bottom: 15px;
-}
-
-.book-description {
-    font-size: 14px;
-    color: #bbb;
-    line-height: 1.5;
-    margin-bottom: 5px;
-}
-
-.book-price {
-    font-size: 16px;
-    font-weight: bold;
-    color: #ffcc00;
-    margin-top: 15px;
-}
-
-.carousel-navigation {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.carousel-navigation button {
-    background-color: #ffcc00;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 16px;
-    border-radius: 5px;
-}
-
-.carousel-navigation button:hover {
-    background-color: #f39c12;
 }

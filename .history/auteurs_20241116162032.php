@@ -18,7 +18,7 @@
  <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
- <div class="book-carousel-container justify content-center">
+ <div class="book-carousel-container">
     <div class="book-carousel">
         <!-- Group 1 -->
         <div class="book-group">
@@ -193,10 +193,4 @@ function showGroup(direction) {
         currentGroup = (currentGroup + 1) % totalGroups;  // Loop back to the first group
     } else if (direction === 'prev') {
         currentGroup = (currentGroup - 1 + totalGroups) % totalGroups;  // Loop back to the last group
-    }   const offset = -currentGroup * 100; // Move the carousel
-    document.querySelector('.book-carousel').style.transform = `translateX(${offset}%)`;
-}
-</script>
- </body>
-
- </html>
+    }

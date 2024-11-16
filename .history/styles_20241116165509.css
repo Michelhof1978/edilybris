@@ -63,7 +63,7 @@ header{
 }
 
 .nav-item a:hover {
-    color: rgb(200, 60, 60);
+    color: rgba(200, 60, 60, 0.744);
 }
 
 .nav-item {
