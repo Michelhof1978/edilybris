@@ -173,13 +173,124 @@ header{
     }
 }
 
-
-/* Change la couleur des flèches de navigation du carrousel en noir */
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  background-color: black !important;
+.carousel-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden; /* Cache la barre de défilement verticale */
+  }
+  
+  .carousel {
+    display: flex;
+    flex-wrap: nowrap; /* Les cartes restent sur une seule ligne */
+    gap: 20px; /* Espacement entre les cartes */
+    transition: transform 0.3s ease; /* Défilement fluide */
+  }
+  
+  .card {
+    background-color: #222;
+    width: 200px; /* Largeur de chaque carte */
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Effet au survol */
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-info {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .card-info h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .card-info p {
+    font-size: 14px;
+    color: #b3b3b3;
+  }
+  
+  /* Style des boutons de flèches */
+  .carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 10;
+  }
+  
+  .carousel-btn.left {
+    left: 10px;
+  }
+  
+  .carousel-btn.right {
+    right: 10px;
+  }
+  /* Style des flèches de navigation */
+.carousel-control-prev, .carousel-control-next {
+    background-color: transparent; /* Pas de fond derrière le bouton */
+    padding: 10px; /* Un peu d'espace autour des flèches */
+    border-radius: 50%; /* Coins arrondis pour un effet circulaire */
+    border: 2px solid #d3d3d3; /* Bordure gris clair autour du bouton */
+    opacity: 1; /* Pas de transparence */
+    transition: background-color 0.3s ease; /* Transition fluide au survol */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+/* Effet de survol : fond gris clair autour de la flèche */
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    background-color: #f0f0f0; /* Fond gris très clair au survol */
+}
+
+/* Flèches elles-mêmes en noir */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black; /* Flèches en noir */
+    border-radius: 50%; /* Les flèches elles-mêmes sont rondes */
+    width: 12px; /* Taille des flèches */
+    height: 12px; /* Taille des flèches */
+}
+
+/* Ajustement de la taille du cercle gris */
+.carousel-control-prev, .carousel-control-next {
+    width: 35px; /* Largeur du cercle */
+    height: 35px; /* Hauteur du cercle */
+}
+
+
+     /* Animation clignotante tarif promo*/
+     .custom-animation {
+         animation: infiniteBlink 2s infinite;
+         /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
+     }
+
+     @keyframes infiniteBlink {
+
+         0%,
+         100% {
+             opacity: 1;
+         }
+
+         50% {
+             opacity: 0;
+         }
+     }
+
+     /* Fin Animation clignotante tarif */
 
 /* FOOTER */
 

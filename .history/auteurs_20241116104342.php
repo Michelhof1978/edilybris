@@ -78,7 +78,7 @@
   <div>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
-  
+  <!-- Dépendance Bootstrap -->
 
 <div class="container mt-4">
   <!-- Carrousel principal -->

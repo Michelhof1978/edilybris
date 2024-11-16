@@ -174,12 +174,6 @@ header{
 }
 
 
-/* Change la couleur des flèches de navigation du carrousel en noir */
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  background-color: black !important;
-}
-
 
 /* FOOTER */
 

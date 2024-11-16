@@ -78,7 +78,8 @@
   <div>
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
-  
+  <!-- Dépendance Bootstrap -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="container mt-4">
   <!-- Carrousel principal -->
@@ -198,6 +199,10 @@
     </a>
   </div>
 </div>
+
+
+
+
 
 
 

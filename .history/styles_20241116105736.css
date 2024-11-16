@@ -173,13 +173,65 @@ header{
     }
 }
 
-
-/* Change la couleur des flèches de navigation du carrousel en noir */
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  background-color: black !important;
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
 }
 
+.card {
+  background-color: #222;
+  width: 200px;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-info {
+  padding: 10px;
+  text-align: center;
+}
+
+.card-info h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.card-info p {
+  font-size: 14px;
+  color: #b3b3b3;
+}
+
+     /* Animation clignotante tarif promo*/
+     .custom-animation {
+         animation: infiniteBlink 2s infinite;
+         /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
+     }
+
+     @keyframes infiniteBlink {
+
+         0%,
+         100% {
+             opacity: 1;
+         }
+
+         50% {
+             opacity: 0;
+         }
+     }
+
+     /* Fin Animation clignotante tarif */
 
 /* FOOTER */
 
