@@ -31,7 +31,7 @@
                         <div class="book-description">
                             LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                         </div>
-                        <div class="book-price">
+                        <div>
                             <del>30€</del> <span class="new-price">24.99€</span>
                         </div>
                     </div>

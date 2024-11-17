@@ -493,11 +493,10 @@ width: 100%;
  
 
 /* squelette card*/
-  .book-carousel-container {
+.book-carousel-container {
     position: relative;
     width: 100%;
     overflow: hidden;
-    
 }
 
 .book-carousel {
@@ -523,6 +522,7 @@ width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .book-card:hover {
@@ -542,6 +542,7 @@ width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .book-title {
@@ -549,6 +550,7 @@ width: 100%;
     font-weight: bold;
     margin-bottom: 10px;
     color: #fff;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .book-author {
@@ -556,6 +558,7 @@ width: 100%;
     font-weight: bold;
     color: #ffcc00;
     margin-bottom: 15px;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .book-description {
@@ -563,6 +566,7 @@ width: 100%;
     color: #bbb;
     line-height: 1.5;
     margin-bottom: 5px;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .book-price {
@@ -570,6 +574,7 @@ width: 100%;
     font-weight: bold;
     color: #ffcc00;
     margin-top: 15px;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .carousel-navigation {
@@ -586,6 +591,7 @@ width: 100%;
     cursor: pointer;
     font-size: 16px;
     border-radius: 5px;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 .carousel-navigation button:hover {
@@ -596,6 +602,7 @@ width: 100%;
     display: none; /* Hide Group 2 initially */
 }
 /* FIN squelette card*/
+
 /* nouveauté card*/
 .netflix-card {
     background-color: #141414;
@@ -603,6 +610,7 @@ width: 100%;
     border: none;
     border-radius: 10px;
     width: 14rem; /* Taille réduite */
+    user-select: none; /* Empêche la sélection de texte */
 }
 .netflix-card img {
     border-top-left-radius: 10px;
@@ -613,17 +621,21 @@ width: 100%;
 .netflix-card .card-body {
     text-align: center;
     padding: 0.75rem; /* Réduction du padding */
+    user-select: none; /* Empêche la sélection de texte */
 }
 .netflix-card .card-title {
     font-size: 1rem; /* Taille du titre réduite */
+    user-select: none; /* Empêche la sélection de texte */
 }
 .netflix-card .card-text {
     font-size: 0.9rem; /* Taille du texte réduite */
+    user-select: none; /* Empêche la sélection de texte */
 }
 .netflix-card .card-price {
     font-size: 1rem;
     font-weight: bold;
     color: #e50914;
+    user-select: none; /* Empêche la sélection de texte */
 }
 
 /* Style pour le lien et le contenu du livre */
@@ -637,11 +649,13 @@ width: 100%;
     background-color: #1a1a1a;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    user-select: none; /* Empêche la sélection de texte */
 }
 /* FIN nouveauté card*/
+
 /* livres PROMO*/
 .book-price del {
-    color: #ffcc00; /* Mettre le prix barré en blanc */
+    color: white; /* Mettre le prix barré en blanc */
     text-decoration: line-through; /* S'assurer que le texte est barré */
     margin-right: 10px; /* Espacement entre l'ancien prix et le nouveau prix */
 }
@@ -667,5 +681,3 @@ width: 100%;
 }
 
 /*FIN  livres PROMO*/
-
-

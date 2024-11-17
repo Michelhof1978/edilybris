@@ -497,7 +497,7 @@ width: 100%;
     position: relative;
     width: 100%;
     overflow: hidden;
-    
+    text-decoration: underline;
 }
 
 .book-carousel {
@@ -641,7 +641,7 @@ width: 100%;
 /* FIN nouveauté card*/
 /* livres PROMO*/
 .book-price del {
-    color: #ffcc00; /* Mettre le prix barré en blanc */
+    color: white; /* Mettre le prix barré en blanc */
     text-decoration: line-through; /* S'assurer que le texte est barré */
     margin-right: 10px; /* Espacement entre l'ancien prix et le nouveau prix */
 }
