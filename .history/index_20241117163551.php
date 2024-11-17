@@ -2,7 +2,7 @@
 
  <title></title>
  <meta name="description" content="">
- 
+ <meta property="og:url" content="https://www.edilybris.fr/">
  <!-- Canonical Link -->
  
 
