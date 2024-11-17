@@ -16,48 +16,37 @@
  
  <h1 class="text-white text-center m-4">Soutien et Promotion des Auteurs Littéraires</h1>
  <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
- <div class="container mt-5">
+  <div class="container mt-5">
         <div id="netflixCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <!-- Groupe 1 -->
                 <div class="carousel-item active">
                     <div class="d-flex justify-content-center">
                         <div class="card netflix-card mx-2">
-                            <a href="auteurs/pierreBrandao.html">
-                                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
-                                <div class="book-details">
-                                    <div class="book-title">Lucioles Magiques</div>
-                                    <div class="book-author">Pierre Brandao</div>
-                                    <div class="book-description">
-                                        LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
-                                    </div>
-                                    <div class="book-price">19.99€</div>
-                                </div>
-                            </a>
+                            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="Luciole Magiques">
+                            <div class="card-body">
+                                <h5 class="card-title">Luciole Magiques</h5>
+                                <p class="card-text">
+                                    LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                                </p>
+                                <p class="card-price">Prix : 25€</p>
+                            </div>
                         </div>
                         <div class="card netflix-card mx-2">
-                            <a href="auteurs/pierreBrandao.html">
-                                <img src="images/pierreBrandao/luciolesMagiques.png" class="book-cover" alt="Placeholder Image">
-                                <div class="book-details">
-                                    <div class="book-title">Lucioles Magiques</div>
-                                    <div class="book-author">Pierre Brandao</div>
-                                    <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
-                                    </div>
-                                    <div class="book-price">Prix : 30€</div>
-                                </div>
-                            </a>
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Autre Produit</h5>
+                                <p class="card-text">Description courte pour cet élément fictif.</p>
+                                <p class="card-price">Prix : 30€</p>
+                            </div>
                         </div>
                         <div class="card netflix-card mx-2">
-                            <a href="auteurs/pierreBrandao.html">
-                                <img src="images/pierreBrandao/luciolesMagiques.png" class="book-cover" alt="Placeholder Image">
-                                <div class="book-details">
-                                    <div class="book-title">Lucioles Magiques</div>
-                                    <div class="book-author">Pierre Brandao</div>
-                                    <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
-                                    </div>
-                                    <div class="book-price">Prix : 20€</div>
-                                </div>
-                            </a>
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Produit 3</h5>
+                                <p class="card-text">Autre description courte.</p>
+                                <p class="card-price">Prix : 20€</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -65,39 +54,28 @@
                 <div class="carousel-item">
                     <div class="d-flex justify-content-center">
                         <div class="card netflix-card mx-2">
-                            <a href="auteurs/pierreBrandao.html">
-                                <img src="images/pierreBrandao/luciolesMagiques.png" class="book-cover" alt="Placeholder Image">
-                                <div class="book-details">
-                                    <div class="book-title">Lucioles Magiques</div>
-                                    <div class="book-author">Pierre Brandao</div>
-                                    <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
-                                    </div>
-                                    <div class="book-price">Prix : 35€</div>
-                                </div>
-                            </a>
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Produit 4</h5>
+                                <p class="card-text">Description pour le quatrième produit.</p>
+                                <p class="card-price">Prix : 35€</p>
+                            </div>
                         </div>
                         <div class="card netflix-card mx-2">
-                            <a href="auteurs/pierreBrandao.html">
-                                <img src="images/pierreBrandao/luciolesMagiques.png" class="book-cover" alt="Placeholder Image">
-                                <div class="book-details">
-                                    <div class="book-title">Lucioles Magiques</div>
-                                    <div class="book-author">Pierre Brandao</div>
-                                    <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
-                                    </div>
-                                    <div class="book-price">Prix : 40€</div>
-                                </div>
-                            </a>
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Produit 5</h5>
+                                <p class="card-text">Description pour le cinquième produit.</p>
+                                <p class="card-price">Prix : 40€</p>
+                            </div>
                         </div>
                         <div class="card netflix-card mx-2">
-                            <a href="auteurs/pierreBrandao.html">
-                                <img src="images/pierreBrandao/luciolesMagiques.png" class="book-cover" alt="Placeholder Image">
-                                <div class="book-details">
-                                    <div class="book-title">Lucioles Magiques</div>
-                                    <div class="book-author">Pierre Brandao</div>
-                                    <div class="book-description">LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</div>
-                                    <div class="book-price">Prix : 50€</div>
-                                </div>
-                            </a>
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                            <div class="card-body">
+                                <h5 class="card-title">Produit 6</h5>
+                                <p class="card-text">Description pour le sixième produit.</p>
+                                <p class="card-price">Prix : 50€</p>
+                            </div>
                         </div>
                     </div>
                 </div>
