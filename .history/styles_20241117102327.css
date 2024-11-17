@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-    font-family: 'Georgia', serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 2.5em;
     font-weight: 700;
     color: #34495e;
@@ -46,7 +46,7 @@ h1 {
     left: 0;
     width: 100%;
     height: 2px;
-    background: #ffcc00;
+    background: #2ecc71;
     transform: scaleX(0);
     transition: transform 0.3s ease;
   }
@@ -59,28 +59,6 @@ h1 {
   h1:hover::before {
     transform: scaleX(1);
   }
-
-  h2 {
-    font-family: 'Merriweather', serif; /* Police de style journal */
-    font-size: 2em;
-    font-weight: 700;
-    color: #34495e;
-    text-align: center;
-    text-transform: capitalize;
-    letter-spacing: 1px;
-    position: relative;
-    padding-bottom: 8px;
-    margin: 20px 0;
-    transition: color 0.3s ease, transform 0.3s ease;
-  }
-  
-  h2:hover {
-    color: #ffcc00; /* Couleur changeante au survol */
-    transform: scale(1.05); /* Légère agrandissement pour un effet de "zoom" */
-  }
-h3{
-    color: #ffcc00;
-}  
   
 /* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
 

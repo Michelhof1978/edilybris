@@ -22,7 +22,7 @@
   <div class="row justify-content-center">
     <div class="col-12 col-md-10">
       <div class="text-center py-5 rounded-4 p-2" style="background-color: #1d1f20; color: #dcdcdc;">
-      <h3 class="mb-4 fs-2 fw-bold">Pourquoi acheter nos livres ?</h3>
+      <h3 class="mb-4">Pourquoi acheter nos livres ?</h2>
       <h3 class="mb-4">Soutenir la création littéraire</h3>
         <p class="lead mb-4">
   Chaque livre acheté permet de soutenir les auteurs dans la réalisation de leurs projets futurs. Votre achat les aide à continuer d’écrire et à partager leur vision du monde.        </p>

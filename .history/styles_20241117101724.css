@@ -25,65 +25,48 @@ body {
     
 }
 
+/* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
 h1 {
-    font-family: 'Georgia', serif;
-    font-size: 2.5em;
+    font-family: 'Merriweather', serif;
+    font-size: 4.5em;
     font-weight: 700;
-    color: #34495e;
+    color: #2d3436;
     text-align: center;
-    text-transform: capitalize;
-    letter-spacing: 1px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    background: #ff6b6b;
+    background-clip: padding-box;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     position: relative;
-    padding-bottom: 10px;
-    margin: 30px 0;
-    transition: color 0.3s ease, transform 0.3s ease;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
   }
   
   h1::before {
     content: "";
     position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background: #ffcc00;
-    transform: scaleX(0);
-    transition: transform 0.3s ease;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.2), transparent);
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
   }
   
   h1:hover {
-    color: #ffcc00;
-    transform: translateY(-4px);
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
   }
   
   h1:hover::before {
-    transform: scaleX(1);
-  }
-
-  h2 {
-    font-family: 'Merriweather', serif; /* Police de style journal */
-    font-size: 2em;
-    font-weight: 700;
-    color: #34495e;
-    text-align: center;
-    text-transform: capitalize;
-    letter-spacing: 1px;
-    position: relative;
-    padding-bottom: 8px;
-    margin: 20px 0;
-    transition: color 0.3s ease, transform 0.3s ease;
+    opacity: 1;
   }
   
-  h2:hover {
-    color: #ffcc00; /* Couleur changeante au survol */
-    transform: scale(1.05); /* Légère agrandissement pour un effet de "zoom" */
-  }
-h3{
-    color: #ffcc00;
-}  
-  
-/* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
-
 header{
     background-color: rgba(228, 28, 61, 0.427);
 }

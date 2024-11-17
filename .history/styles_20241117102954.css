@@ -78,9 +78,7 @@ h1 {
     color: #ffcc00; /* Couleur changeante au survol */
     transform: scale(1.05); /* Légère agrandissement pour un effet de "zoom" */
   }
-h3{
-    color: #ffcc00;
-}  
+h3{}  
   
 /* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
 
