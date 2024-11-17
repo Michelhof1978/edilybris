@@ -55,7 +55,7 @@
                                     <div class="book-author">Pierre Brandao</div>
                                     <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                                     </div>
-                                    <div class="book-price">35€</div>
+                                    <div class="book-price">Prix : 35€</div>
                                 </div>
                             </a>
                         </div>
@@ -67,7 +67,7 @@
                                     <div class="book-author">Pierre Brandao</div>
                                     <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                                     </div>
-                                    <div class="book-price">40€</div>
+                                    <div class="book-price">Prix : 40€</div>
                                 </div>
                             </a>
                         </div>
@@ -78,7 +78,7 @@
                                     <div class="book-title">Lucioles Magiques</div>
                                     <div class="book-author">Pierre Brandao</div>
                                     <div class="book-description">LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.</div>
-                                    <div class="book-price">50€</div>
+                                    <div class="book-price">Prix : 50€</div>
                                 </div>
                             </a>
                         </div>

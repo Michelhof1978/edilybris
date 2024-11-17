@@ -25,6 +25,12 @@ body {
     
 }
 
+.container {
+    max-height: calc(100vh - 50px); /* Ajustez selon la hauteur du footer ou autres éléments */
+    overflow-y: auto;
+}
+
+
 /* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
 
 header{

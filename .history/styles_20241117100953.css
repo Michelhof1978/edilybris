@@ -17,13 +17,16 @@
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-image: url('images/fond.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    
+    background-color: #1034A6;
+   
     
 }
+
+.container {
+    max-height: calc(100vh - 50px); /* Ajustez selon la hauteur du footer ou autres éléments */
+    overflow-y: auto;
+}
+
 
 /* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
 
