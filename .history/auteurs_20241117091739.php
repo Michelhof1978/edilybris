@@ -18,7 +18,7 @@
  
  <?php include("nouveaute.php"); ?>
 
- <div class="container mt-5">
+ <div class="container">
   <div class="row justify-content-center">
     <div class="col-12 col-md-10">
       <div class="text-center py-5 rounded-4 p-2" style="background-color: #1d1f20; color: #dcdcdc;">

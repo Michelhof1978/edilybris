@@ -16,28 +16,7 @@
  
  <h1 class="text-white text-center m-4">Soutien et Promotion des Auteurs Littéraires</h1>
  
- <?php include("nouveaute.php"); ?>
-
- <div class="container mt-5">
-  <div class="row justify-content-center">
-    <div class="col-12 col-md-10">
-      <div class="text-center py-5 rounded-4 p-2" style="background-color: #1d1f20; color: #dcdcdc;">
-      <h2 class="mb-4">Pourquoi acheter nos livres ?</h2>
-      <h3 class="mb-4">Soutenir la création littéraire</h3>
-        <p class="lead mb-4">
-  Chaque livre acheté permet de soutenir les auteurs dans la réalisation de leurs projets futurs. Votre achat les aide à continuer d’écrire et à partager leur vision du monde.        </p>
-
-        <h3 class="mt-4 mb-3">Découvrir des talents émergents</h3>
-        <p class="mb-4">
-        Notre association regroupe des auteurs de tous horizons, de la fiction à la poésie, en passant par l’essai et la littérature jeunesse. Vous y trouverez des œuvres originales, diverses et parfois audacieuses, qui ne demandent qu’à être découvertes.        </p>
-
-        <h3 class="mt-4 mb-3">Soutenir une cause importante </h3>
-        <p class="mb-4">
-        En soutenant notre association, vous participez à l’essor de nouveaux talents et à l’émergence de voix littéraires qui, sans votre soutien, auraient peut-être du mal à se faire connaître.        </p>
-      </div>
-    </div>
-  </div>
-</div>
+ 
 
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   
@@ -202,9 +181,9 @@
     </div>
 </div>
 
+<h2 class="text-white text-center m-4">Nos livres en promotions</h2>
 
-
-<?php include("promotions.php"); ?>
+  
  <?php include("footer.php"); ?>
  <script>
  let currentGroup = 1; // Start with Group 1

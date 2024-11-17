@@ -18,22 +18,28 @@
  
  <?php include("nouveaute.php"); ?>
 
- <div class="container mt-5">
+ <div class="container">
   <div class="row justify-content-center">
     <div class="col-12 col-md-10">
       <div class="text-center py-5 rounded-4 p-2" style="background-color: #1d1f20; color: #dcdcdc;">
-      <h2 class="mb-4">Pourquoi acheter nos livres ?</h2>
-      <h3 class="mb-4">Soutenir la création littéraire</h3>
+        <h2 class="mb-4">Pourquoi acheter nos livres ?</h2>
         <p class="lead mb-4">
-  Chaque livre acheté permet de soutenir les auteurs dans la réalisation de leurs projets futurs. Votre achat les aide à continuer d’écrire et à partager leur vision du monde.        </p>
+Soutenir la création littéraire  Chaque livre acheté permet de soutenir les auteurs dans la réalisation de leurs projets futurs. Votre achat les aide à continuer d’écrire et à partager leur vision du monde.        </p>
 
-        <h3 class="mt-4 mb-3">Découvrir des talents émergents</h3>
+        <h3 class="mt-4 mb-3">Des auteurs pour tous les goûts</h3>
         <p class="mb-4">
-        Notre association regroupe des auteurs de tous horizons, de la fiction à la poésie, en passant par l’essai et la littérature jeunesse. Vous y trouverez des œuvres originales, diverses et parfois audacieuses, qui ne demandent qu’à être découvertes.        </p>
+          Nous avons rassemblé des ouvrages d'auteurs émergents et confirmés, dans une multitude de genres : romans, essais, poésies, récits de voyage, ouvrages jeunesse et bien plus encore. Chaque livre est une invitation à explorer des univers uniques et à échanger des idées.
+        </p>
 
-        <h3 class="mt-4 mb-3">Soutenir une cause importante </h3>
+        <h3 class="mt-4 mb-3">Notre engagement</h3>
         <p class="mb-4">
-        En soutenant notre association, vous participez à l’essor de nouveaux talents et à l’émergence de voix littéraires qui, sans votre soutien, auraient peut-être du mal à se faire connaître.        </p>
+          Au-delà de la simple vente, notre association se veut un lieu de rencontre pour les amoureux du livre et de la culture. En achetant chez nous, vous soutenez non seulement des auteurs, mais également une démarche collective dédiée à la valorisation de la littérature sous toutes ses formes.
+        </p>
+
+        <h3 class="mt-4 mb-3">Faites partie de l’aventure !</h3>
+        <p>
+          Nous vous invitons à explorer notre catalogue en ligne, à découvrir de nouveaux auteurs et à rejoindre notre communauté de lecteurs. Ensemble, partageons notre passion pour les livres et soutenons la création littéraire.
+        </p>
       </div>
     </div>
   </div>

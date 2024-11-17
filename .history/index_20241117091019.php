@@ -46,8 +46,9 @@
   </div>
 </div>
 
+<div>
  
-<?php include("promotions.php"); ?>
+  
  <?php include("footer.php"); ?>
 
  </body>
