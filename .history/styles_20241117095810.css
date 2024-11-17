@@ -497,12 +497,6 @@ width: 100%;
 .book-card a {
     text-decoration: none; /* Désactive la décoration de texte (comme un soulignement) */
 }
-/* Cibler tous les liens dans les cartes, y compris au survol */
-.card a,  /* Remplacez '.card' par toute autre classe de carte spécifique si nécessaire */
-.card a:hover {
-    text-decoration: none; /* Désactive le soulignement ou autres décorations */
-}
-
 
   .book-carousel-container {
     position: relative;
