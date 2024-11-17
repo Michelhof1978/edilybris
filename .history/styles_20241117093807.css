@@ -595,7 +595,7 @@ width: 100%;
     display: none; /* Hide Group 2 initially */
 }
 /* FIN squelette card*/
-/* nouveauté card*/
+/* NOUVEAUT2 card*/
 .netflix-card {
     background-color: #141414;
     color: white;
@@ -637,7 +637,7 @@ width: 100%;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
-/* FIN nouveauté card*/
+
 /* livres PROMO*/
 .book-price del {
     color: white; /* Mettre le prix barré en blanc */
