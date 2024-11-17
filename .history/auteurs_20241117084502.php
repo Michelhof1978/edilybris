@@ -19,62 +19,38 @@
  <div class="container mt-5">
         <div id="netflixCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-                <!-- Groupe 1 -->
                 <div class="carousel-item active">
                     <div class="d-flex justify-content-center">
-                        <div class="card netflix-card mx-2">
-                            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="Luciole Magiques">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Movie 1">
                             <div class="card-body">
-                                <h5 class="card-title">Luciole Magiques</h5>
-                                <p class="card-text">
-                                    LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
-                                </p>
-                                <p class="card-price">Prix : 25€</p>
+                                <h5 class="card-title">Movie Title 1</h5>
+                                <p class="card-text">Short description of the movie or series.</p>
                             </div>
                         </div>
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Movie 2">
                             <div class="card-body">
-                                <h5 class="card-title">Autre Produit</h5>
-                                <p class="card-text">Description courte pour cet élément fictif.</p>
-                                <p class="card-price">Prix : 30€</p>
-                            </div>
-                        </div>
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
-                            <div class="card-body">
-                                <h5 class="card-title">Produit 3</h5>
-                                <p class="card-text">Autre description courte.</p>
-                                <p class="card-price">Prix : 20€</p>
+                                <h5 class="card-title">Movie Title 2</h5>
+                                <p class="card-text">Short description of the movie or series.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- Groupe 2 -->
                 <div class="carousel-item">
                     <div class="d-flex justify-content-center">
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
+                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Movie 3">
                             <div class="card-body">
-                                <h5 class="card-title">Produit 4</h5>
-                                <p class="card-text">Description pour le quatrième produit.</p>
-                                <p class="card-price">Prix : 35€</p>
+                                <h5 class="card-title">Movie Title 3</h5>
+                                <p class="card-text">Short description of the movie or series.</p>
                             </div>
                         </div>
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
+                            <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="Movie 4">
                             <div class="card-body">
-                                <h5 class="card-title">Produit 5</h5>
-                                <p class="card-text">Description pour le cinquième produit.</p>
-                                <p class="card-price">Prix : 40€</p>
-                            </div>
-                        </div>
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
-                            <div class="card-body">
-                                <h5 class="card-title">Produit 6</h5>
-                                <p class="card-text">Description pour le sixième produit.</p>
-                                <p class="card-price">Prix : 50€</p>
+                                <h5 class="card-title">Movie Title 4</h5>
+                                <p class="card-text">Short description of the movie or series.</p>
                             </div>
                         </div>
                     </div>
@@ -90,7 +66,6 @@
             </button>
         </div>
     </div>
-
 
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2>
   

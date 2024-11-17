@@ -595,34 +595,4 @@ width: 100%;
     display: none; /* Hide Group 2 initially */
 }
 
-.netflix-card {
-    background-color: #141414;
-    color: white;
-    border: none;
-    border-radius: 10px;
-    width: 14rem; /* Taille réduite */
-}
-.netflix-card img {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    height: 150px; /* Réduction de la hauteur de l'image */
-    object-fit: cover;
-}
-.netflix-card .card-body {
-    text-align: center;
-    padding: 0.75rem; /* Réduction du padding */
-}
-.netflix-card .card-title {
-    font-size: 1rem; /* Taille du titre réduite */
-}
-.netflix-card .card-text {
-    font-size: 0.9rem; /* Taille du texte réduite */
-}
-.netflix-card .card-price {
-    font-size: 1rem;
-    font-weight: bold;
-    color: #e50914;
-}
-
-
 

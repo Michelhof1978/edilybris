@@ -595,34 +595,55 @@ width: 100%;
     display: none; /* Hide Group 2 initially */
 }
 
-.netflix-card {
-    background-color: #141414;
-    color: white;
-    border: none;
+
+.card {
+    background-color: #222;
+    width: 200px;
     border-radius: 10px;
-    width: 14rem; /* Taille réduite */
-}
-.netflix-card img {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    height: 150px; /* Réduction de la hauteur de l'image */
-    object-fit: cover;
-}
-.netflix-card .card-body {
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-info {
+    padding: 10px;
     text-align: center;
-    padding: 0.75rem; /* Réduction du padding */
-}
-.netflix-card .card-title {
-    font-size: 1rem; /* Taille du titre réduite */
-}
-.netflix-card .card-text {
-    font-size: 0.9rem; /* Taille du texte réduite */
-}
-.netflix-card .card-price {
-    font-size: 1rem;
-    font-weight: bold;
-    color: #e50914;
-}
-
-
-
+  }
+  
+  .card-info h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .card-info p {
+    font-size: 14px;
+    color: #b3b3b3;
+  }
+  
+       /* Animation clignotante tarif promo*/
+       .custom-animation {
+           animation: infiniteBlink 2s infinite;
+           /* 2s est la durée de l'animation, et "infinite" indique une répétition infinie */
+       }
+  
+       @keyframes infiniteBlink {
+  
+           0%,
+           100% {
+               opacity: 1;
+           }
+  
+           50% {
+               opacity: 0;
+           }
+       }
+  
+       /* Fin Animation clignotante tarif */

@@ -19,10 +19,9 @@
  <div class="container mt-5">
         <div id="netflixCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-                <!-- Groupe 1 -->
                 <div class="carousel-item active">
                     <div class="d-flex justify-content-center">
-                        <div class="card netflix-card mx-2">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
                             <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top" alt="Luciole Magiques">
                             <div class="card-body">
                                 <h5 class="card-title">Luciole Magiques</h5>
@@ -32,7 +31,7 @@
                                 <p class="card-price">Prix : 25€</p>
                             </div>
                         </div>
-                        <div class="card netflix-card mx-2">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
                             <div class="card-body">
                                 <h5 class="card-title">Autre Produit</h5>
@@ -40,7 +39,11 @@
                                 <p class="card-price">Prix : 30€</p>
                             </div>
                         </div>
-                        <div class="card netflix-card mx-2">
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
                             <div class="card-body">
                                 <h5 class="card-title">Produit 3</h5>
@@ -48,33 +51,12 @@
                                 <p class="card-price">Prix : 20€</p>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <!-- Groupe 2 -->
-                <div class="carousel-item">
-                    <div class="d-flex justify-content-center">
-                        <div class="card netflix-card mx-2">
+                        <div class="card netflix-card mx-2" style="width: 18rem;">
                             <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
                             <div class="card-body">
                                 <h5 class="card-title">Produit 4</h5>
-                                <p class="card-text">Description pour le quatrième produit.</p>
+                                <p class="card-text">Dernière description courte.</p>
                                 <p class="card-price">Prix : 35€</p>
-                            </div>
-                        </div>
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
-                            <div class="card-body">
-                                <h5 class="card-title">Produit 5</h5>
-                                <p class="card-text">Description pour le cinquième produit.</p>
-                                <p class="card-price">Prix : 40€</p>
-                            </div>
-                        </div>
-                        <div class="card netflix-card mx-2">
-                            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Placeholder Image">
-                            <div class="card-body">
-                                <h5 class="card-title">Produit 6</h5>
-                                <p class="card-text">Description pour le sixième produit.</p>
-                                <p class="card-price">Prix : 50€</p>
                             </div>
                         </div>
                     </div>
