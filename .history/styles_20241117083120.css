@@ -22,7 +22,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     
-    
 }
 
 .container {
@@ -429,10 +428,17 @@ width: 100%;
     padding: 40px 0;
     margin-bottom: -30px;
     padding-top: 10px;
-    
+    height: auto;
+    overflow: hidden; /* Empêche tout débordement */
+}
+
+.copyright-text, .footer-menu {
+    max-width: 100%;
+    overflow: hidden;
 }
 
 .copyright-text p {
+    margin: 0;
     font-size: 14px;
     color: #878787;
 }

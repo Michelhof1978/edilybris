@@ -131,7 +131,7 @@
             <!-- Card 8 -->
             <div class="book-card">
                 <a href="auteurs/pierreBrandao.html">
-                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Lucioles Magiques" class="book-cover">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
                     <div class="book-details">
                         <div class="book-title">Lucioles Magiques</div>
                         <div class="book-author">Pierre Brandao</div>

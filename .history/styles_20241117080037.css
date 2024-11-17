@@ -4,16 +4,13 @@
     padding: 0;
     box-sizing: border-box;
   }
-  html, body {
+html, body {
     margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
-    overflow-x: hidden; /* Évite les débordements horizontaux */
-    overflow-y: auto;   /* Active le défilement vertical uniquement si nécessaire */
-    
+    width: 100%;  /* Assure que html et body prennent toute la largeur de la fenêtre */
+    overflow-x: hidden; /* Évite le débordement horizontal */
+    overflow-y: auto; /* Active le scroll vertical uniquement si nécessaire */
 }
-
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -21,15 +18,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    
-    
 }
-
-.container {
-    max-height: calc(100vh - 50px); /* Ajustez selon la hauteur du footer ou autres éléments */
-    overflow-y: auto;
-}
-
 
 /* BANNER BIBLIOTHEQUE HEADER (228, 28, 61, 0.427)*/
 
@@ -429,10 +418,10 @@ width: 100%;
     padding: 40px 0;
     margin-bottom: -30px;
     padding-top: 10px;
-    
 }
 
 .copyright-text p {
+    margin: 0;
     font-size: 14px;
     color: #878787;
 }
@@ -452,14 +441,14 @@ width: 100%;
     font-size: 14px;
     color: #878787;
 }
-
+/* END FOOTER */
 
 .footer-widget {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-/* END FOOTER */
+
 /* COOKIES */
 #cookie-banner {
     display: none;

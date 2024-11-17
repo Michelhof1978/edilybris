@@ -338,10 +338,19 @@ ________________________________________________________________________________
 
 <!-- End Google Tag Manager -->
 
-<!-- Google Analytics -->
+document.querySelectorAll('.card').forEach(card => {
+  card.addEventListener('click', () => {
+    alert("Vous avez cliqué sur " + card.querySelector('h2').textContent);
+  });
+});
 
+</script>
 
-<!-- card AUTEURS -->
+document.querySelectorAll('.card').forEach(card => {
+  card.addEventListener('click', () => {
+    alert("Vous avez cliqué sur " + card.querySelector('h2').textContent);
+  });
+});
 <script>
 document.querySelectorAll('.card').forEach(card => {
   card.addEventListener('click', () => {
@@ -349,4 +358,3 @@ document.querySelectorAll('.card').forEach(card => {
   });
 });
 </script>
-<!--  fin card AUTEURS -->

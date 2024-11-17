@@ -349,4 +349,5 @@ document.querySelectorAll('.card').forEach(card => {
   });
 });
 </script>
-<!--  fin card AUTEURS -->
+
+<!-- card AUTEURS -->

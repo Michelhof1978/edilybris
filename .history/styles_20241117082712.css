@@ -11,7 +11,7 @@
     height: 100%;
     overflow-x: hidden; /* Évite les débordements horizontaux */
     overflow-y: auto;   /* Active le défilement vertical uniquement si nécessaire */
-    
+   
 }
 
 
@@ -21,8 +21,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    
-    
 }
 
 .container {
@@ -433,6 +431,7 @@ width: 100%;
 }
 
 .copyright-text p {
+    margin: 0;
     font-size: 14px;
     color: #878787;
 }

@@ -340,13 +340,8 @@ ________________________________________________________________________________
 
 <!-- Google Analytics -->
 
-
-<!-- card AUTEURS -->
-<script>
-document.querySelectorAll('.card').forEach(card => {
-  card.addEventListener('click', () => {
-    alert("Vous avez cliqué sur " + card.querySelector('h2').textContent);
-  });
-});
 </script>
-<!--  fin card AUTEURS -->
+
+<script>
+
+</script>

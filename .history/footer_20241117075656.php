@@ -340,8 +340,8 @@ ________________________________________________________________________________
 
 <!-- Google Analytics -->
 
+</script>
 
-<!-- card AUTEURS -->
 <script>
 document.querySelectorAll('.card').forEach(card => {
   card.addEventListener('click', () => {
@@ -349,4 +349,3 @@ document.querySelectorAll('.card').forEach(card => {
   });
 });
 </script>
-<!--  fin card AUTEURS -->

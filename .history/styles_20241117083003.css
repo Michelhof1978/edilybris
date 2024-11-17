@@ -22,7 +22,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     
-    
 }
 
 .container {
@@ -427,12 +426,13 @@ width: 100%;
 .copyright-area {
     background: #202020;
     padding: 40px 0;
-    margin-bottom: -30px;
     padding-top: 10px;
-    
+    margin-bottom: 0; /* Changez -30px en 0 */
 }
 
+
 .copyright-text p {
+    margin: 0;
     font-size: 14px;
     color: #878787;
 }

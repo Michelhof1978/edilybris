@@ -1,9 +1,6 @@
 /* Général */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+
+
   html, body {
     margin: 0;
     padding: 0;
@@ -11,7 +8,7 @@
     height: 100%;
     overflow-x: hidden; /* Évite les débordements horizontaux */
     overflow-y: auto;   /* Active le défilement vertical uniquement si nécessaire */
-    
+    box-sizing: border-box;
 }
 
 
@@ -21,7 +18,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    
     
 }
 
@@ -429,10 +425,11 @@ width: 100%;
     padding: 40px 0;
     margin-bottom: -30px;
     padding-top: 10px;
-    
+    overflow-y: hidden; /* Désactive le scroll vertical */
 }
 
 .copyright-text p {
+    margin: 0;
     font-size: 14px;
     color: #878787;
 }
@@ -452,14 +449,14 @@ width: 100%;
     font-size: 14px;
     color: #878787;
 }
-
+/* END FOOTER */
 
 .footer-widget {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-/* END FOOTER */
+
 /* COOKIES */
 #cookie-banner {
     display: none;
