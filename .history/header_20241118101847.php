@@ -26,7 +26,7 @@
 
                     <!-- Menu collapsé -->
                     <div class="collapse navbar-collapse mt-2 background-navbar" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto text-center me-3 ">
+                        <ul class="navbar-nav ms-auto text-center me-3 background-navbar">
                             <li class="nav-item">
                                 <a class="nav-link fs-5"  href="index.php"><strong>Accueil</strong></a>
                             </li>
