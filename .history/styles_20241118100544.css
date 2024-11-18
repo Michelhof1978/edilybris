@@ -24,11 +24,6 @@ body {
     
     
 }
-.fond-text{
-    background-color: #1E3A5F !important;
-    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
-}
 
 h1 {
     font-family: 'Georgia', serif;
@@ -258,7 +253,9 @@ width: 100%;
 
 .container{
 width: 100%;
-
+background-color: #1E3A5F;
+    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
 }
 
 .footer-cta .row {
