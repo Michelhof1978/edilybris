@@ -743,7 +743,7 @@ width: 100%;
   /* Style de base des cartes */
   .xl-card {
     width: 200px;
-    background-color: #222; /* Fond noir pour les cartes */
+    background-color: #; /* Fond noir pour les cartes */
     border: 1px solid #333; /* Bordure gris foncé */
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
