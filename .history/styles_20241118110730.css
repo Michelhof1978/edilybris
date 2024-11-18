@@ -94,7 +94,7 @@ header {
 }
 
 .background-navbar{
-    background-color:  #ffcc00d7;
+    background-color:  #ffcc00b7;
    
 }
 
@@ -133,11 +133,11 @@ header {
 }
 
 .nav-item a {
-    color: #083b7a;
+    color: #0d4695;
 }
 
 .nav-item a:hover {
-    color: #e4e9ed;
+    color: #0787ef;
 }
 
 .nav-item {

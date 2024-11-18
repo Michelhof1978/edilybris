@@ -17,7 +17,7 @@
                 </div>
             </div>
 
-            <nav class="navbar navbar-expand-md">
+            <nav class="navbar navbar-expand-md ">
                 <div class="container-fluid">
                     <!-- Bouton hamburger -->
                     <button class="navbar-toggler custom-toggler mx-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
