@@ -198,111 +198,169 @@
         <button class="prev" onclick="showGroup('prev')">Précédent</button>
         <button class="next" onclick="showGroup('next')">Suivant</button>
     </div>
+
+    <div class="book-carousel-container container">
+    <div class="book-carousel">
+        <!-- Group 1 -->
+        <div class="book-group mx-auto">
+            <!-- Card 1 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">19.99€</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">24.99€</div>
+                    </div>
+                    </a>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">15.99€</div>
+                    </div>
+                </a>
+            </div>
+ <!-- Card 4 -->
+ <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">18.50€</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">21.00€</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Group 2 -->
+        <div class="book-group">
+            <!-- Card 6 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">22.99€</div>
+                    </div>
+                </a>
+            </div>
+             <!-- Card 7 -->
+             <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">16.50€</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Card 8 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                        LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">20.00€</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Card 9 -->
+            <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">19.75€</div>
+                    </div>
+                </a>
+            </div>
+             <!-- Card 10 -->
+             <div class="book-card">
+                <a href="auteurs/pierreBrandao.html">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Lucioles Magiques" class="book-cover">
+                    <div class="book-details">
+                        <div class="book-title">Lucioles Magiques</div>
+                        <div class="book-author">Pierre Brandao</div>
+                        <div class="book-description">
+                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                        </div>
+                        <div class="book-price">25.99€</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="carousel-navigation">
+        <button class="prev" onclick="showGroup('prev')">Précédent</button>
+        <button class="next" onclick="showGroup('next')">Suivant</button>
+    </div>
 </div>
 
- <!-- Groupe 1 -->
- <div id="xl-group1" class="xl-card-container">
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 1">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 1</div>
-        <div class="xl-card-author">Auteur 1</div>
-        <div class="xl-card-description">Description du livre 1.</div>
-        <div class="xl-card-price">15,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 2">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 2</div>
-        <div class="xl-card-author">Auteur 2</div>
-        <div class="xl-card-description">Description du livre 2.</div>
-        <div class="xl-card-price">19,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 3">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 3</div>
-        <div class="xl-card-author">Auteur 3</div>
-        <div class="xl-card-description">Description du livre 3.</div>
-        <div class="xl-card-price">9,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 4">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 4</div>
-        <div class="xl-card-author">Auteur 4</div>
-        <div class="xl-card-description">Description du livre 4.</div>
-        <div class="xl-card-price">12,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 5">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 5</div>
-        <div class="xl-card-author">Auteur 5</div>
-        <div class="xl-card-description">Description du livre 5.</div>
-        <div class="xl-card-price">14,99 €</div>
-      </div>
-    </div>
-  </div>
 
-  <!-- Groupe 2 -->
-  <div id="xl-group2" class="xl-card-container xl-hidden">
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 6">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 6</div>
-        <div class="xl-card-author">Auteur 6</div>
-        <div class="xl-card-description">Description du livre 6.</div>
-        <div class="xl-card-price">16,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 7">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 7</div>
-        <div class="xl-card-author">Auteur 7</div>
-        <div class="xl-card-description">Description du livre 7.</div>
-        <div class="xl-card-price">11,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 8">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 8</div>
-        <div class="xl-card-author">Auteur 8</div>
-        <div class="xl-card-description">Description du livre 8.</div>
-        <div class="xl-card-price">13,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 9">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 9</div>
-        <div class="xl-card-author">Auteur 9</div>
-        <div class="xl-card-description">Description du livre 9.</div>
-        <div class="xl-card-price">17,99 €</div>
-      </div>
-    </div>
-    <div class="xl-card">
-      <img src="https://via.placeholder.com/200x300" alt="Livre 10">
-      <div class="xl-card-content">
-        <div class="xl-card-title">Titre du Livre 10</div>
-        <div class="xl-card-author">Auteur 10</div>
-        <div class="xl-card-description">Description du livre 10.</div>
-        <div class="xl-card-price">18,99 €</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Boutons de navigation -->
-  <div class="xl-navigation">
-  <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
-  <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
-</div>
 
 
 <?php include("promotions.php"); ?>

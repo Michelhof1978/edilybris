@@ -351,33 +351,49 @@ document.querySelectorAll('.card').forEach(card => {
 </script>
 <!--  fin card AUTEURS -->
 
-<script>
-    const xlGroup1 = document.getElementById('xl-group1');
-    const xlGroup2 = document.getElementById('xl-group2');
-    const xlBackButton = document.getElementById('xl-backButton');
-    const xlNextGroupButton = document.getElementById('xl-nextGroupButton');
+<div id="xl-group1" class="xl-card-container">
+    <div class="xl-card">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 1">
+      <div class="xl-card-content">
+        <div class="xl-card-title">Titre du Livre 1</div>
+        <div class="xl-card-author">Auteur 1</div>
+        <div class="xl-card-description">Description courte du livre 1. Ce texte est un exemple qui montre comment la description sera affichée.</div>
+        <div class="xl-card-price">15,99 €</div>
+      </div>
+    </div>
+    <div class="xl-card">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 2">
+      <div class="xl-card-content">
+        <div class="xl-card-title">Titre du Livre 2</div>
+        <div class="xl-card-author">Auteur 2</div>
+        <div class="xl-card-description">Description courte du livre 2. Ce texte est un exemple qui montre comment la description sera affichée.</div>
+        <div class="xl-card-price">19,99 €</div>
+      </div>
+    </div>
+  </div>
 
-    let currentGroup = 1;
+  <div id="xl-group2" class="xl-card-container xl-hidden">
+    <div class="xl-card">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 3">
+      <div class="xl-card-content">
+        <div class="xl-card-title">Titre du Livre 3</div>
+        <div class="xl-card-author">Auteur 3</div>
+        <div class="xl-card-description">Description courte du livre 3. Ce texte est un exemple qui montre comment la description sera affichée.</div>
+        <div class="xl-card-price">9,99 €</div>
+      </div>
+    </div>
+    <div class="xl-card">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 4">
+      <div class="xl-card-content">
+        <div class="xl-card-title">Titre du Livre 4</div>
+        <div class="xl-card-author">Auteur 4</div>
+        <div class="xl-card-description">Description courte du livre 4. Ce texte est un exemple qui montre comment la description sera affichée.</div>
+        <div class="xl-card-price">12,99 €</div>
+      </div>
+    </div>
+  </div>
 
-    xlBackButton.addEventListener('click', () => {
-      if (currentGroup > 1) {
-        currentGroup--;
-        updateGroups();
-      }
-    });
-
-    xlNextGroupButton.addEventListener('click', () => {
-      if (currentGroup < 2) {
-        currentGroup++;
-        updateGroups();
-      }
-    });
-
-    function updateGroups() {
-      xlGroup1.classList.toggle('xl-hidden', currentGroup !== 1);
-      xlGroup2.classList.toggle('xl-hidden', currentGroup !== 2);
-
-      xlBackButton.disabled = currentGroup === 1;
-      xlNextGroupButton.disabled = currentGroup === 2;
-    }
-  </script>
+  <div class="xl-navigation">
+    <button id="xl-backButton" class="xl-button" disabled>Retour</button>
+    <button id="xl-nextGroupButton" class="xl-button">Prochain</button>
+  </div>

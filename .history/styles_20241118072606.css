@@ -730,79 +730,37 @@ width: 100%;
 
 /*FIN  livres PROMO*/
 /*CARD XL*/
-.xl-card-container {
+.card-containerXL {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
     margin: 20px 0;
-    flex-wrap: wrap;
   }
 
-  .xl-card {
-    width: 200px;
-    background-color: #ffffff;
+  .cardXL {
+    width: 100px;
+    height: 150px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: 1px solid #ccc;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
   }
 
-  .xl-card img {
-    width: 100%;
-    height: auto;
-  }
-
-  .xl-card-content {
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-  }
-
-  .xl-card-title {
-    font-size: 16px;
-    font-weight: bold;
-    color: #333;
-  }
-
-  .xl-card-author {
-    font-size: 14px;
-    color: #666;
-  }
-
-  .xl-card-description {
-    font-size: 12px;
-    color: #444;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-  }
-
-  .xl-card-price {
-    font-size: 16px;
-    font-weight: bold;
-    color: #007bff;
-    margin-top: 10px;
-  }
-
-  .xl-hidden {
+  .hidden {
     display: none;
   }
 
-  .xl-navigation {
+  .buttons {
     display: flex;
-    justify-content: center;
-    gap: 20px; /* Ajoute un espace entre les boutons */
-    margin-top: 20px; /* Ajoute un espace entre les boutons et les cartes */
+    justify-content: space-between;
+    width: 200px;
   }
-  
 
-  .xl-button {
+  XLbutton {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
@@ -812,7 +770,7 @@ width: 100%;
     color: white;
   }
 
-  .xl-button:disabled {
+  XLbutton:disabled {
     background-color: #ccc;
     cursor: not-allowed;
   }

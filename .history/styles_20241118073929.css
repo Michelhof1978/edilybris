@@ -796,11 +796,9 @@ width: 100%;
 
   .xl-navigation {
     display: flex;
-    justify-content: center;
-    gap: 20px; /* Ajoute un espace entre les boutons */
-    margin-top: 20px; /* Ajoute un espace entre les boutons et les cartes */
+    justify-content: space-between;
+    width: 200px;
   }
-  
 
   .xl-button {
     padding: 10px 20px;

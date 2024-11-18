@@ -300,10 +300,9 @@
 
   <!-- Boutons de navigation -->
   <div class="xl-navigation">
-  <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
-  <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
-</div>
-
+    <button id="xl-backButton" class="xl-button" disabled>Retour</button>
+    <button id="xl-nextGroupButton" class="xl-button">Prochain</button>
+  </div>
 
 <?php include("promotions.php"); ?>
  <?php include("footer.php"); ?>

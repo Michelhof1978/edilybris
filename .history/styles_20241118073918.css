@@ -794,15 +794,13 @@ width: 100%;
     display: none;
   }
 
-  .xl-navigation {
+  .xl-buttons {
     display: flex;
-    justify-content: center;
-    gap: 20px; /* Ajoute un espace entre les boutons */
-    margin-top: 20px; /* Ajoute un espace entre les boutons et les cartes */
+    justify-content: space-between;
+    width: 200px;
   }
-  
 
-  .xl-button {
+  button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
@@ -812,7 +810,7 @@ width: 100%;
     color: white;
   }
 
-  .xl-button:disabled {
+  button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
   }

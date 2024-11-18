@@ -351,33 +351,3 @@ document.querySelectorAll('.card').forEach(card => {
 </script>
 <!--  fin card AUTEURS -->
 
-<script>
-    const xlGroup1 = document.getElementById('xl-group1');
-    const xlGroup2 = document.getElementById('xl-group2');
-    const xlBackButton = document.getElementById('xl-backButton');
-    const xlNextGroupButton = document.getElementById('xl-nextGroupButton');
-
-    let currentGroup = 1;
-
-    xlBackButton.addEventListener('click', () => {
-      if (currentGroup > 1) {
-        currentGroup--;
-        updateGroups();
-      }
-    });
-
-    xlNextGroupButton.addEventListener('click', () => {
-      if (currentGroup < 2) {
-        currentGroup++;
-        updateGroups();
-      }
-    });
-
-    function updateGroups() {
-      xlGroup1.classList.toggle('xl-hidden', currentGroup !== 1);
-      xlGroup2.classList.toggle('xl-hidden', currentGroup !== 2);
-
-      xlBackButton.disabled = currentGroup === 1;
-      xlNextGroupButton.disabled = currentGroup === 2;
-    }
-  </script>
