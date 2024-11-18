@@ -317,11 +317,6 @@
     </a>
   </div>
 </div>
-  <!-- Boutons de navigation -->
-  <div class="xl-navigation">
-  <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
-  <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
-</div>
 
 
 <?php include("promotions.php"); ?>

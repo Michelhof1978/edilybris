@@ -812,7 +812,7 @@ width: 100%;
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color:#ffcc00; /* Boutons jaunes */
+    background-color:#ffcc00; /* Boutons bleus */
     color: rgb(6, 6, 6);
   }
   
@@ -820,26 +820,14 @@ width: 100%;
     background-color: #ccc;
     cursor: not-allowed;
   }
-  
-  /* Désactive le soulignement et le contour bleu des liens dans les cartes */
-  .xl-card a, /* Cible tous les liens dans les cartes */
-  .xl-card a:hover, /* Cible les liens au survol */
-  .xl-card a:focus { /* Cible les liens en focus */
-    text-decoration: none; /* Enlève le soulignement */
-    outline: none; /* Enlève le contour bleu au focus */
-    color: inherit; /* Hérite la couleur du texte du parent */
+  a {
+    text-decoration: none; /* Désactive le soulignement des liens */
+    color: inherit; /* Assure que le texte du lien prend la couleur par défaut (celle du parent) */
   }
   
-  /* Cibler également les boutons au focus pour éviter le contour bleu */
-  .xl-button:focus {
-    outline: none; /* Enlève le contour bleu sur les boutons au focus */
+  a:hover {
+    text-decoration: none; /* Désactive le soulignement au survol */
+    color: inherit; /* Garde la couleur du texte inchangée au survol */
   }
-  
-  /* Cibler tous les liens dans les cartes, au survol et au focus */
-  .xl-card a:hover {
-    text-decoration: none; /* Enlève le soulignement au survol */
-    outline: none; /* Enlève le contour bleu au survol */
-  }
-  
   
 /*FIN CARD XL*/

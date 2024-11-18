@@ -731,115 +731,108 @@ width: 100%;
 /*FIN  livres PROMO*/
 /*CARD XL*/
 .xl-card-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    margin: 20px 0;
-    flex-wrap: wrap;
-  }
-  
-  .xl-card {
-    width: 200px;
-    background-color: #000; /* Fond noir pour les cartes */
-    border: 1px solid #333; /* Bordure gris foncé */
-    border-radius: 8px;
-    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-  }
-  
-  .xl-card img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .xl-card-content {
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    color: #fff; /* Texte blanc pour le contenu */
-  }
-  
-  .xl-card-title {
-    font-size: 16px;
-    font-weight: bold;
-    color: #fff; /* Titre en blanc */
-    text-align: center; /* Centre le titre */
-  }
-  
-  .xl-card-author {
-    font-size: 14px;
-    color: #ccc; /* Auteur en gris clair */
-    text-align: center; /* Centre l'auteur */
-  }
-  
-  .xl-card-description {
-    font-size: 12px;
-    color: #eee; /* Description en blanc cassé */
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    text-align: center; /* Centre la description */
-  }
-  
-  .xl-card-price {
-    font-size: 16px;
-    font-weight: bold;
-    color: #ffcc00; /* Prix en vert clair */
-    margin-top: 10px;
-    text-align: center; /* Centre le prix */
-  }
-  
-  .xl-hidden {
-    display: none;
-  }
-  
-  .xl-navigation {
-    display: flex;
-    justify-content: center;
-    gap: 20px; /* Ajoute un espace entre les boutons */
-    margin-top: 20px; /* Ajoute un espace entre les boutons et les cartes */
-  }
-  
-  .xl-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    background-color:#ffcc00; /* Boutons jaunes */
-    color: rgb(6, 6, 6);
-  }
-  
-  .xl-button:disabled {
-    background-color: #ccc;
-    cursor: not-allowed;
-  }
-  
-  /* Désactive le soulignement et le contour bleu des liens dans les cartes */
-  .xl-card a, /* Cible tous les liens dans les cartes */
-  .xl-card a:hover, /* Cible les liens au survol */
-  .xl-card a:focus { /* Cible les liens en focus */
-    text-decoration: none; /* Enlève le soulignement */
-    outline: none; /* Enlève le contour bleu au focus */
-    color: inherit; /* Hérite la couleur du texte du parent */
-  }
-  
-  /* Cibler également les boutons au focus pour éviter le contour bleu */
-  .xl-button:focus {
-    outline: none; /* Enlève le contour bleu sur les boutons au focus */
-  }
-  
-  /* Cibler tous les liens dans les cartes, au survol et au focus */
-  .xl-card a:hover {
-    text-decoration: none; /* Enlève le soulignement au survol */
-    outline: none; /* Enlève le contour bleu au survol */
-  }
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+
+.xl-card {
+  width: 200px;
+  background-color: #000; /* Fond noir pour les cartes */
+  border: 1px solid #333; /* Bordure gris foncé */
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.xl-card img {
+  width: 100%;
+  height: auto;
+}
+
+.xl-card-content {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: #fff; /* Texte blanc pour le contenu */
+}
+
+.xl-card-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; /* Titre en blanc */
+  text-align: center; /* Centre le titre */
+}
+
+.xl-card-author {
+  font-size: 14px;
+  color: #ccc; /* Auteur en gris clair */
+  text-align: center; /* Centre l'auteur */
+}
+
+.xl-card-description {
+  font-size: 12px;
+  color: #eee; /* Description en blanc cassé */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-align: center; /* Centre la description */
+}
+
+.xl-card-price {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffcc00; /* Prix en vert clair */
+  margin-top: 10px;
+  text-align: center; /* Centre le prix */
+}
+
+.xl-hidden {
+  display: none;
+}
+
+.xl-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Ajoute un espace entre les boutons */
+  margin-top: 20px; /* Ajoute un espace entre les boutons et les cartes */
+}
+
+.xl-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color:#ffcc00; /* Boutons bleus */
+  color: rgb(6, 6, 6);
+}
+
+.xl-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Désactive le soulignement et l'outline des liens */
+a {
+  text-decoration: none; /* Désactive le soulignement des liens */
+  color: inherit; /* Prend la couleur du parent pour le texte */
+  outline: none; /* Enlève le contour bleu */
+}
+
+a:hover {
+  text-decoration: none; /* Désactive le soulignement au survol */
+  color: inherit; /* Garde la couleur du texte inchangée au survol */
+  outline: none; /* Enlève le contour bleu au survol */
+}
+
   
 /*FIN CARD XL*/

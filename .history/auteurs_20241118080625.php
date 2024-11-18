@@ -200,10 +200,9 @@
     </div>
 </div>
 
- <!-- Groupe 1 card XL-->
-<div id="xl-group1" class="xl-card-container">
-  <div class="xl-card">
-    <a href="link_to_book_1.html">
+ <!-- Groupe 1 -->
+ <div id="xl-group1" class="xl-card-container">
+    <div class="xl-card">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" alt="Livre 1">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 1</div>
@@ -211,21 +210,17 @@
         <div class="xl-card-description">Description du livre 1.</div>
         <div class="xl-card-price">15,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_2.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre 2">
+    </div>
+    <div class="xl-card">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 2">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 2</div>
         <div class="xl-card-author">Auteur 2</div>
         <div class="xl-card-description">Description du livre 2.</div>
         <div class="xl-card-price">19,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_3.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 3">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 3</div>
@@ -233,10 +228,8 @@
         <div class="xl-card-description">Description du livre 3.</div>
         <div class="xl-card-price">9,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_4.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 4">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 4</div>
@@ -244,10 +237,8 @@
         <div class="xl-card-description">Description du livre 4.</div>
         <div class="xl-card-price">12,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_5.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 5">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 5</div>
@@ -255,14 +246,12 @@
         <div class="xl-card-description">Description du livre 5.</div>
         <div class="xl-card-price">14,99 €</div>
       </div>
-    </a>
+    </div>
   </div>
-</div>
 
-<!-- Groupe 2 -->
-<div id="xl-group2" class="xl-card-container xl-hidden">
-  <div class="xl-card">
-    <a href="link_to_book_6.html">
+  <!-- Groupe 2 -->
+  <div id="xl-group2" class="xl-card-container xl-hidden">
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 6">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 6</div>
@@ -270,10 +259,8 @@
         <div class="xl-card-description">Description du livre 6.</div>
         <div class="xl-card-price">16,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_7.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 7">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 7</div>
@@ -281,10 +268,8 @@
         <div class="xl-card-description">Description du livre 7.</div>
         <div class="xl-card-price">11,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_8.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 8">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 8</div>
@@ -292,10 +277,8 @@
         <div class="xl-card-description">Description du livre 8.</div>
         <div class="xl-card-price">13,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_9.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 9">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 9</div>
@@ -303,10 +286,8 @@
         <div class="xl-card-description">Description du livre 9.</div>
         <div class="xl-card-price">17,99 €</div>
       </div>
-    </a>
-  </div>
-  <div class="xl-card">
-    <a href="link_to_book_10.html">
+    </div>
+    <div class="xl-card">
       <img src="https://via.placeholder.com/200x300" alt="Livre 10">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 10</div>
@@ -314,9 +295,9 @@
         <div class="xl-card-description">Description du livre 10.</div>
         <div class="xl-card-price">18,99 €</div>
       </div>
-    </a>
+    </div>
   </div>
-</div>
+
   <!-- Boutons de navigation -->
   <div class="xl-navigation">
   <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
