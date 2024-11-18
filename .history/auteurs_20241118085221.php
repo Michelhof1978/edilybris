@@ -263,7 +263,7 @@
 <div id="xl-group2" class="xl-card-container xl-hidden">
   <div class="xl-card">
     <a href="link_to_book_6.html">
-      <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" alt="Livre 6">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 6">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 6</div>
         <div class="xl-card-author">Auteur 6</div>
@@ -285,7 +285,7 @@
   </div>
   <div class="xl-card">
     <a href="link_to_book_8.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre 8">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 8">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 8</div>
         <div class="xl-card-author">Auteur 8</div>
@@ -296,7 +296,7 @@
   </div>
   <div class="xl-card">
     <a href="link_to_book_9.html">
-      <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" alt="Livre 9">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 9">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 9</div>
         <div class="xl-card-author">Auteur 9</div>
@@ -307,7 +307,7 @@
   </div>
   <div class="xl-card">
     <a href="link_to_book_10.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre 10">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 10">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 10</div>
         <div class="xl-card-author">Auteur 10</div>

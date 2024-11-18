@@ -307,7 +307,7 @@
   </div>
   <div class="xl-card">
     <a href="link_to_book_10.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre 10">
+      <img src="https://via.placeholder.com/200x300" alt="Livre 10">
       <div class="xl-card-content">
         <div class="xl-card-title">Titre du Livre 10</div>
         <div class="xl-card-author">Auteur 10</div>
