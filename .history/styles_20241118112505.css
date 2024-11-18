@@ -876,7 +876,6 @@ width: 100%;
   
 /*FIN CARD XL*/
 
-/*ZOOM CARTE NOUVEAUTE ET PROMO*/
 /* Définir une transition douce pour la carte entière */
 .card {
     transition: transform 0.3s ease; /* Transition pour l'effet de zoom */
@@ -892,4 +891,3 @@ width: 100%;
 .card:hover {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Ombre plus prononcée au survol */
 }
-/*FIN ZOOM CARTE NOUVEAUTE ET PROMO*/

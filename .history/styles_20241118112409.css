@@ -876,20 +876,18 @@ width: 100%;
   
 /*FIN CARD XL*/
 
-/*ZOOM CARTE NOUVEAUTE ET PROMO*/
-/* Définir une transition douce pour la carte entière */
+/* Assurez-vous que l'image est bien dimensionnée */
+.book-cover {
+    width: 100%;
+    transition: transform 0.3s ease;  /* Transition douce pour l'effet de zoom */
+}
+
+/* Appliquer l'effet de zoom au survol */
+.card:hover .book-cover {
+    transform: scale(1.1);  /* Augmente la taille de l'image de 10% */
+}
+
+/* Pour éviter que l'image dépasse de la carte */
 .card {
-    transition: transform 0.3s ease; /* Transition pour l'effet de zoom */
-    overflow: hidden; /* Empêche le contenu de dépasser la carte */
+    overflow: hidden;
 }
-
-/* Appliquer le zoom sur la carte entière au survol */
-.card:hover {
-    transform: scale(1.05); /* Zoom à 5% */
-}
-
-/* Optionnel : une légère ombre pour améliorer l'effet de survol */
-.card:hover {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Ombre plus prononcée au survol */
-}
-/*FIN ZOOM CARTE NOUVEAUTE ET PROMO*/

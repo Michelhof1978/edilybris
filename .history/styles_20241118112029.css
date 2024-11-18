@@ -554,35 +554,16 @@ width: 100%;
   
  
 
-/* squelette card*/
-.book-card a:hover, /* Cible tous les liens dans les cartes au survol */
+/* Squelette card */
+.book-card a:hover,
 .book-card a {
     text-decoration: none; /* Désactive la décoration de texte (comme un soulignement) */
 }
-/* Cibler tous les liens dans les cartes, y compris au survol */
-.card a,  /* Remplacez '.card' par toute autre classe de carte spécifique si nécessaire */
+
+/* Cible tous les liens dans les cartes, y compris au survol */
+.card a, /* Remplacez '.card' par toute autre classe de carte spécifique si nécessaire */
 .card a:hover {
     text-decoration: none; /* Désactive le soulignement ou autres décorations */
-}
-
-
-  .book-carousel-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    
-}
-
-.book-carousel {
-    display: flex;
-    transition: transform 0.3s ease;
-}
-
-.book-group {
-    display: flex;
-    gap: 15px;
-    min-width: 100%;
-    justify-content: flex-start;
 }
 
 .book-card {
@@ -592,16 +573,19 @@ width: 100%;
     min-width: 200px;
     max-width: 200px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s;
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Transition fluide pour l'agrandissement et l'ombre */
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
 
+/* Effet au survol de la carte */
 .book-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.05); /* Agrandissement de la carte */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Ombre plus marquée */
 }
 
+/* Styles pour les autres éléments (image, titre, etc.) */
 .book-cover {
     width: 100%;
     height: auto;
@@ -645,6 +629,7 @@ width: 100%;
     margin-top: 15px;
 }
 
+/* Autres styles de votre page */
 .carousel-navigation {
     display: flex;
     justify-content: center;
@@ -665,56 +650,7 @@ width: 100%;
     background-color: #f39c12;
 }
 
-.book-group:nth-child(2) {
-    display: none; /* Hide Group 2 initially */
-}
-/* FIN squelette card*/
-/* nouveauté card*/
-.netflix-card {
-    background-color: #141414;
-    color: white;
-    border: none;
-    border-radius: 10px;
-    width: 14rem; /* Taille réduite */
-}
-.netflix-card img {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    height: 150px; /* Réduction de la hauteur de l'image */
-    object-fit: cover;
-}
-.netflix-card .card-body {
-    text-align: center;
-    padding: 0.75rem; /* Réduction du padding */
-}
-.netflix-card .card-title {
-    font-size: 1rem; /* Taille du titre réduite */
-}
-.netflix-card .card-text {
-    font-size: 0.9rem; /* Taille du texte réduite */
-}
-.netflix-card .card-price {
-    font-size: 1rem;
-    font-weight: bold;
-    color: #e50914;
-}
-
-/* Style pour le lien et le contenu du livre */
-.book-cover {
-    width: 100%;
-    border-radius: 10px;
-}
-.book-details {
-    text-align: center;
-    padding: 10px;
-    background-color: #1E3A5F;
-    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-}
-/* FIN nouveauté card*/
-/* livres PROMO*/
+/* Card pour les livres promotionnels */
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
     text-decoration: line-through; /* S'assurer que le texte est barré */
@@ -728,7 +664,7 @@ width: 100%;
     animation: blink 3s infinite; /* Appliquer l'animation de clignotement plus lent */
 }
 
-/* Définition de l'animation de clignotement */
+/* Animation de clignotement */
 @keyframes blink {
     0% {
         opacity: 1;
@@ -741,9 +677,7 @@ width: 100%;
     }
 }
 
-/*FIN  livres PROMO*/
-/*CARD XL*/
-/* Conteneur des cartes */
+/* Card XL */
 .xl-card-container {
     display: flex;
     justify-content: center;
@@ -751,145 +685,69 @@ width: 100%;
     gap: 10px;
     margin: 20px 0;
     flex-wrap: wrap;
-  }
-  
-  /* Style de base des cartes */
-  .xl-card {
+}
+
+.xl-card {
     width: 200px;
     background-color: #1E3A5F;
-    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
-    border: 1px solid #333; /* Bordure gris foncé */
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #333;
     border-radius: 8px;
-    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation pour l'effet au survol */
-  }
-  
-  /* Effet de mise en avant au survol de la carte */
-  .xl-card:hover {
-    transform: scale(1.05); /* Agrandissement de la carte de 5% */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.xl-card:hover {
+    transform: scale(1.05); /* Agrandissement de la carte */
     box-shadow: 4px 4px 15px rgba(255, 255, 255, 0.3); /* Ombre plus marquée */
     cursor: pointer; /* Change le curseur pour indiquer l'interactivité */
-  }
-  
-  /* Style des images dans les cartes */
-  .xl-card img {
+}
+
+/* Autres styles pour Card XL */
+.xl-card img {
     width: 100%;
     height: auto;
-  }
-  
-  /* Contenu de la carte */
-  .xl-card-content {
+}
+
+.xl-card-content {
     padding: 10px;
     display: flex;
     flex-direction: column;
     gap: 8px;
-    color: #fff; /* Texte blanc pour le contenu */
-  }
-  
-  /* Titre du livre */
-  .xl-card-title {
+    color: #fff;
+}
+
+.xl-card-title {
     font-size: 16px;
     font-weight: bold;
-    color: #fff; /* Titre en blanc */
-    text-align: center; /* Centre le titre */
-  }
-  
-  /* Auteur du livre */
-  .xl-card-author {
+    color: #fff;
+    text-align: center;
+}
+
+.xl-card-author {
     font-size: 14px;
-    color: #ccc; /* Auteur en gris clair */
-    text-align: center; /* Centre l'auteur */
-  }
-  
-  /* Description du livre */
-  .xl-card-description {
+    color: #ccc;
+    text-align: center;
+}
+
+.xl-card-description {
     font-size: 12px;
-    color: #eee; /* Description en blanc cassé */
+    color: #eee;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 3; /* Limite la description à 3 lignes */
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    text-align: center; /* Centre la description */
-  }
-  
-  /* Prix du livre */
-  .xl-card-price {
+    text-align: center;
+}
+
+.xl-card-price {
     font-size: 16px;
     font-weight: bold;
-    color: #ffcc00; /* Prix en jaune */
+    color: #ffcc00;
     margin-top: 10px;
-    text-align: center; /* Centre le prix */
-  }
-  
-  /* Cacher les groupes de cartes */
-  .xl-hidden {
-    display: none;
-  }
-  
-  /* Style de la navigation entre les groupes de cartes */
-  .xl-navigation {
-    display: flex;
-    justify-content: center;
-    gap: 20px; /* Espacement entre les boutons */
-    margin-top: 20px; /* Espace entre les boutons et les cartes */
-  }
-  
-  /* Style des boutons de navigation */
-  .xl-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    background-color: #ffcc00; /* Boutons jaunes */
-    color: rgb(6, 6, 6);
-  }
-  
-  .xl-button:disabled {
-    background-color: #ccc;
-    cursor: not-allowed;
-  }
-  
-  /* Désactive le soulignement et le contour bleu des liens dans les cartes */
-  .xl-card a, /* Cible tous les liens dans les cartes */
-  .xl-card a:hover { /* Cible les liens dans les cartes au survol */
-    text-decoration: none; /* Enlève le soulignement */
-    outline: none; /* Enlève le contour bleu au focus */
-    color: inherit; /* Hérite la couleur du texte du parent */
-  }
-  
-  /* Cibler également les boutons au focus pour éviter le contour bleu */
-  .xl-button:focus {
-    outline: none; /* Enlève le contour bleu sur les boutons au focus */
-  }
-  
-  /* Cibler tous les liens dans les cartes, au survol et au focus */
-  .xl-card a:hover {
-    text-decoration: none; /* Enlève le soulignement au survol */
-    outline: none; /* Enlève le contour bleu au survol */
-  }
-  
-/*FIN CARD XL*/
-
-/*ZOOM CARTE NOUVEAUTE ET PROMO*/
-/* Définir une transition douce pour la carte entière */
-.card {
-    transition: transform 0.3s ease; /* Transition pour l'effet de zoom */
-    overflow: hidden; /* Empêche le contenu de dépasser la carte */
+    text-align: center;
 }
-
-/* Appliquer le zoom sur la carte entière au survol */
-.card:hover {
-    transform: scale(1.05); /* Zoom à 5% */
-}
-
-/* Optionnel : une légère ombre pour améliorer l'effet de survol */
-.card:hover {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Ombre plus prononcée au survol */
-}
-/*FIN ZOOM CARTE NOUVEAUTE ET PROMO*/
