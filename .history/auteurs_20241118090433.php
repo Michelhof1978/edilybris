@@ -2,6 +2,12 @@
 
  <title></title>
  <meta name="description" content="">
+ 
+
+ <style>
+  
+
+ </style>
 
  </head>
  <?php include("header.php"); ?>
@@ -195,7 +201,7 @@
 </div>
 
 <div class="text-center">
-        <img class="w-25" src="images/livreAuteurs.png" alt="Image centrée">
+        <img class="w-75" src="images/livreAuteurs.png" alt="Image centrée">
     </div>
 
  <!-- Groupe 1 card XL-->

@@ -271,7 +271,7 @@ width: 100%;
 
 .footer-cta i {
     font-size: 1.5rem;
-    color: #ffcc00;
+    color: #fffbfb;
     margin-right: 0.5rem;
     display: inline-block;
     vertical-align: middle; /* Assure que les icônes restent au même niveau */
@@ -315,7 +315,7 @@ width: 100%;
 }
 
 .cta-text span {
-    color: #fff;
+    color: #f3ecec;
     font-size: 15px;
 }
 
@@ -345,7 +345,7 @@ width: 100%;
 .footer-text p {
     margin-bottom: 14px;
     font-size: 14px;
-    color: #fff;
+    color: #f1eeee;
     line-height: 28px;
 }
 
@@ -440,7 +440,7 @@ width: 100%;
 }
 
 .footer-links ul li a {
-    color: #fff;
+    color: #878787;
     text-transform: capitalize;
 }
 
@@ -465,8 +465,9 @@ width: 100%;
 .subscribe-form button {
     position: absolute;
     right: 0;
-    background:#ffcc00;
+    background: rgba(228, 28, 61, 0.427);
     padding: 13px 20px;
+    border: 1px solid #2f8193;
     top: 0;
 }
 
@@ -698,9 +699,8 @@ width: 100%;
 .book-details {
     text-align: center;
     padding: 10px;
-    background-color: #1E3A5F;
-    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
+    background-color: #4A90E2;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
@@ -747,10 +747,9 @@ width: 100%;
   /* Style de base des cartes */
   .xl-card {
     width: 200px;
-    background-color: #1E3A5F;
-    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
-    border: 1px solid #333; /* Bordure gris foncé */
+    background-color: #4A90E2;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
     display: flex;
