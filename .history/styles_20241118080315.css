@@ -784,7 +784,6 @@ width: 100%;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    text-align: center; /* Centre la description */
   }
   
   .xl-card-price {
@@ -792,7 +791,6 @@ width: 100%;
     font-weight: bold;
     color: #ffcc00; /* Prix en vert clair */
     margin-top: 10px;
-    text-align: center; /* Centre le prix */
   }
   
   .xl-hidden {

@@ -351,7 +351,7 @@ document.querySelectorAll('.card').forEach(card => {
 </script>
 <!--  fin card AUTEURS -->
 
-<!--  card XL-->
+
 <script>
     const xlGroup1 = document.getElementById('xl-group1');
     const xlGroup2 = document.getElementById('xl-group2');
@@ -382,4 +382,3 @@ document.querySelectorAll('.card').forEach(card => {
       xlNextGroupButton.disabled = currentGroup === 2;
     }
   </script>
-  <!--  FIN card XL-->

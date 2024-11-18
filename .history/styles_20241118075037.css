@@ -738,67 +738,62 @@ width: 100%;
     margin: 20px 0;
     flex-wrap: wrap;
   }
-  
+
   .xl-card {
     width: 200px;
-    background-color: #000; /* Fond noir pour les cartes */
-    border: 1px solid #333; /* Bordure gris foncé */
+    background-color: #ffffff;
+    border: 1px solid #ccc;
     border-radius: 8px;
-    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: column;
     overflow: hidden;
   }
-  
+
   .xl-card img {
     width: 100%;
     height: auto;
   }
-  
+
   .xl-card-content {
     padding: 10px;
     display: flex;
     flex-direction: column;
     gap: 8px;
-    color: #fff; /* Texte blanc pour le contenu */
   }
-  
+
   .xl-card-title {
     font-size: 16px;
     font-weight: bold;
-    color: #fff; /* Titre en blanc */
-    text-align: center; /* Centre le titre */
+    color: #333;
   }
-  
+
   .xl-card-author {
     font-size: 14px;
-    color: #ccc; /* Auteur en gris clair */
-    text-align: center; /* Centre l'auteur */
+    color: #666;
   }
-  
+
   .xl-card-description {
     font-size: 12px;
-    color: #eee; /* Description en blanc cassé */
+    color: #444;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    text-align: center; /* Centre la description */
   }
-  
+
   .xl-card-price {
     font-size: 16px;
     font-weight: bold;
-    color: #ffcc00; /* Prix en vert clair */
+    color: #007bff;
     margin-top: 10px;
-    text-align: center; /* Centre le prix */
   }
-  
+
   .xl-hidden {
     display: none;
   }
-  
+
   .xl-navigation {
     display: flex;
     justify-content: center;
@@ -806,16 +801,17 @@ width: 100%;
     margin-top: 20px; /* Ajoute un espace entre les boutons et les cartes */
   }
   
+
   .xl-button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color:#ffcc00; /* Boutons bleus */
-    color: rgb(6, 6, 6);
+    background-color: #007bff;
+    color: white;
   }
-  
+
   .xl-button:disabled {
     background-color: #ccc;
     cursor: not-allowed;

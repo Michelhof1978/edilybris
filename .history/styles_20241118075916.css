@@ -747,7 +747,9 @@ width: 100%;
     box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); /* Ombre légère blanche */
     display: flex;
     flex-direction: column;
+    justify-content: space-between; /* Aligne le contenu à l'intérieur */
     overflow: hidden;
+    height: 350px; /* Fixe la hauteur des cartes */
   }
   
   .xl-card img {
@@ -761,6 +763,9 @@ width: 100%;
     flex-direction: column;
     gap: 8px;
     color: #fff; /* Texte blanc pour le contenu */
+    justify-content: center; /* Centre verticalement le contenu */
+    align-items: center; /* Centre horizontalement le contenu */
+    flex-grow: 1; /* Permet au contenu de remplir l'espace restant */
   }
   
   .xl-card-title {
@@ -792,7 +797,6 @@ width: 100%;
     font-weight: bold;
     color: #ffcc00; /* Prix en vert clair */
     margin-top: 10px;
-    text-align: center; /* Centre le prix */
   }
   
   .xl-hidden {

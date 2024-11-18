@@ -382,4 +382,4 @@ document.querySelectorAll('.card').forEach(card => {
       xlNextGroupButton.disabled = currentGroup === 2;
     }
   </script>
-  <!--  FIN card XL-->
+  <!--  FINcard XL-->

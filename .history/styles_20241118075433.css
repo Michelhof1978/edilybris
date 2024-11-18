@@ -767,13 +767,11 @@ width: 100%;
     font-size: 16px;
     font-weight: bold;
     color: #fff; /* Titre en blanc */
-    text-align: center; /* Centre le titre */
   }
   
   .xl-card-author {
     font-size: 14px;
     color: #ccc; /* Auteur en gris clair */
-    text-align: center; /* Centre l'auteur */
   }
   
   .xl-card-description {
@@ -784,15 +782,13 @@ width: 100%;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    text-align: center; /* Centre la description */
   }
   
   .xl-card-price {
     font-size: 16px;
     font-weight: bold;
-    color: #ffcc00; /* Prix en vert clair */
+    color: #00ff00; /* Prix en vert clair */
     margin-top: 10px;
-    text-align: center; /* Centre le prix */
   }
   
   .xl-hidden {
@@ -813,7 +809,7 @@ width: 100%;
     border: none;
     border-radius: 5px;
     background-color:#ffcc00; /* Boutons bleus */
-    color: rgb(6, 6, 6);
+    color: white;
   }
   
   .xl-button:disabled {

@@ -792,7 +792,6 @@ width: 100%;
     font-weight: bold;
     color: #ffcc00; /* Prix en vert clair */
     margin-top: 10px;
-    text-align: center; /* Centre le prix */
   }
   
   .xl-hidden {
