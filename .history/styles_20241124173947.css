@@ -11,8 +11,7 @@
     height: 100%;
     overflow-x: hidden; /* Évite les débordements horizontaux */
     overflow-y: auto;   /* Active le défilement vertical uniquement si nécessaire */
-    scroll-behavior: smooth; /* présentation auteur */
-
+    
 }
 
 
@@ -1477,7 +1476,7 @@ input[type="email"]:focus {
   position: absolute;
   content: "";
   inset: 0;
-  background: linear-gradient(to right, #559b9a, #3b3d8a);
+  background: linear-gradient(to right, #559b9a,  #1E3A5F);
   border-radius: 50%;
   z-index: -1;
   transition: all 0.5s ease-in;

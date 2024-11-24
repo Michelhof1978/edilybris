@@ -310,7 +310,7 @@
             document.getElementById('cookie-banner').style.display = 'block';
         }, 2000);
     }
-</script>
+</script8
 <!-- _____________________________________________________________________________________ -->
 
 <!--SEO -->

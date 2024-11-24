@@ -65,7 +65,7 @@
       </div>
     </section>
 
-    <!-- <section class="card-auteur-container" id="card-auteur-container">
+    <section class="card-auteur-container" id="card-auteur-container">
       <div class="slider-auteur">
         <div class="card-auteur" data-tilt>
           <div class="content-auteur">
@@ -172,7 +172,7 @@
           <ion-icon name="caret-forward-outline"></ion-icon>
         </li>
       </ul>
-    </section> -->
+    </section>
 <!--FIN  PRESENTATION AUTEURS -->
 
  <?php include("nouveaute.php"); ?>

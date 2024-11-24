@@ -65,7 +65,15 @@
       </div>
     </section>
 
-    <!-- <section class="card-auteur-container" id="card-auteur-container">
+    our mentor can provide practical wisdom
+              that textbooks can't teach.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div<section class="card-auteur-container" id="card-auteur-container">
       <div class="slider-auteur">
         <div class="card-auteur" data-tilt>
           <div class="content-auteur">
@@ -137,15 +145,7 @@
             <h1>Expert Insights</h1>
             <p>
               Gain access to industry insights and expert knowledge that you
-              won't find in textbooks. Your mentor can provide practical wisdom
-              that textbooks can't teach.
-            </p>
-            <button class="btn btn-grad">
-              <span>Learn More</span>
-              <ion-icon name="arrow-forward-outline"></ion-icon>
-            </button>
-          </div>
-        </div>
+              won't find in textbooks. Y>
 
         <div class="card-auteur" data-tilt>
           <div class="content-auteur">
@@ -172,7 +172,7 @@
           <ion-icon name="caret-forward-outline"></ion-icon>
         </li>
       </ul>
-    </section> -->
+    </section>
 <!--FIN  PRESENTATION AUTEURS -->
 
  <?php include("nouveaute.php"); ?>

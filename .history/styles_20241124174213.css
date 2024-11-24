@@ -11,8 +11,7 @@
     height: 100%;
     overflow-x: hidden; /* Évite les débordements horizontaux */
     overflow-y: auto;   /* Active le défilement vertical uniquement si nécessaire */
-    scroll-behavior: smooth; /* présentation auteur */
-
+    
 }
 
 
@@ -1464,7 +1463,7 @@ input[type="email"]:focus {
   align-items: center;
   background: linear-gradient(to bottom, #559b9a, #3b3d8a);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5),
-    inset 0px 4px 4px rgba(255, 255, 255, 0.2);
+    inset 0px 4px 4px  #1E3A5F;
   padding: 12px;
   border-radius: 50%;
   font-size: 1.5rem;
