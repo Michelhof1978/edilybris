@@ -174,7 +174,6 @@
         </li>
       </ul>
     </section>
-    
  <?php include("nouveaute.php"); ?>
 
   <div class="container mt-5">

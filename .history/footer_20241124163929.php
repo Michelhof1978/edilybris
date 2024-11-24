@@ -373,8 +373,7 @@ ________________________________________________________________________________
   </script>
   <!--  FIN card XL-->
 
-  <script>
-    var slider = tns({
+  var slider = tns({
   container: ".slider",
   items: 3,
   speed: 500,
@@ -1028,5 +1027,3 @@ var VanillaTilt = (function () {
 
   return VanillaTilt;
 })();
-
-  </script>
