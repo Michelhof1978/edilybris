@@ -374,7 +374,7 @@ ________________________________________________________________________________
   <!--  FIN card XL-->
 
 
-<!--  PRESENTATION AUTEUR-->
+<!--  FIN card XL-->
   <script>
     var slider = tns({
   container: ".slider",
@@ -1024,4 +1024,3 @@ var VanillaTilt = (function () {
 })();
 
   </script>
-  <!--  FIN PRESENTATION AUTEUR-->

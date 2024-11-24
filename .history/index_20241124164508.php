@@ -3,12 +3,11 @@
  <title></title>
  <meta name="description" content="">
  </head>
-
+ 
  <?php include("header.php"); ?>
  
  <h1 class="text-white text-center m-4">Bienvenue sur le site d'Eli'dybris</h1>
   
-  <!-- PRESENTATION AUTEURS -->
  <section class="home">
       <div class="description">
         <h1 class="title">
@@ -65,10 +64,10 @@
       </div>
     </section>
 
-    <section class="card-auteur-container" id="card-auteur-container">
-      <div class="slider-auteur">
-        <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+    <section class="card-container" id="card-container">
+      <div class="slider">
+        <div class="card" data-tilt>
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/10088b1a-c0aa-42a9-8dff-1a692eb597d6" alt="" />
             <h1>Personalized Guidance</h1>
             <p>
@@ -83,8 +82,8 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+        <div class="card" data-tilt>
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/69fb8584-66a0-4ecd-bae5-dd00015a1ad5" alt="" />
             <h1>Accelerated Growth</h1>
             <p>
@@ -99,7 +98,7 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
+        <div class="card" data-tilt>
           <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d49bdb0f-c717-4063-abe4-869cb3bc8b4e" alt="" />
             <h1>Inspiration & Motivation</h1>
@@ -115,8 +114,8 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+        <div class="card" data-tilt>
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/fd1d57e3-de8a-438a-9e9a-952ae65a776e" alt="" />
             <h1>Networking & Connections</h1>
             <p>
@@ -131,8 +130,8 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+        <div class="card" data-tilt>
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/331836c0-0d28-48d1-a1c2-b5f5db87fe17" alt="" />
             <h1>Expert Insights</h1>
             <p>
@@ -147,8 +146,8 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+        <div class="card" data-tilt>
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2d022825-47f9-4e6a-bc97-14b47dc3242f" alt="" />
             <h1>Confidence & Self-Esteem</h1>
             <p>
@@ -173,7 +172,6 @@
         </li>
       </ul>
     </section>
-<!--FIN  PRESENTATION AUTEURS -->
 
  <?php include("nouveaute.php"); ?>
 

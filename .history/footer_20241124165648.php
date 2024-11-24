@@ -1024,4 +1024,3 @@ var VanillaTilt = (function () {
 })();
 
   </script>
-  <!--  FIN PRESENTATION AUTEUR-->

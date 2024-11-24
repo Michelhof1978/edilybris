@@ -373,8 +373,6 @@ ________________________________________________________________________________
   </script>
   <!--  FIN card XL-->
 
-
-<!--  PRESENTATION AUTEUR-->
   <script>
     var slider = tns({
   container: ".slider",
@@ -475,6 +473,7 @@ function type() {
 
 var VanillaTilt = (function () {
   "use strict";
+
   class VanillaTilt {
     constructor(element, settings = {}) {
       if (!(element instanceof Node)) {
@@ -1024,4 +1023,3 @@ var VanillaTilt = (function () {
 })();
 
   </script>
-  <!--  FIN PRESENTATION AUTEUR-->

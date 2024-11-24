@@ -99,7 +99,7 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
+        <div class="card" data-tilt>
           <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d49bdb0f-c717-4063-abe4-869cb3bc8b4e" alt="" />
             <h1>Inspiration & Motivation</h1>
@@ -116,7 +116,7 @@
         </div>
 
         <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/fd1d57e3-de8a-438a-9e9a-952ae65a776e" alt="" />
             <h1>Networking & Connections</h1>
             <p>
@@ -132,7 +132,7 @@
         </div>
 
         <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/331836c0-0d28-48d1-a1c2-b5f5db87fe17" alt="" />
             <h1>Expert Insights</h1>
             <p>
@@ -147,8 +147,8 @@
           </div>
         </div>
 
-        <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+        <div class="card" data-tilt>
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2d022825-47f9-4e6a-bc97-14b47dc3242f" alt="" />
             <h1>Confidence & Self-Esteem</h1>
             <p>

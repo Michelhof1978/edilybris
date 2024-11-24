@@ -148,7 +148,7 @@
         </div>
 
         <div class="card-auteur" data-tilt>
-          <div class="content-auteur">
+          <div class="content">
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2d022825-47f9-4e6a-bc97-14b47dc3242f" alt="" />
             <h1>Confidence & Self-Esteem</h1>
             <p>
