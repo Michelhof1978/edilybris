@@ -12,13 +12,12 @@
  <section class="home">
       <div class="description">
         <h1 class="title">
-          <span class="gradient-text">ASSOCIATION</span> edi'Lybris
+          <span class="gradient-text">Grow Professionally</span> with the Best
         </h1>
         <p class="paragraph">
-        Une communauté d'auteurs passionnés unis par l'amour des mots et l'envie de partager leurs créations littéraires avec le monde.<br><br>
-
-Notre association rassemble écrivains confirmés et nouveaux talents pour promouvoir la richesse et la diversité de la littérature contemporaine.<br>
-
+          In a world filled with opportunities, having a mentor can make all the
+          difference. Explore why people turn to this invaluable resource to
+          unlock their potential.
         </p>
         <!-- <form id="form" autocomplete="off">
           <input
@@ -46,7 +45,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         <span class="item" style="--i: 3"></span>
         <img
           class="item"
-          src="images/davidBeaulieu/davidBeaulieu.png"
+          src="images/jeanPierreCretel/jeanPierreCretel.png"
           style="--i: 4"
           alt="" />
 

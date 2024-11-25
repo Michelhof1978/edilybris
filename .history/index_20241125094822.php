@@ -12,13 +12,12 @@
  <section class="home">
       <div class="description">
         <h1 class="title">
-          <span class="gradient-text">ASSOCIATION</span> edi'Lybris
+          <span class="gradient-text">Grow Professionally</span> with the Best
         </h1>
         <p class="paragraph">
-        Une communauté d'auteurs passionnés unis par l'amour des mots et l'envie de partager leurs créations littéraires avec le monde.<br><br>
-
-Notre association rassemble écrivains confirmés et nouveaux talents pour promouvoir la richesse et la diversité de la littérature contemporaine.<br>
-
+          In a world filled with opportunities, having a mentor can make all the
+          difference. Explore why people turn to this invaluable resource to
+          unlock their potential.
         </p>
         <!-- <form id="form" autocomplete="off">
           <input
@@ -46,7 +45,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         <span class="item" style="--i: 3"></span>
         <img
           class="item"
-          src="images/davidBeaulieu/davidBeaulieu.png"
+          src="images/jeanPierreCretel/jeanPierreCretel.png"
           style="--i: 4"
           alt="" />
 
@@ -56,13 +55,13 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
           style="--i: 10"
           alt="" /> 
         <span class="item" style="--i: 11"></span>
-        <img class="item" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="" />
+        <img class="item" src="images/veroniqueAsh/veroniqueAsh.png" style="--i: 12" alt="" />
         <span class="item" style="--i: 5"></span>
 
         <span class="item" style="--i: 9"></span>
-        <img class="item" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
+        <img class="item" src="images/alainTahet/alainTahet.webp" style="--i: 8" alt="" />
         <span class="item" style="--i: 7"></span>
-        <img class="item" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
+        <img class="item" src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/97ef9643-5202-41aa-80f0-ceeabccdd099" style="--i: 6" alt="" />
       </div>
     </section>
 

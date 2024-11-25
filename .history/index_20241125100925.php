@@ -15,10 +15,11 @@
           <span class="gradient-text">ASSOCIATION</span> edi'Lybris
         </h1>
         <p class="paragraph">
-        Une communauté d'auteurs passionnés unis par l'amour des mots et l'envie de partager leurs créations littéraires avec le monde.<br><br>
+        une communauté d'auteurs passionnés unis par l'amour des mots et l'envie de partager leurs créations littéraires avec le monde.
 
-Notre association rassemble écrivains confirmés et nouveaux talents pour promouvoir la richesse et la diversité de la littérature contemporaine.<br>
+Notre association rassemble écrivains confirmés et nouveaux talents pour promouvoir la richesse et la diversité de la littérature contemporaine.
 
+Découvrez nos événements, ateliers d'écriture, et publications exclusives, et rejoignez une aventure littéraire unique en son genre.
         </p>
         <!-- <form id="form" autocomplete="off">
           <input
