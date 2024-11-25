@@ -12,7 +12,7 @@
  <section class="home m-5">
       <div class="description">
         <h2 class="title">
-          <span class="gradient-text">ASSOCIATION</span><br><span class="colorLogoIndex">Edi'Lybris</span> 
+          <span class="gradient-text">ASSOCIATION</span><span class="colorLogo">Edi'Lybris</span> 
         </h2>
         <p class="paragraph">
         Une communauté d'auteurs passionnés unis par l'amour des mots et l'envie de partager leurs créations littéraires avec le monde.<br><br>
