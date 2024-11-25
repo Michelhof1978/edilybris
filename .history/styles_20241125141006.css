@@ -1136,7 +1136,6 @@ width: 100%;
   inherits: false;
 }
 
-/*Animation photo auteurs index*/
 
 /* * {
   padding: 0;
@@ -1149,7 +1148,7 @@ html {
   scroll-behavior: smooth;
 } */
 
-.imgAuteurIndex {
+img {
   width: 100%;
   pointer-events: none;
   user-select: none;

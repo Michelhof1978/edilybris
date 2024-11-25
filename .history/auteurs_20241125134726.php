@@ -42,8 +42,6 @@
         <img class="w-25" src="images/livreAuteurs.png" alt="Image centrée">
     </div>
 
-
-
  <!-- CARDS XL-->
 <div id="xl-group1" class="xl-card-container">
   <div class="xl-card">

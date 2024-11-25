@@ -41,7 +41,117 @@
 <div class="text-center">
         <img class="w-25" src="images/livreAuteurs.png" alt="Image centrée">
     </div>
+<!-- ------------------------------------------------------------------>
+<section class="card-auteur-container" id="card-auteur-container">
+      <div class="slider-auteur">
+        <div class="card-auteur" data-tilt>
+          <div class="content-auteur">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/10088b1a-c0aa-42a9-8dff-1a692eb597d6" alt="" />
+            <h1>Personalized Guidance</h1>
+            <p>
+              Whether you are pursuing a career change, entrepreneurship, or
+              personal development, a mentor offers substantial advice and
+              support to navigate your unique path.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
 
+        <div class="card-auteur" data-tilt>
+          <div class="content-auteur">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/69fb8584-66a0-4ecd-bae5-dd00015a1ad5" alt="" />
+            <h1>Accelerated Growth</h1>
+            <p>
+              With a mentor, you can fast-track your journey to success. Benefit
+              from their experience and tap into their knowledge, helping you
+              avoid common pitfalls.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+
+        <div class="card-auteur" data-tilt>
+          <div class="content">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d49bdb0f-c717-4063-abe4-869cb3bc8b4e" alt="" />
+            <h1>Inspiration & Motivation</h1>
+            <p>
+              A mentor isn't just an advisor; they are a source of inspiration
+              and motivation. They can help you to set and achieve ambitious
+              goals and gain your self-confident.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+
+        <div class="card-auteur" data-tilt>
+          <div class="content-auteur">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/fd1d57e3-de8a-438a-9e9a-952ae65a776e" alt="" />
+            <h1>Networking & Connections</h1>
+            <p>
+              Your mentor can open doors to valuable connections and
+              opportunities. They can introduce you to their network and help
+              you build meaningful relationships.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+
+        <div class="card-auteur" data-tilt>
+          <div class="content-auteur">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/331836c0-0d28-48d1-a1c2-b5f5db87fe17" alt="" />
+            <h1>Expert Insights</h1>
+            <p>
+              Gain access to industry insights and expert knowledge that you
+              won't find in textbooks. Your mentor can provide practical wisdom
+              that textbooks can't teach.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+
+        <div class="card-auteur" data-tilt>
+          <div class="content-auteur">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2d022825-47f9-4e6a-bc97-14b47dc3242f" alt="" />
+            <h1>Confidence & Self-Esteem</h1>
+            <p>
+              A mentor is like a supportive coach, boosting your confidence and
+              self-esteem. Their encouragement can help you believe in your
+              potential and take on challenges with vigor.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <ul class="control" id="custom-control">
+        <li>
+          <ion-icon name="caret-back-outline"></ion-icon>
+        </li>
+        <li>
+          <ion-icon name="caret-forward-outline"></ion-icon>
+        </li>
+      </ul>
+    </section>
+
+    <!-- ------------------------------------------------------------------>
 
 
  <!-- CARDS XL-->

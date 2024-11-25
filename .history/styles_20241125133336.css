@@ -1136,8 +1136,6 @@ width: 100%;
   inherits: false;
 }
 
-/*Animation photo auteurs index*/
-
 /* * {
   padding: 0;
   margin: 0;
@@ -1149,7 +1147,7 @@ html {
   scroll-behavior: smooth;
 } */
 
-.imgAuteurIndex {
+img {
   width: 100%;
   pointer-events: none;
   user-select: none;
@@ -1158,6 +1156,7 @@ html {
 /* SECTION - HOME */
 
 .home {
+    margin: ;
   display: grid;
   grid-template-columns: 45% 50%;
   place-items: center;

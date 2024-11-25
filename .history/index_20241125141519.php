@@ -43,7 +43,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
           src="images/annieBrunetot/annieBrunetot.jpg"
           style="--i: 2"
           alt="" />
-        <span class="item" style="--i: 3"></span>
+        <span class="item imgAuteurIndex" style="--i: 3"></span>
         <img
           class="item imgAuteurIndex"
           src="images/davidBeaulieu/davidBeaulieu.png"
@@ -60,9 +60,9 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         <span class="item" style="--i: 5"></span>
 
         <span class="item" style="--i: 9"></span>
-        <img class="item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
+        <img class="item" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
         <span class="item" style="--i: 7"></span>
-        <img class="item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
+        <img class="item" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
       </div>
     </section>
 

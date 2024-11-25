@@ -43,7 +43,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
           src="images/annieBrunetot/annieBrunetot.jpg"
           style="--i: 2"
           alt="" />
-        <span class="item" style="--i: 3"></span>
+        <span class="item imgAuteurIndex" style="--i: 3"></span>
         <img
           class="item imgAuteurIndex"
           src="images/davidBeaulieu/davidBeaulieu.png"

@@ -41,7 +41,27 @@
 <div class="text-center">
         <img class="w-25" src="images/livreAuteurs.png" alt="Image centrée">
     </div>
+<!-- ------------------------------------------------------------------>
+<section class="card-auteur-container" id="card-auteur-container">
+      <div class="slider-auteur">
+        <div class="card-auteur" data-tilt>
+          <div class="content-auteur">
+            <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/10088b1a-c0aa-42a9-8dff-1a692eb597d6" alt="" />
+            <h1>Personalized Guidance</h1>
+            <p>
+              Whether you are pursuing a career change, entrepreneurship, or
+              personal development, a mentor offers substantial advice and
+              support to navigate your unique path.
+            </p>
+            <button class="btn btn-grad">
+              <span>Learn More</span>
+              <ion-icon name="arrow-forward-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+    </section>
 
+    <!-- ------------------------------------------------------------------>
 
 
  <!-- CARDS XL-->

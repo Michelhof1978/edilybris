@@ -6,11 +6,11 @@
 
  <?php include("header.php"); ?>
  
- <h1 class="text-white text-center m-4">Association des Auteurs d'Edi'Lybris <br></h1>
+ <h1 class="text-white text-center m-4">Association des Auteurs d'Edi'Lybris <br> Plongez au Cœur de la Création Littéraire</h1>
   
   <!-- PRESENTATION AUTEURS -->
  <section class="home m-5">
-      <div class="description">
+      <div class="description2">
         <h2 class="title">
           <span class="gradient-text">ASSOCIATION</span> Edi'Lybris
         </h2>
@@ -39,30 +39,30 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
       <div class="users-color-container">
         <span class="item" style="--i: 1"></span>
         <img
-          class="item imgAuteurIndex"
+          class="item"
           src="images/annieBrunetot/annieBrunetot.jpg"
           style="--i: 2"
           alt="" />
         <span class="item" style="--i: 3"></span>
         <img
-          class="item imgAuteurIndex"
+          class="item"
           src="images/davidBeaulieu/davidBeaulieu.png"
           style="--i: 4"
           alt="" />
 
         <img
-          class="item imgAuteurIndex"
+          class="item"
           src="images/gillesHerve/gillesHerve.png"
           style="--i: 10"
           alt="" /> 
         <span class="item" style="--i: 11"></span>
-        <img class="item imgAuteurIndex" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="" />
+        <img class="item" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="" />
         <span class="item" style="--i: 5"></span>
 
         <span class="item" style="--i: 9"></span>
-        <img class="item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
+        <img class="item" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
         <span class="item" style="--i: 7"></span>
-        <img class="item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
+        <img class="item" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
       </div>
     </section>
 

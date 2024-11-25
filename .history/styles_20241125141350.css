@@ -1149,7 +1149,7 @@ html {
   scroll-behavior: smooth;
 } */
 
-.imgAuteurIndex {
+imgauteurs {
   width: 100%;
   pointer-events: none;
   user-select: none;

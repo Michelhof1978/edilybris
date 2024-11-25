@@ -222,13 +222,16 @@
             </div>
         </div>
 
-        <div class="mt-2">
+        <!-- <div class="mt-2">
         <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78315-2" border="0" /></a>
-        </div>   
+        </div>    -->
         
     </div>
 </footer>
 <!-- FIN FOOTER DESKTOP -->
+
+
+
 
 <!-- COOKIES -->
 <div id="cookie-banner">
