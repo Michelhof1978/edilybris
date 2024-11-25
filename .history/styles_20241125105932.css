@@ -1136,7 +1136,7 @@ width: 100%;
   inherits: false;
 }
 
-/* * {
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -1151,7 +1151,7 @@ img {
   width: 100%;
   pointer-events: none;
   user-select: none;
-} */
+}
 
 /* SECTION - HOME */
 
@@ -1160,11 +1160,11 @@ img {
   grid-template-columns: 45% 50%;
   place-items: center;
   gap: 50px;
-  background: rgb(67, 80, 112);
+  background: rgb(67, 69, 112);
   background: radial-gradient(
     circle,
     rgba(67, 69, 112, 1) 3%,
-    #1E3A5F 60%
+    rgba(35, 36, 57, 1) 60%
   );
   overflow: hidden;
   padding: 130px 80px;
@@ -1186,8 +1186,8 @@ img {
   font-family: "Tilt Neon", sans-serif;
   background-image: linear-gradient(
     90deg,
-    rgb(63, 89, 167) 0%,
-    rgb(51, 69, 143) 40%,
+    rgb(118, 167, 63) 0%,
+    rgb(51, 143, 118) 40%,
     rgb(55, 141, 167) 50%,
     rgb(117, 152, 242) 70%,
     rgb(144, 118, 236) 100%
@@ -1314,7 +1314,7 @@ input[type="email"]:focus {
 }
 
 .item:nth-child(6) {
-  background-color: #717ca8;
+  background-color: #8071a8;
   border-radius: 0 50% 50% 50%;
 }
 
@@ -1462,9 +1462,9 @@ input[type="email"]:focus {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to bottom, #0f87bb, #3b3d8a);
+  background: linear-gradient(to bottom, #559b9a, #3b3d8a);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5),
-    inset 0px 4px 4px rgba(255, 255, 255, 0.183);
+    inset 0px 4px 4px rgba(255, 255, 255, 0.2);
   padding: 12px;
   border-radius: 50%;
   font-size: 1.5rem;

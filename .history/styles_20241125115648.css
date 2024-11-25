@@ -288,7 +288,8 @@ width: 100%;
     color: #ffcc00;
     margin-right: 0.5rem;
     display: inline-block;
-    vertical-align: middle; /* Assure que les icônes restent au même niveau */
+    vertical-align: middle; /* 
+    ure que les icônes restent au même niveau */
 }
 
 .footer-cta span {
@@ -1136,7 +1137,7 @@ width: 100%;
   inherits: false;
 }
 
-/* * {
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -1151,7 +1152,7 @@ img {
   width: 100%;
   pointer-events: none;
   user-select: none;
-} */
+}
 
 /* SECTION - HOME */
 
@@ -1186,8 +1187,8 @@ img {
   font-family: "Tilt Neon", sans-serif;
   background-image: linear-gradient(
     90deg,
-    rgb(63, 89, 167) 0%,
-    rgb(51, 69, 143) 40%,
+    rgb(118, 167, 63) 0%,
+    rgb(51, 143, 118) 40%,
     rgb(55, 141, 167) 50%,
     rgb(117, 152, 242) 70%,
     rgb(144, 118, 236) 100%

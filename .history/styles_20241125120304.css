@@ -1136,22 +1136,12 @@ width: 100%;
   inherits: false;
 }
 
-/* * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Nunito", sans-serif;
-}
-
-html {
-  scroll-behavior: smooth;
-}
 
 img {
   width: 100%;
   pointer-events: none;
   user-select: none;
-} */
+}
 
 /* SECTION - HOME */
 
