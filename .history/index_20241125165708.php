@@ -46,7 +46,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         <span class="item" style="--i: 3"></span>
         <img
           class="item imgAuteurIndex"
-          src="images/pierreBrandao/pierreBrandao.png"
+          src="images/pi.png"
           style="--i: 4"
           alt="" />
 
