@@ -680,7 +680,6 @@ width: 100%;
 .L-card-author {
   font-size: 14px;
   color: #ffcc00;
-  font-weight: bold;
 }
 
 .L-card-description {
@@ -689,7 +688,7 @@ width: 100%;
 }
 
 .L-card-price {
-  font-size: 18px;
+  font-size: 14px;
   color: #ffcc00;
   margin-top: 10px;
   font-weight: bold;  /* Texte en gras */
@@ -815,7 +814,7 @@ width: 100%;
 }
 
 .book-price {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
     color: #ffcc00;
     margin-top: 15px;
@@ -904,9 +903,8 @@ width: 100%;
   /* Auteur du livre */
   .xl-card-author {
     font-size: 14px;
-    color: #ffcc00 !important; 
+    color: #ccc; /* Auteur en gris clair */
     text-align: center; /* Centre l'auteur */
-    font-weight: bold;
   }
   
   /* Description du livre */
