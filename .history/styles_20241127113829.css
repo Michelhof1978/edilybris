@@ -637,18 +637,18 @@ width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 20px;  /* Augmente l'espace entre les cartes */
+  gap: 10px;  /* Réduit l'espace entre les cartes */
   width: 100%;
   transition: opacity 0.3s ease;
 }
 
 .L-card {
-  background-color: #1E3A5F;
-  padding: 20px;  /* Augmente le padding autour du contenu de la carte */
+  background-color: #fff;
+  padding: 15px;  /* Réduit le padding autour du contenu de la carte */
   margin: 0;  /* Supprime les marges externes pour un espace plus serré */
-  border-radius: 8px;  /* Augmente l'arrondi des bords */
-  box-shadow: 0 4px 8px rgba(249, 248, 248, 0.1);
-  width: 220px;  /* Augmente la largeur des cartes */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 160px;  /* Réduit légèrement la largeur de chaque carte */
   text-align: center;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
@@ -664,13 +664,6 @@ width: 100%;
   text-align: left;
 }
 
-.L-card-title,
-.L-card-author,
-.L-card-description,
-.L-card-price {
-  color: white;  /* Change la couleur du texte en blanc */
-}
-
 .L-card-title {
   font-size: 18px;
   margin: 10px 0;
@@ -679,17 +672,17 @@ width: 100%;
 
 .L-card-author {
   font-size: 14px;
-  color: #aaa;  /* Gris clair pour l'auteur */
+  color: #777;
 }
 
 .L-card-description {
   font-size: 12px;
-  color: #bbb;  /* Gris clair pour la description */
+  color: #555;
 }
 
 .L-card-price {
   font-size: 14px;
-  color: #ffcc00;  /* Garde un contraste élevé avec une couleur différente pour le prix */
+  color: #333;
   margin-top: 10px;
 }
 
@@ -711,8 +704,8 @@ width: 100%;
 }
 
 .L-button {
-  background-color: #ffcc00;
-  color: #000;
+  background-color: #007bff;
+  color: white;
   border: none;
   padding: 10px 20px;
   margin: 0 10px;
@@ -726,9 +719,12 @@ width: 100%;
   cursor: not-allowed;
 }
 
+.L-button:hover:not(:disabled) {
+  background-color: #0056b3;
+}
 /* FIN CARDS L*/
 
-/* CARDS XL*/
+/* CAR XL*/
 .book-card a:hover, /* Cible tous les liens dans les cartes au survol */
 .book-card a {
     text-decoration: none; /* Désactive la décoration de texte (comme un soulignement) */
@@ -1102,7 +1098,7 @@ width: 100%;
     color: inherit; /* Hérite la couleur du texte du parent */
   }
   
-  /* FIN CARDS XL*/
+  /* FIN SQUELETTE CARTE XL*/
   
 
  /* PRESENTATION AUTEURS  */

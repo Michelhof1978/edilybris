@@ -73,7 +73,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_D.html">
-                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre D">
+                <img src="images/pierreBrandao/XLlamourafleurdame.png" alt="Livre D">
                 <div class="L-card-content">
                     <div class="L-card-title">Sous les cyprès</div>
                     <div class="L-card-author">Diane Morel</div>
@@ -84,7 +84,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_E.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre E">
+                <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre E">
                 <div class="L-card-content">
                     <div class="L-card-title">L'ombre du vent</div>
                     <div class="L-card-author">Émile Rousseau</div>
@@ -99,7 +99,7 @@
     <div id="L-group2" class="L-card-container L-hidden">
         <div class="L-card">
             <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre F">
+                <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" alt="Livre F">
                 <div class="L-card-content">
                     <div class="L-card-title">La lumière des ombres</div>
                     <div class="L-card-author">Fabien Leclerc</div>
@@ -110,7 +110,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre G">
+                <img src="images/pierreBrandao/XLlamourafleurdame.png" alt="Livre G">
                 <div class="L-card-content">
                     <div class="L-card-title">Les vagues éternelles</div>
                     <div class="L-card-author">Gabrielle Blanc</div>
@@ -121,7 +121,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_H.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre H">
+                <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre H">
                 <div class="L-card-content">
                     <div class="L-card-title">Le chant des cendres</div>
                     <div class="L-card-author">Henri Dupont</div>
@@ -132,7 +132,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_I.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre I">
+                <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" alt="Livre I">
                 <div class="L-card-content">
                     <div class="L-card-title">La danse des esprits</div>
                     <div class="L-card-author">Isabelle Fournier</div>
@@ -143,7 +143,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre J">
+                <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre J">
                 <div class="L-card-content">
                     <div class="L-card-title">L'esprit des forêts</div>
                     <div class="L-card-author">Jean-Louis Perrin</div>
@@ -155,7 +155,7 @@
     </div>
 
     <!-- Boutons de navigation -->
-    <div class="L-navigation mt-4">
+    <div class="L-navigation">
         <button id="L-backButton" class="L-button" disabled>Précédent</button>
         <button id="L-nextGroupButton" class="L-button">Suivant</button>
     </div>

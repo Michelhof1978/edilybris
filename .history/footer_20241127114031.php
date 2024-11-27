@@ -1018,7 +1018,7 @@ var VanillaTilt = (function () {
   </script>
   <!--  FIN PRESENTATION AUTEUR-->
 
-   <!--  CARDS L-->
+   <!--  -->
  <script>
 document.addEventListener("DOMContentLoaded", function() {
     const nextGroupButton = document.getElementById('L-nextGroupButton');
@@ -1041,4 +1041,3 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-<!-- FIN CARDS L-->

@@ -121,7 +121,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_H.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre H">
+                <img src="images/pierreBrandao" alt="Livre H">
                 <div class="L-card-content">
                     <div class="L-card-title">Le chant des cendres</div>
                     <div class="L-card-author">Henri Dupont</div>
@@ -132,7 +132,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_I.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre I">
+                <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" alt="Livre I">
                 <div class="L-card-content">
                     <div class="L-card-title">La danse des esprits</div>
                     <div class="L-card-author">Isabelle Fournier</div>
@@ -143,7 +143,7 @@
         </div>
         <div class="L-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre J">
+                <img src="images/pierreBrandao/XLlamuserie.png" alt="Livre J">
                 <div class="L-card-content">
                     <div class="L-card-title">L'esprit des forêts</div>
                     <div class="L-card-author">Jean-Louis Perrin</div>
@@ -155,7 +155,7 @@
     </div>
 
     <!-- Boutons de navigation -->
-    <div class="L-navigation mt-4">
+    <div class="L-navigation">
         <button id="L-backButton" class="L-button" disabled>Précédent</button>
         <button id="L-nextGroupButton" class="L-button">Suivant</button>
     </div>

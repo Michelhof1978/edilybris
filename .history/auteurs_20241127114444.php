@@ -155,7 +155,7 @@
     </div>
 
     <!-- Boutons de navigation -->
-    <div class="L-navigation mt-4">
+    <div class="L-navigation">
         <button id="L-backButton" class="L-button" disabled>Précédent</button>
         <button id="L-nextGroupButton" class="L-button">Suivant</button>
     </div>
