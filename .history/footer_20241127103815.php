@@ -313,7 +313,7 @@
 <!--SEO -->
 
 
-
+_____________________________________________________________________________________
 <!-- Script pour mettre à jour l'année dans le footer -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -333,36 +333,39 @@
 <!-- Google Analytics -->
 
 <!--  card XL-->
-<script>
-    const xlGroup1 = document.getElementById('xl-group1');
-    const xlGroup2 = document.getElementById('xl-group2');
-    const xlBackButton = document.getElementById('xl-backButton');
-    const xlNextGroupButton = document.getElementById('xl-nextGroupButton');
+<!-- Script -->
+<script id="script-book-carousel">
+  document.addEventListener("DOMContentLoaded", function () {
+    const groups = document.querySelectorAll(".book-group-container");
+    const prevButton = document.getElementById("prev-button");
+    const nextButton = document.getElementById("next-button");
+    let currentGroupIndex = 0;
 
-    let currentGroup = 1;
-
-    xlBackButton.addEventListener('click', () => {
-      if (currentGroup > 1) {
-        currentGroup--;
-        updateGroups();
-      }
-    });
-
-    xlNextGroupButton.addEventListener('click', () => {
-      if (currentGroup < 2) {
-        currentGroup++;
-        updateGroups();
-      }
-    });
-
-    function updateGroups() {
-      xlGroup1.classList.toggle('xl-hidden', currentGroup !== 1);
-      xlGroup2.classList.toggle('xl-hidden', currentGroup !== 2);
-
-      xlBackButton.disabled = currentGroup === 1;
-      xlNextGroupButton.disabled = currentGroup === 2;
+    function updateCarousel() {
+      groups.forEach((group, index) => {
+        group.classList.toggle("book-hidden", index !== currentGroupIndex);
+      });
+      prevButton.disabled = currentGroupIndex === 0;
+      nextButton.disabled = currentGroupIndex === groups.length - 1;
     }
-  </script>
+
+    prevButton.addEventListener("click", () => {
+      if (currentGroupIndex > 0) {
+        currentGroupIndex--;
+        updateCarousel();
+      }
+    });
+
+    nextButton.addEventListener("click", () => {
+      if (currentGroupIndex < groups.length - 1) {
+        currentGroupIndex++;
+        updateCarousel();
+      }
+    });
+
+    updateCarousel();
+  });
+</script>
   <!--  FIN card XL-->
 
 
@@ -1018,25 +1021,4 @@ var VanillaTilt = (function () {
   </script>
   <!--  FIN PRESENTATION AUTEUR-->
 
- <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton');
-    const backButton = document.getElementById('L-backButton');
-    const group1 = document.getElementById('L-group1');
-    const group2 = document.getElementById('L-group2');
-
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
-
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
-});
-</script>
+  

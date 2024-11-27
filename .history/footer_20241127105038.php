@@ -1018,25 +1018,28 @@ var VanillaTilt = (function () {
   </script>
   <!--  FIN PRESENTATION AUTEUR-->
 
- <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton');
-    const backButton = document.getElementById('L-backButton');
-    const group1 = document.getElementById('L-group1');
-    const group2 = document.getElementById('L-group2');
+ <script></script>
+const carousel = document.querySelector('.carousel');
+const prevBtn = document.getElementById('prev');
+const nextBtn = document.getElementById('next');
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
+let currentIndex = 0;
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
+prevBtn.addEventListener('click', () => {
+    if (currentIndex > 0) {
+        currentIndex--;
+        updateCarousel();
+    }
 });
-</script>
+
+nextBtn.addEventListener('click', () => {
+    if (currentIndex < 1) { // Seulement deux groupes, donc l'index maximum est 1
+        currentIndex++;
+        updateCarousel();
+    }
+});
+
+function updateCarousel() {
+    const offset = currentIndex * -50; // Déplacer de 50% (un groupe)
+    carousel.style.transform = `translateX(${offset}%)`;
+}

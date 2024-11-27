@@ -1434,92 +1434,80 @@ input[type="email"]:focus {
 }
  /* FIN PRESENTATION AUTEURS  */
 
- .L-card-container {
+ .carousel-wrapper {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 20px;
-  width: 100%;
-  transition: opacity 0.3s ease;
+  align-items: center;
+  position: relative;
+  width: 80%;
+  max-width: 1000px;
+  overflow: hidden;
 }
 
-.L-card {
+.carousel-track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: 200%;
+}
+
+.book-group {
+  display: flex;
+  justify-content: space-around;
+  flex: 0 0 50%;
+}
+
+.book-item {
   background-color: #fff;
   padding: 20px;
   margin: 10px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 180px;
   text-align: center;
+  flex: 1;
+  max-width: 180px;
+  text-decoration: none;
+  color: black;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-.L-card img {
+.book-item img {
   width: 100%;
   height: auto;
   border-radius: 10px;
   margin-bottom: 15px;
 }
 
-.L-card-content {
-  text-align: left;
-}
-
-.L-card-title {
+.book-item h3 {
   font-size: 18px;
   margin: 10px 0;
-  font-weight: bold;
 }
 
-.L-card-author {
-  font-size: 14px;
-  color: #777;
-}
-
-.L-card-description {
-  font-size: 12px;
-  color: #555;
-}
-
-.L-card-price {
+.book-item p {
+  margin: 5px 0;
   font-size: 14px;
   color: #333;
-  margin-top: 10px;
+}
+
+.book-item .book-description {
+  font-size: 12px;
+  color: #666;
 }
 
 /* Effet de zoom sur survol */
-.L-card:hover {
+.book-item:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-/* Masquer le second groupe initialement */
-.L-hidden {
-  display: none;
-}
-
-/* Navigation */
-.L-navigation {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.L-button {
-  background-color: #007bff;
+.carousel-control-btn {
+  background-color: #333;
   color: white;
   border: none;
   padding: 10px 20px;
-  margin: 0 10px;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 18px;
   border-radius: 5px;
 }
 
-.L-button:disabled {
-  background-color: #ddd;
-  cursor: not-allowed;
-}
-
-.L-button:hover:not(:disabled) {
-  background-color: #0056b3;
+.carousel-control-btn:hover {
+  background-color: #555;
 }
