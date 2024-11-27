@@ -346,11 +346,6 @@ section {
 
 
 
-
-
-
-
-
 var swiper = new Swiper(".swiper", {
   effect: "cube",
   grabCursor: true,

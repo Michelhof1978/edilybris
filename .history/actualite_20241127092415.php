@@ -346,11 +346,6 @@ section {
 
 
 
-
-
-
-
-
 var swiper = new Swiper(".swiper", {
   effect: "cube",
   grabCursor: true,
@@ -480,3 +475,7 @@ tsParticles.load("tsparticles", {
   },
   detectRetina: true,
 });
+
+
+
+

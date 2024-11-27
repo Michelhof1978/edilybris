@@ -1018,4 +1018,13 @@ var VanillaTilt = (function () {
   </script>
   <!--  FIN PRESENTATION AUTEUR-->
 
-  
+  // script.js
+document.querySelectorAll('.carousel').forEach(carousel => {
+  carousel.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    carousel.scrollBy({
+      left: e.deltaY < 0 ? -300 : 300,
+      behavior: 'smooth'
+    });
+  });
+});

@@ -35,9 +35,43 @@
 
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2> 
 
+ <div class="carousel-container">
+    <h2>Groupe 1</h2>
+    <div class="carousel">
+      <div class="card">
+        <img src="book1.jpg" alt="Livre 1">
+        <h3>Titre du Livre 1</h3>
+        <p>Auteur: Auteur 1</p>
+        <p>Description: Ce livre parle de...</p>
+      </div>
+      <div class="cardL">
+        <img src="book2.jpg" alt="Livre 2">
+        <h3>Titre du Livre 2</h3>
+        <p>Auteur: Auteur 2</p>
+        <p>Description: Ce livre explore...</p>
+      </div>
+      <!-- Ajoutez 3 autres cartes similaires -->
+    </div>
+
+    <h2>Groupe 2</h2>
+    <div class="carouselL">
+      <div class="cardL">
+        <img src="book6.jpg" alt="Livre 6">
+        <h3>Titre du Livre 6</h3>
+        <p>Auteur: Auteur 6</p>
+        <p>Description: Une aventure qui...</p>
+      </div>
+      <div class="cardL">
+        <img src="book7.jpg" alt="Livre 7">
+        <h3>Titre du Livre 7</h3>
+        <p>Auteur: Auteur 7</p>
+        <p>Description: Une histoire fascinante...</p>
+      </div>
+      <!-- Ajoutez 3 autres cartes similaires -->
+    </div>
+  </div>
+
  <!-- CARDS L-->
-
-
   <!-- CARDS XL-->
 <div id="xl-group1" class="xl-card-container">
   <div class="xl-card">
@@ -161,7 +195,7 @@
   <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
   <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
 </div>
-
+<!-- FIN CARDS XL-->
  <!-- FIN CARDS L-->
  
 

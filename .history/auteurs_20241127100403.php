@@ -37,7 +37,7 @@
 
  <!-- CARDS L-->
 
-
+ 
   <!-- CARDS XL-->
 <div id="xl-group1" class="xl-card-container">
   <div class="xl-card">
@@ -161,7 +161,7 @@
   <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
   <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
 </div>
-
+<!-- FIN CARDS XL-->
  <!-- FIN CARDS L-->
  
 

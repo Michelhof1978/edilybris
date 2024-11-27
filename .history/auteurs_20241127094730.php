@@ -35,14 +35,110 @@
 
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2> 
 
+ <div class="wrapper2">
+  <h2>Slick Carousel Example<h2>
+    <div class="carousel2">
+      <div>
+        <div class="card2">
+          <div class="card-header2">
+            <img src="https://lorempixel.com/200/200/abstract/1">
+          </div>
+          <div class="card-body2">
+            <div class="card-content2">
+              <div class="card-title2">This is the First slider</div>
+              <div class="card-text2">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>    
+      <div>
+        <div class="card2">
+          <div class="card-header2">
+            <img src="https://lorempixel.com/200/200/abstract/2">
+          </div>
+          <div class="card-body2">
+            <div class="card-content2">
+              <div class="card-title2">This is the Second slider</div>
+              <div class="card-text2">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="card2">
+          <div class="card-header2">
+            <img src="https://lorempixel.com/200/200/abstract/3">
+          </div>
+          <div class="card-body2">
+            <div class="card-content2">
+              <div class="card-title2">This is the Third slider</div>
+              <div class="card-text2">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+        </div>  
+      </div>
+      <div>
+        <div class="card2">
+          <div class="card-header2">
+            <img src="https://lorempixel.com/200/200/abstract/4">
+          </div>
+          <div class="card-body2">
+            <div class="card-content2">
+              <div class="card-title2">This is the Fourth slider</div>
+              <div class="card-text2">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+        </div> 
+      </div>
+      <div>
+        <div class="card2">
+          <div class="card-header2">
+            <img src="https://lorempixel.com/200/200/abstract/5">
+          </div>
+          <div class="card-body2">
+            <div class="card-content2">
+              <div class="card-title2">This is the Fifth slider</div>
+              <div class="card-text2">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="card2">
+          <div class="card-header2">
+            <img src="https://lorempixel.com/200/200/abstract/6">
+          </div>
+          <div class="card-body2">
+            <div class="card-content2">
+              <div class="card-title2">This is the Sixth slider</div>
+              <div class="card-text2">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>    
+    </div>
+    </div>
+
+
+
  <!-- CARDS L-->
-
-
   <!-- CARDS XL-->
 <div id="xl-group1" class="xl-card-container">
   <div class="xl-card">
     <a href="link_to_book_A.html">
-      <img src="images/pierreBrandao/XLlamourafleurdame.png" alt="Livre A">
+      <img class="img2" src="images/pierreBrandao/XLlamourafleurdame.png" alt="Livre A">
       <div class="xl-card-content">
         <div class="xl-card-title">L'écho des collines</div>
         <div class="xl-card-author">Alice Dubois</div>
@@ -161,7 +257,7 @@
   <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
   <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
 </div>
-
+<!-- FIN CARDS XL-->
  <!-- FIN CARDS L-->
  
 
