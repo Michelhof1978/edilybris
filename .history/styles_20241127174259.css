@@ -636,19 +636,20 @@ width: 100%;
 .L-card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 20px;  /* Augmente l'espace entre les cartes */
+  justify-content: center; /* Centre les cartes horizontalement */
+  gap: 30px; /* Plus d'espace entre les cartes */
   width: 100%;
   transition: opacity 0.3s ease;
+  padding: 20px 0; /* Ajoute un peu d'espace autour des groupes */
 }
 
 .L-card {
   background-color: #1E3A5F;
-  padding: 20px;  /* Augmente le padding autour du contenu de la carte */
-  margin: 0;
+  padding: 20px;
+  margin: 20px; /* Ajoute de l'espace entre les cartes */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(249, 248, 248, 0.1);
-  width: 220px;  /* Largeur des cartes */
+  width: 280px;  /* Largeur des cartes augmentée */
   text-align: center;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
@@ -692,21 +693,18 @@ width: 100%;
   font-size: 18px;
   color: #ffcc00;
   margin-top: 10px;
-  font-weight: bold;  /* Texte en gras */
+  font-weight: bold;
 }
 
-/* Effet de zoom sur survol */
 .L-card:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-/* Masquer le second groupe initialement */
 .L-hidden {
   display: none;
 }
 
-/* Navigation */
 .L-navigation {
   text-align: center;
   margin-top: 20px;
@@ -727,6 +725,7 @@ width: 100%;
   background-color: #ddd;
   cursor: not-allowed;
 }
+
 
 /* FIN CARDS L*/
 

@@ -632,23 +632,22 @@ width: 100%;
 }
 /*FIN LIVRES PROMO*/
 
-/*CARD L*/
 .L-card-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 20px;  /* Augmente l'espace entre les cartes */
-  width: 100%;
-  transition: opacity 0.3s ease;
+    display: flex;
+    flex-wrap: wrap; /* Permet aux cartes de passer à la ligne si nécessaire */
+    justify-content: space-between; /* Uniformise l'espacement entre les cartes */
+    gap: 1%; /* Ajoute un espacement entre les cartes */
 }
 
+
 .L-card {
+  margin: 10px;
   background-color: #1E3A5F;
-  padding: 20px;  /* Augmente le padding autour du contenu de la carte */
+  padding: 20px;  /* Padding autour du contenu */
   margin: 0;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(249, 248, 248, 0.1);
-  width: 220px;  /* Largeur des cartes */
+  width: 300px;  /* Nouvelle largeur des cartes */
   text-align: center;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
@@ -728,7 +727,6 @@ width: 100%;
   cursor: not-allowed;
 }
 
-/* FIN CARDS L*/
 
 /* CARDS XL*/
 .book-card a:hover, /* Cible tous les liens dans les cartes au survol */
@@ -911,7 +909,7 @@ width: 100%;
   
   /* Description du livre */
   .xl-card-description {
-    font-size: 14px;
+    font-size: 14px ;
     color: #eee; /* Description en blanc cassé */
     overflow: hidden;
     text-overflow: ellipsis;

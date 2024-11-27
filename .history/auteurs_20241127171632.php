@@ -35,8 +35,7 @@
 
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2> 
 
- <!-- CARDS L-->
-   <!-- Groupe 1 -->
+ <!-- Groupe 1 -->
 <div id="L-group1" class="L-card-container">
     <div class="L-card">
         <a href="link_to_book_A.html">
@@ -186,8 +185,6 @@
     <button id="L-nextGroupButton" class="L-button">Suivant</button>
 </div>
 
- <!-- FIN CARDS L-->
- 
 
 <div class="text-center">
         <img class="w-25" src="images/livreAuteurs.png" alt="Image centrée">

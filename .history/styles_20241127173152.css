@@ -911,7 +911,7 @@ width: 100%;
   
   /* Description du livre */
   .xl-card-description {
-    font-size: 14px;
+    font-size: 14px ;
     color: #eee; /* Description en blanc cassé */
     overflow: hidden;
     text-overflow: ellipsis;
