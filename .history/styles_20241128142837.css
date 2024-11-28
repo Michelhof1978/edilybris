@@ -1579,78 +1579,68 @@ input[type="email"]:focus {
  /* FIN PRESENTATION AUTEURS  */
 
 
- /* Style général pour toutes les cartes */
-.profile-card {
-  position: relative;
-  width: 300px;
-  height: 350px;
-  background: #fff;
-  margin: 0 auto;
-  border-radius: 4px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, .2);
-}
-
-/* Styles spécifiques pour chaque type de carte */
-.profile-card.director {
-  background-color: #ffcc00; /* Jaune pour le directeur */
-}
-
-.profile-card.producer {
-  background-color: #00ccff; /* Bleu pour le producteur */
-}
-
-.profile-card.actress {
-  background-color: #ff66b2; /* Rose pour l'actrice */
-}
-
-/* Styles pour l'image */
-.profile-card .imgBx {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  bottom: 10px;
-  right: 10px;
-  background: #222;
-  transition: 0.5s;
-  z-index: 1;
-}
-
-.profile-card:hover .imgBx {
-  bottom: 80px;
-}
-
-.profile-card .imgBx img {
-  position: absolute;
-  top: 0;
-  left: 0;
+ .organigramme {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  max-width: 1200px;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
-/* Styles pour les détails */
-.profile-card .details {
-  position: absolute;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
-  height: 60px;
+.polaroid {
+  width: 180px;
+  height: 240px;
+  background-color: white;
+  border: 10px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.polaroid:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.photo {
+  width: 120px;
+  height: 120px;
+  background-color: #dcdcdc;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.description {
+  color: #333;
   text-align: center;
 }
 
-.profile-card .details h2 {
-  margin: 0;
-  padding: 0;
-  font-weight: 600;
-  font-size: 20px;
+h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+zz
+p {
+  font-size: 0.9em;
   color: #777;
-  text-transform: uppercase;
 }
 
-.profile-card .details h2 span {
-  font-weight: 500;
-  font-size: 16px;
-  color: #f38695;
-  display: block;
-  margin-top: 5px;
+@media (max-width: 768px) {
+  .organigramme {
+      justify-content: flex-start;
+  }
+
+  .polaroid {
+      width: 160px;
+      height: 220px;
+  }
 }

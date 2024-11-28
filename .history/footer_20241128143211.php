@@ -1051,5 +1051,97 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-  
+  // Liste des personnes et leurs informations (nom et photo)
+const personnes = [
+    { nom: "Jean Dupont", image: "https://via.placeholder.com/80" },
+    { nom: "Marie Leblanc", image: "https://via.placeholder.com/80" },
+    { nom: "Paul Martin", image: "https://via.placeholder.com/80" },
+    { nom: "Alice Robert", image: "https://via.placeholder.com/80" },
+    { nom: "Michel Bernard", image: "https://via.placeholder.com/80" },
+    { nom: "Sophie Dufresne", image: "https://via.placeholder.com/80" },
+    { nom: "Lucien Lefevre", image: "https://via.placeholder.com/80" },
+    { nom: "Juliette Gauthier", image: "https://via.placeholder.com/80" },
+    { nom: "Éric Dubois", image: "https://via.placeholder.com/80" },
+    { nom: "Claire Lebrun", image: "https://via.placeholder.com/80" }
+];
+
+// Structure hiérarchique de l'arbre
+const arbreStructure = {
+    nom: "Directeur Général",
+    image: "https://via.placeholder.com/80",
+    enfants: [
+        {
+            nom: "Responsable Marketing",
+            image: "https://via.placeholder.com/80",
+            enfants: [
+                { nom: "Chargé de Communication", image: "https://via.placeholder.com/80" },
+                { nom: "Community Manager", image: "https://via.placeholder.com/80" }
+            ]
+        },
+        {
+            nom: "Responsable Technique",
+            image: "https://via.placeholder.com/80",
+            enfants: [
+                { nom: "Développeur Frontend", image: "https://via.placeholder.com/80" },
+                { nom: "Développeur Backend", image: "https://via.placeholder.com/80" }
+            ]
+        },
+        {
+            nom: "Responsable Commercial",
+            image: "https://via.placeholder.com/80",
+            enfants: [
+                { nom: "Commercial A", image: "https://via.placeholder.com/80" },
+                { nom: "Commercial B", image: "https://via.placeholder.com/80" }
+            ]
+        }
+    ]
+};
+
+// Fonction pour créer un polaroid
+function createPolaroid(personne) {
+    const polaroid = document.createElement('div');
+    polaroid.classList.add('polaroid');
+    
+    const photo = document.createElement('div');
+    photo.classList.add('photo');
+    photo.style.backgroundImage = `url(${personne.image})`;
+    polaroid.appendChild(photo);
+    
+    const nom = document.createElement('h3');
+    nom.textContent = personne.nom;
+    polaroid.appendChild(nom);
+    
+    return polaroid;
+}
+
+// Fonction récursive pour afficher l'arbre
+function createArbre(personne, parentElement) {
+    const niveau = document.createElement('div');
+    niveau.classList.add('niveau');
+    
+    // Créer un polaroid pour chaque personne à ce niveau
+    const polaroid = createPolaroid(personne);
+    niveau.appendChild(polaroid);
+    
+    // Si la personne a des enfants, afficher les branches
+    if (personne.enfants && personne.enfants.length > 0) {
+        // Créer une branche
+        const branch = document.createElement('div');
+        branch.classList.add('branch');
+        niveau.appendChild(branch);
+        
+        // Appeler récursivement pour les enfants
+        personne.enfants.forEach(enfant => {
+            createArbre(enfant, niveau);
+        });
+    }
+    
+    // Ajouter ce niveau à l'élément parent
+    parentElement.appendChild(niveau);
+}
+
+// Créer l'arbre à partir de la structure
+const arbreContainer = document.getElementById('arbre');
+createArbre(arbreStructure, arbreContainer);
+
 </script>

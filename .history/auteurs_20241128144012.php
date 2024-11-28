@@ -326,34 +326,34 @@
 <?php include("promotions.php"); ?>
 
 <div class="box">
-  <div class="profile-card director">
-    <div class="imgBx">
-      <img src="images/gillesHerve/gillesHerve.png" alt="images">
-    </div>
-    <div class="details">
-      <h2>Gilles Hervé<br><span>Directeur Artistique</span></h2>
-    </div>
-  </div>
+      <div class="card">
+        <div class="imgBx">
+            <img src="images/gillesHerve/gi" alt="images">
+        </div>
+        <div class="details">
+            <h2>SomeOne Famous<br><span>Director</span></h2>
+        </div>
+      </div>
+    
+       <div class="card">
+         <div class="imgBx">
+            <img src="https://images.unsplash.com/photo-1549417229-aa67d3263c09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="images">
+         </div>
+         <div class="details">
+            <h2>SomeOne Famous<br><span>Producer</span></h2>
+          </div>
+       </div>
 
-  <div class="profile-card producer">
-    <div class="imgBx">
-      <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-    </div>
-    <div class="details">
-      <h2>Abdel François Nadini<br><span>Producteur</span></h2>
-    </div>
+       <div class="card">
+         <div class="imgBx">
+            <img src="https://images.unsplash.com/photo-1548094878-84ced0f6896d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="images">
+         </div>
+         <div class="details">
+            <h2>SomeOne Famous<br><span>Actor</span></h2>
+          </div>
+       </div>
+ 
   </div>
-
-  <div class="profile-card actress">
-    <div class="imgBx">
-      <img src="https://images.unsplash.com/photo-1548094878-84ced0f6896d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="images">
-    </div>
-    <div class="details">
-      <h2>Emma Dufresne<br><span>Actrice</span></h2>
-    </div>
-  </div>
-</div>
-
 
  <?php include("footer.php"); ?>
 

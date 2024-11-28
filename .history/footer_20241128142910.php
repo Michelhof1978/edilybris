@@ -1051,5 +1051,79 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-  
+  // Liste de 40 personnes (nom et rôle)
+// Liste de 40 personnes (nom et photo URL de l'image)
+const personnes = [
+    { nom: "Jean Dupont", image: "https://via.placeholder.com/100" },
+    { nom: "Marie Leblanc", image: "https://via.placeholder.com/100" },
+    { nom: "Paul Martin", image: "https://via.placeholder.com/100" },
+    { nom: "Alice Robert", image: "https://via.placeholder.com/100" },
+    { nom: "Michel Bernard", image: "https://via.placeholder.com/100" },
+    { nom: "Sophie Dufresne", image: "https://via.placeholder.com/100" },
+    { nom: "Lucien Lefevre", image: "https://via.placeholder.com/100" },
+    { nom: "Juliette Gauthier", image: "https://via.placeholder.com/100" },
+    { nom: "Éric Dubois", image: "https://via.placeholder.com/100" },
+    { nom: "Claire Lebrun", image: "https://via.placeholder.com/100" },
+    { nom: "Antoine Bernard", image: "https://via.placeholder.com/100" },
+    { nom: "David Gérard", image: "https://via.placeholder.com/100" },
+    { nom: "Charlotte Vasseur", image: "https://via.placeholder.com/100" },
+    { nom: "Nicolas Lefevre", image: "https://via.placeholder.com/100" },
+    { nom: "Isabelle Ménard", image: "https://via.placeholder.com/100" },
+    { nom: "Pierre Lemoine", image: "https://via.placeholder.com/100" },
+    { nom: "Patricia Rousseau", image: "https://via.placeholder.com/100" },
+    { nom: "François Petit", image: "https://via.placeholder.com/100" },
+    { nom: "Camille Roussel", image: "https://via.placeholder.com/100" },
+    { nom: "Jacques Moreau", image: "https://via.placeholder.com/100" },
+    { nom: "Hélène Giraud", image: "https://via.placeholder.com/100" },
+    { nom: "Emmanuel Dupuis", image: "https://via.placeholder.com/100" },
+    { nom: "Laura Dumont", image: "https://via.placeholder.com/100" },
+    { nom: "Vincent Lambert", image: "https://via.placeholder.com/100" },
+    { nom: "Claire Morel", image: "https://via.placeholder.com/100" },
+    { nom: "Olivier Joly", image: "https://via.placeholder.com/100" },
+    { nom: "Catherine Lefèvre", image: "https://via.placeholder.com/100" },
+    { nom: "Nadine Faure", image: "https://via.placeholder.com/100" },
+    { nom: "Philippe Lemoine", image: "https://via.placeholder.com/100" },
+    { nom: "Marie-Paule Dupont", image: "https://via.placeholder.com/100" },
+    { nom: "Bernard Robert", image: "https://via.placeholder.com/100" },
+    { nom: "Sébastien Lefevre", image: "https://via.placeholder.com/100" },
+    { nom: "Thérèse Robert", image: "https://via.placeholder.com/100" },
+    { nom: "Romain Gauthier", image: "https://via.placeholder.com/100" },
+    { nom: "Julien Martin", image: "https://via.placeholder.com/100" },
+    { nom: "Aline Girard", image: "https://via.placeholder.com/100" },
+    { nom: "David Lefevre", image: "https://via.placeholder.com/100" },
+    { nom: "Antoine Dupuis", image: "https://via.placeholder.com/100" },
+    { nom: "Christine Dubois", image: "https://via.placeholder.com/100" },
+    { nom: "Marc Bernard", image: "https://via.placeholder.com/100" },
+    { nom: "Ludovic Roussel", image: "https://via.placeholder.com/100" },
+    { nom: "Brigitte Lefevre", image: "https://via.placeholder.com/100" }
+];
+
+// Cible le conteneur de l'organigramme
+const organigrammeContainer = document.getElementById('organigramme');
+
+// Fonction pour générer les polaroids dynamiquement
+function createPolaroids() {
+    personnes.forEach(person => {
+        const polaroid = document.createElement('div');
+        polaroid.classList.add('polaroid');
+
+        // Créer la zone de photo et l'affecter à l'image de la personne
+        const photo = document.createElement('div');
+        photo.classList.add('photo');
+        photo.style.backgroundImage = `url(${person.image})`; // Assigne l'image
+        polaroid.appendChild(photo);
+
+        // Ajouter le nom sous la photo
+        const name = document.createElement('h3');
+        name.textContent = person.nom;
+        polaroid.appendChild(name);
+
+        // Ajouter le polaroid au conteneur
+        organigrammeContainer.appendChild(polaroid);
+    });
+}
+
+// Appel de la fonction pour afficher les polaroids
+createPolaroids();
+
 </script>

@@ -1051,5 +1051,86 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-  
+  // Liste de 40 personnes (nom et rôle)
+const personnes = [
+    { nom: "Jean Dupont", role: "Directeur Général" },
+    { nom: "Marie Leblanc", role: "Responsable Marketing" },
+    { nom: "Paul Martin", role: "Responsable Technique" },
+    { nom: "Alice Robert", role: "Responsable Commercial" },
+    { nom: "Michel Bernard", role: "Chef de Projet" },
+    { nom: "Sophie Dufresne", role: "Développeur Web" },
+    { nom: "Lucien Lefevre", role: "Analyste Financier" },
+    { nom: "Juliette Gauthier", role: "Chargée de Communication" },
+    { nom: "Éric Dubois", role: "Directeur IT" },
+    { nom: "Claire Lebrun", role: "Chef Comptable" },
+    { nom: "Antoine Bernard", role: "Responsable RH" },
+    { nom: "David Gérard", role: "Responsable Service Client" },
+    { nom: "Charlotte Vasseur", role: "Directrice de la Stratégie" },
+    { nom: "Nicolas Lefevre", role: "Chef de Produit" },
+    { nom: "Isabelle Ménard", role: "Chargée de Marketing Digital" },
+    { nom: "Pierre Lemoine", role: "Technicien Réseau" },
+    { nom: "Patricia Rousseau", role: "Directrice des Ventes" },
+    { nom: "François Petit", role: "Responsable Achats" },
+    { nom: "Camille Roussel", role: "Responsable Qualité" },
+    { nom: "Jacques Moreau", role: "Responsable Sécurité" },
+    { nom: "Hélène Giraud", role: "Chef de la Production" },
+    { nom: "Emmanuel Dupuis", role: "Consultant" },
+    { nom: "Laura Dumont", role: "Assistante de Direction" },
+    { nom: "Vincent Lambert", role: "Responsable Logistique" },
+    { nom: "Claire Morel", role: "Chef de Service" },
+    { nom: "Olivier Joly", role: "Chef Marketing" },
+    { nom: "Catherine Lefèvre", role: "Chargée de Relations Publiques" },
+    { nom: "Nadine Faure", role: "Gestionnaire de Projet" },
+    { nom: "Philippe Lemoine", role: "Chef d'Équipe" },
+    { nom: "Marie-Paule Dupont", role: "Secrétaire" },
+    { nom: "Bernard Robert", role: "Conseiller" },
+    { nom: "Sébastien Lefevre", role: "Responsable Maintenance" },
+    { nom: "Thérèse Robert", role: "Chargée de Formation" },
+    { nom: "Romain Gauthier", role: "Développeur Fullstack" },
+    { nom: "Julien Martin", role: "Responsable Communication" },
+    { nom: "Aline Girard", role: "Assistante RH" },
+    { nom: "David Lefevre", role: "Directeur Commercial" },
+    { nom: "Antoine Dupuis", role: "Chef d'Entreprise" },
+    { nom: "Christine Dubois", role: "Responsable Logistique" },
+    { nom: "Marc Bernard", role: "Directeur de la R&D" },
+    { nom: "Ludovic Roussel", role: "Chef de Produit" },
+    { nom: "Brigitte Lefevre", role: "Directrice Marketing" }
+];
+
+// Cible le conteneur de l'organigramme
+const organigrammeContainer = document.getElementById('organigramme');
+
+// Fonction pour générer les polaroids dynamiquement
+function createPolaroids() {
+    personnes.forEach(person => {
+        const polaroid = document.createElement('div');
+        polaroid.classList.add('polaroid');
+
+        // Créer la zone de photo (ici une couleur de fond grise)
+        const photo = document.createElement('div');
+        photo.classList.add('photo');
+        polaroid.appendChild(photo);
+
+        // Ajouter les informations sur la personne
+        const description = document.createElement('div');
+        description.classList.add('description');
+
+        const nom = document.createElement('h3');
+        nom.textContent = person.nom;
+        description.appendChild(nom);
+
+        const role = document.createElement('p');
+        role.textContent = person.role;
+        description.appendChild(role);
+
+        polaroid.appendChild(description);
+
+        // Ajouter le polaroid à l'organigramme
+        organigrammeContainer.appendChild(polaroid);
+    });
+}
+
+// Appel de la fonction pour afficher les polaroids
+createPolaroids();
+
 </script>
