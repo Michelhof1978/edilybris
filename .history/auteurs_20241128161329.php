@@ -351,7 +351,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François </h2>
+        <h2>Abdel François Nadini</h2>
       </div>
     </div>
 
@@ -360,7 +360,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François </h2>
+        <h2>Abdel François Nadini</h2>
       </div>
     </div>
 
@@ -369,7 +369,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François</h2>
+        <h2>Abdel François Nadini</h2>
       </div>
     </div>
 
@@ -378,7 +378,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François </h2>
+        <h2>Abdel François Nadini</h2>
       </div>
     </div>
 
@@ -387,7 +387,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François </h2>
+        <h2>Abdel François Nadini</h2>
       </div>
     </div>
 
@@ -396,7 +396,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François </h2>
+        <h2>Abdel François Nadini</h2>
       </div>
     </div>
   </div>

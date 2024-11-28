@@ -1623,7 +1623,7 @@ input[type="email"]:focus {
 /* Style général pour chaque carte */
 .profile-card {
   position: relative;
-  width: 200px;  /* Réduire la taille des cartes en largeur */
+  width: 150px;  /* Réduire la taille des cartes en largeur */
   height: 250px; /* Augmenter la hauteur des cartes */
   background: #fff;
   border-radius: 4px;
