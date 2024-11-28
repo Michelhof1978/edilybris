@@ -36,18 +36,8 @@
  <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2> 
 
  <!-- CARDS L-->
- <!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Groupes de Cartes</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<!-- Groupe 1 -->
-<div class="L-card-container" id="L-group1">
+   <!-- Groupe 1 -->
+<div id="L-group1" class="L-card-container">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre A">
@@ -92,11 +82,21 @@
             </div>
         </a>
     </div>
-    
 </div>
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
+<div id="L-group2" class="L-card-container L-hidden">
+    <div class="L-card">
+        <a href="link_to_book_E.html">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre E">
+            <div class="L-card-content">
+                <div class="L-card-title">L'ombre du vent</div>
+                <div class="L-card-author">Émile Rousseau</div>
+                <div class="L-card-description">Une quête mystérieuse dans un monde envoûtant.</div>
+                <div class="L-card-price">15,99 €</div>
+            </div>
+        </a>
+    </div>
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre F">
@@ -130,6 +130,10 @@
             </div>
         </a>
     </div>
+</div>
+
+<!-- Groupe 3 -->
+<div id="L-group3" class="L-card-container L-hidden">
     <div class="L-card">
         <a href="link_to_book_I.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre I">
@@ -141,11 +145,17 @@
             </div>
         </a>
     </div>
-    
-</div>
-
-<!-- Groupe 3 -->
-<div class="L-card-container L-hidden" id="L-group3">
+    <div class="L-card">
+        <a href="link_to_book_J.html">
+            <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre J">
+            <div class="L-card-content">
+                <div class="L-card-title">L'esprit des forêts</div>
+                <div class="L-card-author">Jean-Louis Perrin</div>
+                <div class="L-card-description">Une immersion profonde dans la nature sauvage.</div>
+                <div class="L-card-price">18,99 €</div>
+            </div>
+        </a>
+    </div>
     <div class="L-card">
         <a href="link_to_book_K.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre K">
@@ -168,40 +178,13 @@
             </div>
         </a>
     </div>
-    <div class="L-card">
-        <a href="link_to_book_M.html">
-            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre M">
-            <div class="L-card-content">
-                <div class="L-card-title">Les lumières de l'aube</div>
-                <div class="L-card-author">Clara Martin</div>
-                <div class="L-card-description">Un roman d'amour et de mystère à couper le souffle.</div>
-                <div class="L-card-price">21,99 €</div>
-            </div>
-        </a>
-    </div>
-    <div class="L-card">
-        <a href="link_to_book_N.html">
-            <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre N">
-            <div class="L-card-content">
-                <div class="L-card-title">La forêt des songes</div>
-                <div class="L-card-author">Lucas Dupont</div>
-                <div class="L-card-description">Une exploration entre l'imaginaire et le réel.</div>
-                <div class="L-card-price">22,99 €</div>
-            </div>
-        </a>
-    </div>
-   
 </div>
 
 <!-- Boutons de navigation -->
-<div class="L-navigation">
+<div class="L-navigation mt-4">
     <button id="L-backButton" class="L-button" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button">Suivant</button>
 </div>
-
-<script src="script.js"></script>
-</body>
-</html>
 
  <!-- FIN CARDS L-->
  

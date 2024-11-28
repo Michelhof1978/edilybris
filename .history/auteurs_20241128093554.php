@@ -92,7 +92,17 @@
             </div>
         </a>
     </div>
-    
+    <div class="L-card">
+        <a href="link_to_book_E.html">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre E">
+            <div class="L-card-content">
+                <div class="L-card-title">L'ombre du vent</div>
+                <div class="L-card-author">Émile Rousseau</div>
+                <div class="L-card-description">Une quête mystérieuse dans un monde envoûtant.</div>
+                <div class="L-card-price">15,99 €</div>
+            </div>
+        </a>
+    </div>
 </div>
 
 <!-- Groupe 2 -->
@@ -141,7 +151,17 @@
             </div>
         </a>
     </div>
-    
+    <div class="L-card">
+        <a href="link_to_book_J.html">
+            <img src="images/pierreBrandao/luciolesMagiques.png" alt="Livre J">
+            <div class="L-card-content">
+                <div class="L-card-title">L'esprit des forêts</div>
+                <div class="L-card-author">Jean-Louis Perrin</div>
+                <div class="L-card-description">Une immersion profonde dans la nature sauvage.</div>
+                <div class="L-card-price">18,99 €</div>
+            </div>
+        </a>
+    </div>
 </div>
 
 <!-- Groupe 3 -->
@@ -190,7 +210,17 @@
             </div>
         </a>
     </div>
-   
+    <div class="L-card">
+        <a href="link_to_book_O.html">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" alt="Livre O">
+            <div class="L-card-content">
+                <div class="L-card-title">L'ombre du passé</div>
+                <div class="L-card-author">Emilie Dupuis</div>
+                <div class="L-card-description">Une enquête pleine de secrets et de suspense.</div>
+                <div class="L-card-price">23,99 €</div>
+            </div>
+        </a>
+    </div>
 </div>
 
 <!-- Boutons de navigation -->
