@@ -1581,7 +1581,6 @@ input[type="email"]:focus {
 
   
  /* TROMBINOSCOPE */
-/* TROMBINOSCOPE */
 .carousel {
   display: flex;
   justify-content: flex-start;
@@ -1663,30 +1662,29 @@ input[type="email"]:focus {
   left: 10px;
   right: 10px;
   bottom: 10px;
-  height: 80px;
+  height: 80px;  /* Augmenter la hauteur pour mieux afficher le texte */
   text-align: center;
-  background: #fff;
-  padding: 20px 5px;  /* Augmenter encore le padding pour descendre le texte */
+  background: #fff; /* Fond blanc */
+  padding: 10px 5px;
   border-radius: 4px;
   display: flex;
-  align-items: flex-start;  /* Garder le texte aligné en haut du conteneur */
-  justify-content: center;
-  box-sizing: border-box;
+  align-items: center; /* Centrer le texte verticalement */
+  justify-content: center; /* Centrer le texte horizontalement */
+  box-sizing: border-box; /* Inclure le padding dans les dimensions */
 }
 
 .profile-card .details h2 {
   margin: 0;
   padding: 0;
   font-weight: 600;
-  font-size: 14px;
-  color: #000;
+  font-size: 14px; /* Taille de texte un peu plus grande pour une meilleure lisibilité */
+  color: #000; /* Texte en noir */
   text-transform: uppercase;
-  margin-top: 40px;  /* Augmenter la marge pour descendre le texte encore plus bas */
 }
 
 .profile-card .details h2 span {
   font-weight: 500;
-  font-size: 12px;
+  font-size: 12px; /* Légèrement plus petit */
   color: #f38695;
   display: block;
   margin-top: 5px;
@@ -1694,11 +1692,9 @@ input[type="email"]:focus {
 
 /* Nouveau style lors du survol de la carte */
 .profile-card:hover .details h2 {
-  color: #000;
+  color: #000;  /* Texte en noir au survol */
 }
 
 .profile-card:hover .details h2 span {
   color: #f4c600;  /* Jaune pour le span lors du survol */
 }
-
-/*FIN TROMBINOSCOPE*/

@@ -1663,13 +1663,13 @@ input[type="email"]:focus {
   left: 10px;
   right: 10px;
   bottom: 10px;
-  height: 80px;
+  height: 80px;  /* Hauteur augmentée pour plus d'espace */
   text-align: center;
   background: #fff;
-  padding: 20px 5px;  /* Augmenter encore le padding pour descendre le texte */
+  padding: 15px 5px;  /* Augmenter le padding pour déplacer le texte vers le bas */
   border-radius: 4px;
   display: flex;
-  align-items: flex-start;  /* Garder le texte aligné en haut du conteneur */
+  align-items: flex-start; /* Aligner le texte en haut */
   justify-content: center;
   box-sizing: border-box;
 }
@@ -1681,7 +1681,7 @@ input[type="email"]:focus {
   font-size: 14px;
   color: #000;
   text-transform: uppercase;
-  margin-top: 40px;  /* Augmenter la marge pour descendre le texte encore plus bas */
+  margin-top: 20px;  /* Augmenter la marge pour déplacer le texte encore plus bas */
 }
 
 .profile-card .details h2 span {
@@ -1694,7 +1694,7 @@ input[type="email"]:focus {
 
 /* Nouveau style lors du survol de la carte */
 .profile-card:hover .details h2 {
-  color: #000;
+  color: #000;  /* Texte en noir au survol */
 }
 
 .profile-card:hover .details h2 span {
