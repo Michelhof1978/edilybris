@@ -1051,40 +1051,36 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
- const box = document.querySelector(".box");
-const cards = document.querySelectorAll(".profile-card");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
+  // Récupérer les éléments
+const leftArrow = document.querySelector('.carousel-arrow.left');
+const rightArrow = document.querySelector('.carousel-arrow.right');
+const box = document.querySelector('.box');
 
-let index = 0;  // L'index de la carte actuellement visible
-const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
+// Largeur d'une carte + espace
+const cardWidth = document.querySelector('.profile-card').offsetWidth + 20;  // 20px d'écart entre les cartes
 
-// Fonction pour mettre à jour la position du carrousel
-function updateCarouselPosition() {
-  box.style.transform = `translateX(-${index * cardWidth}px)`;
+// Nombre de cartes à faire défiler (5 cartes à la fois)
+const cardsToScroll = 5;
 
-  // Désactiver les flèches si nécessaire
-  prevBtn.disabled = index === 0;
-  nextBtn.disabled = index === cards.length - 1;
-}
+// Largeur d'un groupe de 5 cartes
+const scrollDistance = cardWidth * cardsToScroll;
 
-// Écouteurs d'événements pour les boutons de navigation
-nextBtn.addEventListener("click", function() {
-  if (index < cards.length - 1) {
-    index++;
-    updateCarouselPosition();
-  }
+// Défilement vers la gauche
+leftArrow.addEventListener('click', () => {
+  const currentTransform = getComputedStyle(box).transform;
+  const matrix = new DOMMatrix(currentTransform);
+  const translateX = matrix.m41 || 0;
+  const newTransform = `translateX(${translateX + scrollDistance}px)`;
+  box.style.transform = newTransform;
 });
 
-prevBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    updateCarouselPosition();
-  }
+// Défilement vers la droite
+rightArrow.addEventListener('click', () => {
+  const currentTransform = getComputedStyle(box).transform;
+  const matrix = new DOMMatrix(currentTransform);
+  const translateX = matrix.m41 || 0;
+  const newTransform = `translateX(${translateX - scrollDistance}px)`;
+  box.style.transform = newTransform;
 });
-
-// Initialiser la position du carrousel
-updateCarouselPosition();
-
 
 </script>

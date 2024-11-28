@@ -326,89 +326,50 @@
 <?php include("promotions.php"); ?>
 
 <!-- TROMBINOSCOPE -->
-<div class="carousel ">
+<div class="carousel">
   <div class="box">
+    <!-- Les cartes restent inchangées ici -->
     <div class="profile-card director">
       <div class="imgBx">
-        <img src="images/gillesHerve/gillesHerve.png" alt="images">
+        <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
       </div>
       <div class="details">
         <h2>Gilles Hervé</h2>
       </div>
     </div>
-
     <div class="profile-card producer">
       <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
       </div>
       <div class="details">
         <h2>Abdel François</h2>
       </div>
     </div>
-
+    <!-- Ajouter d'autres cartes ici -->
     <div class="profile-card producer">
       <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
       </div>
       <div class="details">
         <h2>Abdel François</h2>
       </div>
     </div>
-
     <div class="profile-card producer">
       <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
       </div>
       <div class="details">
         <h2>Abdel François</h2>
       </div>
     </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
+    <!-- Ajoutez ici toutes les cartes que tu veux afficher -->
   </div>
 
-  <!-- Flèches de navigation -->
-  <div class="carousel-buttons">
-    <button class="carousel-button" id="prevBtn">◀</button>
-    <button class="carousel-button" id="nextBtn">▶</button>
-  </div>
+  <!-- Flèches gauche et droite sous les cartes -->
+  <button class="carousel-arrow left">&#8592;</button>
+  <button class="carousel-arrow right">&#8594;</button>
 </div>
 <!-- Fin TROMBINOSCOPE -->
-
 
 
 

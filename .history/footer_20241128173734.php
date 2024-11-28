@@ -1051,40 +1051,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
- const box = document.querySelector(".box");
-const cards = document.querySelectorAll(".profile-card");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-
-let index = 0;  // L'index de la carte actuellement visible
-const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
-
-// Fonction pour mettre à jour la position du carrousel
-function updateCarouselPosition() {
-  box.style.transform = `translateX(-${index * cardWidth}px)`;
-
-  // Désactiver les flèches si nécessaire
-  prevBtn.disabled = index === 0;
-  nextBtn.disabled = index === cards.length - 1;
-}
-
-// Écouteurs d'événements pour les boutons de navigation
-nextBtn.addEventListener("click", function() {
-  if (index < cards.length - 1) {
-    index++;
-    updateCarouselPosition();
-  }
+  document.getElementById("nextBtn").addEventListener("click", function() {
+  const box = document.querySelector(".box");
+  const cardWidth = document.querySelector(".profile-card").offsetWidth + 20; // Largeur d'une carte + marge
+  const cardsToMove = 5; // Nombre de cartes à déplacer en même temps
+  box.style.transform = `translateX(-${cardWidth * cardsToMove}px)`;
 });
 
-prevBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    updateCarouselPosition();
-  }
+document.getElementById("prevBtn").addEventListener("click", function() {
+  const box = document.querySelector(".box");
+  const cardWidth = document.querySelector(".profile-card").offsetWidth + 20;
+  const cardsToMove = 5;
+  box.style.transform = `translateX(${cardWidth * cardsToMove}px)`;
 });
-
-// Initialiser la position du carrousel
-updateCarouselPosition();
-
 
 </script>

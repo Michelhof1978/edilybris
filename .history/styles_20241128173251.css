@@ -290,6 +290,10 @@ header {
 
 /* FOOTER */
 
+.plume{
+  margin: -100px;
+}
+
 footer{
 position:fixed;
 bottom: 0;
@@ -1575,6 +1579,8 @@ input[type="email"]:focus {
  /* FIN PRESENTATION AUTEURS  */
 
 
+  
+ /* TROMBINOSCOPE */
 /* TROMBINOSCOPE */
 .carousel {
   display: flex;
@@ -1674,7 +1680,7 @@ input[type="email"]:focus {
   color: #f4c600;
 }
 
-/* Flèches de navigation */
+/* Flèches */
 .carousel-buttons {
   position: absolute;
   bottom: -40px; /* Positionner les flèches sous le carrousel */
@@ -1700,9 +1706,4 @@ input[type="email"]:focus {
 .carousel-button:hover {
   background-color: #e0a800;
 }
-
-/* Désactivation des boutons quand nécessaire */
-.carousel-button:disabled {
-  background-color: #ddd;
-  cursor: not-allowed;
-}
+/* TROMBINOSCOPE */

@@ -326,7 +326,7 @@
 <?php include("promotions.php"); ?>
 
 <!-- TROMBINOSCOPE -->
-<div class="carousel ">
+<div class="carousel">
   <div class="box">
     <div class="profile-card director">
       <div class="imgBx">
@@ -346,59 +346,7 @@
       </div>
     </div>
 
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
+    <!-- Autres cartes -->
   </div>
 
   <!-- Flèches de navigation -->
@@ -408,7 +356,6 @@
   </div>
 </div>
 <!-- Fin TROMBINOSCOPE -->
-
 
 
 

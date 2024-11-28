@@ -326,7 +326,7 @@
 <?php include("promotions.php"); ?>
 
 <!-- TROMBINOSCOPE -->
-<div class="carousel ">
+<div class="carousel">
   <div class="box">
     <div class="profile-card director">
       <div class="imgBx">
@@ -342,7 +342,25 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François</h2>
+        <h2>Abdel François </h2>
+      </div>
+    </div>
+
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François </h2>
+      </div>
+    </div>
+
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François </h2>
       </div>
     </div>
 
@@ -360,7 +378,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François</h2>
+        <h2>Abdel François </h2>
       </div>
     </div>
 
@@ -369,7 +387,7 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François</h2>
+        <h2>Abdel François </h2>
       </div>
     </div>
 
@@ -378,38 +396,12 @@
         <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
       <div class="details">
-        <h2>Abdel François</h2>
+        <h2>Abdel François </h2>
       </div>
     </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François</h2>
-      </div>
-    </div>
-  </div>
-
-  <!-- Flèches de navigation -->
-  <div class="carousel-buttons">
-    <button class="carousel-button" id="prevBtn">◀</button>
-    <button class="carousel-button" id="nextBtn">▶</button>
   </div>
 </div>
 <!-- Fin TROMBINOSCOPE -->
-
-
 
 
  <?php include("footer.php"); ?>

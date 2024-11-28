@@ -326,7 +326,7 @@
 <?php include("promotions.php"); ?>
 
 <!-- TROMBINOSCOPE -->
-<div class="carousel ">
+<div class="carousel">
   <div class="box">
     <div class="profile-card director">
       <div class="imgBx">
