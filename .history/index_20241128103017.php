@@ -75,7 +75,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
  <?php include("nouveaute.php"); ?>
 
- <div class="container mt-5">
+  <div class="container mt-5">
   <div class="row justify-content-center">
     <div class="col-12 col-md-8">
       <div class="text-center py-5 rounded-4 p-2 fond-text">
@@ -100,8 +100,8 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         </p>
       </div>
     </div>
-    <div class="col-12 col-md-4 d-flex justify-content-end align-items-start image-container">
-      <img src="images/livreIndex2.png" alt="Image" class="img-fluid" />
+    <div class="col-12 col-md-4 d-flex justify-content-end">
+      <img src="votre-image.jpg" alt="Image" class="img-fluid" />
     </div>
   </div>
 </div>

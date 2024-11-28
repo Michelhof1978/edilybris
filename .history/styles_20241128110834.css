@@ -26,7 +26,7 @@ body {
     
 }
 .fond-text {
-  background-image: url('images/fondLivres.png') !important; /* Remplace l'URL par le chemin de ton image */
+  background-image: url('images/') !important; /* Remplace l'URL par le chemin de ton image */
   background-size: cover; /* L'image couvre toute la zone */
   background-position: center; /* L'image est centrée */
   color: white; /* Le texte en blanc ressort bien sur un fond */

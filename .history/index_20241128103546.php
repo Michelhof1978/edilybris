@@ -101,7 +101,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
       </div>
     </div>
     <div class="col-12 col-md-4 d-flex justify-content-end align-items-start image-container">
-      <img src="images/livreIndex2.png" alt="Image" class="img-fluid" />
+      <img src="images/l" alt="Image" class="img-fluid" />
     </div>
   </div>
 </div>

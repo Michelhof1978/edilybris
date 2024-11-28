@@ -75,9 +75,9 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
  <?php include("nouveaute.php"); ?>
 
- <div class="container mt-5">
+  <div class="container mt-5">
   <div class="row justify-content-center">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-10">
       <div class="text-center py-5 rounded-4 p-2 fond-text">
         <h3 class="mb-4">Bienvenue sur le site de notre association</h3>
         <p class="lead mb-4">
@@ -99,9 +99,6 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
           Nous vous invitons à explorer notre catalogue en ligne, à découvrir de nouveaux auteurs et à rejoindre notre communauté de lecteurs. Ensemble, partageons notre passion pour les livres et soutenons la création littéraire.
         </p>
       </div>
-    </div>
-    <div class="col-12 col-md-4 d-flex justify-content-end align-items-start image-container">
-      <img src="images/livreIndex2.png" alt="Image" class="img-fluid" />
     </div>
   </div>
 </div>

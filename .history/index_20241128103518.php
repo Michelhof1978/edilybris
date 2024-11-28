@@ -75,36 +75,28 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
  <?php include("nouveaute.php"); ?>
 
- <div class="container mt-5">
-  <div class="row justify-content-center">
-    <div class="col-12 col-md-8">
-      <div class="text-center py-5 rounded-4 p-2 fond-text">
-        <h3 class="mb-4">Bienvenue sur le site de notre association</h3>
-        <p class="lead mb-4">
-          Notre association a pour mission de promouvoir la lecture, le partage de connaissances et la découverte d'auteurs talentueux à travers la vente de livres soigneusement sélectionnés. Que vous soyez passionné de littérature, amateur de récits inspirants ou en quête de nouvelles découvertes, vous trouverez chez nous une offre variée de livres issus de plumes diversifiées.
-        </p>
+ .fond-text {
+  background-color: #1E3A5F !important;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
 
-        <h3 class="mt-4 mb-3">Des auteurs pour tous les goûts</h3>
-        <p class="mb-4">
-          Nous avons rassemblé des ouvrages d'auteurs émergents et confirmés, dans une multitude de genres : romans, essais, poésies, récits de voyage, ouvrages jeunesse et bien plus encore. Chaque livre est une invitation à explorer des univers uniques et à échanger des idées.
-        </p>
+/* Ajuster l'image à droite du texte */
+.image-container {
+  position: relative;
+  margin-left: auto;  /* Permet de coller l'image au bord droit */
+  width: 100%;        /* Assure que l'image utilise toute la largeur disponible dans la colonne */
+}
 
-        <h3 class="mt-4 mb-3">Notre engagement</h3>
-        <p class="mb-4">
-          Au-delà de la simple vente, notre association se veut un lieu de rencontre pour les amoureux du livre et de la culture. En achetant chez nous, vous soutenez non seulement des auteurs, mais également une démarche collective dédiée à la valorisation de la littérature sous toutes ses formes.
-        </p>
-
-        <h3 class="mt-4 mb-3">Faites partie de l’aventure !</h3>
-        <p>
-          Nous vous invitons à explorer notre catalogue en ligne, à découvrir de nouveaux auteurs et à rejoindre notre communauté de lecteurs. Ensemble, partageons notre passion pour les livres et soutenons la création littéraire.
-        </p>
-      </div>
-    </div>
-    <div class="col-12 col-md-4 d-flex justify-content-end align-items-start image-container">
-      <img src="images/livreIndex2.png" alt="Image" class="img-fluid" />
-    </div>
-  </div>
-</div>
+.image-container img {
+  position: absolute;  /* Positionnement absolu par rapport à la colonne */
+  right: 0;            /* Collée au bord droit de l'écran */
+  top: 0;              /* Collée en haut de la fenêtre */
+  width: 100%;         /* Assurez-vous que l'image soit responsive */
+  height: 100vh;       /* Hauteur de l'image égale à la hauteur de la fenêtre */
+  object-fit: cover;   /* L'image couvre toute la zone sans déformation */
+  z-index: -1;         /* Assurez-vous que l'image reste derrière le texte */
+}
 
  
 <?php include("promotions.php"); ?>

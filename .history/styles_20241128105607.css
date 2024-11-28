@@ -26,11 +26,34 @@ body {
     
 }
 .fond-text {
-  background-image: url('images/fondLivres.png') !important; /* Remplace l'URL par le chemin de ton image */
-  background-size: cover; /* L'image couvre toute la zone */
-  background-position: center; /* L'image est centrée */
-  color: white; /* Le texte en blanc ressort bien sur un fond */
+  background-color: #1E3A5F !important;
+  color: white; /* Le texte en blanc ressort bien sur un fond foncé */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
+}
+
+/* Positionner le conteneur relativement pour que l'image soit positionnée en fonction de lui */
+.container {
+  position: relative; /* Pour que l'image puisse être positionnée par rapport à ce conteneur */
+}
+
+/* Image : positionnement absolu à droite de l'écran */
+.image-container {
+  position: absolute; /* Positionnement absolu pour sortir du flux normal */
+  top: 0; /* Aligner en haut de l'écran */
+  right: 0; /* Coller l'image à droite de l'écran */
+  height: 100vh; /* Hauteur de l'image égale à la hauteur de l'écran */
+  width: auto; /* Largeur automatique pour garder les proportions */
+}
+
+/* Réduire la largeur de l'image si elle est trop grande */
+.image-container img {
+  max-width: 100%; /* Assure que l'image ne dépasse pas */
+  height: auto; /* Garder les proportions */
+}
+
+/* Colonne de texte à gauche */
+.col-md-8 {
+  padding-right: 20px; /* Un peu d'espace à droite pour éviter que le texte touche l'image */
 }
 
 

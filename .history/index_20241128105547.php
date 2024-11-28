@@ -100,11 +100,14 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         </p>
       </div>
     </div>
+
+    <!-- Image à droite -->
     <div class="col-12 col-md-4 d-flex justify-content-end align-items-start image-container">
       <img src="images/livreIndex2.png" alt="Image" class="img-fluid" />
     </div>
   </div>
 </div>
+
 
  
 <?php include("promotions.php"); ?>

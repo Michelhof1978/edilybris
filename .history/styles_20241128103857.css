@@ -26,40 +26,22 @@ body {
     
 }
 .fond-text {
-  background-image: url('images/fondLivres.png') !important; /* Remplace l'URL par le chemin de ton image */
-  background-size: cover; /* L'image couvre toute la zone */
-  background-position: center; /* L'image est centrée */
-  color: white; /* Le texte en blanc ressort bien sur un fond */
+  background-color: #1E3A5F !important;
+  color: white; /* Le texte en blanc ressort bien sur un fond foncé */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
 }
 
-
-
-
-/* Row alignée en flexbox */
-.row {
-  display: flex;
-  justify-content: space-between; /* Espace entre le texte et l'image */
-}
-
-/* Conteneur de l'image : pour la positionner à droite */
 .image-container {
   display: flex;
-  justify-content: flex-end; /* Aligner l'image à droite */
-  align-items: flex-start; /* Aligner l'image en haut */
-  padding: 0; /* Aucune marge interne */
-  width: 100%; /* Occupe toute la largeur restante */
+  justify-content: flex-end; /* Aligne l'image à droite */
+  align-items: flex-start; /* Aligne l'image en haut */
+  padding: 0; /* Supprime les marges internes */
+  height: 100vh; /* Prend toute la hauteur de l'écran */
 }
 
 .image-container img {
-  width: auto; /* L'image conserve sa largeur naturelle */
-  height: 100%; /* Prend toute la hauteur disponible */
-  max-width: 100%; /* Pour s'assurer que l'image ne déborde pas */
-}
-
-/* Optionnel : Pour que le texte prenne la largeur restante */
-.col-md-8 {
-  flex: 1 1 auto; /* Prendre tout l'espace restant */
+  max-width: 100%; /* Garantit que l'image ne dépasse pas la largeur de son conteneur */
+  height: auto; /* Pour préserver les proportions de l'image */
 }
 
 

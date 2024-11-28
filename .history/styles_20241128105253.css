@@ -26,14 +26,26 @@ body {
     
 }
 .fond-text {
-  background-image: url('images/fondLivres.png') !important; /* Remplace l'URL par le chemin de ton image */
-  background-size: cover; /* L'image couvre toute la zone */
-  background-position: center; /* L'image est centrée */
-  color: white; /* Le texte en blanc ressort bien sur un fond */
+  background-color: #1E3A5F !important;
+  color: white; /* Le texte en blanc ressort bien sur un fond foncé */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
 }
 
+.livreIndex2{
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  width: 20%;
+}
 
+.textIntro {
+  margin-top: 40px;
+  background-image: url('images/fondBleu.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 
 /* Row alignée en flexbox */
