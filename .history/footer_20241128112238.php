@@ -1,4 +1,4 @@
-<div class="text-center plume">
+<div class="text-center">
         <img class="w-25" src="images/plume.png" alt="Image centrée">
     </div>
 

@@ -290,9 +290,7 @@ header {
 
 /* FOOTER */
 
-.plume{
-  margin: -100px;
-}
+.plume
 
 footer{
 position:fixed;

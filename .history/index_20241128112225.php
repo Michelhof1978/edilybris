@@ -9,7 +9,7 @@
  <h1 class="text-white text-center m-4">Association d'Edi'lybris <br></h1>
 
  <div class="text-center">
-        <img class="w-25" src="images/livreIndex.png" alt="Image centrée">
+        <img class="w-25" src="images/livr.png" alt="Image centrée">
     </div>
   
   <!-- PRESENTATION AUTEURS -->

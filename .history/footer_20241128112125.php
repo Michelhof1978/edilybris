@@ -1,5 +1,5 @@
-<div class="text-center plume">
-        <img class="w-25" src="images/plume.png" alt="Image centrée">
+<div class="text-center">
+        <img class="w-25" src="images/livreIndex.png" alt="Image centrée">
     </div>
 
 

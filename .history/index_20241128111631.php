@@ -75,7 +75,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
  <?php include("nouveaute.php"); ?>
 
- <div class="container m-5 ">
+ <div class="container mt-5 ms">
   <div class="row justify-content-center">
     <div class="col-12 col-md-8">
       <div class="text-center py-5 rounded-4 p-2 fond-text">
