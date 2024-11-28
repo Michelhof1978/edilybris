@@ -1580,35 +1580,28 @@ input[type="email"]:focus {
 
 
   /* TROMBINOSCOPE*/
- /* CAROUSEL */
-.carousel {
-  display: flex;
-  justify-content: flex-start;  /* Aligner les cartes à gauche */
-  align-items: center;
-  overflow-x: auto;  /* Permet le défilement horizontal */
-  padding: 20px;
-  width: 100%;  /* Laissez la largeur du conteneur s'adapter à l'écran */
-}
-
-.box {
-  display: flex;  /* Organiser les cartes sur une seule ligne */
-  flex-wrap: nowrap; /* Empêcher les cartes de se déplacer sur une autre ligne */
-  gap: 20px; /* Espacement entre les cartes */
-}
-
+ /* Style général pour toutes les cartes */
 .profile-card {
   position: relative;
-  width: 150px;  /* Réduire la taille des cartes */
-  height: 200px; /* Ajuster la hauteur */
+  width: 300px;
+  height: 350px;
   background: #fff;
+  margin: 0 auto;
   border-radius: 4px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, .2);
-  flex-shrink: 0; /* Empêcher la carte de se réduire */
-  transition: transform 0.3s ease-in-out;
 }
 
-.profile-card:hover {
-  transform: scale(1.1);  /* Zoom léger au survol */
+/* Styles spécifiques pour chaque type de carte */
+.profile-card.director {
+  background-color: #ffcc00; /* Jaune pour le directeur */
+}
+
+.profile-card.producer {
+  background-color: #00ccff; /* Bleu pour le producteur */
+}
+
+.profile-card.actress {
+  background-color: #ff66b2; /* Rose pour l'actrice */
 }
 
 /* Styles pour l'image */
@@ -1616,15 +1609,15 @@ input[type="email"]:focus {
   position: absolute;
   top: 10px;
   left: 10px;
-  right: 10px;
   bottom: 10px;
+  right: 10px;
   background: #222;
   transition: 0.5s;
   z-index: 1;
 }
 
 .profile-card:hover .imgBx {
-  bottom: 60px;
+  bottom: 80px;
 }
 
 .profile-card .imgBx img {
@@ -1650,17 +1643,16 @@ input[type="email"]:focus {
   margin: 0;
   padding: 0;
   font-weight: 600;
-  font-size: 16px; /* Taille de texte plus petite */
+  font-size: 20px;
   color: #777;
   text-transform: uppercase;
 }
 
 .profile-card .details h2 span {
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   color: #f38695;
   display: block;
   margin-top: 5px;
 }
-
-/*FIN TROMBINOSCOPE*/
+/* TROMBINOS*/

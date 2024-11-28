@@ -325,84 +325,36 @@
 
 <?php include("promotions.php"); ?>
 
-<!-- TROMBINOSCOPE -->
-<div class="carousel">
-  <div class="box">
-    <div class="profile-card director">
-      <div class="imgBx">
-        <img src="images/gillesHerve/gillesHerve.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Gilles Hervé</h2>
-      </div>
+<!--TROMBINOSCOPE-->
+<div class="box">
+  <div class="profile-card director">
+    <div class="imgBx">
+      <img src="images/gillesHerve/gillesHerve.png" alt="images">
     </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
+    <div class="details">
+      <h2>Gilles Hervé<br></h2>
     </div>
+  </div>
 
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
+  <div class="profile-card producer">
+    <div class="imgBx">
+      <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
     </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
+    <div class="details">
+      <h2>Abdel François Nadini<br></h2>
     </div>
+  </div>
 
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
+  <div class="profile-card producer">
+    <div class="imgBx">
+      <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
     </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
-    </div>
-
-    <div class="profile-card producer">
-      <div class="imgBx">
-        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
-      </div>
-      <div class="details">
-        <h2>Abdel François Nadini</h2>
-      </div>
+    <div class="details">
+      <h2>Abdel François Nadini<br></h2>
     </div>
   </div>
 </div>
-<!-- Fin TROMBINOSCOPE -->
-
+<!--fin TROMBINOSCOPE-->
 
  <?php include("footer.php"); ?>
 

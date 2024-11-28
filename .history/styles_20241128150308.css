@@ -1579,26 +1579,20 @@ input[type="email"]:focus {
  /* FIN PRESENTATION AUTEURS  */
 
 
-  /* TROMBINOSCOPE*/
- /* CAROUSEL */
+  /* CAROUSEL */
 .carousel {
   display: flex;
-  justify-content: flex-start;  /* Aligner les cartes à gauche */
+  overflow-x: auto;
+  justify-content: center;
   align-items: center;
-  overflow-x: auto;  /* Permet le défilement horizontal */
   padding: 20px;
-  width: 100%;  /* Laissez la largeur du conteneur s'adapter à l'écran */
+  gap: 20px; /* Ajout d'espaces entre les cartes */
 }
 
-.box {
-  display: flex;  /* Organiser les cartes sur une seule ligne */
-  flex-wrap: nowrap; /* Empêcher les cartes de se déplacer sur une autre ligne */
-  gap: 20px; /* Espacement entre les cartes */
-}
-
+/* Style général pour chaque carte */
 .profile-card {
   position: relative;
-  width: 150px;  /* Réduire la taille des cartes */
+  width: 150px;  /* Réduire la taille de la carte */
   height: 200px; /* Ajuster la hauteur */
   background: #fff;
   border-radius: 4px;
@@ -1607,6 +1601,12 @@ input[type="email"]:focus {
   transition: transform 0.3s ease-in-out;
 }
 
+/* Styles spécifiques pour chaque type de carte */
+.profile-card.producer {
+  background-color: #fff; /* Couleur de fond pour le producteur */
+}
+
+/* Effet au survol */
 .profile-card:hover {
   transform: scale(1.1);  /* Zoom léger au survol */
 }
@@ -1624,7 +1624,7 @@ input[type="email"]:focus {
 }
 
 .profile-card:hover .imgBx {
-  bottom: 60px;
+  bottom: 60px; /* Ajuster l'effet au survol */
 }
 
 .profile-card .imgBx img {
@@ -1655,6 +1655,7 @@ input[type="email"]:focus {
   text-transform: uppercase;
 }
 
+/* Style du texte pour les profils */
 .profile-card .details h2 span {
   font-weight: 500;
   font-size: 14px;
@@ -1662,5 +1663,3 @@ input[type="email"]:focus {
   display: block;
   margin-top: 5px;
 }
-
-/*FIN TROMBINOSCOPE*/
