@@ -732,11 +732,6 @@ width: 100%;
   -moz-user-select: none; /* Pour Firefox */
 }
 
-/* Enlever les effets de surlignage sur les liens (s'il y en a) */
-.L-card a {
-  text-decoration: none;  /* Supprimer le soulignement des liens */
-  color: inherit;  /* Hériter de la couleur du texte */
-}
 
 /* FIN CARDS L*/
 

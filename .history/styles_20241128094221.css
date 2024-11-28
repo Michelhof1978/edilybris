@@ -636,8 +636,8 @@ width: 100%;
 .L-card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* Centre horizontalement */
-  gap: 20px; /* Espace entre les cartes */
+  justify-content: space-between;
+  gap: 20px;
   width: 100%;
   transition: opacity 0.3s ease;
 }
@@ -648,9 +648,10 @@ width: 100%;
   margin: 0;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(249, 248, 248, 0.1);
-  width: 250px; /* Largeur des cartes */
+  width: 250px;
   text-align: center;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  user-select: none; /* Désactive la sélection de texte sur les cartes */
 }
 
 .L-card img {
@@ -661,14 +662,14 @@ width: 100%;
 }
 
 .L-card-content {
-  text-align: center; /* Centrer tout le texte */
+  text-align: center;
 }
 
 .L-card-title,
 .L-card-author,
 .L-card-description,
 .L-card-price {
-  color: white; /* Texte en blanc */
+  color: white;
 }
 
 .L-card-title {
@@ -692,12 +693,25 @@ width: 100%;
   font-size: 18px;
   color: #ffcc00;
   margin-top: 10px;
-  font-weight: bold; /* Texte en gras */
+  font-weight: bold;
 }
 
 .L-card:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.L-card, .L-card * {
+  user-select: none;  /* Désactive la sélection de texte */
+}
+
+/* Désactiver le soulignement des liens au survol */
+.L-card a {
+  text-decoration: none;  /* Enlève le soulignement par défaut */
+}
+
+.L-card a:hover {
+  text-decoration: none;  /* Enlève également le soulignement au survol */
 }
 
 .L-hidden {
@@ -723,19 +737,6 @@ width: 100%;
 .L-button:disabled {
   background-color: #ddd;
   cursor: not-allowed;
-}
-
-/* Désactiver la sélection de texte sur les cartes */
-.L-card, .L-card * {
-  user-select: none;  /* Désactive la sélection de texte */
-  -webkit-user-select: none; /* Pour Safari */
-  -moz-user-select: none; /* Pour Firefox */
-}
-
-/* Enlever les effets de surlignage sur les liens (s'il y en a) */
-.L-card a {
-  text-decoration: none;  /* Supprimer le soulignement des liens */
-  color: inherit;  /* Hériter de la couleur du texte */
 }
 
 /* FIN CARDS L*/
