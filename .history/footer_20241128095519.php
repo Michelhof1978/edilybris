@@ -27,7 +27,7 @@
                         <i class="far fa-envelope-open me-2"></i>
                         <div class="cta-text">
                             <h4>Mail</h4>
-                            <span>edilybris@gmail.com</span>
+                            <span>pbse@orange.fr</span>
                         </div>
                     </div>
                 </div>

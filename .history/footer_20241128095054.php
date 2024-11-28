@@ -27,7 +27,7 @@
                         <i class="far fa-envelope-open me-2"></i>
                         <div class="cta-text">
                             <h4>Mail</h4>
-                            <span>edilybris@gmail.com</span>
+                            <span>michelhoff1978@gmail.com</span>
                         </div>
                     </div>
                 </div>
@@ -125,17 +125,17 @@
             <!-- Adresse -->
             <div class="col d-flex align-items-center justify-content-center">
                 <i class="fas fa-map-marker-alt me-2"></i>
-                <span>9, rue des Mésanges<br> 79400 SAINT-MAIXENT-L'ÉCOLE</span>
+                <span>Adresse à fournir</span>
             </div>
             <!-- Téléphone -->
             <div class="col d-flex align-items-center justify-content-center">
                 <i class="fas fa-phone me-2"></i>
-                <span>06 23 53 30 18</span>
+                <span>06 00 00 00 00</span>
             </div>
             <!-- Email -->
             <div class="col d-flex align-items-center justify-content-center">
                 <i class="far fa-envelope-open me-2"></i>
-                <span>edilybris@gmail.com</span>
+                <span>mail à fournir</span>
             </div>
         </div>
     </div>

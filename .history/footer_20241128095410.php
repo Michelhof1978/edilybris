@@ -27,7 +27,7 @@
                         <i class="far fa-envelope-open me-2"></i>
                         <div class="cta-text">
                             <h4>Mail</h4>
-                            <span>edilybris@gmail.com</span>
+                            <span>pbse@orange.fr</span>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
             <!-- Email -->
             <div class="col d-flex align-items-center justify-content-center">
                 <i class="far fa-envelope-open me-2"></i>
-                <span>edilybris@gmail.com</span>
+                <span>pbse@orange.fr</span>
             </div>
         </div>
     </div>
