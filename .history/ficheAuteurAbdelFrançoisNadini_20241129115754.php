@@ -9,9 +9,6 @@
  
 
 <?php include("footer.php"); ?>
-<script>
-
-</script>
 
 </body>
 
