@@ -325,215 +325,80 @@
 
 <?php include("promotions.php"); ?>
 
-<h2 class="text-white text-center m-4">Nos Auteurs</h2> 
-
 <!-- TROMBINOSCOPE -->
 <div class="carousel-container">
   <!-- Carrousel -->
   <div class="carousel">
     <div class="box">
       <!-- Cartes de profils -->
-      <a href="page_gilles_herve.html" class="profile-card director">
+      <div class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
         </div>
         <div class="details">
           <h2>Gilles Hervé</h2>
         </div>
-      </a>
+      </div>
 
-      <a href="page_abdel_francois.html" class="profile-card producer">
+      <div class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
         </div>
         <div class="details">
           <h2>Abdel François</h2>
         </div>
-      </a>
+      </div>
 
-      <a href="page_abdel_francois.html" class="profile-card producer">
+      <!-- Répétition des cartes de profils -->
+      <div class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
         </div>
         <div class="details">
           <h2>Abdel François</h2>
         </div>
-      </a>
+      </div>
 
-      <a href="page_abdel_francois.html" class="profile-card producer">
+      <div class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
         </div>
         <div class="details">
           <h2>Abdel François</h2>
         </div>
-      </a>
+      </div>
 
-      <a href="page_gilles_herve.html" class="profile-card director">
+      <div class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
         </div>
         <div class="details">
           <h2>Gilles Hervé</h2>
         </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
+      </div>
+      <div class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
         </div>
         <div class="details">
           <h2>Gilles Hervé</h2>
         </div>
-      </a>
+      </div>
 
-      <!-- Répétition de cartes (ajoutons 34 autres cartes) -->
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
-
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
+      <!-- Ajoutez plus de cartes ici si nécessaire -->
 
     </div>
   </div>
+
+  <div class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
+        </div>
+        <div class="details">
+          <h2>Abdel François</h2>
+        </div>
+      </div>
+      
 
   <!-- Boutons de navigation -->
   <div class="carousel-navigation">
@@ -541,7 +406,6 @@
     <button id="nextBtn" class="carousel-btn">Suivant</button>
   </div>
 </div>
-
 <!-- Fin TROMBINOSCOPE -->
 
 

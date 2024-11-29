@@ -1693,7 +1693,7 @@ input[type="email"]:focus {
   border: none;
   padding: 10px 20px;
   font-size: 18px;
-  color: rgb(9, 9, 9);
+  color: white;
   cursor: pointer;
   border-radius: 4px;
   transition: background-color 0.3s ease;

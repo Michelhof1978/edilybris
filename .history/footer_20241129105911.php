@@ -1049,7 +1049,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- FIN CARDS L-->
 
 
-<!-- TROMBINOSCOPE-->
+<!-- FIN CARDS L-->
 <script>
 // Sélectionner les éléments nécessaires
 const box = document.querySelector(".box");
@@ -1088,4 +1088,4 @@ prevBtn.addEventListener("click", function() {
 updateCarouselPosition();
 
 </script>
-<!-- FIN TROMBINOSCOPE-->
+
