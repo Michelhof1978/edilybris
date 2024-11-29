@@ -17,7 +17,7 @@
       <div class="text-center py-5 rounded-4 p-2 fond-text">
       <h3 class="mb-4 fs-2 fw-bold">Pourquoi acheter nos livres ?</h3>
       <div class="text-center">
-        <img class="w-25" src="images/livreAuteurs2.png" alt="Image centrée">
+        <img class="w-25" src="images/livreAuteur2.png" alt="Image centrée">
     </div>
       <h3 class="mb-4">Soutenir la création littéraire</h3>
         <p class="lead mb-4">

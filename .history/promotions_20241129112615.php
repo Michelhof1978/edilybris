@@ -1,8 +1,5 @@
 <h2 class="text-white text-center m-4">Nos livres en promotions</h2>
 
-<div class="text-center">
-        <img class="" src="images/promos.png" alt="Image centrée">
-    </div>
 
 <div class="container mt-5 mb-5">
     <div class="row justify-content-center">
