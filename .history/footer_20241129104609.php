@@ -1051,41 +1051,20 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-// Sélectionner les éléments nécessaires
-const box = document.querySelector(".box");
-const cards = document.querySelectorAll(".profile-card");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
+const slides = document.querySelectorAll('.slide');
+let currentSlide = 0;
 
-let index = 0;  // L'index de la carte actuellement visible
-const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
+function nextSlide() {
+  slides[currentSlide].style.display = 'none';
+  currentSlide = (currentSlide + 1) % slides.length;
+  slides[currentSlide].style.display = 'block'; 1    
+1.
+w
 
-// Fonction pour mettre à jour la position du carrousel
-function updateCarouselPosition() {
-  box.style.transform = `translateX(-${index * cardWidth}px)`;
-
-  // Désactiver les flèches si nécessaire
-  prevBtn.disabled = index === 0;
-  nextBtn.disabled = index === cards.length - 1;
 }
 
-// Écouteurs d'événements pour les boutons de navigation
-nextBtn.addEventListener("click", function() {
-  if (index < cards.length - 1) {
-    index++;
-    updateCarouselPosition();
-  }
-});
-
-prevBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    updateCarouselPosition();
-  }
-});
-
-// Initialiser la position du carrousel
-updateCarouselPosition();
+// Appeler la fonction nextSlide() pour faire défiler les slides automatiquement
+setInterval(nextSlide, 3000);
 
 </script>
 

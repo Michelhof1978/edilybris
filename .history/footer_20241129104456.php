@@ -1051,41 +1051,15 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-// Sélectionner les éléments nécessaires
-const box = document.querySelector(".box");
-const cards = document.querySelectorAll(".profile-card");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-
-let index = 0;  // L'index de la carte actuellement visible
-const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
-
-// Fonction pour mettre à jour la position du carrousel
-function updateCarouselPosition() {
-  box.style.transform = `translateX(-${index * cardWidth}px)`;
-
-  // Désactiver les flèches si nécessaire
-  prevBtn.disabled = index === 0;
-  nextBtn.disabled = index === cards.length - 1;
-}
-
-// Écouteurs d'événements pour les boutons de navigation
-nextBtn.addEventListener("click", function() {
-  if (index < cards.length - 1) {
-    index++;
-    updateCarouselPosition();
-  }
-});
-
-prevBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    updateCarouselPosition();
-  }
-});
-
-// Initialiser la position du carrousel
-updateCarouselPosition();
-
+<div class="carousel">
+    <div class="slide">
+      <img src="image1.jpg" alt="Image 1">
+      <div class="caption">Image 1</div>
+    </div>
+    <div class="slide">
+      <img src="image2.jpg" alt="Image 2">
+      <div class="caption">Image 2</div>
+    </div>
+    </div>
 </script>
 

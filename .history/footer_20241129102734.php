@@ -1049,43 +1049,17 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- FIN CARDS L-->
 
 
+<!-- Chargez Tiny Slider d'abord -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/min/tiny-slider.js"></script>
 
 <script>
-// Sélectionner les éléments nécessaires
-const box = document.querySelector(".box");
-const cards = document.querySelectorAll(".profile-card");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-
-let index = 0;  // L'index de la carte actuellement visible
-const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
-
-// Fonction pour mettre à jour la position du carrousel
-function updateCarouselPosition() {
-  box.style.transform = `translateX(-${index * cardWidth}px)`;
-
-  // Désactiver les flèches si nécessaire
-  prevBtn.disabled = index === 0;
-  nextBtn.disabled = index === cards.length - 1;
-}
-
-// Écouteurs d'événements pour les boutons de navigation
-nextBtn.addEventListener("click", function() {
-  if (index < cards.length - 1) {
-    index++;
-    updateCarouselPosition();
-  }
-});
-
-prevBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    updateCarouselPosition();
-  }
-});
-
-// Initialiser la position du carrousel
-updateCarouselPosition();
-
+ document.addEventListener('DOMContentLoaded', function () {
+      var slider = tns({
+        container: '.my-slider', // Sélecteur de votre carrousel
+        items: 1,                // Nombre d'éléments visibles
+        slideBy: 'page',         // Défilement par page
+        autoplay: true           // Activer l'autoplay
+      });
+    });
 </script>
 

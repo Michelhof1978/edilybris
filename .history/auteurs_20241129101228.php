@@ -326,58 +326,86 @@
 <?php include("promotions.php"); ?>
 
 <!-- TROMBINOSCOPE -->
-<div class="carousel-container">
-  <!-- Carrousel -->
-  <div class="carousel">
-    <div class="box">
-      <!-- Cartes de profils -->
-      <div class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
-        </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
-        </div>
+<div class="carousel ">
+  <div class="box">
+    <div class="profile-card director">
+      <div class="imgBx">
+        <img src="images/gillesHerve/gillesHerve.png" alt="images">
       </div>
-
-      <div class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
+      <div class="details">
+        <h2>Gilles Hervé</h2>
       </div>
+    </div>
 
-      <!-- Répétition des cartes de profils -->
-      <div class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
       </div>
-
-      <div class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
+      <div class="details">
+        <h2>Abdel François</h2>
       </div>
+    </div>
 
-      <!-- Ajoutez plus de cartes ici si nécessaire -->
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François</h2>
+      </div>
+    </div>
 
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François</h2>
+      </div>
+    </div>
+
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François</h2>
+      </div>
+    </div>
+
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François</h2>
+      </div>
+    </div>
+
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François</h2>
+      </div>
+    </div>
+
+    <div class="profile-card producer">
+      <div class="imgBx">
+        <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="images">
+      </div>
+      <div class="details">
+        <h2>Abdel François</h2>
+      </div>
     </div>
   </div>
 
-  <!-- Boutons de navigation -->
   <div class="carousel-navigation">
-    <button id="prevBtn" class="carousel-btn">Précédent</button>
-    <button id="nextBtn" class="carousel-btn">Suivant</button>
+    <button id="prevBtn" class="nav-btn prev-btn">&#10094;</button>
+    <button id="nextBtn" class="nav-btn next-btn">&#10095;</button>
   </div>
+</div>
 </div>
 <!-- Fin TROMBINOSCOPE -->
 

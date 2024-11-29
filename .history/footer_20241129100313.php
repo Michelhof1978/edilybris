@@ -1,6 +1,6 @@
-<div class="text-center plume">
+<!-- <div class="text-center plume">
         <img class="w-25" src="images/plume.png" alt="Image centrée">
-    </div>
+    </div> -->
 
 
 <!-- FOOTER MOBILE -->
@@ -1051,8 +1051,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-// Sélectionner les éléments nécessaires
-const box = document.querySelector(".box");
+ const box = document.querySelector(".box");
 const cards = document.querySelectorAll(".profile-card");
 const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
@@ -1087,5 +1086,5 @@ prevBtn.addEventListener("click", function() {
 // Initialiser la position du carrousel
 updateCarouselPosition();
 
-</script>
 
+</script>

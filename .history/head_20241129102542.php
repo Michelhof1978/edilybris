@@ -10,7 +10,12 @@
   <meta property="og:description" content="">
   <meta property="og:image" content="images/logo.ico">
   <meta name="author" content="">
-  
+
+  <!-- Lien vers le CSS de Tiny Slider (si nécessaire) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
+
+
+
 
   <!-- Favicon -->
   <link rel="icon" href="images/logo.ico">

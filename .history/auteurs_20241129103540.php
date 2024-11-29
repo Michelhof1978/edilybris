@@ -326,59 +326,93 @@
 <?php include("promotions.php"); ?>
 
 <!-- TROMBINOSCOPE -->
+.carousel-container {
+            width: 300px;
+            height: 400px;
+            overflow: hidden;
+            position: relative;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+        }
+
+        /* Style des images dans le carrousel */
+        .carousel-images {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .carousel-images img {
+            width: 300px;
+            height: 400px;
+            object-fit: cover;
+            transition: opacity 0.3s ease;
+        }
+
+        /* Style pour chaque image avec le texte du nom */
+        .carousel-item {
+            position: relative;
+        }
+
+        .name-overlay {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 5px;
+            font-size: 18px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        /* Apparition du texte lors du survol */
+        .carousel-item:hover .name-overlay {
+            opacity: 1;
+        }
+
+        /* Navigation des images */
+        .navigation {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+        }
+
+        .prev, .next {
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+<body>
+
 <div class="carousel-container">
-  <!-- Carrousel -->
-  <div class="carousel">
-    <div class="box">
-      <!-- Cartes de profils -->
-      <div class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Hervé">
+    <div class="carousel-images">
+        <div class="carousel-item">
+            <img src="image1.jpg" alt="Personne 1">
+            <div class="name-overlay">Personne 1</div>
         </div>
-        <div class="details">
-          <h2>Gilles Hervé</h2>
+        <div class="carousel-item">
+            <img src="image2.jpg" alt="Personne 2">
+            <div class="name-overlay">Personne 2</div>
         </div>
-      </div>
-
-      <div class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
+        <div class="carousel-item">
+            <img src="image3.jpg" alt="Personne 3">
+            <div class="name-overlay">Personne 3</div>
         </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </div>
-
-      <!-- Répétition des cartes de profils -->
-      <div class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </div>
-
-      <div class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" alt="Abdel François">
-        </div>
-        <div class="details">
-          <h2>Abdel François</h2>
-        </div>
-      </div>
-
-      <!-- Ajoutez plus de cartes ici si nécessaire -->
-
     </div>
-  </div>
 
-  <!-- Boutons de navigation -->
-  <div class="carousel-navigation">
-    <button id="prevBtn" class="carousel-btn">Précédent</button>
-    <button id="nextBtn" class="carousel-btn">Suivant</button>
-  </div>
+    <div class="navigation">
+        <div class="prev" onclick="moveSlide(-1)">&#10094;</div>
+        <div class="next" onclick="moveSlide(1)">&#10095;</div>
+    </div>
 </div>
+
 <!-- Fin TROMBINOSCOPE -->
 
 

@@ -1051,7 +1051,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
-// Sélectionner les éléments nécessaires
 const box = document.querySelector(".box");
 const cards = document.querySelectorAll(".profile-card");
 const prevBtn = document.getElementById("prevBtn");
@@ -1087,5 +1086,5 @@ prevBtn.addEventListener("click", function() {
 // Initialiser la position du carrousel
 updateCarouselPosition();
 
-</script>
 
+</script>
