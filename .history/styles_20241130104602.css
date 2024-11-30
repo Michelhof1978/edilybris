@@ -1748,7 +1748,6 @@ input[type="email"]:focus {
 .h2Jaune{
   color: #ffcc00;
 }
-
 /* Bio Content avec image et texte */
 .bio-content {
   display: flex;

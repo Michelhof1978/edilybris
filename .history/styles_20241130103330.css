@@ -1742,11 +1742,6 @@ input[type="email"]:focus {
   font-size: 2rem;
   color: #003366;
   margin-bottom: 20px;
-  color: #ffcc00;
-}
-
-.h2Jaune{
-  color: #ffcc00;
 }
 
 /* Bio Content avec image et texte */
@@ -1789,17 +1784,15 @@ input[type="email"]:focus {
   color: #003366;
   margin-bottom: 20px;
   text-align: center;
-  color: #ffcc00;
 }
 
 .livre {
   display: flex;
-  background-color: #0b69dc;
+  background-color: #f9f9f9;
   padding: 20px;
   margin-bottom: 30px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  color: white;
 }
 
 .livre img {
@@ -1813,6 +1806,10 @@ input[type="email"]:focus {
   flex-grow: 1;
 }
 
+.detail{
+  background-color: #083b7a;
+  
+}
 .livre h3 {
   font-size: 1.6rem;
   color: #003366;

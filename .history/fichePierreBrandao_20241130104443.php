@@ -4,9 +4,7 @@
  <meta name="description" content="">
 
  <style>
-    h3{
-        color:#ffcc00 ;
-    }
+    
  </style>
 </head>
 
@@ -85,7 +83,7 @@ Six recueils verront le jour, dont certains totalement épuisés. <br>D'autres n
                 <div class="livre">
                     <img src="livre4.jpg" alt="Couverture du livre Le Dernier Chapitre">
                     <div class="details">
-                        <h3 class="h2Jaune">Le Dernier Chapitre</h3>
+                        <h3 class="text-white">Le Dernier Chapitre</h3>
                         <p class="annee text-white"><strong>Année de publication :</strong> 2020</p>
                         <p><strong>Résumé :</strong> Le Dernier Chapitre raconte l’histoire de Claire, une jeune femme qui, après la mort de son père, décide de publier son dernier manuscrit inachevé. Ce livre intime nous plonge dans la relation complexe entre un père et sa fille, tout en abordant des thèmes universels tels que la filiation, la perte et l'héritage culturel.</p>
                         <a href="#" class="lien">En savoir plus</a>

@@ -5,7 +5,7 @@
 
  <style>
     h3{
-        color:#ffcc00 ;
+        color: ;
     }
  </style>
 </head>

@@ -4,9 +4,7 @@
  <meta name="description" content="">
 
  <style>
-    h3{
-        color:#ffcc00 ;
-    }
+    h3
  </style>
 </head>
 

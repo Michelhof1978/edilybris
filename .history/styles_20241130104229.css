@@ -1742,11 +1742,6 @@ input[type="email"]:focus {
   font-size: 2rem;
   color: #003366;
   margin-bottom: 20px;
-  color: #ffcc00;
-}
-
-.h2Jaune{
-  color: #ffcc00;
 }
 
 /* Bio Content avec image et texte */
@@ -1789,7 +1784,7 @@ input[type="email"]:focus {
   color: #003366;
   margin-bottom: 20px;
   text-align: center;
-  color: #ffcc00;
+  colo
 }
 
 .livre {
