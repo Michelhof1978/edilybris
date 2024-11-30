@@ -1843,8 +1843,9 @@ input[type="email"]:focus {
 
 /* Citations */
 .citations {
-  background-color: #0055cc;
+  background-color: #003366;
   padding: 40px 0;
+  color
 }
 
 .citations blockquote {
@@ -1853,7 +1854,7 @@ input[type="email"]:focus {
   margin-bottom: 20px;
   padding-left: 20px;
   border-left: 4px solid #003366;
-  color: #faf7f7;
+  color: #555;
 }
 
 /* FIN FICHE AUTEUR*/
@@ -1861,19 +1862,4 @@ input[type="email"]:focus {
 /* Changer la couleur des h3 en #ffcc00 */
 .h2Jaune {
   color: #ffcc00 !important; 
-}
-
-/* Classe pour les liens */
-.lien {
-  font-size: 1.1rem !important;
-  color: #003366 !important; /* Couleur initiale du texte */
-  text-decoration: none !important; /* Supprime le soulignement */
-  border-bottom: 2px solid #003366 !important; /* Un trait sous le lien pour l'effet visuel */
-  transition: all 0.3s ease !important; /* Pour que l'effet soit lisse */
-}
-
-/* Effet lors du survol de la souris */
-.lien:hover {
-  color: #ffcc00 !important; /* Couleur jaune au survol */
-  border-bottom: 2px solid #ffcc00 !important; /* Change la couleur de la bordure en jaune */
 }

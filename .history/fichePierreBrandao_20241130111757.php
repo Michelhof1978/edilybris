@@ -80,7 +80,7 @@
                 <div class="details">
                     <h3 class="h2Jaune">Le Dernier Chapitre</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Le Dernier Chapitre raconte l’histoire de Claire, une jeune femme qui, après la mort de son père, décide de publier son dernier manuscrit inachevé. Ce livre intime nous plonge dans la relation complexe entre un père et sa fille, tout en abordant des thèmes universels tels que la filiation, la perte et l'héritage culturel.</p>
+                    <p><strong>Résumé :</strong> Le Dernier Chapitre raconte l’histoire de Claire, une jeune femme qui, après la mort de son père, décide de publier son dernier manuscrit inachevé. Ce livre intime nous plonge dans la relation complexe entre un père et sa fille, tout en abordant des thèmes universels tels que la filiation, la perte et l'héritage culturel.</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>

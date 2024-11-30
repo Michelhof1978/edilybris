@@ -1865,15 +1865,15 @@ input[type="email"]:focus {
 
 /* Classe pour les liens */
 .lien {
-  font-size: 1.1rem !important;
-  color: #003366 !important; /* Couleur initiale du texte */
-  text-decoration: none !important; /* Supprime le soulignement */
-  border-bottom: 2px solid #003366 !important; /* Un trait sous le lien pour l'effet visuel */
-  transition: all 0.3s ease !important; /* Pour que l'effet soit lisse */
+  font-size: 1.1rem;
+  color: #003366; /* Couleur initiale du texte */
+  text-decoration: none; /* Supprime le soulignement */
+  border-bottom: 2px solid #003366; /* Un trait sous le lien pour l'effet visuel */
+  transition: all 0.3s ease; /* Pour que l'effet soit lisse */
 }
 
 /* Effet lors du survol de la souris */
 .lien:hover {
-  color: #ffcc00 !important; /* Couleur jaune au survol */
-  border-bottom: 2px solid #ffcc00 !important; /* Change la couleur de la bordure en jaune */
+  color: #ffcc00 !; /* Couleur jaune au survol */
+  border-bottom: 2px solid #ffcc00; /* Change la couleur de la bordure en jaune */
 }

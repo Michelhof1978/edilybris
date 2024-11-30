@@ -58,7 +58,7 @@
                 <div class="details">
                     <h3 class="h2Jaune">Les Ombres du Passé</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2009</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman mêle suspense et émotion en suivant une famille marquée par un lourd secret. Alors que les membres de cette famille se retrouvent pour célébrer un événement heureux, les vieux non-dits ressurgissent, provoquant des révélations dévastatrices. Une réflexion sur la mémoire, la réconciliation et les ombres du passé qui hantent chacun d'entre nous.</p>
+                    <p><strong>Résumé :</strong> Ce roman mêle suspense et émotion en suivant une famille marquée par un lourd secret. Alors que les membres de cette famille se retrouvent pour célébrer un événement heureux, les vieux non-dits ressurgissent, provoquant des révélations dévastatrices. Une réflexion sur la mémoire, la réconciliation et les ombres du passé qui hantent chacun d'entre nous.</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
@@ -68,8 +68,8 @@
                 <img src="images/pierreBrandao/XLlamourafleurdame.png" alt="Couverture du livre Les Mots de l'Amour">
                 <div class="details">
                     <h3 class="h2Jaune">Les Mots de l'Amour</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Un recueil de nouvelles qui explore diverses facettes de l'amour à travers des histoires touchantes et inattendues. Des amours naissantes, perdues ou impossibles, des personnages qui cherchent à comprendre ce qu'est réellement l'amour, au-delà des conventions sociales et des attentes personnelles. Un livre émouvant, subtil et poétique.</p>
+                    <p class="annee text-white"><strong>Année de publication :</strong> 2015</p>
+                    <p><strong>Résumé :</strong> Un recueil de nouvelles qui explore diverses facettes de l'amour à travers des histoires touchantes et inattendues. Des amours naissantes, perdues ou impossibles, des personnages qui cherchent à comprendre ce qu'est réellement l'amour, au-delà des conventions sociales et des attentes personnelles. Un livre émouvant, subtil et poétique.</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
@@ -79,8 +79,8 @@
                 <img src="images/pierreBrandao/XLlamuserie.png" alt="Couverture du livre Le Dernier Chapitre">
                 <div class="details">
                     <h3 class="h2Jaune">Le Dernier Chapitre</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Le Dernier Chapitre raconte l’histoire de Claire, une jeune femme qui, après la mort de son père, décide de publier son dernier manuscrit inachevé. Ce livre intime nous plonge dans la relation complexe entre un père et sa fille, tout en abordant des thèmes universels tels que la filiation, la perte et l'héritage culturel.</p>
+                    <p class="annee text-white"><strong>Année de publication :</strong> 2020</p>
+                    <p><strong>Résumé :</strong> Le Dernier Chapitre raconte l’histoire de Claire, une jeune femme qui, après la mort de son père, décide de publier son dernier manuscrit inachevé. Ce livre intime nous plonge dans la relation complexe entre un père et sa fille, tout en abordant des thèmes universels tels que la filiation, la perte et l'héritage culturel.</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
