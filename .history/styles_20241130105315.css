@@ -1860,5 +1860,5 @@ input[type="email"]:focus {
 
 /* Changer la couleur des h3 en #ffcc00 */
 h3 {
-  color: #ffcc00 !important; 
+  color: #ffcc00 ; 
 }

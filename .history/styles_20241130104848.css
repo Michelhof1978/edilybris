@@ -1857,8 +1857,3 @@ input[type="email"]:focus {
 }
 
 /* FIN FICHE AUTEUR*/
-
-/* Changer la couleur des h3 en #ffcc00 */
-h3 {
-  color: #ffcc00 !important; 
-}
