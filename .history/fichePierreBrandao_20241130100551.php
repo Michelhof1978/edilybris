@@ -2,10 +2,6 @@
 
 <title></title>
  <meta name="description" content="">
-
- <style>
-    
- </style>
 </head>
 
  <?php include("header.php"); ?>
@@ -21,7 +17,7 @@
     <main>
         <section class="biographie">
             <div class="containerAuteur">
-                <h2 class="text-white">Biographie</h2>
+                <h2>Biographie</h2>
 
                 <!-- Section image et texte -->
                 <div class="bio-content">
@@ -30,13 +26,11 @@
                         <p>Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
                         Dès la primaire, séduit par la musicalité du vers, il rendait ses devoirs en utilisant la rime. <br>
                         À quinze ans, il rencontre un poète, Gilles Sorgel, qui se fait fort de lui montrer la voie en lui enseignant les règles de la versification. <br>
-                        En lui demandant de vérifier l'absence de coquilles d'un ouvrage intitulé "Traité de prosodie à l'usage des classiques -et des dissidents", il s'assurait ainsi que le jeune poète acquérait des bases solides. <br>
-                        Bases qui lui ont permis, plusieurs années après, de rédiger en "vulgarisant" au mieux son propre traité de proodie.
+                        En lui demandant de vérifier l'absence de coquilles d'un ouvrage intitulé "Traité de prosodie à l'usage des classiques -et des dissidents", il s'assurait ainsi que le jeune poète acquérait des bases solides. Bases qui lui ont permis, plusieurs années après, de rédiger en "vulgarisant" au mieux son propre traité de proodie.
 
-C'est dans l'essence de la vie que Pierre puise ses sources d'inspiration ; il a une sensibilité à fleur de peau et sa susceptibilité également martèle les poèmes. <br>
-La poésie est un cri de l'âme, mais elle est également le vase dans lequel repose les soucis de l'existence. 
+C'est dans l'essence de la vie que Pierre puise ses sources d'inspiration ; il a une sensibilité à fleur de peau et sa susceptibilité également martèle les poèmes. La poésie est un cri de l'âme, mais elle est également le vase dans lequel repose les soucis de l'existence. 
 
-Six recueils verront le jour, dont certains totalement épuisés. <br>D'autres naîtront, à n'en pas douter ! Découvrons-les !</p>
+Six recueils verront le jour, dont certains totalement épuisés. D'autres naîtront, à n'en pas douter ! Découvrons-les !</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +38,7 @@ Six recueils verront le jour, dont certains totalement épuisés. <br>D'autres n
 
         <section class="livres">
             <div class="containerAuteur">
-                <h2>Les Livres de Pierre brandao</h2>
+                <h2>Les Livres de Jean Dupont</h2>
 
                 <!-- Livre 1 -->
                 <div class="livre">

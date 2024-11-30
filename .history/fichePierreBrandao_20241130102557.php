@@ -21,7 +21,7 @@
     <main>
         <section class="biographie">
             <div class="containerAuteur">
-                <h2 class="text-white">Biographie</h2>
+                <h2 class="te">Biographie</h2>
 
                 <!-- Section image et texte -->
                 <div class="bio-content">

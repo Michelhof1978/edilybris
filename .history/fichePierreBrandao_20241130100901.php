@@ -2,10 +2,6 @@
 
 <title></title>
  <meta name="description" content="">
-
- <style>
-    
- </style>
 </head>
 
  <?php include("header.php"); ?>
@@ -21,13 +17,13 @@
     <main>
         <section class="biographie">
             <div class="containerAuteur">
-                <h2 class="text-white">Biographie</h2>
+                <h2>Biographie</h2>
 
                 <!-- Section image et texte -->
                 <div class="bio-content">
                     <img src="images/pierreBrandao/pierreBrandao.png" alt="Jean Dupont" class="bio-image">
                     <div class="bio-text">
-                        <p>Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
                         Dès la primaire, séduit par la musicalité du vers, il rendait ses devoirs en utilisant la rime. <br>
                         À quinze ans, il rencontre un poète, Gilles Sorgel, qui se fait fort de lui montrer la voie en lui enseignant les règles de la versification. <br>
                         En lui demandant de vérifier l'absence de coquilles d'un ouvrage intitulé "Traité de prosodie à l'usage des classiques -et des dissidents", il s'assurait ainsi que le jeune poète acquérait des bases solides. <br>
@@ -44,7 +40,7 @@ Six recueils verront le jour, dont certains totalement épuisés. <br>D'autres n
 
         <section class="livres">
             <div class="containerAuteur">
-                <h2>Les Livres de Pierre brandao</h2>
+                <h2>Les Livres de Jean Dupont</h2>
 
                 <!-- Livre 1 -->
                 <div class="livre">

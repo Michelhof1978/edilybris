@@ -1709,13 +1709,6 @@ input[type="email"]:focus {
 }
 /* FIN TROMBINOSCOPE */
 
-
-
-
-
-
-
-
 /* Header */
 .headerAuteur {
   background-color: #003366;
@@ -1773,10 +1766,7 @@ input[type="email"]:focus {
 
 /* Section Livres */
 .livres {
-  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
-    background-size: cover; /* L'image occupe toute la section */
-    background-position: center;
-    background-attachment: fixed; /* L'image reste fixe lors du défilement */
+  background-color: #fff;
   padding: 40px 0;
 }
 

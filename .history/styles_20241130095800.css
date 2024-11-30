@@ -1709,34 +1709,24 @@ input[type="email"]:focus {
 }
 /* FIN TROMBINOSCOPE */
 
-
-
-
-
-
-
-
 /* Header */
-.headerAuteur {
+headerAuteur {
   background-color: #003366;
   color: white;
   padding: 40px 0;
   text-align: center;
 }
 
-.headerAuteur .intro {
+headerAuteur .intro {
   font-size: 1.2rem;
   margin-top: 10px;
 }
 
 /* Section Biographie */
 .biographie {
-  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
-  background-size: cover; /* L'image occupe toute la section */
-  background-position: center;
-  background-attachment: fixed; /* L'image reste fixe lors du défilement */
+  background-color: #fff;
   padding: 40px 0;
-  color: white; /* Texte en blanc pour contraster avec le fond */
+  margin-bottom: 40px;
 }
 
 .biographie .container {
@@ -1773,14 +1763,11 @@ input[type="email"]:focus {
 
 /* Section Livres */
 .livres {
-  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
-    background-size: cover; /* L'image occupe toute la section */
-    background-position: center;
-    background-attachment: fixed; /* L'image reste fixe lors du défilement */
+  background-color: #fff;
   padding: 40px 0;
 }
 
-.livres .containerAuteur {
+.livres .container {
   width: 85%;
   margin: 0 auto;
 }
@@ -1817,42 +1804,3 @@ input[type="email"]:focus {
   color: #003366;
 }
 
-.livre .annee {
-  font-size: 1.1rem;
-  color: #777;
-  margin-bottom: 10px;
-}
-
-.livre p {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  margin-bottom: 10px;
-}
-
-.livre .lien {
-  font-size: 1.1rem;
-  color: #003366;
-  text-decoration: none;
-  border-bottom: 2px solid #003366;
-  transition: all 0.3s ease;
-}
-
-.livre .lien:hover {
-  color: #0055cc;
-  border-bottom: 2px solid #0055cc;
-}
-
-/* Citations */
-.citations {
-  background-color: #f4f4f9;
-  padding: 40px 0;
-}
-
-.citations blockquote {
-  font-size: 1.2rem;
-  font-style: italic;
-  margin-bottom: 20px;
-  padding-left: 20px;
-  border-left: 4px solid #003366;
-  color: #555;
-}

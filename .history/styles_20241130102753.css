@@ -1773,7 +1773,7 @@ input[type="email"]:focus {
 
 /* Section Livres */
 .livres {
-  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
+  background-image: url('images/biographie-bg.jpg'); /* Remplacer par ton image */
     background-size: cover; /* L'image occupe toute la section */
     background-position: center;
     background-attachment: fixed; /* L'image reste fixe lors du défilement */

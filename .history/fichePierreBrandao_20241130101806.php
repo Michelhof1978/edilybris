@@ -4,7 +4,14 @@
  <meta name="description" content="">
 
  <style>
-    
+    body {
+    background-image: url('images/fond'); /* Remplace 'images/fond.jpg' par le chemin de ton image */
+    background-size: cover; /* L'image occupe toute la page */
+    background-position: center; /* Centre l'image */
+    background-attachment: fixed; /* L'image reste fixe lorsque l'on fait défiler la page */
+    color: #333;
+    line-height: 1.6;
+}
  </style>
 </head>
 
@@ -21,7 +28,7 @@
     <main>
         <section class="biographie">
             <div class="containerAuteur">
-                <h2 class="text-white">Biographie</h2>
+                <h2>Biographie</h2>
 
                 <!-- Section image et texte -->
                 <div class="bio-content">

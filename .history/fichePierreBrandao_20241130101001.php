@@ -2,10 +2,6 @@
 
 <title></title>
  <meta name="description" content="">
-
- <style>
-    
- </style>
 </head>
 
  <?php include("header.php"); ?>
@@ -21,7 +17,7 @@
     <main>
         <section class="biographie">
             <div class="containerAuteur">
-                <h2 class="text-white">Biographie</h2>
+                <h2>Biographie</h2>
 
                 <!-- Section image et texte -->
                 <div class="bio-content">
@@ -44,7 +40,7 @@ Six recueils verront le jour, dont certains totalement épuisés. <br>D'autres n
 
         <section class="livres">
             <div class="containerAuteur">
-                <h2>Les Livres de Pierre brandao</h2>
+                <h2>Les Livres de p</h2>
 
                 <!-- Livre 1 -->
                 <div class="livre">
