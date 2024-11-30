@@ -16,9 +16,9 @@
     <div class="col-12 col-md-10">
       <div class="text-center py-5 rounded-4 p-2 fond-text">
       <h3 class="mb-4 fs-2 fw-bold">Pourquoi acheter nos livres ?</h3>
-    
-        <!-- <img class="" src="images/livreAuteurs3.png" alt="Image centrée"> -->
-    
+      ddiv class="text-center">
+        <img class="w-25" src="images/livreurAuteurs3.png" alt="Image centrée">
+    </div>
       <div class="text-center">
         <img class="w-25" src="images/livreAuteurs2.png" alt="Image centrée">
     </div>

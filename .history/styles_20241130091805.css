@@ -1709,3 +1709,26 @@ input[type="email"]:focus {
 }
 /* FIN TROMBINOSCOPE */
 
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  max-width: 1200px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.video-container, .image-container {
+  flex: 1;
+}
+
+.video-container video, .image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

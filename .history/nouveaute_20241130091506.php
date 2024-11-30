@@ -1,12 +1,15 @@
-<div class="d-flex justify-content-center align-items-center vh-100">
-        <!-- Conteneur vidéo avec coins arrondis -->
-        <div class="video-container shadow rounded">
-            <video id="myVideo" autoplay muted class="rounded">
-                <source src="videos/commande.mp4" type="video/mp4">
+<div class="container">
+        <div class="video-container">
+            <video controls>
+                <source src="image" type="video/mp4">
                 Votre navigateur ne supporte pas la vidéo.
             </video>
         </div>
+        <div class="image-container">
+            <img src="image.jpg" alt="Description de l'image">
+        </div>
     </div>
+
 
 <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
  <div class="container mt-5">

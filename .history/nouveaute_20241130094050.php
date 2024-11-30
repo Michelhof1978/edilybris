@@ -2,7 +2,7 @@
         <!-- Conteneur vidéo avec coins arrondis -->
         <div class="video-container shadow rounded">
             <video id="myVideo" autoplay muted class="rounded">
-                <source src="videos/commande.mp4" type="video/mp4">
+                <source src="videos/" type="video/mp4">
                 Votre navigateur ne supporte pas la vidéo.
             </video>
         </div>
