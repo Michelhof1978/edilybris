@@ -1709,111 +1709,104 @@ input[type="email"]:focus {
 }
 /* FIN TROMBINOSCOPE */
 
-
-header {
-  background-color: #003366;
-  color: white;
-  padding: 40px 0;
-  text-align: center;
-}
-
 header .intro {
-    font-size: 1.2rem;
-    margin-top: 10px;
+  font-size: 1.2rem;
+  margin-top: 10px;
 }
 
 /* Section Biographie */
 .biographie {
-    background-color: #fff;
-    padding: 40px 0;
-    margin-bottom: 40px;
+  background-color: #fff;
+  padding: 40px 0;
+  margin-bottom: 40px;
 }
 
 .biographie .container {
-    width: 80%;
-    margin: 0 auto;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .biographie h2 {
-    font-size: 2rem;
-    color: #003366;
-    margin-bottom: 20px;
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
 }
 
 .biographie p {
-    font-size: 1.1rem;
-    line-height: 1.8;
-    margin-bottom: 20px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
 }
 
 /* Section Livres */
 .livres {
-    background-color: #fff;
-    padding: 40px 0;
+  background-color: #fff;
+  padding: 40px 0;
 }
 
 .livres .container {
-    width: 85%;
-    margin: 0 auto;
+  width: 85%;
+  margin: 0 auto;
 }
 
 .livres h2 {
-    font-size: 2rem;
-    color: #003366;
-    margin-bottom: 20px;
-    text-align: center;
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 .livre {
-    display: flex;
-    background-color: #f9f9f9;
-    padding: 20px;
-    margin-bottom: 30px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .livre img {
-    width: 150px;
-    height: auto;
-    border-radius: 8px;
-    margin-right: 20px;
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-right: 20px;
 }
 
 .livre .details {
-    flex-grow: 1;
+  flex-grow: 1;
 }
 
 .livre h3 {
-    font-size: 1.6rem;
-    color: #003366;
+  font-size: 1.6rem;
+  color: #003366;
 }
 
 .livre .annee {
-    font-size: 1.1rem;
-    color: #777;
-    margin-bottom: 10px;
+  font-size: 1.1rem;
+  color: #777;
+  margin-bottom: 10px;
 }
 
 .livre p {
-    font-size: 1.1rem;
-    line-height: 1.6;
-    margin-bottom: 10px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 10px;
 }
 
 .livre .lien {
-    font-size: 1.1rem;
-    color: #003366;
-    text-decoration: none;
-    border-bottom: 2px solid #003366;
-    transition: all 0.3
-
-
-}
+  font-size: 1.1rem;
+  color: #003366;
+  text-decoration: none;
+  border-bottom: 2px solid #003366;
+  transition: all 0.3
 
 
 
 
+
+
+ChatGPT a dit :
+ChatGPT
 
 
 

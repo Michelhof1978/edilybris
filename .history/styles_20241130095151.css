@@ -1709,14 +1709,6 @@ input[type="email"]:focus {
 }
 /* FIN TROMBINOSCOPE */
 
-
-header {
-  background-color: #003366;
-  color: white;
-  padding: 40px 0;
-  text-align: center;
-}
-
 header .intro {
     font-size: 1.2rem;
     margin-top: 10px;
@@ -1809,11 +1801,12 @@ header .intro {
     transition: all 0.3
 
 
-}
 
 
 
 
+ChatGPT a dit :
+ChatGPT
 
 
 

@@ -1710,12 +1710,6 @@ input[type="email"]:focus {
 /* FIN TROMBINOSCOPE */
 
 
-header {
-  background-color: #003366;
-  color: white;
-  padding: 40px 0;
-  text-align: center;
-}
 
 header .intro {
     font-size: 1.2rem;
