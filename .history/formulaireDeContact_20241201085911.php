@@ -240,6 +240,39 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 <?php include("footer.php"); ?>
 
+<!-- JavaScript pour l'arrière-plan -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const typingElement = document.querySelector('#binary-background2');
+        const binaryLength = 300; // Nombre total de caractères binaires à afficher
+        const characters = [];
+
+        // Créez des éléments span pour chaque caractère
+        for (let i = 0; i < binaryLength; i++) {
+            const char = document.createElement('span');
+            char.textContent = Math.random() > 0.8 ? '@' : '@'; // Remplace 0 et 1 par @ 
+            char.className = 'star';
+            char.style.left = Math.random() * 100 + 'vw';
+            char.style.top = Math.random() * 100 + 'vh';
+            char.style.animationDelay = `${Math.random() * 15}s`; // Délai d'animation aléatoire pour chaque caractère
+            typingElement.appendChild(char);
+            characters.push(char);
+        }
+
+        // Fonction pour afficher les caractères un par un
+        function showCharacters(index) {
+            if (index < characters.length) {
+                characters[index].style.opacity = 1;
+                setTimeout(() => showCharacters(index + 1), 200); // Ajustez la durée pour la vitesse souhaitée
+            }
+        }
+
+        showCharacters(0);
+    });
+</script>
+
+
+
 </body>
 
 </html>

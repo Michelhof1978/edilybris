@@ -1912,16 +1912,5 @@ input[type="email"]:focus {
     max-width: 600px;
     margin: 10px;
 }
-.politique {
-  color: #ffcc00; /* Couleur initiale */
-  transition: color 0.3s ease; /* Animation fluide lors du survol */
-}
-
-.politique:hover {
-  color: #ffffff; /* Couleur blanche au survol */
-}
-
-.borderColor{
-  color: #ffcc00; /* Couleur initiale */
-}
+.politique{}
 /* FIN FORMULAIRE DE CONTACT*/

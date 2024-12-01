@@ -196,8 +196,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                         <label for="objet" class="form-label text-white">Objet :</label>
                         <select name="objet" id="objet" class="form-select" required>
                             <option value="" disabled selected>Choisissez un objet</option>
-                            <option value="Demande de devis">Collaboration avec l'association</option>
-                            <option value="Besoins d'infos">Besoins d'informations</option>
+                            <option value="Demande de devis">Demande de devis</option>
+                            <option value="Besoins d'infos">Besoins d'inform</option>
                             <option value="autre">Autre</option>
                         </select>
                     </div>
@@ -218,7 +218,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <div class="form-check mb-4 mt-3">
                         <input class="form-check-input" type="checkbox" id="rgpdCheckbox" name="rgpdCheckbox" required>
                         <label class="form-check-label text-white" for="rgpdCheckbox">
-                            J'accepte que mes données personnelles soient traitées conformément à <a href="politiquedeConfidentialite.php" class="politique"><span class="fw-bold">Politique De Confidentialité</span></a>.
+                            J'accepte que mes données personnelles soient traitées conformément à <a href="politiquedeConfidentialite.php" style="color: #e06717aa;"><span class="fw-bold">Politique De Confidentialité</span></a>.
                         </label>
                         <div class="invalid-feedback">
                             Vous devez accepter la politique de confidentialité.
@@ -226,7 +226,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     </div>
 
                     <!-- reCAPTCHA -->
-                    <div class="g-recaptcha mt-4 mb-4" data-sitekey="6LfuGI8qAAAAAPhovwcv6m_lTrVgfMGyG4PpAtEF"></div>
+                    <div class="g-recaptcha mt-4 mb-4" data-sitekey="6LeDJiQqAAAAALRhC54Yqk-PnttYsWFvK9Ev6Zew"></div>
 
                     <!-- Bouton d'envoi -->
                     <button type="submit" value="Valider" id="send-data" class="btn borderColor text-white fs-5 btn-block mb-4">
@@ -238,7 +238,46 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     </fieldset>
 </form>
 
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6 text-center">
+        <img src="images/robotForm.webp" loading="lazy" alt="robot" class="img-fluid mx-auto w-50">
+    </div>
+</div>
+
 <?php include("footer.php"); ?>
+
+<!-- JavaScript pour l'arrière-plan -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const typingElement = document.querySelector('#binary-background2');
+        const binaryLength = 300; // Nombre total de caractères binaires à afficher
+        const characters = [];
+
+        // Créez des éléments span pour chaque caractère
+        for (let i = 0; i < binaryLength; i++) {
+            const char = document.createElement('span');
+            char.textContent = Math.random() > 0.8 ? '@' : '@'; // Remplace 0 et 1 par @ 
+            char.className = 'star';
+            char.style.left = Math.random() * 100 + 'vw';
+            char.style.top = Math.random() * 100 + 'vh';
+            char.style.animationDelay = `${Math.random() * 15}s`; // Délai d'animation aléatoire pour chaque caractère
+            typingElement.appendChild(char);
+            characters.push(char);
+        }
+
+        // Fonction pour afficher les caractères un par un
+        function showCharacters(index) {
+            if (index < characters.length) {
+                characters[index].style.opacity = 1;
+                setTimeout(() => showCharacters(index + 1), 200); // Ajustez la durée pour la vitesse souhaitée
+            }
+        }
+
+        showCharacters(0);
+    });
+</script>
+
+
 
 </body>
 

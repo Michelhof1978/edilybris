@@ -1921,7 +1921,5 @@ input[type="email"]:focus {
   color: #ffffff; /* Couleur blanche au survol */
 }
 
-.borderColor{
-  color: #ffcc00; /* Couleur initiale */
-}
+.borderColor
 /* FIN FORMULAIRE DE CONTACT*/
