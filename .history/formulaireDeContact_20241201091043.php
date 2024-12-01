@@ -151,7 +151,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <div class="col">
                         <div class="form-outline">
                             <label for="firstName" class="form-label text-white">Prénom</label>
-                            <input name="firstName" type="text" id="firstName" class="borderColorForm form-control" placeholder="Prénom" required>
+                            <input name="firstName" type="text" id="firstName" class="form-control" placeholder="Prénom" required>
                             <div class="invalid-feedback">
                                 Veuillez saisir votre prénom.
                             </div>
@@ -162,7 +162,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <div class="col">
                         <div class="form-outline">
                             <label for="lastName" class="form-label text-white">Nom</label>
-                            <input name="lastName" type="text" id="lastName" class="borderColorForm form-control" placeholder="Nom" required>
+                            <input name="lastName" type="text" id="lastName" class="form-control" placeholder="Nom" required>
                             <div class="invalid-feedback">
                                 Veuillez saisir votre nom.
                             </div>

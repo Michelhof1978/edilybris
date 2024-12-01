@@ -151,7 +151,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <div class="col">
                         <div class="form-outline">
                             <label for="firstName" class="form-label text-white">Prénom</label>
-                            <input name="firstName" type="text" id="firstName" class="borderColorForm form-control" placeholder="Prénom" required>
+                            <input name="firstName" type="text" id="firstName" class="form-control" placeholder="Prénom" required>
                             <div class="invalid-feedback">
                                 Veuillez saisir votre prénom.
                             </div>
@@ -162,7 +162,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <div class="col">
                         <div class="form-outline">
                             <label for="lastName" class="form-label text-white">Nom</label>
-                            <input name="lastName" type="text" id="lastName" class="borderColorForm form-control" placeholder="Nom" required>
+                            <input name="lastName" type="text" id="lastName" class="form-control" placeholder="Nom" required>
                             <div class="invalid-feedback">
                                 Veuillez saisir votre nom.
                             </div>
@@ -173,7 +173,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <div class="col">
                         <div class="form-outline mb-4">
                             <label for="phoneNumber" class="form-label text-white">Téléphone</label>
-                            <input name="phoneNumber" type="tel" id="phoneNumber" class="borderColorForm form-control" placeholder="Téléphone" pattern="[0-9]{10,15}" required>
+                            <input name="phoneNumber" type="tel" id="phoneNumber" class="form-control" placeholder="Téléphone" pattern="[0-9]{10,15}" required>
                             <div class="invalid-feedback">
                                 Veuillez saisir un numéro de téléphone valide (10 à 15 chiffres).
                             </div>
@@ -183,7 +183,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <!-- Email -->
                     <div class="form-outline mb-4">
                         <label for="email" class="form-label text-white">Adresse Email</label>
-                        <div class="input-group has-validation borderColorForm">
+                        <div class="input-group has-validation">
                             <input name="email" type="email" id="email" class="form-control" placeholder="Email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.(com|fr)$">
                             <div class="invalid-feedback">
                                 Veuillez saisir une adresse email valide avec un @ et un domaine .com ou .fr.
@@ -194,7 +194,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     <!-- Sélecteur d'objet -->
                     <div class="mb-3">
                         <label for="objet" class="form-label text-white">Objet :</label>
-                        <select name="objet" id="objet" class="form-select borderColorForm" required>
+                        <select name="objet" id="objet" class="form-select" required>
                             <option value="" disabled selected>Choisissez un objet</option>
                             <option value="Demande de devis">Collaboration avec l'association</option>
                             <option value="Besoins d'infos">Besoins d'informations</option>
@@ -203,10 +203,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                     </div>
 
                     <!-- Message -->
-                    <div class="form-group ">
-                        <label for="message" class="mb-2 text-white ">Message</label>
+                    <div class="form-group">
+                        <label for="message" class="mb-2 text-white">Message</label>
                         <div class="form-floating">
-                            <textarea name="message" class="form-control borderColorForm" id="message" required></textarea>
+                            <textarea name="message" class="form-control" id="message" required></textarea>
                             <label for="message">Votre Message</label>
                             <div class="invalid-feedback">
                                 Veuillez saisir votre message.

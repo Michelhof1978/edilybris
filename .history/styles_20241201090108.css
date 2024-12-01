@@ -1921,10 +1921,10 @@ input[type="email"]:focus {
   color: #ffffff; /* Couleur blanche au survol */
 }
 
-.borderColorForm{
-  border: 2px solid #ffcc00 !important;
+.borderColor{
+  color: #ffcc00; /* Couleur initiale */
 }
 .btn2{
-  background-color: #003366 !important;
+  color
 }
 /* FIN FORMULAIRE DE CONTACT*/

@@ -1922,7 +1922,7 @@ input[type="email"]:focus {
 }
 
 .borderColorForm{
-  border: 2px solid #ffcc00 !important;
+  color: #ffcc00 !important; /* Couleur initiale */
 }
 .btn2{
   background-color: #003366 !important;

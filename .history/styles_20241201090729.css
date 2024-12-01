@@ -1894,7 +1894,7 @@ input[type="email"]:focus {
 .form-control:focus,
 .form-select:focus,
 .form-floating textarea:focus {
-    border-color: #001a33;
+  border: 2px solid #ffcc00 !important;
     /* Couleur de bordure au focus pour un effet de surbrillance plus foncé */
     outline: none;
     /* Supprime le contour par défaut */
