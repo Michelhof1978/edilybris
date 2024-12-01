@@ -17,10 +17,10 @@
 
 <div class="lead fs mt-3 mb-5 text-white ms-3">
 
-    <strong class="coloryellow">1. Acceptation des Conditions</strong><br>
+    <strong>1. Acceptation des Conditions</strong><br>
     Toute commande de livres implique l'acceptation totale et sans réserve de ces conditions générales de vente. Aucune condition contraire ne pourra être opposée sauf accord express écrit de notre part.<br><br>
 
-    <strong class="coloryellow">2. Commande et Validation</strong><br>
+    <strong>2. Commande et Validation</strong><br>
     La commande est considérée comme validée dès réception d'une confirmation de commande par e-mail ou lors de l'achat en ligne sur notre site. L'association Edi'lybris se réserve le droit de refuser toute commande en cas de doute sur la solvabilité de l'acheteur ou pour toute autre raison légitime.<br><br>
 
     <strong class="coloryellow">3. Tarifs et Paiement</strong><br>

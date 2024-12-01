@@ -17,19 +17,19 @@
 
 <div class="lead fs mt-3 mb-5 text-white ms-3">
 
-    <strong class="coloryellow">1. Acceptation des Conditions</strong><br>
+    <strong>1. Acceptation des Conditions</strong><br>
     Toute commande de livres implique l'acceptation totale et sans réserve de ces conditions générales de vente. Aucune condition contraire ne pourra être opposée sauf accord express écrit de notre part.<br><br>
 
-    <strong class="coloryellow">2. Commande et Validation</strong><br>
+    <strong>2. Commande et Validation</strong><br>
     La commande est considérée comme validée dès réception d'une confirmation de commande par e-mail ou lors de l'achat en ligne sur notre site. L'association Edi'lybris se réserve le droit de refuser toute commande en cas de doute sur la solvabilité de l'acheteur ou pour toute autre raison légitime.<br><br>
 
-    <strong class="coloryellow">3. Tarifs et Paiement</strong><br>
+    <strong>3. Tarifs et Paiement</strong><br>
     Les prix des livres sont ceux en vigueur au moment de la commande. Les tarifs sont exprimés en euros (€) et incluent la TVA. Le paiement peut être effectué par carte bancaire, virement bancaire ou chèque. Les frais de livraison éventuels seront précisés lors de la commande. Un récapitulatif de la commande, incluant les frais de port, sera envoyé à l'acheteur avant toute validation.<br><br>
 
-    <strong class="coloryellow">4. Livraison</strong><br>
+    <strong>4. Livraison</strong><br>
     Les livres sont expédiés dans un délai de [nombre] jours ouvrables après la confirmation de la commande. La livraison est effectuée à l'adresse fournie par l'acheteur lors de la commande. Les frais de port sont à la charge de l'acheteur et sont calculés en fonction du poids total de la commande et du lieu de livraison. Les délais de livraison indiqués sont fournis à titre indicatif et ne sont pas garantis.<br><br>
 
-    <strong class="coloryellow">5. Droit de Rétractation</strong><br>
+    <strong>5. Droit de Rétractation</strong><br>
     Conformément à l'article L121-21 du Code de la consommation, l'acheteur dispose d'un délai de 14 jours à compter de la réception des livres pour exercer son droit de rétractation. Le produit doit être retourné dans son état et emballage d'origine. Les frais de retour sont à la charge de l'acheteur. Les livres endommagés ou non retournés dans leur état initial ne pourront pas être remboursés.<br><br>
 
     <strong class="coloryellow">6. Propriété Intellectuelle</strong><br>

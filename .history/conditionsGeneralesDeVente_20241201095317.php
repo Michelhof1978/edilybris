@@ -17,7 +17,7 @@
 
 <div class="lead fs mt-3 mb-5 text-white ms-3">
 
-    <strong class="coloryellow">1. Acceptation des Conditions</strong><br>
+    <strong>1. Acceptation des Conditions</strong><br>
     Toute commande de livres implique l'acceptation totale et sans réserve de ces conditions générales de vente. Aucune condition contraire ne pourra être opposée sauf accord express écrit de notre part.<br><br>
 
     <strong class="coloryellow">2. Commande et Validation</strong><br>
