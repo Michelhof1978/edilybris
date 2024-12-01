@@ -103,8 +103,44 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 
 <?php include("head.php") ?>
-<title>Formulaire de Contact - Edi'lybris</title>
+<title>Formulaire de Contact - Edi</title>
 <meta name="description" content="">
+
+
+<style>
+    /* Bordure bleu foncé autour des champs de saisie avec une épaisseur accrue */
+    .form-control,
+    .form-select,
+    .form-floating textarea {
+        border: 2px solid #33a5ff;
+        border-radius: 4px;
+        padding: 0.5rem;
+        box-sizing: border-box;
+        /* Assure que la bordure est incluse dans la largeur totale */
+    }
+
+    .form-control:focus,
+    .form-select:focus,
+    .form-floating textarea:focus {
+        border-color: #001a33;
+        /* Couleur de bordure au focus pour un effet de surbrillance plus foncé */
+        outline: none;
+        /* Supprime le contour par défaut */
+    }
+
+    .error-message {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .alert {
+        text-align: center;
+        max-width: 600px;
+        margin: 10px;
+    }
+</style>
 
 </head>
 

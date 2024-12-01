@@ -103,24 +103,78 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 
 <?php include("head.php") ?>
-<title>Formulaire de Contact - Edi'lybris</title>
-<meta name="description" content="">
+<title>Formulaire de Contact - Harmony Digital</title>
+<meta name="description" content="Contactez-nous pour obtenir un devis personnalisé ou des i">
+
+
+<style>
+    /* Bordure bleu foncé autour des champs de saisie avec une épaisseur accrue */
+    .form-control,
+    .form-select,
+    .form-floating textarea {
+        border: 2px solid #33a5ff;
+        border-radius: 4px;
+        padding: 0.5rem;
+        box-sizing: border-box;
+        /* Assure que la bordure est incluse dans la largeur totale */
+    }
+
+    .form-control:focus,
+    .form-select:focus,
+    .form-floating textarea:focus {
+        border-color: #001a33;
+        /* Couleur de bordure au focus pour un effet de surbrillance plus foncé */
+        outline: none;
+        /* Supprime le contour par défaut */
+    }
+
+    .error-message {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .alert {
+        text-align: center;
+        max-width: 600px;
+        margin: 10px;
+    }
+</style>
 
 </head>
 
 
 <?php include("header.php"); ?>
 
+<div id="binary-background2"></div>
+
+<!-- Banner mobile -->
+<div class="container-fluid d-flex justify-content-center align-items-center full-height mt-5 d-none d-md-flex">
+    <img src="images/banniererobotform.webp" loading="lazy" alt="Bannière d'un robot expliquant qui est là pour vous aider" class="img-fluid w-50 rounded">
+</div>
+<!--Fin Banner mobile -->
+
+<!--Banner desktop -->
+<div class="container-fluid d-flex justify-content-center align-items-center full-height mt-5 d-md-none">
+    <img src="images/banniererobotform.webp" loading="lazy" alt="Bannière d'un robot expliquant qui est là pour vous aider" class="img-fluid w-100 rounded">
+</div>
+<!--Fin Banner desktop -->
+
+<img src="images/gif7.gif" alt="robot gif" class="img-fluid d-block d-md-none" style="margin-bottom: -20px;">
+
+<img src="images/gif7.gif" alt="robot gif" loading="lazy" class="img-fluid d-none d-md-block" style="margin-bottom: -20px; margin-left: 150px;">
+
 <h1 class="border borderColor border-4 rounded p-2 col ms-5 me-5 mt-4 text-center text-white fw-bold">
     Formulaire De Contact
 </h1>
 
 <div class="text-center mt-5">
-    <img src="images/" loading="lazy" alt="" class="img-fluid w-50">
+    <img src="images/contactRobot.webp" loading="lazy" alt="robot" class="img-fluid w-50">
 </div>
 
 <h4 class="m-5 text-center">
-    <strong class="text-white">Besoin d'une réponse à vos questions ?</strong>
+    <strong class="text-white">Besoin d'un devis ou d'une réponse à vos questions ?</strong>
 </h4>
 
 <h4 class="m-5 text-center">

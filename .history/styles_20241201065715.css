@@ -1792,7 +1792,7 @@ input[type="email"]:focus {
 
 .livre {
   display: flex;
-  background-color: #003366;
+  background-color: #0b69dc;
   padding: 20px;
   margin-bottom: 30px;
   border-radius: 8px;
@@ -1843,7 +1843,7 @@ input[type="email"]:focus {
 
 /* Citations */
 .citations {
-  background-color: #003366;
+  background-color: #0055cc;
   padding: 40px 0;
 }
 
@@ -1912,4 +1912,4 @@ input[type="email"]:focus {
     max-width: 600px;
     margin: 10px;
 }
-/* FIN FORMULAIRE DE CONTACT*/
+/* FINFORMULAIRE DE CONTACT*/

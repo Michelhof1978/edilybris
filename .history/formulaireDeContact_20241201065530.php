@@ -106,6 +106,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <title>Formulaire de Contact - Edi'lybris</title>
 <meta name="description" content="">
 
+
+<style>
+    /* Bordure bleu foncé autour des champs de saisie avec une épaisseur accrue */
+   
+</style>
+
 </head>
 
 
