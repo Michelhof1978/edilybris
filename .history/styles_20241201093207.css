@@ -33,9 +33,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
 }
 
-.coloryellow{
-  color: #ffcc00;
- }
+
 
 
 /* Row alignée en flexbox */
@@ -1931,3 +1929,6 @@ input[type="email"]:focus {
 }
 /* FIN FORMULAIRE DE CONTACT*/
 
+.coloryellow{
+ color: #ffcc00;
+}

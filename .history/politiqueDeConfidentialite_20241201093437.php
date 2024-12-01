@@ -43,11 +43,11 @@
 
     Nous mettons en place des mesures de sécurité pour protéger vos données personnelles contre tout accès non autorisé, perte ou destruction.<br><br>
 
-    <strong class="coloryellow">5. Droits des Utilisateurs :</strong><br>
+    <strong>5. Droits des Utilisateurs :</strong><br>
 
     Vous avez le droit d'accéder, de rectifier, de supprimer ou de limiter le traitement de vos données personnelles. Vous pouvez exercer ces droits en nous contactant à l'adresse e-mail isabelle.deschins@sfr.fr<br><br>
 
-    <strong class="coloryellow">6. Modifications de la Politique de Confidentialité :</strong><br>
+    <strong>6. Modifications de la Politique de Confidentialité :</strong><br>
 
     Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Les modifications seront publiées sur cette page.
 

@@ -47,7 +47,7 @@
 
     Vous avez le droit d'accéder, de rectifier, de supprimer ou de limiter le traitement de vos données personnelles. Vous pouvez exercer ces droits en nous contactant à l'adresse e-mail isabelle.deschins@sfr.fr<br><br>
 
-    <strong class="coloryellow">6. Modifications de la Politique de Confidentialité :</strong><br>
+    <strong>6. Modifications de la Politique de Confidentialité :</strong><br>
 
     Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Les modifications seront publiées sur cette page.
 
