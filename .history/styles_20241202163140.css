@@ -2091,6 +2091,14 @@ input[type="email"]:focus {
   cursor: not-allowed;
 }
 
+.livre-hidden {
+  display: none;
+}
+
+.livre {
+  display: block; /* Affiche un seul livre à la fois */
+}
+
 
 /* FIN FICHE AUTEUR*/
 

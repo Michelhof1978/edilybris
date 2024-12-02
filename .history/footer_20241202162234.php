@@ -1144,9 +1144,8 @@ backButton.addEventListener('click', showPreviousBook);
 // Initialiser en masquant tous les livres sauf le premier
 books.forEach((book, index) => {
     if (index !== 0) {
-        book.classList.add('livre-hidden'); // Masque tous les livres sauf le premier
+        book.classList.add('livre-hidden');
     }
 });
 
 </script>
-

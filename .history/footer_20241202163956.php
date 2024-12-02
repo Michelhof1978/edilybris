@@ -1150,3 +1150,57 @@ books.forEach((book, index) => {
 
 </script>
 
+
+<script>
+  // Variables globales pour suivre l'indice du livre actuel
+let currentBookIndex = 0;
+const books = document.querySelectorAll('.livre');  // Sélectionne toutes les cartes de livres
+const nextButton = document.getElementById('livre-nextButton');
+const backButton = document.getElementById('livre-backButton');
+
+// Fonction pour afficher le livre suivant
+function showNextBook() {
+    // Masquer le livre actuel
+    books[currentBookIndex].classList.add('livre-hidden');
+    
+    // Incrémenter l'indice
+    currentBookIndex++;
+
+    // Vérifier si on a atteint la fin
+    if (currentBookIndex >= books.length) {
+        currentBookIndex = books.length - 1; // Ne pas dépasser la dernière carte
+        nextButton.disabled = true; // Désactiver le bouton "Suivant" si on est à la dernière carte
+    }
+
+    // Afficher le livre suivant
+    books[currentBookIndex].classList.remove('livre-hidden');
+    backButton.disabled = false; // Activer le bouton "Précédent"
+}
+
+// Fonction pour afficher le livre précédent
+function showPreviousBook() {
+    // Masquer le livre actuel
+    books[currentBookIndex].classList.add('livre-hidden');
+
+    // Décrémenter l'indice
+    currentBookIndex--;
+
+    // Vérifier si on est déjà au premier livre
+    if (currentBookIndex <= 0) {
+        currentBookIndex = 0; // Ne pas dépasser la première carte
+        backButton.disabled = true; // Désactiver le bouton "Précédent" si on est à la première carte
+    }
+
+    // Afficher le livre précédent
+    books[currentBookIndex].classList.remove('livre-hidden');
+    nextButton.disabled = false; // Activer le bouton "Suivant"
+}
+
+// Événements sur les boutons
+nextButton.addEventListener('click', showNextBook);
+backButton.addEventListener('click', showPreviousBook);
+
+// Initialisation : Afficher le premier livre et activer/désactiver les boutons en conséquence
+showNextBook();  // Affiche le premier livre au chargement de la page
+
+</script>

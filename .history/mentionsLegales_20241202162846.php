@@ -24,7 +24,7 @@
     <strong class="coloryellow">Adresse :</strong> 9, rue des Mésanges 79400 SAINT-MAIXENT-L'ÉCOLE, France<br><br>
     <strong class="coloryellow">Numéro de téléphone :</strong> 06 23 53 30 18<br><br>
     <!-- <strong class="coloryellow">Adresse e-mail :</strong> harmonydigitalweb@gmail.com<br><br> -->
-    <strong class="coloryellow">Numéro d'immatriculation :</strong> 788 509 891 000 24<br><br>
+    <strong class="coloryellow">Numéro d'immatriculation :</strong> 92101427000018<br><br>
     <strong class="coloryellow">Directeur de la publication :</strong> Mr.Brandao Pierre<br><br><br><br>
 
     <strong class="coloryellow">Hébergeur du site :</strong><br><br>

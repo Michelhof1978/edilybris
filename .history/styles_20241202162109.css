@@ -2018,6 +2018,17 @@ input[type="email"]:focus {
   cursor: not-allowed;
 }
 /* Style général des cartes */
+.livre {
+  display: none;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 30px;
+  border: 2px solid #f7b500;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
 .livre-content {
   display: flex;
@@ -2090,6 +2101,8 @@ input[type="email"]:focus {
   background-color: #ccc;
   cursor: not-allowed;
 }
+
+
 
 
 /* FIN FICHE AUTEUR*/

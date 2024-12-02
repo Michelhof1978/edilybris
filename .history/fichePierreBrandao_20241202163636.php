@@ -295,7 +295,7 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                 <div class="livre-details">
                     <h3 class="h2Jaune">Le Voyage Intérieur</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens...</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
@@ -383,7 +383,6 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
         </div>
     </div>
 </section>
-
 
 
     <!-- Section citations -->
