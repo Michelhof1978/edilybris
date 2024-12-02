@@ -1843,10 +1843,6 @@ input[type="email"]:focus {
   border-bottom: 2px solid #0055cc;
 }
 
-.livre-hidden {
-  display: none;
-}
-
 /* Citations */
 .citations {
   background-color: #003366;
@@ -2094,6 +2090,18 @@ input[type="email"]:focus {
   background-color: #ccc;
   cursor: not-allowed;
 }
+
+.livre {
+  display: none;
+}
+
+.livre.active {
+  display: block;
+}
+.livre {
+  transition: opacity 0.5s ease-in-out;
+}
+
 /* FIN FICHE AUTEUR*/
 
 /* FORMULAIRE DE CONTACT*/

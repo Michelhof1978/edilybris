@@ -1152,36 +1152,6 @@ books.forEach((book, index) => {
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const livres = document.querySelectorAll(".livre");
-    const prevButton = document.getElementById("livre-backButton");
-    const nextButton = document.getElementById("livre-nextButton");
-    let currentIndex = 0;
-
-    function showCurrentLivre() {
-        livres.forEach((livre, index) => {
-            livre.style.display = index === currentIndex ? "block" : "none";
-        });
-        prevButton.disabled = currentIndex === 0;
-        nextButton.disabled = currentIndex === livres.length - 1;
-    }
-
-    prevButton.addEventListener("click", function() {
-        if (currentIndex > 0) {
-            currentIndex--;
-            showCurrentLivre();
-        }
-    });
-
-    nextButton.addEventListener("click", function() {
-        if (currentIndex < livres.length - 1) {
-            currentIndex++;
-            showCurrentLivre();
-        }
-    });
-
-    showCurrentLivre(); // Initialize the first card
-});
 
 
 </script>

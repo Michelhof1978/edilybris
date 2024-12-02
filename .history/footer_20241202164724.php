@@ -1150,38 +1150,37 @@ books.forEach((book, index) => {
 
 </script>
 
-
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const livres = document.querySelectorAll(".livre");
-    const prevButton = document.getElementById("livre-backButton");
-    const nextButton = document.getElementById("livre-nextButton");
-    let currentIndex = 0;
+  <script>
+  const livres = document.querySelectorAll('.livre');
+  const nextButton = document.getElementById('livre-nextButton');
+  const backButton = document.getElementById('livre-backButton');
+  let livreActif = 0;
 
-    function showCurrentLivre() {
-        livres.forEach((livre, index) => {
-            livre.style.display = index === currentIndex ? "block" : "none";
-        });
-        prevButton.disabled = currentIndex === 0;
-        nextButton.disabled = currentIndex === livres.length - 1;
-    }
-
-    prevButton.addEventListener("click", function() {
-        if (currentIndex > 0) {
-            currentIndex--;
-            showCurrentLivre();
-        }
+  // Fonction pour afficher une carte spécifique
+  function afficherLivre(index) {
+    livres.forEach((livre, i) => {
+      livre.classList.remove('active');
+      if (i === index) {
+        livre.classList.add('active');
+      }
     });
+    livreActif = index;
+    // Désactiver/activer les boutons en fonction du livre actif
+    backButton.disabled = livreActif === 0;
+    nextButton.disabled = livreActif === livres.length - 1;
+  }
 
-    nextButton.addEventListener("click", function() {
-        if (currentIndex < livres.length - 1) {
-            currentIndex++;
-            showCurrentLivre();
-        }
-    });
+  // Afficher la première carte au chargement de la page
+  afficherLivre(0);
 
-    showCurrentLivre(); // Initialize the first card
-});
+  // Événement au clic sur le bouton suivant
+  nextButton.addEventListener('click', () => {
+    afficherLivre(livreActif + 1);
+  });
 
-
+  // Événement au clic sur le bouton précédent
+  backButton.addEventListener('click', () => {
+    afficherLivre(livreActif - 1);
+  });
 </script>

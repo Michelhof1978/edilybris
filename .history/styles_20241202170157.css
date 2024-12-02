@@ -1843,10 +1843,6 @@ input[type="email"]:focus {
   border-bottom: 2px solid #0055cc;
 }
 
-.livre-hidden {
-  display: none;
-}
-
 /* Citations */
 .citations {
   background-color: #003366;
@@ -2093,6 +2089,14 @@ input[type="email"]:focus {
 .livre-button:disabled {
   background-color: #ccc;
   cursor: not-allowed;
+}
+
+.livre {
+  display: none;
+}
+
+.livre.active {
+  display: block;
 }
 /* FIN FICHE AUTEUR*/
 

@@ -1843,10 +1843,6 @@ input[type="email"]:focus {
   border-bottom: 2px solid #0055cc;
 }
 
-.livre-hidden {
-  display: none;
-}
-
 /* Citations */
 .citations {
   background-color: #003366;

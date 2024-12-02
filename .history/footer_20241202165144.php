@@ -1152,36 +1152,29 @@ books.forEach((book, index) => {
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const livres = document.querySelectorAll(".livre");
-    const prevButton = document.getElementById("livre-backButton");
-    const nextButton = document.getElementById("livre-nextButton");
-    let currentIndex = 0;
+  const livres = document.querySelectorAll('.livre');
+  const nextButton = document.getElementById('livre-nextButton');
+  let livreActif = 0;
 
-    function showCurrentLivre() {
-        livres.forEach((livre, index) => {
-            livre.style.display = index === currentIndex ? "block" : "none";
-        });
-        prevButton.disabled = currentIndex === 0;
-        nextButton.disabled = currentIndex === livres.length - 1;
-    }
+  function afficherLivre(index) {
+    const indexReel = index % livres.length;
 
-    prevButton.addEventListener("click", function() {
-        if (currentIndex > 0) {
-            currentIndex--;
-            showCurrentLivre();
-        }
+    livres.forEach((livre, i) => {
+      livre.classList.remove('active');
+      if (i === indexReel) {
+        livre.classList.add('active');
+      }
     });
+    livreActif = indexReel;
+  }
 
-    nextButton.addEventListener("click", function() {
-        if (currentIndex < livres.length - 1) {
-            currentIndex++;
-            showCurrentLivre();
-        }
-    });
+  // Afficher la première carte au chargement de la page
+  afficherLivre(0);
 
-    showCurrentLivre(); // Initialize the first card
-});
+  // Événement au clic sur le bouton suivant
+  nextButton.addEventListener('click', () => {
+    afficherLivre(livreActif + 1);
+  });
 
-
+  // ... (le reste du code reste inchangé)
 </script>

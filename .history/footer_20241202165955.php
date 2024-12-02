@@ -1152,36 +1152,50 @@ books.forEach((book, index) => {
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const livres = document.querySelectorAll(".livre");
-    const prevButton = document.getElementById("livre-backButton");
-    const nextButton = document.getElementById("livre-nextButton");
-    let currentIndex = 0;
+  const livres = document.querySelectorAll('.livre');
+const nextButton = document.getElementById('livre-nextButton');
+const backButton = document.getElementById('livre-backButton');
+let livreActif = 0;
 
-    function showCurrentLivre() {
-        livres.forEach((livre, index) => {
-            livre.style.display = index === currentIndex ? "block" : "none";
-        });
-        prevButton.disabled = currentIndex === 0;
-        nextButton.disabled = currentIndex === livres.length - 1;
+function afficherLivre(index) {
+  const indexReel = index % livres.length;
+
+  livres.forEach((livre, i) => {
+    livre.classList.remove('active');
+    livre.classList.add('livre-hidden');
+    if (i === indexReel) {
+      livre.classList.remove('livre-hidden');
+      livre.classList.add('active');
     }
+  });
 
-    prevButton.addEventListener("click", function() {
-        if (currentIndex > 0) {
-            currentIndex--;
-            showCurrentLivre();
-        }
-    });
+  livreActif = indexReel;
 
-    nextButton.addEventListener("click", function() {
-        if (currentIndex < livres.length - 1) {
-            currentIndex++;
-            showCurrentLivre();
-        }
-    });
+  // Activer/désactiver les boutons suivant/précédent
+  if (livreActif === 0) {
+    backButton.disabled = true;
+  } else {
+    backButton.disabled = false;
+  }
 
-    showCurrentLivre(); // Initialize the first card
+  if (livreActif === livres.length - 1) {
+    nextButton.disabled = true;
+  } else {
+    nextButton.disabled = false;
+  }
+}
+
+// Afficher la première carte au chargement de la page
+afficherLivre(0);
+
+// Événement au clic sur le bouton suivant
+nextButton.addEventListener('click', () => {
+  afficherLivre(livreActif + 1);
 });
 
+// Événement au clic sur le bouton précédent
+backButton.addEventListener('click', () => {
+  afficherLivre(livreActif - 1);
+});
 
 </script>

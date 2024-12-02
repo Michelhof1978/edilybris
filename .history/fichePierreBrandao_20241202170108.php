@@ -385,7 +385,6 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
 </section>
 
 
-
     <!-- Section citations -->
     <section class="citations text-white py-4">
         <div class="container">
