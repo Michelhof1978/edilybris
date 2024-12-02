@@ -286,100 +286,64 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
     <div class="containerAuteur">
         <h2>Les Livres de Pierre Brandao</h2>
 
-        <!-- Carte 1 -->
-        <div id="livre-1" class="livre">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Le Voyage Intérieur</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
+        <!-- Groupe 1 des livres -->
+        <div id="xl-group1" class="xl-card-container">
+            <div class="xl-card">
+                <a href="link_to_book_A.html">
+                    <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre A">
+                    <div class="xl-card-content">
+                        <div class="xl-card-title">L'écho des collines</div>
+                        <div class="xl-card-author">Alice Dubois</div>
+                        <div class="xl-card-description">Une histoire captivante au cœur des montagnes.</div>
+                        <div class="xl-card-price">16,99 €</div>
+                    </div>
+                </a>
             </div>
+            <div class="xl-card">
+                <a href="link_to_book_B.html">
+                    <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Livre B">
+                    <div class="xl-card-content">
+                        <div class="xl-card-title">Les murmures du temps</div>
+                        <div class="xl-card-author">Bertrand Martin</div>
+                        <div class="xl-card-description">Un voyage à travers les époques et les secrets.</div>
+                        <div class="xl-card-price">18,99 €</div>
+                    </div>
+                </a>
+            </div>
+            <!-- Ajoute d'autres livres ici de façon similaire -->
         </div>
 
-        <!-- Carte 2 -->
-        <div id="livre-2" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid" alt="Couverture du livre 2">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 2</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
+        <!-- Groupe 2 des livres -->
+        <div id="xl-group2" class="xl-card-container xl-hidden">
+            <div class="xl-card">
+                <a href="link_to_book_F.html">
+                    <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Livre F">
+                    <div class="xl-card-content">
+                        <div class="xl-card-title">La lumière des ombres</div>
+                        <div class="xl-card-author">Fabien Leclerc</div>
+                        <div class="xl-card-description">Un thriller captivant à couper le souffle.</div>
+                        <div class="xl-card-price">17,99 €</div>
+                    </div>
+                </a>
             </div>
-        </div>
-
-        <!-- Carte 3 -->
-        <div id="livre-3" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid" alt="Couverture du livre 3">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 3</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
+            <div class="xl-card">
+                <a href="link_to_book_G.html">
+                    <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre G">
+                    <div class="xl-card-content">
+                        <div class="xl-card-title">Les vagues éternelles</div>
+                        <div class="xl-card-author">Gabrielle Blanc</div>
+                        <div class="xl-card-description">Un récit émouvant au bord de l'océan.</div>
+                        <div class="xl-card-price">13,99 €</div>
+                    </div>
+                </a>
             </div>
-        </div>
-
-        <!-- Carte 4 -->
-        <div id="livre-4" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid" alt="Couverture du livre 4">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 4</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- Carte 5 -->
-        <div id="livre-5" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid" alt="Couverture du livre 5">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 5</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 5...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- Carte 6 -->
-        <div id="livre-6" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 6</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
+            <!-- Ajoute d'autres livres ici de façon similaire -->
         </div>
 
         <!-- Boutons de navigation -->
-        <div class="livre-navigation d-flex justify-content-center mt-4">
-            <button id="livre-backButton" class="livre-button" disabled>Précédent</button>
-            <button id="livre-nextButton" class="livre-button">Suivant</button>
+        <div class="xl-navigation">
+            <button id="xl-backButton" class="xl-button" disabled>Précédent</button>
+            <button id="xl-nextGroupButton" class="xl-button">Suivant</button>
         </div>
     </div>
 </section>

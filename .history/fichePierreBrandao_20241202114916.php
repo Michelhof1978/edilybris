@@ -286,28 +286,26 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
     <div class="containerAuteur">
         <h2>Les Livres de Pierre Brandao</h2>
 
-        <!-- Carte 1 -->
-        <div id="livre-1" class="livre">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Le Voyage Intérieur</h3>
+      <!-- Votre carrousel des livres -->
+<div id="carouselLivres" class="carousel slide">
+    <div class="carousel-inner">
+        <!-- Livre 1 -->
+        <div class="carousel-item active">
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre L'Amuserie">
+                <div class="details">
+                    <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur...</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
         </div>
-
-        <!-- Carte 2 -->
-        <div id="livre-2" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid" alt="Couverture du livre 2">
-                </div>
-                <div class="livre-details">
+        <!-- Livre 2 -->
+        <div class="carousel-item">
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid w-75" alt="Couverture du livre 2">
+                <div class="details">
                     <h3 class="h2Jaune">Titre du Livre 2</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
                     <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
@@ -315,14 +313,11 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                 </div>
             </div>
         </div>
-
-        <!-- Carte 3 -->
-        <div id="livre-3" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid" alt="Couverture du livre 3">
-                </div>
-                <div class="livre-details">
+        <!-- Livre 3 -->
+        <div class="carousel-item">
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid w-75" alt="Couverture du livre 3">
+                <div class="details">
                     <h3 class="h2Jaune">Titre du Livre 3</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
                     <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
@@ -330,14 +325,11 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                 </div>
             </div>
         </div>
-
-        <!-- Carte 4 -->
-        <div id="livre-4" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid" alt="Couverture du livre 4">
-                </div>
-                <div class="livre-details">
+        <!-- Livre 4 -->
+        <div class="carousel-item">
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid w-75" alt="Couverture du livre 4">
+                <div class="details">
                     <h3 class="h2Jaune">Titre du Livre 4</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
                     <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
@@ -345,14 +337,11 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                 </div>
             </div>
         </div>
-
-        <!-- Carte 5 -->
-        <div id="livre-5" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid" alt="Couverture du livre 5">
-                </div>
-                <div class="livre-details">
+        <!-- Livre 5 -->
+        <div class="carousel-item">
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid w-75" alt="Couverture du livre 5">
+                <div class="details">
                     <h3 class="h2Jaune">Titre du Livre 5</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
                     <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 5...</p>
@@ -360,14 +349,11 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                 </div>
             </div>
         </div>
-
-        <!-- Carte 6 -->
-        <div id="livre-6" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-                </div>
-                <div class="livre-details">
+        <!-- Livre 6 -->
+        <div class="carousel-item">
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid w-75" alt="Couverture du livre 6">
+                <div class="details">
                     <h3 class="h2Jaune">Titre du Livre 6</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
                     <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
@@ -375,14 +361,20 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                 </div>
             </div>
         </div>
-
-        <!-- Boutons de navigation -->
-        <div class="livre-navigation d-flex justify-content-center mt-4">
-            <button id="livre-backButton" class="livre-button" disabled>Précédent</button>
-            <button id="livre-nextButton" class="livre-button">Suivant</button>
-        </div>
     </div>
-</section>
+</div>
+
+<!-- Contrôles du carousel (positionnés en dessous) -->
+<div class="carousel-controls d-flex justify-content-center mt-4">
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Précédent</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Suivant</span>
+    </button>
+</div>
 
 
     <!-- Section citations -->
