@@ -139,7 +139,7 @@ $citations = [
                             Tape, tape lavandière !<br>
                             Et sourire c’est sans effort
                             À l’intérieur de ta chaumière !",
-    'Le Fou et sa Reine' => "Je suis ton fou, tu es ma reine
+    'Le Fou et sa Reine' => "e suis ton fou, tu es ma reine<br>
                             Me ferai plus cavalier que ton roi
                             Le tour des mots fait que ma peine
                             A meurtri le pion de mon désarroi<br>
@@ -184,46 +184,7 @@ $citations = [
                             Je suis ton fou, tu es ma reine
                             Me ferai plus cavalier que ton roi.
 ",
-    'Une Ampoule Claque' => "Une ampoule claque
-                            Tu titubes dans le noir
-                            Face à tes peurs face à tes doutes
-                            Et ton cœur de désespoir
-                            Chamboule tout et se déroute…<br>
-
-                            Une ampoule claque<br>
-                            Tombe en verdict sans appel
-                            L’horizon de tes certitudes
-                            S’abime dans l’abîme irréel
-                            Des lendemains sans habitude…<br>
-
-                            Refrain : Je ne sais où se trouve le fusible
-                            Tant je tâtonne trébuchant
-                            Derrière quelle porte quelle cible
-                            L’éclaircie supporte le chant ?<br>
-
-                            Une ampoule claque
-                            Tu chancelles dans le néant
-                            Face au chambranle des larmes
-                            Ton existence de géant
-                            N’est plus qu’un champ de vacarmes…<br>
-
-                            Une ampoule claque
-                            Tu saisis prestement le loquet
-                            Il tourne dans le vide en silence
-                            Laissant ton regard hébété
-                            D’un avenir en souffrance…<br>
-
-                            Refrain : Je ne sais où se trouve le fusible
-                            Tant je tâtonne trébuchant
-                            Derrière quelle porte quelle cible
-                            L’éclaircie supporte le chant ?<br>
-
-                            Une ampoule neuve<br>
-                            Dans la paume se fait jour
-                            Ce sourire qui chancelle
-                            Est un beau signe d’amour
-                            Au firmament des étincelles...
-"
+    'Une Ampoule Claque' => "Une ampoule claque... Au firmament des étincelles..."
 ];
 
 // Obtenir les citations pour la page actuelle

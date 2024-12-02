@@ -184,8 +184,8 @@ $citations = [
                             Je suis ton fou, tu es ma reine
                             Me ferai plus cavalier que ton roi.
 ",
-    'Une Ampoule Claque' => "Une ampoule claque
-                            Tu titubes dans le noir
+    'Une Ampoule Claque' => "                            Une ampoule claque<br>
+                            Tu titubes dans le noir<br>
                             Face à tes peurs face à tes doutes
                             Et ton cœur de désespoir
                             Chamboule tout et se déroute…<br>

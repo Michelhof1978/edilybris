@@ -184,17 +184,17 @@ $citations = [
                             Je suis ton fou, tu es ma reine
                             Me ferai plus cavalier que ton roi.
 ",
-    'Une Ampoule Claque' => "Une ampoule claque
-                            Tu titubes dans le noir
-                            Face à tes peurs face à tes doutes
-                            Et ton cœur de désespoir
-                            Chamboule tout et se déroute…<br>
+    'Une Ampoule Claque' => "                            Une ampoule claque<br>
+                            Tu titubes dans le noir<br>
+                            Face à tes peurs face à tes doutes<br>
+                            Et ton cœur de désespoir<br>
+                            Chamboule tout et se déroute…<br><br>
 
                             Une ampoule claque<br>
-                            Tombe en verdict sans appel
-                            L’horizon de tes certitudes
-                            S’abime dans l’abîme irréel
-                            Des lendemains sans habitude…<br>
+                            Tombe en verdict sans appel<br>
+                            L’horizon de tes certitudes<br>
+                            S’abime dans l’abîme irréel<br>
+                            Des lendemains sans habitude…<br><br>
 
                             Refrain : Je ne sais où se trouve le fusible
                             Tant je tâtonne trébuchant

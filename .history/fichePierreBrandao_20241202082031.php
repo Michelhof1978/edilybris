@@ -184,38 +184,38 @@ $citations = [
                             Je suis ton fou, tu es ma reine
                             Me ferai plus cavalier que ton roi.
 ",
-    'Une Ampoule Claque' => "Une ampoule claque
-                            Tu titubes dans le noir
-                            Face à tes peurs face à tes doutes
-                            Et ton cœur de désespoir
-                            Chamboule tout et se déroute…<br>
+    'Une Ampoule Claque' => "                            Une ampoule claque<br>
+                            Tu titubes dans le noir<br>
+                            Face à tes peurs face à tes doutes<br>
+                            Et ton cœur de désespoir<br>
+                            Chamboule tout et se déroute…<br><br>
 
                             Une ampoule claque<br>
-                            Tombe en verdict sans appel
-                            L’horizon de tes certitudes
-                            S’abime dans l’abîme irréel
-                            Des lendemains sans habitude…<br>
+                            Tombe en verdict sans appel<br>
+                            L’horizon de tes certitudes<br>
+                            S’abime dans l’abîme irréel<br>
+                            Des lendemains sans habitude…<br><br>
 
-                            Refrain : Je ne sais où se trouve le fusible
-                            Tant je tâtonne trébuchant
-                            Derrière quelle porte quelle cible
-                            L’éclaircie supporte le chant ?<br>
+                            Refrain : Je ne sais où se trouve le fusible<br>
+                            Tant je tâtonne trébuchant<br>
+                            Derrière quelle porte quelle cible<br>
+                            L’éclaircie supporte le chant ?<br><br>
 
-                            Une ampoule claque
-                            Tu chancelles dans le néant
-                            Face au chambranle des larmes
-                            Ton existence de géant
-                            N’est plus qu’un champ de vacarmes…<br>
+                            Une ampoule claque<br>
+                            Tu chancelles dans le néant<br>
+                            Face au chambranle des larmes<br>
+                            Ton existence de géant<br>
+                            N’est plus qu’un champ de vacarmes…<br><br>
 
-                            Une ampoule claque
-                            Tu saisis prestement le loquet
-                            Il tourne dans le vide en silence
-                            Laissant ton regard hébété
-                            D’un avenir en souffrance…<br>
+                            Une ampoule claque<br>
+                            Tu saisis prestement le loquet<br>
+                            Il tourne dans le vide en silence<br>
+                            Laissant ton regard hébété<br>
+                            D’un avenir en souffrance…<br><br>
 
-                            Refrain : Je ne sais où se trouve le fusible
-                            Tant je tâtonne trébuchant
-                            Derrière quelle porte quelle cible
+                            Refrain : Je ne sais où se trouve le fusible<br>
+                            Tant je tâtonne trébuchant<br>
+                            Derrière quelle porte quelle cible<br>
                             L’éclaircie supporte le chant ?<br>
 
                             Une ampoule neuve<br>

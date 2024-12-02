@@ -65,7 +65,7 @@ $citations = [
                             Au pistil de tes lèvres
                             Fleur du plus beau rêve...
 ",
-    'Croire en qui?' => "   Je ne suis qu’un enfant, ô mon Dieu,
+    'Croire en qui?' => "                            Je ne suis qu’un enfant, ô mon Dieu,
                             Pourtant je ne sais ce qu’on me veut :
                             Ma mère me bat, mon père boit,
                             Et il me faut croire en votre foi ?<br>
@@ -110,120 +110,9 @@ $citations = [
                             Refrain : Il me faut croire en quoi, croire en qui,
                             Pour que je ne dise plus : pour Qui ?
 ",
-    'Lavandière' => "       J’accompagne ma mère au lavoir du passé,
-                            J’aime à l’entendre rire en compagnie des dames ;
-                            Son bac à linge et le jupon retroussé,
-                            Elle sert le bébé accroché à sa mamme !<br>
-
-                            Tu nettoies le pleur de son premier cri
-                            Tape, tape lavandière,
-                            Et cette vie qui te sourit
-                            Illuminera ta chaumière !<br>
-
-                            Je l’entends chuchoter au passage d’un gars
-                            Et son amie de rire aux éclats de cascade
-                            La bulle de savon emporte le mot gras
-                            Il était si coquin ce temps de la bravade !<br>
-
-                            Tu nettoies le rire audacieux des draps,
-                            Tape, tape lavandière,
-                            Et au soleil tu sècheras
-                            Le tissu blanc de ta chaumière !<br>
-
-                            Tu racontes ta vie étalant sur le bac<br>
-                            Les jupes de ta gosse aux amours délétères ;
-                            Elle s’est fait avoir, c’est un vulgaire maqu’
-                            Elle ne la croit pas : elle n’est que sa mère !<br>
-
-                            Tu frictionnes la mort en brossant fort !
-                            Tape, tape lavandière !<br>
-                            Et sourire c’est sans effort
-                            À l’intérieur de ta chaumière !",
-    'Le Fou et sa Reine' => "Je suis ton fou, tu es ma reine
-                            Me ferai plus cavalier que ton roi
-                            Le tour des mots fait que ma peine
-                            A meurtri le pion de mon désarroi<br>
-
-                            J’épouse à l’orée des silences
-                            Le châtiment d’un poète maudit
-                            Toi sur les blanches tu t’élances
-                            Oubliant la passion et l’interdit<br>
-
-                            Si ma défaite se déchaîne
-                            Au risque de provoquer ton effroi
-                            Supplie qu’un soleil de phalènes
-                            Adoucisse le feu de mes pourquoi
-                            Je suis ton fou, tu es ma reine
-                            Me ferai plus cavalier que ton roi.<br>
-
-                            Je me bats sur un territoire
-                            Mais je sais le combat déjà perdu
-                            Il reste cette belle histoire
-                            Sur l’échiquier le fou est descendu<
-                            Je suis échec et mat,
-                            Je suis échec et mat…<br>
-
-                            Au jeu d’ouvertures tu mènes,
-                            Stratège remarquable au regard froid
-                            Tu abats les pions dans tes chaînes
-                            Pour le plaisir de terminer par moi
-                            Je suis ton fou, tu es ma reine
-                            Me ferai plus cavalier que ton roi.<br>
-
-                            Rangeons le plateau dans l’armoire
-                            Afin que les regrets soient moins amers
-                            Ton fou à l’haubert dérisoire
-                            N’écoutera pas l’appel de la mer…
-                            La folie c’est aimer,
-                            La folie c’est aimer…<br>
-
-                            Je suis ton fou, tu es ma reine
-                            Me ferai plus cavalier que ton roi
-                            Le tour des mots fait que ma peine
-                            A meurtri le pion de mon désarroi
-                            Je suis ton fou, tu es ma reine
-                            Me ferai plus cavalier que ton roi.
-",
-    'Une Ampoule Claque' => "Une ampoule claque
-                            Tu titubes dans le noir
-                            Face à tes peurs face à tes doutes
-                            Et ton cœur de désespoir
-                            Chamboule tout et se déroute…<br>
-
-                            Une ampoule claque<br>
-                            Tombe en verdict sans appel
-                            L’horizon de tes certitudes
-                            S’abime dans l’abîme irréel
-                            Des lendemains sans habitude…<br>
-
-                            Refrain : Je ne sais où se trouve le fusible
-                            Tant je tâtonne trébuchant
-                            Derrière quelle porte quelle cible
-                            L’éclaircie supporte le chant ?<br>
-
-                            Une ampoule claque
-                            Tu chancelles dans le néant
-                            Face au chambranle des larmes
-                            Ton existence de géant
-                            N’est plus qu’un champ de vacarmes…<br>
-
-                            Une ampoule claque
-                            Tu saisis prestement le loquet
-                            Il tourne dans le vide en silence
-                            Laissant ton regard hébété
-                            D’un avenir en souffrance…<br>
-
-                            Refrain : Je ne sais où se trouve le fusible
-                            Tant je tâtonne trébuchant
-                            Derrière quelle porte quelle cible
-                            L’éclaircie supporte le chant ?<br>
-
-                            Une ampoule neuve<br>
-                            Dans la paume se fait jour
-                            Ce sourire qui chancelle
-                            Est un beau signe d’amour
-                            Au firmament des étincelles...
-"
+    'Lavandière' => "J’accompagne ma mère au lavoir du passé... À l’intérieur de ta chaumière !",
+    'Le Fou et sa Reine' => "Je suis ton fou, tu es ma reine... Le tour des mots fait que ma peine...",
+    'Une Ampoule Claque' => "Une ampoule claque... Au firmament des étincelles..."
 ];
 
 // Obtenir les citations pour la page actuelle
