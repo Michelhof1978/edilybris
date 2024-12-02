@@ -271,7 +271,7 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
             <!-- Livre 1 -->
             <div class="livre">
-                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
+                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
                 <div class="details">
                     <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
@@ -285,6 +285,47 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
+  <!-- Livre 2 -->
+  <div class="livre">
+                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
+                <div class="details">
+                    <h3 class="h2Jaune">LE COEUR A SES SAISONS</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Il en va du temps comme des sentiments... Les pupilles s’ouvrent au printemps, les yeux brillent en été, l’ombre des paupières secoue l’automne et l’humidité du regard regrette l’hiver... et tout recommence... Ainsi, Pierre, par ses textes, et Michel, par ses clichés, révèlent un cycle dans lequel la féminité est omniprésente. Beauté des mots et de l’image, le temps est une femme aux multiples tempéraments : c’est aux deux que cet hommage est rendu !</p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                </div>
+            </div>
+  <!-- Livre 1 -->
+  <div class="livre">
+                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
+                <div class="details">
+                    <h3 class="h2Jaune">Le Voyage Intérieur</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                </div>
+            </div>
+  <!-- Livre 1 -->
+  <div class="livre">
+                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
+                <div class="details">
+                    <h3 class="h2Jaune">Le Voyage Intérieur</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                </div>
+            </div>
+  <!-- Livre 1 -->
+  <div class="livre">
+                <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
+                <div class="details">
+                    <h3 class="h2Jaune">Le Voyage Intérieur</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                </div>
+            </div>
+
         </div>
     </section>
 

@@ -271,7 +271,7 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
             <!-- Livre 1 -->
             <div class="livre">
-                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
+                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
                 <div class="details">
                     <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
