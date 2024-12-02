@@ -1858,7 +1858,42 @@ input[type="email"]:focus {
   color: #faf7f7;
 }
 
+.container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr; /* Deux colonnes */
+            gap: 20px; /* Espacement entre les colonnes */
+        }
+
+        h3 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-size: 1.5rem;
+        }
+
+        blockquote {
+            background-color: #333;
+            padding: 15px;
+            border-left: 5px solid #ffd700; /* Bordure jaune */
+            margin: 0;
+            font-style: italic;
+        }
+
+        blockquote p {
+            margin: 0;
+        }
+
+        @media (max-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr; /* Une seule colonne sur les petits écrans */
+            }
+        }
 /* FIN FICHE AUTEUR*/
 
 /* Changer la couleur des h3 en #ffcc00 */

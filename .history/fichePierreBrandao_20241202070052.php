@@ -100,7 +100,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
             <h2 class="h2Jaune text-center mb-4">MAGASIN DE POÈMES À CHANTER</h2>
             
             <!-- Ligne 1 -->
-            <div class="row mb-4">
+            <div class="row">
                 <div class="col-md-6">
                     <h3 class="h2Jaune">BELLE</h3>
                     <blockquote>
@@ -206,7 +206,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
             </div>
 
             <!-- Ligne 2 -->
-            <div class="row mb-4">
+            <div class="row">
                 <div class="col-md-6">
                     <h3 class="h2Jaune">LAVANDIÈRE</h3>
                     <blockquote>
@@ -297,7 +297,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
             </div>
 
             <!-- Ligne 3 -->
-            <div class="row mb-4">
+            <div class="row mb-">
                 <div class="col-md-6">
                     <h3 class="h2Jaune">UNE AMPOULE CLAQUE</h3>
                     <blockquote>
