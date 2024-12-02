@@ -1876,6 +1876,10 @@ input[type="email"]:focus {
   font-weight: bold;
 }
 
+.pagination a:hover {
+  background-color: #ffcc00;
+}
+
 .pagination .page-num {
   background-color: #6c757d; /* Gris pour les numéros de page non sélectionnés */
   color: white;

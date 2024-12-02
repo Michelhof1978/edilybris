@@ -20,33 +20,33 @@ $debut = ($pageActuelle - 1) * $citationsParLigne;
 
 // Tableau de citations (ajoute les contenus pour chaque citation)
 $citations = [
-    'Belle' => "            Plus belle qu'une aurore,<br>
-                            Plus tendre qu'un baiser
-                            Je chanterai ton corps
-                            Jusqu'à en être osé
-                            Femme aux cheveux d'or...<br>
+    'Belle' => "                            Plus belle qu'une aurore,<br>
+                            Plus tendre qu'un baiser<br>
+                            Je chanterai ton corps<br>
+                            Jusqu'à en être osé<br>
+                            Femme aux cheveux d'or...<br><br>
 
-                            Il faudra me taire le long du chemin
-                            L'incroyable vérité de notre destin ;
-                            Pourtant notre amour est si pur
-                            Que ne peut se conter notre aventure.<br>
+                            Il faudra me taire le long du chemin<br>
+                            L'incroyable vérité de notre destin ;<br>
+                            Pourtant notre amour est si pur<br>
+                            Que ne peut se conter notre aventure.<br><br>
 
-                            Ton cœur est le journal intime
-                            Qui couve notre doux crime.<br>
+                            Ton cœur est le journal intime<br>
+                            Qui couve notre doux crime.<br><br>
 
-                            Plus belle qu'un printemps,
-                            Plus libre que la neige,
-                            Je caresserai ton sang
-                            D'un tendre sortilège
-                            Femme de sentiments...<br>
+                            Plus belle qu'un printemps,<br>
+                            Plus libre que la neige,<br>
+                            Je caresserai ton sang<br>
+                            D'un tendre sortilège<br>
+                            Femme de sentiments...<br><br>
 
-                            Pas à pas le secret charnel demeure
-                            Rythme nécessaire du bonheur  
-                            Tandis qu'un monde hostile nous importune,
-                            Jugeant notre amour d'une tribune.<br>
+                            Pas à pas le secret charnel demeure<br>
+                              Rythme nécessaire du bonheur  <br>
+                            Tandis qu'un monde hostile nous importune,<br>
+                            Jugeant notre amour d'une tribune.<br><br>
 
                             Ton cœur devient le joyau précieux
-                            Dont la pierre sont tes yeux...<br>
+                            Dont la pierre sont tes yeux...<br><
 
                             Plus belle qu'une aurore,
                             Plus tendre qu'un baiser
@@ -60,7 +60,7 @@ $citations = [
                             D'un tendre sortilège
                             Femme de sentiments...<br>
 
-                            J'irai
+                            J'irai<br>
                             Cueillir ma tendresse
                             Au pistil de tes lèvres
                             Fleur du plus beau rêve...

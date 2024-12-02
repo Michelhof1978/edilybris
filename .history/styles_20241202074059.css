@@ -1876,6 +1876,10 @@ input[type="email"]:focus {
   font-weight: bold;
 }
 
+.pagination a:hover {
+  background-color: #d9534f;
+}
+
 .pagination .page-num {
   background-color: #6c757d; /* Gris pour les numéros de page non sélectionnés */
   color: white;
@@ -1888,13 +1892,13 @@ input[type="email"]:focus {
 .pagination span {
   margin: 0 10px;
   font-weight: bold;
-  color: #ffcc00;
+  color: #f0ad4e;
 }
 
 /* Optionnel : ajouter une petite bordure autour des éléments de pagination */
 .pagination a,
 .pagination span {
-  border: 1px solid #ffcc00;
+  border: 1px solid #f0ad4e;
 }
 
 

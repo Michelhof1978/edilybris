@@ -1859,11 +1859,8 @@ input[type="email"]:focus {
 }
 
 .pagination {
-  display: flex;
-  justify-content: center; /* Centre tous les éléments horizontalement */
-  align-items: center; /* Centre les éléments verticalement */
+  text-align: center;
   margin-top: 20px;
-  flex-wrap: wrap; /* Permet aux éléments de passer à la ligne si nécessaire */
 }
 
 .pagination a {
@@ -1873,28 +1870,16 @@ input[type="email"]:focus {
   background-color: #f0ad4e;
   color: white;
   border-radius: 5px;
-  font-weight: bold;
 }
 
-.pagination .page-num {
-  background-color: #6c757d; /* Gris pour les numéros de page non sélectionnés */
-  color: white;
-}
-
-.pagination .page-num.active {
-  background-color: #ffcc00; /* Jaune pour la page active */
+.pagination a:hover {
+  background-color: #d9534f;
 }
 
 .pagination span {
   margin: 0 10px;
   font-weight: bold;
-  color: #ffcc00;
-}
-
-/* Optionnel : ajouter une petite bordure autour des éléments de pagination */
-.pagination a,
-.pagination span {
-  border: 1px solid #ffcc00;
+  color: #f0ad4e;
 }
 
 

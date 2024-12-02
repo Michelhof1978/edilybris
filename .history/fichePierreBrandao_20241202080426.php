@@ -20,10 +20,10 @@ $debut = ($pageActuelle - 1) * $citationsParLigne;
 
 // Tableau de citations (ajoute les contenus pour chaque citation)
 $citations = [
-    'Belle' => "            Plus belle qu'une aurore,<br>
-                            Plus tendre qu'un baiser
-                            Je chanterai ton corps
-                            Jusqu'à en être osé
+    'Belle' => "                            Plus belle qu'une aurore,<br>
+                            Plus tendre qu'un baiser<br>
+                            Je chanterai ton corps<br>
+                            Jusqu'à en être osé<br>
                             Femme aux cheveux d'or...<br>
 
                             Il faudra me taire le long du chemin
@@ -41,7 +41,7 @@ $citations = [
                             Femme de sentiments...<br>
 
                             Pas à pas le secret charnel demeure
-                            Rythme nécessaire du bonheur  
+                              Rythme nécessaire du bonheur  
                             Tandis qu'un monde hostile nous importune,
                             Jugeant notre amour d'une tribune.<br>
 
@@ -60,7 +60,7 @@ $citations = [
                             D'un tendre sortilège
                             Femme de sentiments...<br>
 
-                            J'irai
+                            J'irai<br>
                             Cueillir ma tendresse
                             Au pistil de tes lèvres
                             Fleur du plus beau rêve...

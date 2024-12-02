@@ -6,8 +6,8 @@
 </head>
 
 <?php
-// Nombre de citations par ligne (2 par ligne)
-$citationsParLigne = 2;
+// Nombre de citations par ligne (6 par ligne)
+$citationsParLigne = 6;
 
 // Nombre total de citations
 $totalCitations = 5; // (puisque nous avons 5 citations dans le tableau)
@@ -20,51 +20,7 @@ $debut = ($pageActuelle - 1) * $citationsParLigne;
 
 // Tableau de citations (ajoute les contenus pour chaque citation)
 $citations = [
-    'Belle' => "            Plus belle qu'une aurore,<br>
-                            Plus tendre qu'un baiser
-                            Je chanterai ton corps
-                            Jusqu'à en être osé
-                            Femme aux cheveux d'or...<br>
-
-                            Il faudra me taire le long du chemin
-                            L'incroyable vérité de notre destin ;
-                            Pourtant notre amour est si pur
-                            Que ne peut se conter notre aventure.<br>
-
-                            Ton cœur est le journal intime
-                            Qui couve notre doux crime.<br>
-
-                            Plus belle qu'un printemps,
-                            Plus libre que la neige,
-                            Je caresserai ton sang
-                            D'un tendre sortilège
-                            Femme de sentiments...<br>
-
-                            Pas à pas le secret charnel demeure
-                            Rythme nécessaire du bonheur  
-                            Tandis qu'un monde hostile nous importune,
-                            Jugeant notre amour d'une tribune.<br>
-
-                            Ton cœur devient le joyau précieux
-                            Dont la pierre sont tes yeux...<br>
-
-                            Plus belle qu'une aurore,
-                            Plus tendre qu'un baiser
-                            Je chanterai ton corps
-                            Jusqu'à en être osé
-                            Femme aux cheveux d'or...<br>
-
-                            Plus belle qu'un printemps,
-                            Plus libre que la neige,
-                            Je caresserai ton sang
-                            D'un tendre sortilège
-                            Femme de sentiments...<br>
-
-                            J'irai
-                            Cueillir ma tendresse
-                            Au pistil de tes lèvres
-                            Fleur du plus beau rêve...
-",
+    'Belle' => "Plus belle qu'une aurore... Femme aux cheveux d'or...",
     'Croire en qui?' => "Je ne suis qu’un enfant, ô mon Dieu... pour que je ne dise plus : pour Qui?",
     'Lavandière' => "J’accompagne ma mère au lavoir du passé... À l’intérieur de ta chaumière !",
     'Le Fou et sa Reine' => "Je suis ton fou, tu es ma reine... Le tour des mots fait que ma peine...",
@@ -135,7 +91,7 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
             <div class="row">
                 <?php foreach ($citationsPage as $titre => $citation) : ?>
-                    <div class="col-md-6 mb-4">
+                    <div class="col-md-2 mb-4">
                         <h3 class="h2Jaune"><?php echo $titre; ?></h3>
                         <blockquote>
                             <p><?php echo nl2br($citation); ?></p>

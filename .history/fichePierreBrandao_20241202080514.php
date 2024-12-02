@@ -60,7 +60,7 @@ $citations = [
                             D'un tendre sortilège
                             Femme de sentiments...<br>
 
-                            J'irai
+                            J'irai<br>
                             Cueillir ma tendresse
                             Au pistil de tes lèvres
                             Fleur du plus beau rêve...
