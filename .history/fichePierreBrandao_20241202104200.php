@@ -362,18 +362,18 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                     </div>
                 </div>
             </div>
+        </div>
 
-            <!-- Contrôles du carousel (positionnés en bas) -->
-            <div class="carousel-controls d-flex justify-content-center mt-4">
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Précédent</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Suivant</span>
-                </button>
-            </div>
+        <!-- Boutons de navigation à l'extérieur du carrousel -->
+        <div class="carousel-controls d-flex justify-content-between mt-4">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Précédent</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Suivant</span>
+            </button>
         </div>
     </div>
 </section>

@@ -282,98 +282,32 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
         </div>
     </section>
 
-    <section class="livres">
-    <div class="containerAuteur">
-        <h2>Les Livres de Pierre Brandao</h2>
+    <!-- Section livres -->
+<section class="livres py-4">
+    <div class="container">
+        <h2 class="h2Jaune text-center mb-4">Livres de Pierre Brandao</h2>
 
-        <!-- Carousel des livres -->
-        <div id="carouselLivres" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <!-- Livre 1 -->
-                <div class="carousel-item active">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre L'Amuserie">
-                        <div class="details">
-                            <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
+        <div class="row">
+            <?php foreach ($livresPage as $titre => $livre) : ?>
+                <div class="col-md-12 mb-4">
+                    <h3 class="h2Jaune"><?php echo $titre; ?></h3>
+                    <div class="livre-info">
+                        <img src="<?php echo $livre['image']; ?>" alt="<?php echo $titre; ?>" class="img-fluid" />
+                        <p><strong>Année :</strong> <?php echo $livre['annee']; ?></p>
+                        <p><strong>Résumé :</strong> <?php echo $livre['resume']; ?></p>
+                        <p><a href="<?php echo $livre['lien']; ?>" target="_blank" class="btn btn-primary">Télécharger le bon de commande</a></p>
                     </div>
                 </div>
-                <!-- Livre 2 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid w-75" alt="Couverture du livre 2">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 2</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 3 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid w-75" alt="Couverture du livre 3">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 3</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 4 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid w-75" alt="Couverture du livre 4">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 4</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 5 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid w-75" alt="Couverture du livre 5">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 5</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 5...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 6 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid w-75" alt="Couverture du livre 6">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 6</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php endforeach; ?>
+        </div>
 
-            <!-- Contrôles du carousel (positionnés en bas) -->
-            <div class="carousel-controls d-flex justify-content-center mt-4">
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Précédent</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Suivant</span>
-                </button>
-            </div>
+        <!-- Pagination -->
+        <div class="pagination">
+            <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev">Précédent</a>
+            <?php for ($i = 1; $i <= $totalLivres; $i++) : ?>
+                <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>"><?php echo $i; ?></a>
+            <?php endfor; ?>
+            <a href="?page=<?php echo min($totalLivres, $pageActuelle + 1); ?>" class="next">Suivant</a>
         </div>
     </div>
 </section>

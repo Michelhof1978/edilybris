@@ -6,19 +6,7 @@
 </head>
 
 <?php
-// Nombre de citations par ligne (2 par ligne)
-$citationsParLigne = 2;
-
-// Nombre total de citations
-$totalCitations = 5; // (puisque nous avons 5 citations dans le tableau)
-
-// Récupérer la page actuelle depuis l'URL (si elle existe), sinon page 1 par défaut
-$pageActuelle = isset($_GET['page']) ? $_GET['page'] : 1;
-
-// Calculer la position de départ des citations pour la page actuelle
-$debut = ($pageActuelle - 1) * $citationsParLigne;
-
-// Tableau de citations (ajoute les contenus pour chaque citation)
+// Tableau de citations
 $citations = [
     'Belle' => "            Plus belle qu'une aurore,
                             Plus tendre qu'un baiser
@@ -63,8 +51,7 @@ $citations = [
                             J'irai
                             Cueillir ma tendresse
                             Au pistil de tes lèvres
-                            Fleur du plus beau rêve...
-",
+                            Fleur du plus beau rêve...",
     'Croire en qui?' => "   Je ne suis qu’un enfant, ô mon Dieu,
                             Pourtant je ne sais ce qu’on me veut :
                             Ma mère me bat, mon père boit,
@@ -108,8 +95,7 @@ $citations = [
                             D’un compagnon mort de son vieil âge !<br>
 
                             Refrain : Il me faut croire en quoi, croire en qui,
-                            Pour que je ne dise plus : pour Qui ?
-",
+                            Pour que je ne dise plus : pour Qui ?",
     'Lavandière' => "       J’accompagne ma mère au lavoir du passé,
                             J’aime à l’entendre rire en compagnie des dames ;
                             Son bac à linge et le jupon retroussé,
@@ -132,7 +118,7 @@ $citations = [
 
                             Tu racontes ta vie étalant sur le bac<br>
                             Les jupes de ta gosse aux amours délétères ;
-                            Elle s’est fait avoir, c’est un vulgaire maqu’
+                            Elle s’est fait avoir, c’est un vulgaire maqu’ 
                             Elle ne la croit pas : elle n’est que sa mère !<br>
 
                             Tu frictionnes la mort en brossant fort !
@@ -159,7 +145,7 @@ $citations = [
                             Je me bats sur un territoire
                             Mais je sais le combat déjà perdu
                             Il reste cette belle histoire
-                            Sur l’échiquier le fou est descendu<
+                            Sur l’échiquier le fou est descendu
                             Je suis échec et mat,
                             Je suis échec et mat…<br>
 
@@ -182,8 +168,7 @@ $citations = [
                             Le tour des mots fait que ma peine
                             A meurtri le pion de mon désarroi
                             Je suis ton fou, tu es ma reine
-                            Me ferai plus cavalier que ton roi.
-",
+                            Me ferai plus cavalier que ton roi.",
     'Une Ampoule Claque' => "Une ampoule claque
                             Tu titubes dans le noir
                             Face à tes peurs face à tes doutes
@@ -222,33 +207,9 @@ $citations = [
                             Dans la paume se fait jour
                             Ce sourire qui chancelle
                             Est un beau signe d’amour
-                            Au firmament des étincelles...
-"
+                            Au firmament des étincelles..."
 ];
-
-// Obtenir les citations pour la page actuelle
-$citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
-
-// Calculer le nombre total de pages
-$totalPages = ceil($totalCitations / $citationsParLigne);
-
-// PAGINATION LIVRE-------------------------------------------------------
-$livresParPage = 1;  // Par exemple, 1 livre par page
-$totalLivres = 1;    // Ajuste ce nombre en fonction du nombre de livres
-$livres = [
-    'L\'AMUSERIE (ET PLEURE PARFOIS)' => [
-        'image' => 'images/pierreBrandao/XLlamuserie.png',
-        'annee' => '2005',
-        'resume' => 'Ce septième recueil de poésies...',
-        'lien' => 'images/bulletin-de-commande-2024.pdf'
-    ],
-    // Ajoute d'autres livres ici
-    
-];
-$livresPage = array_slice($livres, $debut, $livresParPage, true);
-
 ?>
-
 
 <?php include("header.php"); ?>
 
@@ -263,8 +224,6 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
-
-            <!-- Section image et texte -->
             <div class="bio-content">
                 <img src="images/pierreBrandao/pierreBrandao.png" alt="Pierre Brandao" class="img-fluid bio-image">
                 <div class="bio-text">
@@ -283,100 +242,19 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
     </section>
 
     <section class="livres">
-    <div class="containerAuteur">
-        <h2>Les Livres de Pierre Brandao</h2>
-
-        <!-- Carousel des livres -->
-        <div id="carouselLivres" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <!-- Livre 1 -->
-                <div class="carousel-item active">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre L'Amuserie">
-                        <div class="details">
-                            <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
+        <div class="containerAuteur">
+            <h2>Les Livres de Pierre Brandao</h2>
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
+                <div class="details">
+                    <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur.</p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
-                <!-- Livre 2 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid w-75" alt="Couverture du livre 2">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 2</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 3 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid w-75" alt="Couverture du livre 3">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 3</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 4 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid w-75" alt="Couverture du livre 4">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 4</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 5 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid w-75" alt="Couverture du livre 5">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 5</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 5...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 6 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid w-75" alt="Couverture du livre 6">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 6</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Contrôles du carousel (positionnés en bas) -->
-            <div class="carousel-controls d-flex justify-content-center mt-4">
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Précédent</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Suivant</span>
-                </button>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
     <!-- Section citations -->
     <section class="citations text-white py-4">
@@ -384,7 +262,7 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
             <h2 class="h2Jaune text-center mb-4">MAGASIN DE POÈMES À CHANTER</h2>
 
             <div class="row">
-                <?php foreach ($citationsPage as $titre => $citation) : ?>
+                <?php foreach ($citations as $titre => $citation) : ?>
                     <div class="col-md-6 mb-4">
                         <h3 class="h2Jaune"><?php echo $titre; ?></h3>
                         <blockquote>
@@ -392,20 +270,6 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
                         </blockquote>
                     </div>
                 <?php endforeach; ?>
-            </div>
-
-            <!-- Pagination -->
-            <div class="pagination">
-                <!-- Bouton Précédent -->
-                <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev">Précédent</a>
-
-                <!-- Numéros de page -->
-                <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-                    <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>"><?php echo $i; ?></a>
-                <?php endfor; ?>
-
-                <!-- Bouton Suivant -->
-                <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>" class="next">Suivant</a>
             </div>
         </div>
     </section>

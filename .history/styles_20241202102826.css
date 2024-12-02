@@ -1898,21 +1898,155 @@ input[type="email"]:focus {
 }
 
 
+/* Section Livres */
+.livres {
+  background-image: url('images/fondLivres.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 40px 0;
+}
+
+.livres .containerAuteur {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.livres h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #ffcc00;
+}
+
+/* Carrousel */
+.carousel-inner {
+  text-align: center;
+}
+
+.carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #003366;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-item img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.carousel-item .details {
+  max-width: 600px;
+  padding: 20px;
+}
+
+/* Boutons "Précédent" et "Suivant" en dehors du carrousel */
 .carousel-controls {
-  margin-top: 20px;  /* Donne un peu d'espace entre les éléments du carrousel et les boutons */
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .carousel-control-prev, .carousel-control-next {
-  background-color: transparent; /* Pas de fond derrière les boutons */
-  border: none; /* Pas de bordure */
-  color: #fff; /* Couleur blanche pour les icônes */
-  font-size: 1.5rem; /* Taille plus grande pour les icônes */
+  background-color: #003366;
+  color: #ffcc00;
+  border-radius: 50%;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+  background-color: #ffcc00;
+  color: #003366;
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
-  background-color: #000; /* Fond noir pour les icônes */
-  border-radius: 50%; /* Icônes circulaires */
-  padding: 10px; /* Taille des icônes */
+  background-color: #ffcc00;
+}
+
+/* Optionnel : style pour une meilleure réactivité mobile */
+@media (max-width: 768px) {
+  .carousel-controls {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .carousel-control-prev, .carousel-control-next {
+      margin-bottom: 10px;
+  }
+}
+
+.livres {
+  text-align: center;
+}
+
+.containerAuteur {
+  position: relative;
+}
+
+.carrousel-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.carrousel {
+  display: flex;
+  overflow: hidden;
+  width: 80%;
+  justify-content: center;
+  transition: transform 0.5s ease;
+}
+
+.livre {
+  margin: 0 15px;
+  width: 300px;
+}
+
+.livre img {
+  width: 100%;
+}
+
+.details {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  color: white;
+  text-align: left;
+}
+
+.arrow {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 2rem;
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  cursor: pointer;
+  transform: translateY(-50%);
+  padding: 10px;
+}
+
+.left {
+  left: -40px;
+}
+
+.right {
+  right: -40px;
 }
 
 /* FIN FICHE AUTEUR*/

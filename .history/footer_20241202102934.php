@@ -1091,4 +1091,21 @@ updateCarouselPosition();
 <!-- FIN TROMBINOSCOPE-->
 
 
+<sript>
+let currentIndex = 0;
 
+const slides = document.querySelectorAll('.livre');
+const totalSlides = slides.length;
+
+function moveSlide(direction) {
+    currentIndex += direction;
+
+    if (currentIndex < 0) {
+        currentIndex = totalSlides - 1;
+    } else if (currentIndex >= totalSlides) {
+        currentIndex = 0;
+    }
+
+    const offset = -currentIndex * 340; // Adjust for width + margin
+    document.querySelector('.carrousel').style.transform = `translateX(${offset}px)`;
+}

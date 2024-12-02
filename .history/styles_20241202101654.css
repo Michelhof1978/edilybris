@@ -1897,23 +1897,65 @@ input[type="email"]:focus {
   border: 1px solid #ffcc00;
 }
 
+/* Section Livres */
+.livres {
+  background-image: url('images/fondLivres.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 40px 0;
+}
 
-.carousel-controls {
-  margin-top: 20px;  /* Donne un peu d'espace entre les éléments du carrousel et les boutons */
+.livres .containerAuteur {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.livres h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #ffcc00;
+}
+
+.carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #003366;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-item img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.carousel-item .details {
+  max-width: 600px;
+  padding: 20px;
+}
+
+/* Boutons de contrôle du carrousel */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: #ffcc00;
 }
 
 .carousel-control-prev, .carousel-control-next {
-  background-color: transparent; /* Pas de fond derrière les boutons */
-  border: none; /* Pas de bordure */
-  color: #fff; /* Couleur blanche pour les icônes */
-  font-size: 1.5rem; /* Taille plus grande pour les icônes */
+  color: #ffcc00;
 }
 
-.carousel-control-prev-icon, .carousel-control-next-icon {
-  background-color: #000; /* Fond noir pour les icônes */
-  border-radius: 50%; /* Icônes circulaires */
-  padding: 10px; /* Taille des icônes */
+/* Ajout de marges et ajustement de l'alignement du carrousel */
+.carousel-inner {
+  text-align: center;
 }
+
 
 /* FIN FICHE AUTEUR*/
 

@@ -231,24 +231,7 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
-
-// PAGINATION LIVRE-------------------------------------------------------
-$livresParPage = 1;  // Par exemple, 1 livre par page
-$totalLivres = 1;    // Ajuste ce nombre en fonction du nombre de livres
-$livres = [
-    'L\'AMUSERIE (ET PLEURE PARFOIS)' => [
-        'image' => 'images/pierreBrandao/XLlamuserie.png',
-        'annee' => '2005',
-        'resume' => 'Ce septième recueil de poésies...',
-        'lien' => 'images/bulletin-de-commande-2024.pdf'
-    ],
-    // Ajoute d'autres livres ici
-    
-];
-$livresPage = array_slice($livres, $debut, $livresParPage, true);
-
 ?>
-
 
 <?php include("header.php"); ?>
 
@@ -259,124 +242,71 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
     </div>
 </header>
 
+<?php
+// Récupérer la page actuelle depuis l'URL (si elle existe), sinon page 1 par défaut
+$pageActuelle = isset($_GET['page']) ? $_GET['page'] : 1;
+
+// Définir les sections
+$sections = [
+    'biographie' => '<h2 class="h2Jaune">Biographie</h2>
+                    <div class="bio-content">
+                        <img src="images/pierreBrandao/pierreBrandao.png" alt="Pierre Brandao" class="img-fluid bio-image">
+                        <div class="bio-text">
+                            <p>Il n\'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique... [texte complet]</p>
+                        </div>
+                    </div>',
+    
+    'livres' => '<h2 class="h2Jaune">Les Livres de Pierre Brandao</h2>
+                <div class="livre">
+                    <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
+                    <div class="details">
+                        <h3 class="h2Jaune">L\'AMUSERIE (ET PLEURE PARFOIS)</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                        <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao... [texte complet]</p>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                    </div>
+                </div>',
+];
+
+// Calculer la position de la section à afficher
+$sectionsAffichees = array_keys($sections);
+$sectionActuelle = $sectionsAffichees[$pageActuelle - 1];
+
+// Calculer le nombre total de pages (sections)
+$totalSections = count($sections);
+
+// Afficher la section en cours
+$contenu = $sections[$sectionActuelle];
+?>
+
+<header class="headerAuteur">
+    <div class="containerAuteur">
+        <h1>Pierre Brandao</h1>
+        <p class="intro">Un écrivain au cœur de l'âme humaine</p>
+    </div>
+</header>
+
 <main>
-    <section class="biographie">
+    <section class="contenu">
         <div class="containerAuteur">
-            <h2 class="h2Jaune">Biographie</h2>
-
-            <!-- Section image et texte -->
-            <div class="bio-content">
-                <img src="images/pierreBrandao/pierreBrandao.png" alt="Pierre Brandao" class="img-fluid bio-image">
-                <div class="bio-text">
-                    <p>Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
-                    Dès la primaire, séduit par la musicalité du vers, il rendait ses devoirs en utilisant la rime. <br>
-                    À quinze ans, il rencontre un poète, Gilles Sorgel, qui se fait fort de lui montrer la voie en lui enseignant les règles de la versification. <br>
-                    En lui demandant de vérifier l'absence de coquilles d'un ouvrage intitulé "Traité de prosodie à l'usage des classiques -et des dissidents", il s'assurait ainsi que le jeune poète acquérait des bases solides. <br>
-                    Bases qui lui ont permis, plusieurs années après, de rédiger en "vulgarisant" au mieux son propre traité de prosodie.
-
-                    C'est dans l'essence de la vie que Pierre puise ses sources d'inspiration ; il a une sensibilité à fleur de peau et sa susceptibilité également martèle les poèmes. <br>
-                    La poésie est un cri de l'âme, mais elle est également le vase dans lequel repose les soucis de l'existence. <br>
-                    Six recueils verront le jour, dont certains totalement épuisés. D'autres naîtront, à n'en pas douter ! Découvrons-les !</p>
-                </div>
-            </div>
+            <?php echo $contenu; ?>
         </div>
     </section>
 
-    <section class="livres">
-    <div class="containerAuteur">
-        <h2>Les Livres de Pierre Brandao</h2>
+    <!-- Pagination -->
+    <div class="pagination">
+        <!-- Bouton Précédent -->
+        <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev">Précédent</a>
 
-        <!-- Carousel des livres -->
-        <div id="carouselLivres" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <!-- Livre 1 -->
-                <div class="carousel-item active">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre L'Amuserie">
-                        <div class="details">
-                            <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 2 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid w-75" alt="Couverture du livre 2">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 2</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 3 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid w-75" alt="Couverture du livre 3">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 3</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 4 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid w-75" alt="Couverture du livre 4">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 4</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 5 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid w-75" alt="Couverture du livre 5">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 5</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 5...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 6 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid w-75" alt="Couverture du livre 6">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 6</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <!-- Numéros de page -->
+        <?php for ($i = 1; $i <= $totalSections; $i++) : ?>
+            <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>"><?php echo $i; ?></a>
+        <?php endfor; ?>
 
-            <!-- Contrôles du carousel (positionnés en bas) -->
-            <div class="carousel-controls d-flex justify-content-center mt-4">
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Précédent</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Suivant</span>
-                </button>
-            </div>
-        </div>
+        <!-- Bouton Suivant -->
+        <a href="?page=<?php echo min($totalSections, $pageActuelle + 1); ?>" class="next">Suivant</a>
     </div>
-</section>
+</main>
 
     <!-- Section citations -->
     <section class="citations text-white py-4">

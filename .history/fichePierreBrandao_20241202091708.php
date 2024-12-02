@@ -231,24 +231,7 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
-
-// PAGINATION LIVRE-------------------------------------------------------
-$livresParPage = 1;  // Par exemple, 1 livre par page
-$totalLivres = 1;    // Ajuste ce nombre en fonction du nombre de livres
-$livres = [
-    'L\'AMUSERIE (ET PLEURE PARFOIS)' => [
-        'image' => 'images/pierreBrandao/XLlamuserie.png',
-        'annee' => '2005',
-        'resume' => 'Ce septième recueil de poésies...',
-        'lien' => 'images/bulletin-de-commande-2024.pdf'
-    ],
-    // Ajoute d'autres livres ici
-    
-];
-$livresPage = array_slice($livres, $debut, $livresParPage, true);
-
 ?>
-
 
 <?php include("header.php"); ?>
 
@@ -283,100 +266,28 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
     </section>
 
     <section class="livres">
-    <div class="containerAuteur">
-        <h2>Les Livres de Pierre Brandao</h2>
+        <div class="containerAuteur">
+            <h2>Les Livres de Pierre Brandao</h2>
 
-        <!-- Carousel des livres -->
-        <div id="carouselLivres" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <!-- Livre 1 -->
-                <div class="carousel-item active">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre L'Amuserie">
-                        <div class="details">
-                            <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 2 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid w-75" alt="Couverture du livre 2">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 2</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 3 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre3.png" class="img-fluid w-75" alt="Couverture du livre 3">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 3</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 4 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid w-75" alt="Couverture du livre 4">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 4</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 5 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid w-75" alt="Couverture du livre 5">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 5</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 5...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Livre 6 -->
-                <div class="carousel-item">
-                    <div class="livre">
-                        <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid w-75" alt="Couverture du livre 6">
-                        <div class="details">
-                            <h3 class="h2Jaune">Titre du Livre 6</h3>
-                            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                        </div>
-                    </div>
+            <!-- Livre 1 -->
+            <div class="livre">
+                <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
+                <div class="details">
+                    <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur.
+
+À l’instar d’une épicerie imaginaire, l’Amuserie vous propose cinq rayons qui sauront occuper vos aspirations de liberté : Amour et tendresse – Révolte – C’est la vie ! – Vague à l’âme – Bazar.
+
+Pour vous plaire, l’Amuse-rit (et pleure parfois) évoque les joies des passions, les colères éphémères, les doutes existentiels et les blessures quotidiennes dont on se passerait bien, mais qui font aussi partie de la nécessité de vivre.
+
+L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !</p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
-
-            <!-- Contrôles du carousel (positionnés en bas) -->
-            <div class="carousel-controls d-flex justify-content-center mt-4">
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselLivres" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Précédent</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselLivres" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Suivant</span>
-                </button>
-            </div>
+  
         </div>
-    </div>
-</section>
+    </section>
 
     <!-- Section citations -->
     <section class="citations text-white py-4">
