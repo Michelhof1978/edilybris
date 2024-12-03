@@ -95,7 +95,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         </p>
 
         <h3 class="mt-4 mb-3">Faites partie de l’aventure !</h3>
-        <p class="lead">
+        <p cl>
           Nous vous invitons à explorer notre catalogue en ligne, à découvrir de nouveaux auteurs et à rejoindre notre communauté de lecteurs. Ensemble, partageons notre passion pour les livres et soutenons la création littéraire.
         </p>
       </div>

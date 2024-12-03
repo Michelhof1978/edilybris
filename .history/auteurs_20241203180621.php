@@ -31,7 +31,7 @@
         Notre association regroupe des auteurs de tous horizons, de la fiction à la poésie, en passant par l’essai et la littérature jeunesse. Vous y trouverez des œuvres originales, diverses et parfois audacieuses, qui ne demandent qu’à être découvertes.        </p>
 
         <h3 class="mt-4 mb-3">Soutenir une cause importante </h3>
-        <p class=" lead mb-4">
+        <p class="mb-4">
         En soutenant notre association, vous participez à l’essor de nouveaux talents et à l’émergence de voix littéraires qui, sans votre soutien, auraient peut-être du mal à se faire connaître.        </p>
       </div>
     </div>
@@ -39,7 +39,7 @@
 </div>
 <!-- FIN TEXTE AUTEURS-->
 
- <h2 class="text-white text-center m-4">Plongez dans l’univers de nos auteurs, livre par livre</h2> 
+ <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2> 
 
  <!-- CARDS L-->
 <!-- Groupe 1 -->

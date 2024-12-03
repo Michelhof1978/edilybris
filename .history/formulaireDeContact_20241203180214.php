@@ -198,8 +198,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                             <option value="" disabled selected>Choisissez un objet</option>
                             <option value="Demande de devis">Collaboration avec l'association</option>
                             <option value="Besoins d'infos">Besoins d'informations</option>
-                            <option value="Demande de devis">Proposition de publication</option>
-                            <option value="Besoins d'infos">Salon de littérature</option>
+                            <option value="Demande de devis">Proposition</option>
+                            <option value="Besoins d'infos">Besoins d'informations</option>
                             <option value="autre">Autre</option>
                         </select>
                     </div>

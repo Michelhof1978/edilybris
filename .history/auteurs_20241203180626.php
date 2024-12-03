@@ -39,7 +39,7 @@
 </div>
 <!-- FIN TEXTE AUTEURS-->
 
- <h2 class="text-white text-center m-4">Plongez dans l’univers de nos auteurs, livre par livre</h2> 
+ <h2 class="text-white text-center m-4">Plongez dans l’Univers de nos Auteurs, Livre par Livre</h2> 
 
  <!-- CARDS L-->
 <!-- Groupe 1 -->

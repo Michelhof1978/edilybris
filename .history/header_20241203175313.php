@@ -37,7 +37,7 @@
                             <a class="nav-link fs-5" href="actualite.php"><strong>L'actualité</strong></a>
                         </li> -->
                         <li class="nav-item">
-                            <a class="nav-link fs-5" href="formulaireDeContact.php"><strong>Nous Contacter !</strong></a>
+                            <a class="nav-link fs-5" href="formulaireDeContact.php"><strong>Nous Contactez !</strong></a>
                         </li>
                     </ul>
                 </div>

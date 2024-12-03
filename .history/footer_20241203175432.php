@@ -195,7 +195,7 @@
                             <h3>Edil'info</h3>
                         </div>
                         <div class="footer-text mb-3">
-                            <p>Abonnez-vous à notre Edil'info pour rester informé des dernières actualités.</p>
+                            <p>Abonnez-vous à notre  pour rester informé des dernières actualités.</p>
                         </div>
                         <div class="subscribe-form">
                             <form action="newsletter_signup.php" method="post" class="d-flex justify-content-center">

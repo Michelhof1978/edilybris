@@ -224,7 +224,7 @@ $citations = [
                             Est un beau signe d’amour
                             Au firmament des étincelles...
 ",
-'Souffle d\'une plume' => "     Plus belle qu'une aurore,
+'SOUFFLE DE PLUME' => "     Plus belle qu'une aurore,
                             Plus tendre qu'un baiser
                             Je chanterai ton corps
                             Jusqu'à en être osé
@@ -269,34 +269,51 @@ $citations = [
                             Au pistil de tes lèvres
                             Fleur du plus beau rêve...
 ",
-// 'FLEUR D\'AUTOMNE' => "     Moi, j’ai saisi sur son dos dénudé
-// Une coque de gland tombée du chêne
-// Un vent plus froid qu’une brise d’été
-// L’avait portée comme une aubaine
-// J’adore la force de ces transports
-// Qui font du mouvement un beau support !
+'FLEUR D\AUTOMNE' => "     Plus belle qu'une aurore,
+                            Plus tendre qu'un baiser
+                            Je chanterai ton corps
+                            Jusqu'à en être osé
+                            Femme aux cheveux d'or...<br>
 
-// Moi, j’avoue avoir beaucoup frissonné
-// Sur cette chute de rien en cascade
-// Patchwork d’été indien désordonné
-// Mêlant les couleurs ocre, miel et jade.
-// J’attise le feu offert par ce corps
-// Qui délivrerait les plus beaux accords !
+                            Il faudra me taire le long du chemin
+                            L'incroyable vérité de notre destin ;
+                            Pourtant notre amour est si pur
+                            Que ne peut se conter notre aventure.<br>
 
-// Moi, à la naissance de son regard,
-// J’ai remarqué sa gabardine sombre
-// Reste de rosée d’un matin blafard
-// Une goutte de rire choit dans l’ombre.
-// Ah ! ces instants où la raison a tort
-// Rendent à la passion un bel essor !
+                            Ton cœur est le journal intime
+                            Qui couve notre doux crime.<br>
 
-// Moi, j’ai vu sur son sein abandonné
-// Se poser une feuille de platane
-// Un frimas d’automne l’a condamnée
-// À mourir sur son ventre diaphane
-// J’aime ces départs en contraste fort
-// Ils respirent la vie plutôt que la mort !
-// ",
+                            Plus belle qu'un printemps,
+                            Plus libre que la neige,
+                            Je caresserai ton sang
+                            D'un tendre sortilège
+                            Femme de sentiments...<br>
+
+                            Pas à pas le secret charnel demeure
+                            Rythme nécessaire du bonheur  
+                            Tandis qu'un monde hostile nous importune,
+                            Jugeant notre amour d'une tribune.<br>
+
+                            Ton cœur devient le joyau précieux
+                            Dont la pierre sont tes yeux...<br>
+
+                            Plus belle qu'une aurore,
+                            Plus tendre qu'un baiser
+                            Je chanterai ton corps
+                            Jusqu'à en être osé
+                            Femme aux cheveux d'or...<br>
+
+                            Plus belle qu'un printemps,
+                            Plus libre que la neige,
+                            Je caresserai ton sang
+                            D'un tendre sortilège
+                            Femme de sentiments...<br>
+
+                            J'irai
+                            Cueillir ma tendresse
+                            Au pistil de tes lèvres
+                            Fleur du plus beau rêve...
+",
 ];
 
 // Obtenir les citations pour la page actuelle
@@ -401,7 +418,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
         <img class="img-fluid w-50 mb-3" src="images/pierreBrandao/michel-bourriau-et-pierre-brandao.jpg" alt="Image centrée">
     </div>
     <h3 class="h2Jaune">Présentation Michel Bourriau et Pierre Brandao</h3>
-    <p>Le rochelais <span><strong class="h2Jaune">Michel Bourriau</strong></span> n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
+    <p>Le rochelais <span><strong class="h2Jaune">Michel Bourriau</strong></span>Michel Bourriau n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
 
 Ses clichés, s’ils déshabillent parfois ses modèles, se drapent de charme, de douceur et d’un zeste de sensualité. Jamais de provocation inutile, il faut que la femme retrouve ce qu’il y a de beau en elle, ce qu’il y a d’intemporel dans ses formes, ce qu’il y a d’exceptionnel dans ses regards, gais, tristes, coquins, mystérieux.
 

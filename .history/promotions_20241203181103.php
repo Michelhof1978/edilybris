@@ -1,4 +1,4 @@
-<h2 class="text-white text-center m-4">Nos livres en souscription</h2>
+<h2 class="text-white text-center m-4">Nos livres en </h2>
 
 <div class="text-center">
         <img class="img-fluid" src="images/promos.png" alt="Image centrée">
