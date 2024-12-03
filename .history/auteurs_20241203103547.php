@@ -322,7 +322,7 @@
   </div>
 </div>
 
-
+<!-- Boutons de navigation -->
 <!-- Boutons de navigation -->
 <div class="new-navigation">
   <button id="new-backButton" class="new-button xl-button" disabled>Précédent</button>

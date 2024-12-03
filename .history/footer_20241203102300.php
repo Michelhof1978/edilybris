@@ -367,7 +367,7 @@ function updateGroups() {
   newBackButton.disabled = currentGroup === 1;
   newNextGroupButton.disabled = currentGroup === 2;
 }
-  </script>
+<script
   <!--  FIN card XL-->
 
 

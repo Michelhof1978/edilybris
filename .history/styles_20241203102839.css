@@ -1653,35 +1653,92 @@ input[type="email"]:focus {
 
 /* Effet lors du survol de la souris */
 
-/* XL CARDS*/
+
 /* Style général des cartes */
+.xl-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px; /* Augmenter la hauteur des cartes */
+  position: relative;
+  overflow: hidden;
+}
+
+.xl-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%; /* Augmenter la largeur des cartes */
+  max-width: 1300px; /* Limiter la largeur max */
+  border: 2px solid #f7b500;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: transform 0.3s;
+}
+
+.xl-card-image {
+  width: 45%; /* L'image occupe 45% de la carte */
+  padding: 15px;
+}
+
+.xl-card-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.xl-card-text {
+  width: 55%; /* Le texte occupe 55% de la carte */
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.xl-card-title {
+  font-size: 26px;
+  font-weight: bold;
+  color: #f7b500;
+  margin-bottom: 20px;
+}
+
+.xl-card-author {
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.xl-card-description {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 25px;
+}
+
+.xl-card-price {
+  font-size: 20px;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Masque les cartes sauf la première */
+.xl-card.xl-hidden {
+  display: none;
+}
+
 /* Style des boutons de navigation */
-.new-navigation {
+.xl-navigation {
   display: flex;
   justify-content: center;
   gap: 20px;
   margin-top: 20px;
 }
 
-.new-button {
-  padding: 12px 24px;
-  background-color: #f7b500; /* Jaune */
-  border: none;
-  color: white;
-  font-size: 18px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.new-button:disabled {
-  background-color: #ccc; /* Gris pour les boutons désactivés */
-  cursor: not-allowed;
-}
-
-/* Assure que les deux boutons auront le même style */
 .xl-button {
   padding: 12px 24px;
-  background-color: #f7b500; /* Jaune */
+  background-color: #f7b500;
   border: none;
   color: white;
   font-size: 18px;
@@ -1690,12 +1747,9 @@ input[type="email"]:focus {
 }
 
 .xl-button:disabled {
-  background-color: #ccc; /* Gris pour les boutons désactivés */
+  background-color: #ccc;
   cursor: not-allowed;
 }
-
-/* FIN XL CARD*/
-
 /* Style général des cartes */
 
 .livre-content {
