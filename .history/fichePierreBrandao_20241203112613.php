@@ -317,7 +317,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
                 <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
             <img src="images/ficheAuteurlivres.png" class="img-fluid mt-5" alt="Couverture du livre 6">
-            <img src="images/ficheAuteurlivres2.png" class="img-fluid mt-5" alt="Couverture du livre 6">
+            <img src="images/ficheAuteurlivres.png" class="img-fluid mt-5" alt="Couverture du livre 6">
 
         </div>
                 <div class="livre-details">
@@ -432,9 +432,7 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
     <section class="citations text-white py-4">
         <div class="container">
             <h2 class="h2Jaune text-center mb-4">MAGASIN DE POÈMES À CHANTER</h2>
-            <div class="text-center">
-        <img class="img-fluid w-25" src="images/poeme.png" alt="Image centrée">
-    </div>
+
             <div class="row">
                 <?php foreach ($citationsPage as $titre => $citation) : ?>
                     <div class="col-md-6 mb-4">

@@ -433,7 +433,7 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
         <div class="container">
             <h2 class="h2Jaune text-center mb-4">MAGASIN DE POÈMES À CHANTER</h2>
             <div class="text-center">
-        <img class="img-fluid w-25" src="images/poeme.png" alt="Image centrée">
+        <img class="img-fluid w-25" src="images/" alt="Image centrée">
     </div>
             <div class="row">
                 <?php foreach ($citationsPage as $titre => $citation) : ?>
