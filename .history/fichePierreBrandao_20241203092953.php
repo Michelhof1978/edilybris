@@ -321,17 +321,17 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
         <img class="img-fluid w-50 mb-3" src="images/pierreBrandao/michel-bourriau-et-pierre-brandao.jpg" alt="Image centrée">
     </div>
     <h3 class="h2Jaune">Présentation Michel Bourriau et Pierre Brandao</h3>
-    <p>Le rochelais <span><strong class="h2Jaune">Michel Bourriau</strong></span>Michel Bourriau n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
+    <p>Le rochelais <sapanMichel Bourriau n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
 
 Ses clichés, s’ils déshabillent parfois ses modèles, se drapent de charme, de douceur et d’un zeste de sensualité. Jamais de provocation inutile, il faut que la femme retrouve ce qu’il y a de beau en elle, ce qu’il y a d’intemporel dans ses formes, ce qu’il y a d’exceptionnel dans ses regards, gais, tristes, coquins, mystérieux.
 
 C’est dans son travail que les textes de Pierre ont trouvé un reflet idéal. Au lecteur d’y trouver une part d’âme... et de sa propre existence...
 
-Un an à peine après la sortie du livre, Michel Bourriau est tragiquement décédé à l'occasion d'une plongée dans l'océan Pacifique, près de Cuba.<br>
+Un an à peine après la sortie du livre, Michel Bourriau est tragiquement décédé à l'occasion d'une plongée dans l'océan Pacifique, près de Cuba.
 
  
 
-<span><strong class="h2Jaune">Pierre Brandao</strong></span>, s’il est connu du monde littéraire pour ses romans policiers, revient, avec «Le coeur a ses saisons...», à la poésie.
+Pierre Brandao, s’il est connu du monde littéraire pour ses romans policiers, revient, avec «Le coeur a ses saisons...», à la poésie.
 
 Ainsi, se jouant de la célèbre pensée de Pascal, il évoque les différents sentiments qui conduisent la destinée humaine. Coquins, subtils, tristes, profonds, moqueurs ou sincères, les poèmes se veulent le reflet des instants joyeux et pénibles de l’existence, à travers la symbolique des saisons.
 

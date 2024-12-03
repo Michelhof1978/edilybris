@@ -290,18 +290,12 @@ $livresPage = array_slice($livres, $debut, $livresParPage, true);
         <div id="livre-1" class="livre">
             <div class="livre-content">
                 <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
+                    <img src="images/pierreBrandao/xll.png" class="img-fluid" alt="Couverture du livre Le Voyage Intérieur">
                 </div>
                 <div class="livre-details">
-                    <h3 class="h2Jaune">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
+                    <h3 class="h2Jaune">Le Voyage Intérieur</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2005</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur.
-
-À l’instar d’une épicerie imaginaire, l’Amuserie vous propose cinq rayons qui sauront occuper vos aspirations de liberté : Amour et tendresse – Révolte – C’est la vie ! – Vague à l’âme – Bazar.
-
-Pour vous plaire, l’Amuse-rit (et pleure parfois) évoque les joies des passions, les colères éphémères, les doutes existentiels et les blessures quotidiennes dont on se passerait bien, mais qui font aussi partie de la nécessité de vivre.
-
-L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Ce roman suit le parcours de Marc, un jeune homme en quête de sens. À travers une série de rencontres et de révélations, il entreprend un voyage initiatique qui l'amène à se découvrir lui-même et à explorer les différentes facettes de l'existence humaine. Entre philosophie et fiction, ce livre est une réflexion poignante sur la quête de vérité et d'identité.</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
@@ -311,31 +305,12 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
         <div id="livre-2" class="livre livre-hidden">
             <div class="livre-content">
                 <div class="livre-image">
-                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre 2">
+                    <img src="images/pierreBrandao/XLlivre2.png" class="img-fluid" alt="Couverture du livre 2">
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 2</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Il en va du temps comme des sentiments... Les pupilles s’ouvrent au printemps, les yeux brillent en été, l’ombre des paupières secoue l’automne et l’humidité du regard regrette l’hiver... et tout recommence... Ainsi, Pierre, par ses textes, et Michel, par ses clichés, révèlent un cycle dans lequel la féminité est omniprésente. Beauté des mots et de l’image, le temps est une femme aux multiples tempéraments : c’est aux deux que cet hommage est rendu !</p>
-                    <div class="text-center">
-        <img class="img-fluid w-50 mb-3" src="images/pierreBrandao/michel-bourriau-et-pierre-brandao.jpg" alt="Image centrée">
-    </div>
-    <h3 class="h2Jaune">Présentation Michel Bourriau et Pierre Brandao</h3>
-    <p>Le rochelais <span><strong class="h2Jaune">Michel Bourriau</strong></span>Michel Bourriau n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
-
-Ses clichés, s’ils déshabillent parfois ses modèles, se drapent de charme, de douceur et d’un zeste de sensualité. Jamais de provocation inutile, il faut que la femme retrouve ce qu’il y a de beau en elle, ce qu’il y a d’intemporel dans ses formes, ce qu’il y a d’exceptionnel dans ses regards, gais, tristes, coquins, mystérieux.
-
-C’est dans son travail que les textes de Pierre ont trouvé un reflet idéal. Au lecteur d’y trouver une part d’âme... et de sa propre existence...
-
-Un an à peine après la sortie du livre, Michel Bourriau est tragiquement décédé à l'occasion d'une plongée dans l'océan Pacifique, près de Cuba.<br>
-
- 
-
-<span><strong class="h2Jaune">Pierre Brandao</strong></span>, s’il est connu du monde littéraire pour ses romans policiers, revient, avec «Le coeur a ses saisons...», à la poésie.
-
-Ainsi, se jouant de la célèbre pensée de Pascal, il évoque les différents sentiments qui conduisent la destinée humaine. Coquins, subtils, tristes, profonds, moqueurs ou sincères, les poèmes se veulent le reflet des instants joyeux et pénibles de l’existence, à travers la symbolique des saisons.
-
-Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du ravissement féminin : un beau mariage et une belle complicité que les deux artistes ont plaisir à vous offrir ! </p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 2...</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>

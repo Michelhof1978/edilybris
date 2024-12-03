@@ -1091,7 +1091,7 @@ updateCarouselPosition();
 <!-- FIN TROMBINOSCOPE-->
 
 
-<!-- CITATIONS-->
+<!-- FIN TROMBINOSCOPE-->
 <script>
   // Variables globales pour le suivi de l'indice du livre actuel
 let currentBookIndex = 0;
@@ -1147,10 +1147,10 @@ books.forEach((book, index) => {
         book.classList.add('livre-hidden'); // Masque tous les livres sauf le premier
     }
 });
-</script>
-<!-- FIN CITATIONS-->
 
-<!-- FICHE LIVRE-->
+</script>
+
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const livres = document.querySelectorAll(".livre");
@@ -1182,5 +1182,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     showCurrentLivre(); // Initialize the first card
 });
+
+
 </script>
-<!-- FIN FICHE LIVRE-->

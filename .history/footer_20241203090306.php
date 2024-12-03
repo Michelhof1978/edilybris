@@ -1146,11 +1146,9 @@ books.forEach((book, index) => {
     if (index !== 0) {
         book.classList.add('livre-hidden'); // Masque tous les livres sauf le premier
     }
-});
-</script>
-<!-- FIN CITATIONS-->
+});</script>
 
-<!-- FICHE LIVRE-->
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const livres = document.querySelectorAll(".livre");
@@ -1182,5 +1180,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     showCurrentLivre(); // Initialize the first card
 });
+
+
 </script>
-<!-- FIN FICHE LIVRE-->

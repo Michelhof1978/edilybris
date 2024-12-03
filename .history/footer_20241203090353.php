@@ -1183,4 +1183,4 @@ document.addEventListener("DOMContentLoaded", function() {
     showCurrentLivre(); // Initialize the first card
 });
 </script>
-<!-- FIN FICHE LIVRE-->
+<!-- FICHE LIVRE-->

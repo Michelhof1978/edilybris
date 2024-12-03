@@ -1150,7 +1150,7 @@ books.forEach((book, index) => {
 </script>
 <!-- FIN CITATIONS-->
 
-<!-- FICHE LIVRE-->
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const livres = document.querySelectorAll(".livre");
@@ -1182,5 +1182,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     showCurrentLivre(); // Initialize the first card
 });
+
+
 </script>
-<!-- FIN FICHE LIVRE-->

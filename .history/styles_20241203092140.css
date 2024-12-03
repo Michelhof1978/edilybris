@@ -1920,7 +1920,9 @@ input[type="email"]:focus {
 }
 
 /* Effet lors du survol de la souris */
-
+.lien:hover {
+  border-bottom: 2px solid #ffcc00 !important; /* Change la couleur de la bordure en jaune */
+}
 
 /* Style général des cartes */
 .xl-card-container {
