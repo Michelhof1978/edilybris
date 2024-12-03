@@ -19,12 +19,12 @@
                             <a href="auteurs/pierreBrandao.html">
                                 <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="img-fluid book-cover">
                                 <div class="book-details">
-                                    <div class="book-title coloryellow fw-bold">Lucioles Magiques</div>
-                                    <div class="book-author coloryellow fw-bold">Pierre Brandao</div>
+                                    <div class="book-title">Lucioles Magiques</div>
+                                    <div class="book-author">Pierre Brandao</div>
                                     <div class="book-description">
                                         LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                                     </div>
-                                    <div class="book-price coloryellow fw-bold">19.99€</div>
+                                    <div class="book-price">19.99€</div>
                                 </div>
                             </a>
                         </div>
@@ -32,11 +32,11 @@
                             <a href="auteurs/pierreBrandao.html">
                                 <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid book-cover" alt="Placeholder Image">
                                 <div class="book-details">
-                                    <div class="book-title coloryellow fw-bold">Lucioles Magiques</div>
-                                    <div class="book-author coloryellow fw-bold">Pierre Brandao</div>
+                                    <div class="book-title">Lucioles Magiques</div>
+                                    <div class="book-author">Pierre Brandao</div>
                                     <div class="book-description">LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                                     </div>
-                                    <div class="book-price coloryellow fw-bold">30€</div>
+                                    <div class="book-price">30€</div>
                                 </div>
                             </a>
                         </div>
@@ -44,11 +44,11 @@
                             <a href="auteurs/pierreBrandao.html">
                                 <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid book-cover" alt="Placeholder Image">
                                 <div class="book-details">
-                                    <div class="book-title coloryellow fw-bold">Lucioles Magiques</div>
-                                    <div class="book-author coloryellow fw-bold">Pierre Brandao</div>
+                                    <div class="book-title">Lucioles Magiques</div>
+                                    <div class="book-author">Pierre Brandao</div>
                                     <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                                     </div>
-                                    <div class="book-price coloryellow fw-bold">20€</div>
+                                    <div class="book-price">20€</div>
                                 </div>
                             </a>
                         </div>
@@ -61,9 +61,9 @@
                             <a href="auteurs/pierreBrandao.html">
                                 <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid book-cover" alt="Placeholder Image">
                                 <div class="book-details">
-                                    <div class="book-title coloryellow fw-bold">Lucioles Magiques</div>
-                                    <div class="book-author coloryellow fw-bold">Pierre Brandao</div>
-                                    <div class="book-description"> LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
+                                    <div class="book-title">Lucioles Magiques</div>
+                                    <div class="book-author">Pierre Brandao</div>
+                                    <div class="book-description">                            LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
                                     </div>
                                     <div class="book-price coloryellow fw-bold">35€</div>
                                 </div>

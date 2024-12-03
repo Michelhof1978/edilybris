@@ -19,7 +19,7 @@
                             <a href="auteurs/pierreBrandao.html">
                                 <img src="images/pierreBrandao/luciolesMagiques.png" alt="Lucioles Magiques" class="img-fluid book-cover">
                                 <div class="book-details">
-                                    <div class="book-title coloryellow fw-bold">Lucioles Magiques</div>
+                                    <div class="book-title">Lucioles Magiques</div>
                                     <div class="book-author coloryellow fw-bold">Pierre Brandao</div>
                                     <div class="book-description">
                                         LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.
