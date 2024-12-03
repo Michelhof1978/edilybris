@@ -26,8 +26,8 @@
 
 Vous désirez régler par virement bancaire ?
 
-IBAN de l'association EDI'LYBRIS :<strong>FR76 1170 6000 2356 0137 0557 232
-Code BIC : AGRIFRPP817</strong> 
+IBAN de l'association EDI'LYBRIS : FR76 1170 6000 2356 0137 0557 232
+Code BIC : AGRIFRPP817
 Après avoir procédé au virement, adresser impérativement un mail à edilybris@gmail.com en précisant : titre du livre commandé en objet, puis, dans le corps du message :
 indiquer votre nom, prénom ou raison sociale, adresse, code postal, ville, nombre d'exemplaires souhaités, livraison par la poste ou non. 
 Si vous souhaitez une facture, merci de le préciser.

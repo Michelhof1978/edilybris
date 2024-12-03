@@ -1400,7 +1400,7 @@ input[type="email"]:focus {
 .profile-card .details h2 span {
   font-weight: 500;
   font-size: 12px;
-  color: #f4c600;
+  color: #f38695;
   display: block;
   margin-top: 5px;
 }
@@ -1423,7 +1423,7 @@ input[type="email"]:focus {
 
 /* Style des boutons de navigation */
 .carousel-btn {
-  background-color: #f4c600;
+  background-color: #f38695;
   border: none;
   padding: 10px 20px;
   font-size: 18px;

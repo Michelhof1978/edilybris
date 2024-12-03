@@ -21,18 +21,8 @@
     Toute commande de livres implique l'acceptation totale et sans réserve de ces conditions générales de vente. Aucune condition contraire ne pourra être opposée sauf accord express écrit de notre part.<br><br>
 
     <strong class="coloryellow">2. Commande et Validation</strong><br>
-    La commande est considérée comme validée dès réception d'une confirmation de commande par e-mail ou lors de l'achat en ligne sur notre site. L'association Edi'lybris se réserve le droit de refuser toute commande en cas de doute sur la solvabilité de l'acheteur ou pour toute autre raison légitime.<br>
-    Pour commander un ou plusieurs ouvrages : 
-
-Vous désirez régler par virement bancaire ?
-
-IBAN de l'association EDI'LYBRIS :<strong>FR76 1170 6000 2356 0137 0557 232
-Code BIC : AGRIFRPP817</strong> 
-Après avoir procédé au virement, adresser impérativement un mail à edilybris@gmail.com en précisant : titre du livre commandé en objet, puis, dans le corps du message :
-indiquer votre nom, prénom ou raison sociale, adresse, code postal, ville, nombre d'exemplaires souhaités, livraison par la poste ou non. 
-Si vous souhaitez une facture, merci de le préciser.
-
-En cas de difficultés, n'hésitez pas à nous contacter par mail ou par téléphone : 06.23.53.30.18<br><br>
+    La commande est considérée comme validée dès réception d'une confirmation de commande par e-mail ou lors de l'achat en ligne sur notre site. L'association Edi'lybris se réserve le droit de refuser toute commande en cas de doute sur la solvabilité de l'acheteur ou pour toute autre raison légitime.
+    <br><br>
 
     <strong class="coloryellow">3. Tarifs et Paiement</strong><br>
     Les prix des livres sont ceux en vigueur au moment de la commande. Les tarifs sont exprimés en euros (€) et incluent la TVA. Le paiement peut être effectué par carte bancaire, virement bancaire ou chèque. Les frais de livraison éventuels seront précisés lors de la commande. Un récapitulatif de la commande, incluant les frais de port, sera envoyé à l'acheteur avant toute validation.<br><br>

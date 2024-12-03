@@ -21,13 +21,15 @@
     Toute commande de livres implique l'acceptation totale et sans réserve de ces conditions générales de vente. Aucune condition contraire ne pourra être opposée sauf accord express écrit de notre part.<br><br>
 
     <strong class="coloryellow">2. Commande et Validation</strong><br>
-    La commande est considérée comme validée dès réception d'une confirmation de commande par e-mail ou lors de l'achat en ligne sur notre site. L'association Edi'lybris se réserve le droit de refuser toute commande en cas de doute sur la solvabilité de l'acheteur ou pour toute autre raison légitime.<br>
+    La commande est considérée comme validée dès réception d'une confirmation de commande par e-mail ou lors de l'achat en ligne sur notre site. L'association Edi'lybris se réserve le droit de refuser toute commande en cas de doute sur la solvabilité de l'acheteur ou pour toute autre raison légitime.
     Pour commander un ou plusieurs ouvrages : 
+
+Version PDF : Bulletin de commande mars 2024Bulletin de commande mars 2024 (291.56 Ko)
 
 Vous désirez régler par virement bancaire ?
 
-IBAN de l'association EDI'LYBRIS :<strong>FR76 1170 6000 2356 0137 0557 232
-Code BIC : AGRIFRPP817</strong> 
+IBAN de l'association EDI'LYBRIS : FR76 1170 6000 2356 0137 0557 232
+Code BIC : AGRIFRPP817
 Après avoir procédé au virement, adresser impérativement un mail à edilybris@gmail.com en précisant : titre du livre commandé en objet, puis, dans le corps du message :
 indiquer votre nom, prénom ou raison sociale, adresse, code postal, ville, nombre d'exemplaires souhaités, livraison par la poste ou non. 
 Si vous souhaitez une facture, merci de le préciser.

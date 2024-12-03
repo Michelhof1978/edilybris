@@ -324,7 +324,7 @@
 
 <!-- Boutons de navigation -->
 <div class="new-navigation">
-  <button id="new-backButton" class="new-button" disabled>Précédent</button>
+  <button id="new-backButton" class="new-button text-white" disabled>Précédent</button>
   <button id="new-nextGroupButton" class="new-button">Suivant</button>
 </div>
 <!-- FIN CARDS XL-->
