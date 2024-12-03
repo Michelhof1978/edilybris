@@ -1423,7 +1423,7 @@ input[type="email"]:focus {
 
 /* Style des boutons de navigation */
 .carousel-btn {
-  background-color: #f4c600;
+  background-color: #f38695;
   border: none;
   padding: 10px 20px;
   font-size: 18px;
@@ -1667,6 +1667,7 @@ input[type="email"]:focus {
   padding: 12px 24px;
   background-color: #f7b500; /* Jaune */
   border: none;
+  color: white;
   font-size: 18px;
   cursor: pointer;
   border-radius: 5px;
@@ -1682,6 +1683,7 @@ input[type="email"]:focus {
   padding: 12px 24px;
   background-color: #f7b500; /* Jaune */
   border: none;
+  color: white;
   font-size: 18px;
   cursor: pointer;
   border-radius: 5px;
