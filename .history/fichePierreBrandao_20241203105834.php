@@ -316,7 +316,6 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
                     <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre 2">
                 <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
-            <img src="images/ficheAuteurlivres.png" class="img-fluid mt-5" alt="Couverture du livre 6">
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 2</h3>
@@ -385,8 +384,6 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
             <div class="livre-content">
                 <div class="livre-image">
                     <img src="images/pierreBrandao/XLlivre5.png" class="img-fluid" alt="Couverture du livre 5">
-               <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 5</h3>
@@ -402,10 +399,6 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
             <div class="livre-content">
                 <div class="livre-image">
                     <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-                <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
-            <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 6</h3>

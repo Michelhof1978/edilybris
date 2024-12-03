@@ -316,7 +316,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
                     <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre 2">
                 <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
-            <img src="images/ficheAuteurlivres.png" class="img-fluid mt-5" alt="Couverture du livre 6">
+            <img src="images/ficheAuteurlivres.png" class="img-fluid mt5" alt="Couverture du livre 6">
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 2</h3>

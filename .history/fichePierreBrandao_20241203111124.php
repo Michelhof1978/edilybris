@@ -316,7 +316,6 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
                     <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre 2">
                 <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
-            <img src="images/ficheAuteurlivres.png" class="img-fluid mt-5" alt="Couverture du livre 6">
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 2</h3>
@@ -399,22 +398,22 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
 
         <!-- Carte 6 -->
         <div id="livre-6" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-                <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
+    <div class="livre-content">
+        <div class="livre-image">
             <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 6</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
+            <!-- Ajout du prix sous l'image -->
+            <p class="fw-bold coloryellow mt-3 fs-4">15,00 €</p>
+            <!-- Ajout de la deuxième image sous le prix -->
+            <img src="images/ficheAuteurlivres.png" class="img-fluid mt-3" alt="Fiche auteur">
         </div>
+        <div class="livre-details">
+            <h3 class="h2Jaune">Titre du Livre 6</h3>
+            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
+            <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
+            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+        </div>
+    </div>
+</div>
 
         <!-- Boutons de navigation -->
         <div class="livre-navigation d-flex justify-content-center mt-4">
