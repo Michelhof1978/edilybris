@@ -306,45 +306,20 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 $totalPages = ceil($totalCitations / $citationsParLigne);
 
 // PAGINATION LIVRE-------------------------------------------------------
-// Configuration des livres et de la pagination
-$livresParPage = 1; // Nombre de livres par page
+$livresParPage = 1;  // Par exemple, 1 livre par page
+$totalLivres = 1;    // Ajuste ce nombre en fonction du nombre de livres
 $livres = [
-    [
-        'titre' => "L'AMUSERIE (ET PLEURE PARFOIS)",
+    'L\'AMUSERIE (ET PLEURE PARFOIS)' => [
         'image' => 'images/pierreBrandao/XLlamuserie.png',
         'annee' => '2005',
-        'resume' => "Ce septième recueil de poésies regroupe des textes dont le fil conducteur est la musique des mots...",
-        'prix' => '15,00 €',
-        'lien' => 'images/bulletin-de-commande-2024.pdf',
+        'resume' => 'Ce septième recueil de poésies...',
+        'lien' => 'images/bulletin-de-commande-2024.pdf'
     ],
-    [
-        'titre' => "Le coeur a ses saisons",
-        'image' => 'images/pierreBrandao/leCoeurAsesSaisons.png',
-        'annee' => '2010',
-        'resume' => "Il en va du temps comme des sentiments... Les pupilles s’ouvrent au printemps...",
-        'prix' => '15,00 €',
-        'lien' => 'images/bulletin-de-commande-2024.pdf',
-    ],
-    [
-        'titre' => "Titre du Livre 3",
-        'image' => 'images/pierreBrandao/XLlivre3.png',
-        'annee' => '2015',
-        'resume' => "Résumé du livre 3...",
-        'prix' => '15,00 €',
-        'lien' => 'images/bulletin-de-commande-2024.pdf',
-    ],
-    // Ajoutez d'autres livres ici
+    
+    // Ajoute d'autres livres ici
+    
 ];
-
-// Définir la page actuelle et calculer l'index de début
-$page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
-$debut = ($page - 1) * $livresParPage;
-
-// Extraire les livres pour la page actuelle
 $livresPage = array_slice($livres, $debut, $livresParPage, true);
-
-// Calcul pour les boutons de navigation
-$totalPages = ceil(count($livres) / $livresParPage);
 
 ?>
 
@@ -383,7 +358,7 @@ $totalPages = ceil(count($livres) / $livresParPage);
 
     <section class="livres">
     <div class="containerAuteur">
-        <h2>Les livres de Pierre Brandao</h2>
+        <h2>Les Livres de Pierre Brandao</h2>
 
        <!-- Carte 1 --> 
 <div id="livre-1" class="livre">

@@ -306,6 +306,7 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 $totalPages = ceil($totalCitations / $citationsParLigne);
 
 // PAGINATION LIVRE-------------------------------------------------------
+
 // Configuration des livres et de la pagination
 $livresParPage = 1; // Nombre de livres par page
 $livres = [
