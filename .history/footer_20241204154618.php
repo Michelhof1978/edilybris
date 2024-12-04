@@ -1185,9 +1185,8 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
-<script>
-
-
-</script>
+document.getElementById('monBouton').addEventListener('click', function(event) {
+    // Empêcher le comportement par défaut (évite le scroll)
+    event.preventDefault();
+    // Ajoutez ici l'action que vous souhaitez (par exemple, changer de contenu, etc.)
+});

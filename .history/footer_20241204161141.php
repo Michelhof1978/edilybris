@@ -1188,6 +1188,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
+<script>
+    const paginationLinks = document.querySelectorAll('.pagination a');
 
+    paginationLinks.forEach(link => {
+        link.addEventListener('click', (event) => {
+            event.preventDefault(); // Empêche le comportement par défaut du lien
+            // Ici, vous pouvez ajouter votre code pour charger les nouvelles citations et mettre à jour l'affichage
+            // Par exemple, vous pouvez utiliser une bibliothèque comme jQuery pour charger le contenu dynamiquement
+            // ...
+        });
+    });
+</script>
 
 </script>

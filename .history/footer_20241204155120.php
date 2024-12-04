@@ -1184,10 +1184,34 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <!-- FIN FICHE LIVRE-->
-
-
-
 <script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Sélectionner tous les liens de pagination
+    const paginationLinks = document.querySelectorAll('.pagination a');
 
+    // Ajouter un gestionnaire d'événements pour chaque lien
+    paginationLinks.forEach(link => {
+        link.addEventListener('click', function(event) {
+            // Empêcher le comportement par défaut (rechargement de la page)
+            event.preventDefault();
+
+            // Récupérer la nouvelle page à partir de l'attribut 'data-page'
+            const page = this.getAttribute('data-page');
+
+            // Effectuer une requête AJAX pour charger le contenu de la nouvelle page
+            fetch(`?page=${page}`)
+                .then(response => response.text())
+                .then(data => {
+                    // Mettre à jour la page sans défilement
+                    // Ici, vous pouvez mettre à jour le contenu de la page (par exemple, une zone spécifique de la page)
+                    document.getElementById('content').innerHTML = data;  // Exemple, mettez à jour l'élément avec l'id 'content'
+                    
+                    // Mettre à jour l'URL dans la barre d'adresse sans recharger la page
+                    history.pushState(null, '', `?page=${page}`);
+                })
+                .catch(error => console.error('Erreur de chargement AJAX:', error));
+        });
+    });
+});
 
 </script>

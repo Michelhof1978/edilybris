@@ -1185,9 +1185,39 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
 <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Fonction pour charger dynamiquement les citations
+        function loadCitations(page) {
+            var url = 'index.php?page=' + page;  // Ou l'URL de ton script PHP
 
+            // Effectuer la requête AJAX
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', url, true);
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    // Mettre à jour les citations et la pagination avec la réponse AJAX
+                    var response = xhr.responseText;
 
+                    // Sélectionner le conteneur de citations et de pagination
+                    document.getElementById('citations-container').innerHTML = response.match(/<div class="row">(.*?)<\/div>/s)[1];
+                    document.getElementById('pagination-container').innerHTML = response.match(/<div class="pagination">(.*?)<\/div>/s)[1];
+                }
+            };
+            xhr.send();
+        }
+
+        // Attacher un événement de clic aux liens de pagination
+        document.querySelectorAll('.pagination a').forEach(function(link) {
+            link.addEventListener('click', function(e) {
+                e.preventDefault(); // Empêche le comportement par défaut (rechargement de la page)
+
+                // Récupérer la page à charger depuis l'attribut 'href' du lien
+                var page = new URL(link.href).searchParams.get('page');
+
+                // Charger les citations pour la page demandée
+                loadCitations(page);
+            });
+        });
+    });
 </script>

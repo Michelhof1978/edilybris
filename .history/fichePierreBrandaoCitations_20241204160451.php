@@ -322,15 +322,15 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
         <div class="pagination" id="monBouton">
     <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>#monBouton" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+    <a href="javascript:void(0);" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
 
     <!-- Numéros de page -->
     <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>#monBouton" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+        <a href="javascript:void(0);" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
     <?php endfor; ?>
 
     <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>#monBouton" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+    <a href="javascript:void(0);" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
 </div>
 
 

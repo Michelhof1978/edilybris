@@ -1185,9 +1185,60 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
 <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        let currentPage = <?php echo $pageActuelle; ?>;
+        const totalPages = <?php echo $totalPages; ?>;
 
+        // Charger les citations pour la page initiale
+        loadCitations(currentPage);
 
+        // Fonction pour charger les citations via AJAX
+        function loadCitations(page) {
+            // Récupérer les citations via AJAX
+            const xhr = new XMLHttpRequest();
+            xhr.open('GET', 'index.php?page=' + page, true);  // Modifier selon ton URL PHP si besoin
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    // Remplacer les citations dans la page
+                    document.getElementById('citations-container').innerHTML = xhr.responseText;
+
+                    // Mettre à jour les boutons de pagination
+                    updatePagination(page);
+                }
+            };
+            xhr.send();
+        }
+
+        // Mettre à jour les boutons de pagination
+        function updatePagination(page) {
+            if (page <= 1) {
+                document.getElementById('prev-btn').style.display = 'none';
+            } else {
+                document.getElementById('prev-btn').style.display = 'inline';
+            }
+
+            if (page >= totalPages) {
+                document.getElementById('next-btn').style.display = 'none';
+            } else {
+                document.getElementById('next-btn').style.display = 'inline';
+            }
+        }
+
+        // Gérer le bouton "Précédent"
+        document.getElementById('prev-btn').addEventListener('click', function() {
+            if (currentPage > 1) {
+                currentPage--;
+                loadCitations(currentPage);
+            }
+        });
+
+        // Gérer le bouton "Suivant"
+        document.getElementById('next-btn').addEventListener('click', function() {
+            if (currentPage < totalPages) {
+                currentPage++;
+                loadCitations(currentPage);
+            }
+        });
+    });
 </script>

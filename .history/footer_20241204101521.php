@@ -1185,9 +1185,22 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
 <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Sauvegarde de la position actuelle du scroll avant un changement de page
+        let scrollPosition = 0;
 
+        // Lorsque l'utilisateur clique sur un lien de pagination
+        document.querySelectorAll('.pagination a').forEach(function (link) {
+            link.addEventListener('click', function (e) {
+                // Sauvegarder la position actuelle du scroll
+                scrollPosition = window.scrollY || document.documentElement.scrollTop;
 
+                // Ajoute un petit délai pour éviter le scroll vers le haut
+                setTimeout(function () {
+                    window.scrollTo(0, scrollPosition); // Restaure la position du scroll après le changement de page
+                }, 0);
+            });
+        });
+    });
 </script>

@@ -300,8 +300,20 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
 ?>
 <php>
-    
-</php>
+if (isset($_GET['page'])) {
+    $pageActuelle = (int)$_GET['page'];
+    // Chargez le contenu pour cette page
+    $content = loadPageContent($pageActuelle);  // Votre fonction qui génère le contenu pour la page
+    if ($_SERVER['HTTP_X_REQUESTED_WITH'] == 'XMLHttpRequest') {
+        // Si c'est une requête AJAX, renvoyer uniquement le contenu
+        echo $content;
+        exit;
+    }
+    // Sinon, afficher la page complète avec le contenu
+    include('template.php');
+}
+
+?>
 <!-- Section citations -->
 <section id="citations-section" class="citations text-white py-4">
     <div class="container">
@@ -322,17 +334,16 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
         <div class="pagination" id="monBouton">
     <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>#monBouton" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
 
     <!-- Numéros de page -->
     <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>#monBouton" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+        <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
     <?php endfor; ?>
 
     <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>#monBouton" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
 </div>
-
 
     </div>
 </section>

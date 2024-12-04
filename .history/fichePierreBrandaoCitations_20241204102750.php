@@ -178,7 +178,7 @@ $citations = [
                              Et ton cœur de désespoir
                              Chamboule tout et se déroute…<br>
 
-                             Une ampoule claque
+                             Une ampoule claque<br>
                              Tombe en verdict sans appel
                              L’horizon de tes certitudes
                              S’abime dans l’abîme irréel
@@ -297,11 +297,18 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
 
+// Générer le contenu des citations à afficher
+$output = '';
+foreach ($citationsPage as $titre => $citation) {
+    $output .= '<div class="col-md-6 mb-4">
+                    <h3 class="h2Jaune">' . $titre . '</h3>
+                    <blockquote><p>' . nl2br($citation) . '</p></blockquote>
+                </div>';
+}
 
+echo $output;
 ?>
-<php>
-    
-</php>
+
 <!-- Section citations -->
 <section id="citations-section" class="citations text-white py-4">
     <div class="container">
@@ -310,29 +317,15 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
             <img class="img-fluid w-25" src="images/poeme.png" alt="Image centrée">
         </div>
         <div class="row" id="citations-container">
-            <?php foreach ($citationsPage as $titre => $citation) : ?>
-                <div class="col-md-6 mb-4">
-                    <h3 class="h2Jaune"><?php echo $titre; ?></h3>
-                    <blockquote>
-                        <p><?php echo nl2br($citation); ?></p>
-                    </blockquote>
-                </div>
-            <?php endforeach; ?>
+            <!-- Les citations seront chargées ici via AJAX -->
         </div>
 
-        <div class="pagination" id="monBouton">
-    <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>#monBouton" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
-
-    <!-- Numéros de page -->
-    <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>#monBouton" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
-    <?php endfor; ?>
-
-    <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>#monBouton" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
-</div>
-
-
+        <!-- Pagination -->
+        <div class="pagination" id="pagination-container">
+            <!-- Boutons de pagination seront aussi gérés par AJAX -->
+            <a href="javascript:void(0);" class="prev" id="prev-btn">Précédent</a>
+            <a href="javascript:void(0);" class="next" id="next-btn">Suivant</a>
+        </div>
     </div>
 </section>
+

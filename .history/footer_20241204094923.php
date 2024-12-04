@@ -1185,9 +1185,16 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
 <script>
+    // Empêche le défilement vers le haut lors du clic sur les liens de pagination
+    document.querySelectorAll('.pagination a').forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();  // Empêche le comportement par défaut (rechargement de la page)
+            const url = this.getAttribute('href');
+            window.history.pushState({}, '', url);  // Met à jour l'URL sans recharger la page
 
-
+            // Chargement dynamique du contenu si nécessaire ou actualisation partielle
+            location.reload();  // Recharger la page sans remonter en haut
+        });
+    });
 </script>

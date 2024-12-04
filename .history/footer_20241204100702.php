@@ -1185,9 +1185,44 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
 <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Ajoute un événement de clic sur les liens de pagination
+        document.querySelectorAll('.pagination a').forEach(function (link) {
+            link.addEventListener('click', function (e) {
+                e.preventDefault(); // Empêche le comportement par défaut du lien
 
+                // Récupère la page à charger depuis l'attribut data-page du lien
+                var page = this.getAttribute('data-page');
 
+                // Change l'URL sans recharger la page
+                history.pushState(null, '', '?page=' + page);
+
+                // Charge dynamiquement les citations pour cette page
+                loadCitations(page);
+            });
+        });
+    });
+
+    // Fonction pour charger dynamiquement les citations sans recharger la page
+    function loadCitations(page) {
+        // Crée une requête pour obtenir le contenu de la page
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '?page=' + page, true);
+        xhr.onload = function() {
+            if (xhr.status === 200) {
+                // Remplace le contenu de la page par la nouvelle page de citations
+                var response = xhr.responseText;
+
+                // Extraire la partie des citations et de la pagination
+                var newCitations = response.match(/<div class="row">(.*?)<\/div>/s)[1];
+                var newPagination = response.match(/<div class="pagination">(.*?)<\/div>/s)[1];
+
+                // Mettre à jour le contenu
+                document.getElementById('citations-container').innerHTML = newCitations;
+                document.getElementById('pagination-container').innerHTML = newPagination;
+            }
+        };
+        xhr.send();
+    }
 </script>

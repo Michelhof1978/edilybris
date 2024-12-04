@@ -1188,6 +1188,66 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Sélectionner tous les liens de pagination
+    const paginationLinks = document.querySelectorAll('.pagination a');
 
+    // Ajouter un gestionnaire d'événements pour chaque lien
+    paginationLinks.forEach(link => {
+        link.addEventListener('click', function(event) {
+            // Empêcher le comportement par défaut du lien
+            event.preventDefault();
+
+            // Récupérer la page cible à partir de l'attribut 'data-page'
+            const page = this.getAttribute('data-page');
+
+            // Effectuer une requête AJAX pour charger le contenu de la nouvelle page
+            fetch('?page=' + page)
+                .then(response => response.text())
+                .then(data => {
+                    // Trouver et mettre à jour le contenu de la section des citations
+                    const citationsContainer = document.getElementById('citations-container');
+                    const newContent = data.match(/<div id="citations-container">(.+)<\/div>/s)[1];
+                    citationsContainer.innerHTML = newContent;
+
+                    // Mettre à jour l'URL sans recharger la page
+                    history.pushState(null, '', '?page=' + page);
+
+                    // Mettre à jour l'état de la pagination (activer/désactiver les boutons)
+                    updatePaginationState(page);
+                })
+                .catch(error => console.error('Erreur de chargement AJAX:', error));
+        });
+    });
+
+    // Fonction pour mettre à jour l'état des boutons de pagination
+    function updatePaginationState(page) {
+        const prevLink = document.querySelector('.prev');
+        const nextLink = document.querySelector('.next');
+        const pageLinks = document.querySelectorAll('.page-num');
+
+        // Désactiver les boutons si nécessaire
+        prevLink.classList.remove('disabled');
+        nextLink.classList.remove('disabled');
+        pageLinks.forEach(link => link.classList.remove('active'));
+
+        // Si on est sur la première page, désactiver "Précédent"
+        if (page == 1) {
+            prevLink.classList.add('disabled');
+        }
+
+        // Si on est sur la dernière page, désactiver "Suivant"
+        if (page == <?php echo $totalPages; ?>) {
+            nextLink.classList.add('disabled');
+        }
+
+        // Marquer la page actuelle comme active
+        document.querySelector('.page-num[data-page="' + page + '"]').classList.add('active');
+    }
+
+    // Initialiser l'état de la pagination
+    const currentPage = <?php echo $pageActuelle; ?>;
+    updatePaginationState(currentPage);
+});
 
 </script>

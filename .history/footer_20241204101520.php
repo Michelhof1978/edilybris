@@ -1185,9 +1185,3 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
-<script>
-
-
-</script>

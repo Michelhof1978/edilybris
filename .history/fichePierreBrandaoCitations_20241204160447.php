@@ -1,9 +1,77 @@
 <?php
 // Nombre de citations par ligne (2 par ligne)
+<?php
+// Nombre de citations par ligne (2 par ligne)
 $citationsParLigne = 2;
 
 // Récupérer la page actuelle depuis l'URL (si elle existe), sinon page 1 par défaut
 $pageActuelle = isset($_GET['page']) ? (int) $_GET['page'] : 1;
+
+// Tableau de citations (toutes les citations que tu as mentionnées)
+$citations = [
+    'Belle' => "Plus belle qu'une aurore... (ton texte ici)",
+    'Croire en qui?' => "Je ne suis qu’un enfant, ô mon Dieu...",
+    'Lavandière' => "J’accompagne ma mère au lavoir du passé...",
+    // Ajoute toutes les autres citations ici...
+];
+
+// Calculer la position de départ des citations pour la page actuelle
+$debut = ($pageActuelle - 1) * $citationsParLigne;
+
+// Obtenir les citations pour la page actuelle
+$citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
+
+// Calculer le nombre total de pages
+$totalPages = ceil(count($citations) / $citationsParLigne);
+
+// Si la requête est une requête AJAX, ne renvoyer que les citations
+if ($_SERVER['HTTP_X_REQUESTED_WITH'] == 'XMLHttpRequest') {
+    // Générer le contenu des citations pour cette page
+    ob_start();
+    foreach ($citationsPage as $titre => $citation) {
+        echo '<div class="col-md-6 mb-4">';
+        echo '<h3 class="h2Jaune">' . $titre . '</h3>';
+        echo '<blockquote><p>' . nl2br($citation) . '</p></blockquote>';
+        echo '</div>';
+    }
+    echo ob_get_clean();
+    exit;
+}
+
+// Sinon, afficher la page complète avec le contenu
+?>
+<!-- Section citations -->
+<section id="citations-section" class="citations text-white py-4">
+    <div class="container">
+        <h2 class="h2Jaune text-center mb-4">MAGASIN DE POÈMES À CHANTER</h2>
+        <div class="text-center">
+            <img class="img-fluid w-25" src="images/poeme.png" alt="Image centrée">
+        </div>
+        <div class="row" id="citations-container">
+            <?php foreach ($citationsPage as $titre => $citation) : ?>
+                <div class="col-md-6 mb-4">
+                    <h3 class="h2Jaune"><?php echo $titre; ?></h3>
+                    <blockquote>
+                        <p><?php echo nl2br($citation); ?></p>
+                    </blockquote>
+                </div>
+            <?php endforeach; ?>
+        </div>
+
+        <div class="pagination" id="monBouton">
+            <!-- Bouton Précédent -->
+            <a href="javascript:void(0);" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+
+            <!-- Numéros de page -->
+            <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
+                <a href="javascript:void(0);" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+            <?php endfor; ?>
+
+            <!-- Bouton Suivant -->
+            <a href="javascript:void(0);" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+        </div>
+    </div>
+</section>
 
 // Tableau de citations (toutes les citations que tu as mentionnées)
 $citations = [
@@ -322,15 +390,15 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
         <div class="pagination" id="monBouton">
     <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>#monBouton" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+    <a href="javascript:void(0);" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
 
     <!-- Numéros de page -->
     <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>#monBouton" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+        <a href="javascript:void(0);" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
     <?php endfor; ?>
 
     <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>#monBouton" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+    <a href="javascript:void(0);" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
 </div>
 
 

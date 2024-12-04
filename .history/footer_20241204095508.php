@@ -1185,9 +1185,26 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-
-
 <script>
+    // Empêche de remonter en haut lors de la pagination
+    document.addEventListener("DOMContentLoaded", function () {
+        // Désactive le comportement de retour en haut lors du clic sur un lien
+        if (history.scrollRestoration) {
+            history.scrollRestoration = 'manual';
+        }
 
-
+        // Ajoute un événement de clic sur les boutons de pagination
+        document.querySelectorAll('.pagination a').forEach(function (link) {
+            link.addEventListener('click', function (e) {
+                e.preventDefault(); // Empêche le comportement par défaut (défilement)
+                
+                // Récupérer la page du lien
+                let href = this.getAttribute('href');
+                
+                // Utiliser fetch ou location pour charger la nouvelle page sans recharger complètement
+                // Exemple simple : recharger la page sans remonter en haut
+                window.location.href = href;
+            });
+        });
+    });
 </script>
