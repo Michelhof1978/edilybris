@@ -52,10 +52,10 @@ $totalPages = ceil(count($livres) / $livresParPage);
 <?php include("header.php"); ?>
 
 
-<?php include("fichePierreBrandaoLivres.php"); ?>
+<?php include("fiche.php"); ?>
 
     
-<?php include("fichePierreBrandaoCitations.php"); ?>
+<?php include("footer.php"); ?>
 
 
 <?php include("footer.php"); ?>
