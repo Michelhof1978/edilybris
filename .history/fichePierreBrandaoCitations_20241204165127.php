@@ -296,8 +296,10 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
-?>
 
+
+?>
+<php></php>
 <!-- Section citations -->
 <section id="citations-section" class="citations text-white py-4">
     <div class="container">

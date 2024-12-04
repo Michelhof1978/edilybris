@@ -296,7 +296,8 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
-?>
+
+
 
 <!-- Section citations -->
 <section id="citations-section" class="citations text-white py-4">
@@ -316,18 +317,19 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
             <?php endforeach; ?>
         </div>
 
-        <div class="pagination" id="monBouton">
+      <div class="pagination" id="monBouton">
     <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>#monBouton" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
 
     <!-- Numéros de page -->
     <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+        <a href="?page=<?php echo $i; ?>#monBouton" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
     <?php endfor; ?>
 
     <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>#monBouton" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
 </div>
+
 
     </div>
 </section>

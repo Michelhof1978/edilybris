@@ -1187,3 +1187,45 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+<script>
+    // Attendre que le DOM soit chargé avant de lancer le script
+    document.addEventListener('DOMContentLoaded', function() {
+        // Vérifier si l'URL contient un ancrage
+        if (window.location.hash === "#citations-section") {
+            // Effectuer un défilement en douceur vers la section des citations
+            setTimeout(function() {
+                const section = document.getElementById('citations-section');
+                if (section) {
+                    window.scrollTo({
+                        top: section.offsetTop,
+                        behavior: 'smooth'
+                    });
+                }
+            }, 100);  // Petite temporisation pour s'assurer que l'URL soit correctement chargée
+        }
+
+        // Gérer le clic sur la pagination (pour navigation sans rechargement de page)
+        const paginationLinks = document.querySelectorAll('.pagination a');
+        paginationLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();  // Empêche l'action par défaut du lien
+
+                // Change l'URL dans la barre d'adresse sans recharger la page
+                const newPage = link.getAttribute('data-page');
+                const newUrl = `?page=${newPage}#citations-section`;
+                history.pushState(null, null, newUrl);
+
+                // Attendre un peu avant de scroller vers la section pour éviter un défilement intempestif
+                setTimeout(function() {
+                    const section = document.getElementById('citations-section');
+                    if (section) {
+                        window.scrollTo({
+                            top: section.offsetTop,
+                            behavior: 'smooth'
+                        });
+                    }
+                }, 100);
+            });
+        });
+    });
+</script>

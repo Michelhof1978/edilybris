@@ -296,8 +296,12 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
-?>
 
+
+?>
+<php>
+    
+</php>
 <!-- Section citations -->
 <section id="citations-section" class="citations text-white py-4">
     <div class="container">
@@ -318,16 +322,23 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
         <div class="pagination" id="monBouton">
     <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+    <a href="javascript:void(0);" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>" data-target="prev">Précédent</a>
 
     <!-- Numéros de page -->
     <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+        <a href="javascript:void(0);" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>" data-target="page-<?php echo $i; ?>"><?php echo $i; ?></a>
     <?php endfor; ?>
 
     <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+    <a href="javascript:void(0);" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>" data-target="next">Suivant</a>
 </div>
+
+<!-- Ajoutez une section pour simuler du contenu (facultatif, pour tester l'ancrage) -->
+<div style="height: 1000px; background-color: lightgrey;"></div>
+<div id="monBouton" style="height: 200px; background-color: lightblue;">
+    Pagination ici
+</div>
+
 
     </div>
 </section>

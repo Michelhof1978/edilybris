@@ -1187,3 +1187,23 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+<script>
+  // Sélectionner tous les boutons de pagination
+  const paginationButtons = document.querySelectorAll('#monBouton a');
+
+  paginationButtons.forEach(button => {
+    button.addEventListener('click', (event) => {
+      event.preventDefault(); // Empêche le comportement par défaut
+
+      // Obtenir l'URL cible et l'ID de l'ancrage
+      const targetUrl = button.getAttribute('href');
+      const targetId = targetUrl.split('#')[1];
+
+      // Obtenir l'élément cible
+      const targetElement = document.getElementById(targetId);
+
+      // Défiler en douceur vers l'élément cible
+      targetElement.scrollIntoView({ behavior: 'smooth' });
+    });
+  });
+</script>

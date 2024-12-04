@@ -1187,3 +1187,30 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Sélectionne tous les liens de pagination
+    var paginationLinks = document.querySelectorAll(".pagination a");
+
+    paginationLinks.forEach(function (link) {
+        link.addEventListener("click", function (event) {
+            event.preventDefault(); // Empêche le comportement par défaut du lien
+
+            var targetPage = this.getAttribute("href").split('?page=')[1].split('#')[0];
+
+            // Effectue une requête AJAX pour charger le contenu de la page souhaitée
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "?page=" + targetPage, true);
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    // Met à jour le contenu de la section des citations
+                    document.getElementById("citations-section").innerHTML = xhr.responseText;
+                }
+            };
+            xhr.send();
+        });
+    });
+});
+
+
+</script>

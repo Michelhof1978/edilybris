@@ -296,6 +296,7 @@ $citationsPage = array_slice($citations, $debut, $citationsParLigne, true);
 
 // Calculer le nombre total de pages
 $totalPages = ceil($totalCitations / $citationsParLigne);
+
 ?>
 
 <!-- Section citations -->

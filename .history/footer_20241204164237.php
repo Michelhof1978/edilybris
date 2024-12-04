@@ -1187,3 +1187,23 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+<script>
+<script>
+  // Select all pagination buttons
+  const paginationButtons = document.querySelectorAll('#monBouton a');
+
+  // Add an event listener to each button
+  paginationButtons.forEach(button => {
+    button.addEventListener('click', (event) => {
+      event.preventDefault(); // Prevent default behavior
+
+      // Get the target URL from the button's href attribute
+      const targetUrl = button.getAttribute('href');
+
+      // Simulate a click on the target URL, but without scrolling
+      window.location.href = targetUrl;
+    });
+  });
+</script>
+
+</script>

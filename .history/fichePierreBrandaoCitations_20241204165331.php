@@ -299,7 +299,7 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 ?>
 
 <!-- Section citations -->
-<section id="citations-section" class="citations text-white py-4">
+<section id="citations-section ms" class="citations text-white py-4">
     <div class="container">
         <h2 class="h2Jaune text-center mb-4">MAGASIN DE POÈMES À CHANTER</h2>
         <div class="text-center">
