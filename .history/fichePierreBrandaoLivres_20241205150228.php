@@ -177,7 +177,7 @@ Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques
             <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
                 </div>
                 <div class="livre-details">
-                    <h3 class="h2Jaune">Pierre BRANDAO, SES RECUEILS DE POÉSIES</h3>
+                    <h3 class="h2Jaune">QUE SAVONS-NOUS DU MONDE ?</h3>
                     <h3 class="h2Jaune">QUE SAVONS-NOUS DU MONDE ?</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
                     <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Ce recueil de poésies est le premier fruit d'une collaboration avec Marie, poète rencontrée sur le Net. Les interrogations posées interpellent chacun d'entre nous, et les réponses sont motivées par nos expériences personnelles mais aussi par l'espoir.

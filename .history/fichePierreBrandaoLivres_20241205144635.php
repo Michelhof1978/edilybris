@@ -153,16 +153,14 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
         <div id="livre-3" class="livre livre-hidden">
             <div class="livre-content">
                 <div class="livre-image">
-                    <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture du livre 3">
+                    <img src="images/pierreBrandao/" class="img-fluid" alt="Couverture du livre 3">
                 <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
                 </div>
                 <div class="livre-details">
-                    <h3 class="h2Jaune">LUCIOLES MAGIQUES</h3>
+                    <h3 class="h2Jaune">Titre du Livre 3</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net. De la passion des mots et des images ce recueil emporte le lecteur dans les sentiments troubles de la vie ; plutôt d'écriture libre, les thèmes évoqués ne pourront pas laisser indifférent. 
-
-Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques. </p>
+                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Résumé du livre 3...</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
@@ -172,19 +170,14 @@ Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques
         <div id="livre-4" class="livre livre-hidden">
             <div class="livre-content">
                 <div class="livre-image">
-                    <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture du livre 4">
+                    <img src="images/pierreBrandao/XLlivre4.png" class="img-fluid" alt="Couverture du livre 4">
                 <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
                 </div>
                 <div class="livre-details">
-                    <h3 class="h2Jaune">Pierre BRANDAO, SES RECUEILS DE POÉSIES</h3>
-                    <h3 class="h2Jaune">QUE SAVONS-NOUS DU MONDE ?</h3>
+                    <h3 class="h2Jaune">Titre du Livre 4</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Ce recueil de poésies est le premier fruit d'une collaboration avec Marie, poète rencontrée sur le Net. Les interrogations posées interpellent chacun d'entre nous, et les réponses sont motivées par nos expériences personnelles mais aussi par l'espoir.
-
-Bonne lecture des extraits ci-dessous !
-
-Attention : ce recueil n'est plus disponible en version papier, uniquement en numérique.</p>
+                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Résumé du livre 4...</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>

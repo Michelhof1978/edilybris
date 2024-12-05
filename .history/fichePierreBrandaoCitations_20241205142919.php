@@ -222,11 +222,7 @@ $citations = [
                              Est un beau signe d’amour
                              Au firmament des étincelles...",
 
-    'Souffle d\'une plume' => "
-    <div class='poeme-image'>
-                            <img src='images/pierreBrandao/souffleDePlume.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
-                        </div>
-                        Plus belle qu'une aurore,
+    'Souffle d\'une plume' => "Plus belle qu'une aurore,
                                Plus tendre qu'un baiser
                                Je chanterai ton corps
                                Jusqu'à en être osé
@@ -271,10 +267,7 @@ $citations = [
                                Au pistil de tes lèvres
                                Fleur du plus beau rêve...",
                                
-    'FLEUR D\'AUTOMNE' => "<div class='poeme-image'>
-                            <img src='images/pierreBrandao/fleurAutomne.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
-                        </div>
-                        Moi, j’ai saisi sur son dos dénudé
+    'FLEUR D\'AUTOMNE' => "Moi, j’ai saisi sur son dos dénudé
                             Une coque de gland tombée du chêne
                             Un vent plus froid qu’une brise d’été
                             L’avait portée comme une aubaine
@@ -301,177 +294,6 @@ $citations = [
                             À mourir sur son ventre diaphane
                             J’aime ces départs en contraste fort
                             Ils respirent la vie plutôt que la mort !",
-'Souffle d\'une plume' => "
-    <div class='poeme-image'>
-                            <img src='images/pierreBrandao/souffleDePlume.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
-                        </div>
-                        Plus belle qu'une aurore,
-                               Plus tendre qu'un baiser
-                               Je chanterai ton corps
-                               Jusqu'à en être osé
-                               Femme aux cheveux d'or...<br>
-
-                               Il faudra me taire le long du chemin
-                               L'incroyable vérité de notre destin ;
-                               Pourtant notre amour est si pur
-                               Que ne peut se conter notre aventure.<br>
-
-                               Ton cœur est le journal intime
-                               Qui couve notre doux crime.<br>
-
-                               Plus belle qu'un printemps,
-                               Plus libre que la neige,
-                               Je caresserai ton sang
-                               D'un tendre sortilège
-                               Femme de sentiments...<br>
-
-                               Pas à pas le secret charnel demeure
-                               Rythme nécessaire du bonheur  
-                               Tandis qu'un monde hostile nous importune,
-                               Jugeant notre amour d'une tribune.<br>
-
-                               Ton cœur devient le joyau précieux
-                               Dont la pierre sont tes yeux...<br>
-
-                               Plus belle qu'une aurore,
-                               Plus tendre qu'un baiser
-                               Je chanterai ton corps
-                               Jusqu'à en être osé
-                               Femme aux cheveux d'or...<br>
-
-                               Plus belle qu'un printemps,
-                               Plus libre que la neige,
-                               Je caresserai ton sang
-                               D'un tendre sortilège
-                               Femme de sentiments...<br>
-
-                               J'irai
-                               Cueillir ma tendresse
-                               Au pistil de tes lèvres
-                               Fleur du plus beau rêve...",
-                               
-    'Je nourris une larme…' => "<div class='poeme-image'>
-                            <img src='images/pierreBrandao/jeNourrisUneLarme.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
-                        </div>
-                       Je nourris une larme…
-
-Je nourris une larme au pupitre d’un cœur
-
-La craie crisse en un cri strident 
-Déchire le velours de l’âme 
-Gémit de ne pouvoir avouer sa douleur
-
-Je nourris une larme au pupitre d’un cœur 
-
-Un tableau vert sans tain s’essouffle 
-Le tampon broie la nostalgie 
-Efface l’interdit des mots nés d’un regard 
-
-Je nourris une larme au pupitre d’un cœur 
-
-L’ardoise écoute ma souffrance
-Supporte un pleur cicatrisé 
-Qui déclare sa peine en ocre sentiment
-
-Je nourris une larme au pupitre d’un cœur 
-
-Le stylo puise l’encre d’âme 
-Tache une vierge effarouchée 
-Qui se froisse et s’en va dans l’ombre d’un panier 
-
-Je nourris une larme au pupitre d’un cœur
-
-La cloche résonne… rebelle 
-D’un passé meurtri de silence 
-Les pas collés au sol… l’heure veut se figer 
-
-Je nourris une larme au pupitre d’un cœur",
-
-'Miroir de mes saisons ' => "<div class='poeme-image'>
-                            <img src='images/pierreBrandao/miroirDeMesSaisons.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
-                        </div>
-                       Je nourris une larme…
-
-Je nourris une larme au pupitre d’un cœur
-
-La craie crisse en un cri strident 
-Déchire le velours de l’âme 
-Gémit de ne pouvoir avouer sa douleur
-
-Je nourris une larme au pupitre d’un cœur 
-
-Un tableau vert sans tain s’essouffle 
-Le tampon broie la nostalgie 
-Efface l’interdit des mots nés d’un regard 
-
-Je nourris une larme au pupitre d’un cœur 
-
-L’ardoise écoute ma souffrance
-Supporte un pleur cicatrisé 
-Qui déclare sa peine en ocre sentiment
-
-Je nourris une larme au pupitre d’un cœur 
-
-Le stylo puise l’encre d’âme 
-Tache une vierge effarouchée 
-Qui se froisse et s’en va dans l’ombre d’un panier 
-
-Je nourris une larme au pupitre d’un cœur
-
-La cloche résonne… rebelle 
-D’un passé meurtri de silence 
-Les pas collés au sol… l’heure veut se figer 
-
-Je nourris une larme au pupitre d’un cœur",
-
-'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
-
-Le ciel est peint, ce soir
-D’une flamme tragique.
-Et tel un encensoir
-Mon cœur est nostalgique.
-Je déchire au cutter
-Le blanc des faux nuages
-Me nourrit de leur chair
-Me fait anthropophage !
-Le sang de leur douleur
-Me plaît et me contente,
-J’aime leur cri, leur peur,
-Leur regard d’épouvante !
-
-Le pers de ta souffrance ignore l’horizon.
-
-Le pourpre confondu
-Affiche sa magie
-Ses bras se sont tendus
-Goûtent l’hémorragie…
-Un pourpre qui fait mal,
-Tant il est le complice
-D’un amour anormal
-Car jugé sur le vice.
-Je rage, avale, mords
-Au creux de la nuée
-J’entends le cri si fort
-D’une âme exténuée…
-
-Le pers de ta souffrance ignore l’horizon.
-
-Le disque tombe, lourd,
-Dans la ligne meurtrie ;
-Le drap couvre le jour
-D’une bâche ahurie
-J’éclabousse de sang
-Le rayon de la lune
-Qui se fait pleine et sent
-L’air de mon infortune…
-J’ai tué la candeur
-D’un nuage de flammes
-Alors pourquoi ce pleur
-A-t-il noyé mon âme ???
-
-Le pers de ta souffrance ignore l’horizon
-J’ai trop d’amour en moi qui chasse la raison.",
-
 ];
 
 $totalCitations = count($citations);
@@ -505,21 +327,39 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
         </div>
 
         <div class="pagination" id="monBouton">
-    <!-- Bouton Précédent -->
-    <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
+            <!-- Bouton Précédent -->
+            <a href="?page=<?php echo max(1, $pageActuelle - 1); ?>" class="prev" data-page="<?php echo max(1, $pageActuelle - 1); ?>">Précédent</a>
 
-    <!-- Numéros de page -->
-    <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
-        <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
-    <?php endfor; ?>
+            <!-- Numéros de page -->
+            <?php for ($i = 1; $i <= $totalPages; $i++) : ?>
+                <a href="?page=<?php echo $i; ?>" class="page-num <?php echo $i == $pageActuelle ? 'active' : ''; ?>" data-page="<?php echo $i; ?>"><?php echo $i; ?></a>
+            <?php endfor; ?>
 
-    <!-- Bouton Suivant -->
-    <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
-</div>
+            <!-- Bouton Suivant -->
+            <a href="?page=<?php echo min($totalPages, $pageActuelle + 1); ?>" class="next" data-page="<?php echo min($totalPages, $pageActuelle + 1); ?>">Suivant</a>
+        </div>
 
     </div>
 </section>
 
+<!-- Section Souffle d'une plume -->
+<section id="souffle-plume-section" class="citations text-white py-4">
+    <div class="container">
+        <h2 class="h2Jaune text-center mt-4 mb-4">Souffle d'une plume</h2>
+
+        <!-- Image sous le titre -->
+        <div class="text-center">
+            <img class="img-fluid w-50" src="images/.jpg" alt="Image Souffle d'une plume">
+        </div>
+
+        <!-- Texte du poème -->
+        <div class="poeme mt-4">
+            <blockquote>
+                <p><?php echo nl2br($citations['Souffle d\'une plume']); ?></p>
+            </blockquote>
+        </div>
+    </div>
+</section>
 
 <?php include("footer.php"); ?>
 

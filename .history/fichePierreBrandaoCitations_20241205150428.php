@@ -424,53 +424,43 @@ Les pas collés au sol… l’heure veut se figer
 
 Je nourris une larme au pupitre d’un cœur",
 
-'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
+'IL VA ENCORE PLEUVOIR' => "<div class='poeme-image'>
+                            <img src='images/pierreBrandao/miroirDeMesSaisons.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
+                       Je nourris une larme…
 
-Le ciel est peint, ce soir
-D’une flamme tragique.
-Et tel un encensoir
-Mon cœur est nostalgique.
-Je déchire au cutter
-Le blanc des faux nuages
-Me nourrit de leur chair
-Me fait anthropophage !
-Le sang de leur douleur
-Me plaît et me contente,
-J’aime leur cri, leur peur,
-Leur regard d’épouvante !
+Je nourris une larme au pupitre d’un cœur
 
-Le pers de ta souffrance ignore l’horizon.
+La craie crisse en un cri strident 
+Déchire le velours de l’âme 
+Gémit de ne pouvoir avouer sa douleur
 
-Le pourpre confondu
-Affiche sa magie
-Ses bras se sont tendus
-Goûtent l’hémorragie…
-Un pourpre qui fait mal,
-Tant il est le complice
-D’un amour anormal
-Car jugé sur le vice.
-Je rage, avale, mords
-Au creux de la nuée
-J’entends le cri si fort
-D’une âme exténuée…
+Je nourris une larme au pupitre d’un cœur 
 
-Le pers de ta souffrance ignore l’horizon.
+Un tableau vert sans tain s’essouffle 
+Le tampon broie la nostalgie 
+Efface l’interdit des mots nés d’un regard 
 
-Le disque tombe, lourd,
-Dans la ligne meurtrie ;
-Le drap couvre le jour
-D’une bâche ahurie
-J’éclabousse de sang
-Le rayon de la lune
-Qui se fait pleine et sent
-L’air de mon infortune…
-J’ai tué la candeur
-D’un nuage de flammes
-Alors pourquoi ce pleur
-A-t-il noyé mon âme ???
+Je nourris une larme au pupitre d’un cœur 
 
-Le pers de ta souffrance ignore l’horizon
-J’ai trop d’amour en moi qui chasse la raison.",
+L’ardoise écoute ma souffrance
+Supporte un pleur cicatrisé 
+Qui déclare sa peine en ocre sentiment
+
+Je nourris une larme au pupitre d’un cœur 
+
+Le stylo puise l’encre d’âme 
+Tache une vierge effarouchée 
+Qui se froisse et s’en va dans l’ombre d’un panier 
+
+Je nourris une larme au pupitre d’un cœur
+
+La cloche résonne… rebelle 
+D’un passé meurtri de silence 
+Les pas collés au sol… l’heure veut se figer 
+
+Je nourris une larme au pupitre d’un cœur",
+
 
 ];
 

@@ -424,53 +424,67 @@ Les pas collés au sol… l’heure veut se figer
 
 Je nourris une larme au pupitre d’un cœur",
 
-'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
+'Crime' => "Il va encore pleuvoir
 
-Le ciel est peint, ce soir
-D’une flamme tragique.
-Et tel un encensoir
-Mon cœur est nostalgique.
-Je déchire au cutter
-Le blanc des faux nuages
-Me nourrit de leur chair
-Me fait anthropophage !
-Le sang de leur douleur
-Me plaît et me contente,
-J’aime leur cri, leur peur,
-Leur regard d’épouvante !
+Et le soleil rira de mes paupières
+Alourdies de nuages noirs
+Tombe une larme tombe un cri
+Main tendue vers le ciel
 
-Le pers de ta souffrance ignore l’horizon.
+Il va encore neiger
 
-Le pourpre confondu
-Affiche sa magie
-Ses bras se sont tendus
-Goûtent l’hémorragie…
-Un pourpre qui fait mal,
-Tant il est le complice
-D’un amour anormal
-Car jugé sur le vice.
-Je rage, avale, mords
-Au creux de la nuée
-J’entends le cri si fort
-D’une âme exténuée…
+Et les spasmes du cercle jaune
+Aveugleront le métronome des cils
+Tombe le blanc tombe le néant
+Nez privé des sourires chantés
 
-Le pers de ta souffrance ignore l’horizon.
+Il va encore grêler
 
-Le disque tombe, lourd,
-Dans la ligne meurtrie ;
-Le drap couvre le jour
-D’une bâche ahurie
-J’éclabousse de sang
-Le rayon de la lune
-Qui se fait pleine et sent
-L’air de mon infortune…
-J’ai tué la candeur
-D’un nuage de flammes
-Alors pourquoi ce pleur
-A-t-il noyé mon âme ???
+Et les rayons de mes doigts gelés
+Se moqueront détournant leurs faisceaux
+Tombe un silence tombe un tremblement
+Lèvres palpitantes de pourquoi
 
-Le pers de ta souffrance ignore l’horizon
-J’ai trop d’amour en moi qui chasse la raison.",
+Combien d’océans de détresse
+Dans une perle d’âme
+Creusant le sillon des futures amertumes ?
+Combien de montagnes essoufflées
+Dans l’oppression des poitrines ?
+Combien de ravins exténués
+Aux fissures des secondes à venir ?
+
+Il ne pleuvra pas sur mes regrets",
+
+'Il va encore pleuvoir' => "Il va encore pleuvoir
+
+Et le soleil rira de mes paupières
+Alourdies de nuages noirs
+Tombe une larme tombe un cri
+Main tendue vers le ciel
+
+Il va encore neiger
+
+Et les spasmes du cercle jaune
+Aveugleront le métronome des cils
+Tombe le blanc tombe le néant
+Nez privé des sourires chantés
+
+Il va encore grêler
+
+Et les rayons de mes doigts gelés
+Se moqueront détournant leurs faisceaux
+Tombe un silence tombe un tremblement
+Lèvres palpitantes de pourquoi
+
+Combien d’océans de détresse
+Dans une perle d’âme
+Creusant le sillon des futures amertumes ?
+Combien de montagnes essoufflées
+Dans l’oppression des poitrines ?
+Combien de ravins exténués
+Aux fissures des secondes à venir ?
+
+Il ne pleuvra pas sur mes regrets",
 
 ];
 

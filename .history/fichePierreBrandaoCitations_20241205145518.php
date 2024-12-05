@@ -424,53 +424,6 @@ Les pas collés au sol… l’heure veut se figer
 
 Je nourris une larme au pupitre d’un cœur",
 
-'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
-
-Le ciel est peint, ce soir
-D’une flamme tragique.
-Et tel un encensoir
-Mon cœur est nostalgique.
-Je déchire au cutter
-Le blanc des faux nuages
-Me nourrit de leur chair
-Me fait anthropophage !
-Le sang de leur douleur
-Me plaît et me contente,
-J’aime leur cri, leur peur,
-Leur regard d’épouvante !
-
-Le pers de ta souffrance ignore l’horizon.
-
-Le pourpre confondu
-Affiche sa magie
-Ses bras se sont tendus
-Goûtent l’hémorragie…
-Un pourpre qui fait mal,
-Tant il est le complice
-D’un amour anormal
-Car jugé sur le vice.
-Je rage, avale, mords
-Au creux de la nuée
-J’entends le cri si fort
-D’une âme exténuée…
-
-Le pers de ta souffrance ignore l’horizon.
-
-Le disque tombe, lourd,
-Dans la ligne meurtrie ;
-Le drap couvre le jour
-D’une bâche ahurie
-J’éclabousse de sang
-Le rayon de la lune
-Qui se fait pleine et sent
-L’air de mon infortune…
-J’ai tué la candeur
-D’un nuage de flammes
-Alors pourquoi ce pleur
-A-t-il noyé mon âme ???
-
-Le pers de ta souffrance ignore l’horizon
-J’ai trop d’amour en moi qui chasse la raison.",
 
 ];
 
