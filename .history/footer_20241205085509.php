@@ -1,4 +1,4 @@
-<div class="text-center ">
+<div class="text-center footerPlume">
         <img class="img-fluid w-25" src="images/plume.png" alt="Image centrée">
     </div>
 

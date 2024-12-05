@@ -191,8 +191,8 @@
 
 <!-- Boutons de navigation -->
 <div class="L-navigation">
-    <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
-    <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
+    <button id="L-backButton" class="L-button" disabled>Précédent</button>
+    <button id="L-nextGroupButton" class="L-button">Suivant</button>
 </div>
 
  <!-- FIN CARDS L-->
@@ -325,8 +325,8 @@
 
 <!-- Boutons de navigation -->
 <div class="new-navigation">
-  <button id="new-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
-  <button id="new-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
+  <button id="new-backButton" class="new-button xl-button text" disabled>Précédent</button>
+  <button id="new-nextGroupButton" class="new-button xl-button">Suivant</button>
 </div>
 
 <!-- FIN CARDS XL-->

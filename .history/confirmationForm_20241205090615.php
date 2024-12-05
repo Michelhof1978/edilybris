@@ -5,7 +5,7 @@ include("head.php");
 ?>
 
 <title>Confirmation Formulaire De Contact - Harmony Digital</title>
-<meta name="description" content="Confirmation message - Edi'lybris">
+<meta name="description" content="Confirmation message - Ed">
 
 <style>
     .text-light-success {

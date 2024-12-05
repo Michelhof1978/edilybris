@@ -745,6 +745,7 @@ width: 100%;
 
 .L-button {
   background-color: #ffcc00;
+  color: #000;
   border: none;
   padding: 10px 20px;
   margin: 0 10px;
@@ -983,7 +984,6 @@ input[type="email"]:focus {
   outline: 2px dotted rgb(117, 152, 242);
   outline-offset: -3px;
 }
-
 
 .users-color-container {
   display: grid;
