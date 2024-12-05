@@ -351,7 +351,7 @@ function updateGroups() {
   <!--  FIN card XL-->
 
 
-<!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
+<!--  PRESENTATION AUTEUR INDEX-->
   <script>
     var slider = tns({
   container: ".slider",

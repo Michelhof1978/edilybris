@@ -298,6 +298,9 @@
         }, 2000);
     }
 </script>
+<!-- _____________________________________________________________________________________ -->
+
+<!--SEO -->
 
 <!-- _____________________________________________________________________________________ -->
 
@@ -314,8 +317,11 @@
 <!-- Scripts -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
+<!-- Google Tag Manager -->
 
-<!-- _____________________________________________________________________________________ -->
+<!-- End Google Tag Manager -->
+
+<!-- Google Analytics -->
 
 <!--  CARDS XL-->
 <script>
@@ -351,7 +357,7 @@ function updateGroups() {
   <!--  FIN card XL-->
 
 
-<!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
+<!--  PRESENTATION AUTEUR INDEX-->
   <script>
     var slider = tns({
   container: ".slider",
@@ -1001,7 +1007,7 @@ var VanillaTilt = (function () {
 })();
 
   </script>
-  <!--  FIN PRESENTATION AUTEUR TROMBINOSCOPE-->
+  <!--  FIN PRESENTATION AUTEUR-->
 
 <!-- _____________________________________________________________________________________ -->
 
@@ -1179,10 +1185,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <!-- _____________________________________________________________________________________ -->
 
-<!-- Google Tag Manager -->
-<!-- _____________________________________________________________________________________ -->
-
-<!-- End Google Tag Manager -->
-<!-- _____________________________________________________________________________________ -->
-
-<!-- Google Analytics -->

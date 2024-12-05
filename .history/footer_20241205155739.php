@@ -253,6 +253,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous" async></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- COOKIES -->
@@ -298,8 +299,10 @@
         }, 2000);
     }
 </script>
-
 <!-- _____________________________________________________________________________________ -->
+
+<!--SEO -->
+
 
 
 <!-- Script pour mettre à jour l'année dans le footer -->
@@ -314,10 +317,13 @@
 <!-- Scripts -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
+<!-- Google Tag Manager -->
 
-<!-- _____________________________________________________________________________________ -->
+<!-- End Google Tag Manager -->
 
-<!--  CARDS XL-->
+<!-- Google Analytics -->
+
+<!--  card XL-->
 <script>
   const newGroup1 = document.getElementById('new-group1');
 const newGroup2 = document.getElementById('new-group2');
@@ -351,7 +357,7 @@ function updateGroups() {
   <!--  FIN card XL-->
 
 
-<!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
+<!--  PRESENTATION AUTEUR INDEX-->
   <script>
     var slider = tns({
   container: ".slider",
@@ -1001,10 +1007,7 @@ var VanillaTilt = (function () {
 })();
 
   </script>
-  <!--  FIN PRESENTATION AUTEUR TROMBINOSCOPE-->
-
-<!-- _____________________________________________________________________________________ -->
-
+  <!--  FIN PRESENTATION AUTEUR-->
 
    <!--  CARDS L-->
  <script>
@@ -1031,7 +1034,6 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN CARDS L-->
 
-<!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->
 <script>
@@ -1074,7 +1076,6 @@ updateCarouselPosition();
 </script>
 <!-- FIN TROMBINOSCOPE-->
 
-<!-- _____________________________________________________________________________________ -->
 
 <!-- CITATIONS-->
 <script>
@@ -1135,8 +1136,6 @@ books.forEach((book, index) => {
 </script>
 <!-- FIN CITATIONS-->
 
-<!-- _____________________________________________________________________________________ -->
-
 <!-- FICHE LIVRE-->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -1173,16 +1172,4 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- FIN FICHE LIVRE-->
 
 
-<!-- _____________________________________________________________________________________ -->
 
-<!--SEO -->
-
-<!-- _____________________________________________________________________________________ -->
-
-<!-- Google Tag Manager -->
-<!-- _____________________________________________________________________________________ -->
-
-<!-- End Google Tag Manager -->
-<!-- _____________________________________________________________________________________ -->
-
-<!-- Google Analytics -->
