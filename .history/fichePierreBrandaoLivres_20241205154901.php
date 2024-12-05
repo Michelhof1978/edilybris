@@ -204,94 +204,15 @@ Attention : ce recueil n'est plus disponible en version papier, uniquement en nu
             <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Cet ouvrage a été publié en 2001, par les éditions Cléa à Dijon. Une cinquantaine de textes a fait l'objet d'une interprétation musicale à l'occasion d'un spectacle donné à Surgères, par Music Art Diffusion (association présidée par Christian Méchin, directeur de l'école de musique de Surgères).<br><br>Bonne découverte !</p>
 
             <!-- Colonnes de texte -->
-            <div class="row mt-3">
+            <div class="row">
                 <div class="col-md-6">
-                    <h2>L'AMOUR A FLEUR D'AME : EXTRAITS</h2>
-                    <h4 class="h2Jaune">MARIN</h4>
-                    <p class="text-white">Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette ;
-Je suis le matelot qui s'enivre et se plie
-Criant à travers flots le dégoût ramolli,
-Dégoût à pâle écume où l'ombre se répète ...
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je voudrai contracter la poudre d'escampette !
-L’orage est violeur du plaisir de la fête,
-Je ne suis qu'un pauvre hère au hasard de folie,
-Trimballant la douleur d’un cœur trop démuni
-Sur la vague perfide à couleur de défaite !
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Il faudra bien qu'un jour je redresse la tête,
-Fièrement capitaine à bord de ma corvette !
-La mer m'entourera de ses bras si jolis,
-Je m'y noierai de grâce en buvant dans son lit,
-Et n'oublierai jamais qu'avant d'être poète,
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je rentrerai au port pour montrer mes conquêtes,
-Acclamé par les gars et de belles soubrettes ;
-Je me saoulerai d’aise en pensant que l’oubli
-Soit le plus odieux de mes flagrants délits !
-Faible je deviendrais attendant qu’on m’arrête…
-Je ne suis qu’un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je ne suis qu’un marin perdu dans la tempête,
-​Soufflant à cœur blessé le pleur de ma trompette…</p>
+                    <h
+                    <h4 class="h2Jaune">Extrait 1</h4>
+                    <p class="text-white">Voici un extrait du livre. Le texte s'étend sur plusieurs pages et explore des thèmes complexes de l'amour, des émotions et de la connexion humaine. L'écriture est poétique, profonde et remplie de sens, créant une atmosphère unique et captivante pour le lecteur.</p>
                 </div>
                 <div class="col-md-6">
-                    <h4 class="h2Jaune">CROIRE EN QUI ? </h4>
-                    <p class="text-white">Je ne suis qu’un enfant, ô mon Dieu,
-Pourtant je ne sais ce qu’on me veut :
-Ma mère me bat, mon père boit,
-Et il me faut croire en votre foi ?
-Dimanche jour sacré de l’église,
-Je pleure à la vie, à votre emprise !
-Tous les autres jours de la semaine
-Je pleure à votre éducation saine !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Enfin adolescent ô mon Dieu,
-Mon cœur se froisse de mieux en mieux :
-J’entends crier la voix d’un ami
-Qui ne veut penser perdre la vie !
-Et qui maudit tout bas ce visage
-Grave : c’est le curé du village !
-Je pleurerai toute ma pensée
-À ceux que la croyance offensait !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Quand je serai adulte, ô mon Dieu,
-Prêt à suivre le chemin radieux
-Que vous nous avez promis prochain,
-Que penserai-je de ces humains
-Cachés dans de profondes cellules ?
-Est-ce votre foi qui les stimule ?
-Je veux pleurer cette bannière
-Qu’est la liberté prisonnière !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Ridé c’est mon futur ô mon Dieu,
-À souffrir mon corps trop douloureux !
-À souffrir chaque jour d’une messe
-La voix de l’hypocrite promesse.
-À souffrir dans chaque partition
-La note aiguë de la confession ;
-Et à souffrir le dernier voyage
-D’un compagnon mort de son vieil âge !
-
-Il me faut croire en quoi, croire en qui,
-Pour que je ne dises plus : pour Qui ?</p>
+                    <h4 class="h2Jaune">Extrait 2</h4>
+                    <p class="text-white">Un autre extrait montre comment l'auteur utilise la musique et la poésie pour exprimer l'essence des relations humaines. Chaque texte est accompagné d'une réflexion qui invite à la contemplation, avec une fusion subtile entre les mots et la mélodie.</p>
                 </div>
             </div>
 

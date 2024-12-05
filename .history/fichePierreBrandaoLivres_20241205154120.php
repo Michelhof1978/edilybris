@@ -190,25 +190,12 @@ Attention : ce recueil n'est plus disponible en version papier, uniquement en nu
             </div>
         </div>
 
-       <!-- Carte 5 -->
-<div id="livre-5" class="livre livre-hidden">
-    <div class="livre-content">
-        <div class="livre-image">
-            <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture du livre 5">
-            <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
-        </div>
-        <div class="livre-details">
-            <h3 class="h2Jaune">L'AMOUR À FLEUR D'ÂME</h3>
-            <p><strong>ATTENTION : OUVRAGE ÉPUISÉ EN VERSION PAPIER <br>IL EXISTE UNE VERSION NUMÉRIQUE DES TEXTES SEULS ( PAS DE PARTITION NI DE CD)</strong></p>
-            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-            <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Cet ouvrage a été publié en 2001, par les éditions Cléa à Dijon. Une cinquantaine de textes a fait l'objet d'une interprétation musicale à l'occasion d'un spectacle donné à Surgères, par Music Art Diffusion (association présidée par Christian Méchin, directeur de l'école de musique de Surgères).<br><br>Bonne découverte !</p>
-
-            <!-- Colonnes de texte -->
-            <div class="row mt-3">
-                <div class="col-md-6">
-                    <h2>L'AMOUR A FLEUR D'AME : EXTRAITS</h2>
-                    <h4 class="h2Jaune">MARIN</h4>
-                    <p class="text-white">Je ne suis qu'un marin perdu dans la tempête,
+        <div id="livre-5" class="livre livre-hidden">
+    <div class="livre-details">
+        <h3 class="h2Jaune">L'AMOUR A FLEUR D'AME : EXTRAITS</h3>
+        <div class="colonnes">
+            <h2>MARIN</h2> <div class="colonne">
+                <p class="lead text-white">Je ne suis qu'un marin perdu dans la tempête,
 Soufflant à cœur blessé le pleur de ma trompette ;
 Je suis le matelot qui s'enivre et se plie
 Criant à travers flots le dégoût ramolli,
@@ -243,9 +230,8 @@ Soufflant à cœur blessé le pleur de ma trompette…
 Je ne suis qu’un marin perdu dans la tempête,
 ​Soufflant à cœur blessé le pleur de ma trompette…</p>
                 </div>
-                <div class="col-md-6">
-                    <h4 class="h2Jaune">CROIRE EN QUI ? </h4>
-                    <p class="text-white">Je ne suis qu’un enfant, ô mon Dieu,
+            <div class="colonne">
+            <p class="lead text-white">Je ne suis qu’un enfant, ô mon Dieu,
 Pourtant je ne sais ce qu’on me veut :
 Ma mère me bat, mon père boit,
 Et il me faut croire en votre foi ?
@@ -293,13 +279,9 @@ D’un compagnon mort de son vieil âge !
 Il me faut croire en quoi, croire en qui,
 Pour que je ne dises plus : pour Qui ?</p>
                 </div>
-            </div>
-
-            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
         </div>
     </div>
 </div>
-
 
         <!-- Carte 6 -->
         <div id="livre-6" class="livre livre-hidden">

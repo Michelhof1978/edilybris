@@ -190,116 +190,28 @@ Attention : ce recueil n'est plus disponible en version papier, uniquement en nu
             </div>
         </div>
 
-       <!-- Carte 5 -->
-<div id="livre-5" class="livre livre-hidden">
-    <div class="livre-content">
-        <div class="livre-image">
-            <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture du livre 5">
-            <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
-        </div>
-        <div class="livre-details">
-            <h3 class="h2Jaune">L'AMOUR À FLEUR D'ÂME</h3>
-            <p><strong>ATTENTION : OUVRAGE ÉPUISÉ EN VERSION PAPIER <br>IL EXISTE UNE VERSION NUMÉRIQUE DES TEXTES SEULS ( PAS DE PARTITION NI DE CD)</strong></p>
-            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-            <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Cet ouvrage a été publié en 2001, par les éditions Cléa à Dijon. Une cinquantaine de textes a fait l'objet d'une interprétation musicale à l'occasion d'un spectacle donné à Surgères, par Music Art Diffusion (association présidée par Christian Méchin, directeur de l'école de musique de Surgères).<br><br>Bonne découverte !</p>
-
-            <!-- Colonnes de texte -->
-            <div class="row mt-3">
-                <div class="col-md-6">
-                    <h2>L'AMOUR A FLEUR D'AME : EXTRAITS</h2>
-                    <h4 class="h2Jaune">MARIN</h4>
-                    <p class="text-white">Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette ;
-Je suis le matelot qui s'enivre et se plie
-Criant à travers flots le dégoût ramolli,
-Dégoût à pâle écume où l'ombre se répète ...
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je voudrai contracter la poudre d'escampette !
-L’orage est violeur du plaisir de la fête,
-Je ne suis qu'un pauvre hère au hasard de folie,
-Trimballant la douleur d’un cœur trop démuni
-Sur la vague perfide à couleur de défaite !
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Il faudra bien qu'un jour je redresse la tête,
-Fièrement capitaine à bord de ma corvette !
-La mer m'entourera de ses bras si jolis,
-Je m'y noierai de grâce en buvant dans son lit,
-Et n'oublierai jamais qu'avant d'être poète,
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je rentrerai au port pour montrer mes conquêtes,
-Acclamé par les gars et de belles soubrettes ;
-Je me saoulerai d’aise en pensant que l’oubli
-Soit le plus odieux de mes flagrants délits !
-Faible je deviendrais attendant qu’on m’arrête…
-Je ne suis qu’un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je ne suis qu’un marin perdu dans la tempête,
-​Soufflant à cœur blessé le pleur de ma trompette…</p>
+        <!-- Carte 5 -->
+        <div id="livre-5" class="livre livre-hidden">
+            <div class="livre-content">
+                <div class="livre-image">
+                    <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture du livre 5">
+               <!-- Ajout du prix sous l'image -->
+            <p class=" fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
                 </div>
-                <div class="col-md-6">
-                    <h4 class="h2Jaune">CROIRE EN QUI ? </h4>
-                    <p class="text-white">Je ne suis qu’un enfant, ô mon Dieu,
-Pourtant je ne sais ce qu’on me veut :
-Ma mère me bat, mon père boit,
-Et il me faut croire en votre foi ?
-Dimanche jour sacré de l’église,
-Je pleure à la vie, à votre emprise !
-Tous les autres jours de la semaine
-Je pleure à votre éducation saine !
+                <div class="livre-details">
+                    <h3 class="h2Jaune">L'AMOUR À FLEUR D'ÂME</h3>
+                    <p><strong>ATTENTION : OUVRAGE ÉPUISÉ EN VERSION PAPIER <br>
 
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
+IL EXISTE UNE VERSION NUMÉRIQUE DES TEXTES SEULS ( PAS DE PARTITION NI DE CD) </strong></p>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
+                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Cet ouvrage a été publié en 2001, par les éditions Cléa à Dijon. Une cinquantaine de textes a fait l'objet d'une interprétation musicale à l'occasion d'un spectacle donné à Surgères, par Music Art Diffusion (association présidée par Christian Méchin, directeur de l'école de musique de Surgères)
 
-Enfin adolescent ô mon Dieu,
-Mon cœur se froisse de mieux en mieux :
-J’entends crier la voix d’un ami
-Qui ne veut penser perdre la vie !
-Et qui maudit tout bas ce visage
-Grave : c’est le curé du village !
-Je pleurerai toute ma pensée
-À ceux que la croyance offensait !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Quand je serai adulte, ô mon Dieu,
-Prêt à suivre le chemin radieux
-Que vous nous avez promis prochain,
-Que penserai-je de ces humains
-Cachés dans de profondes cellules ?
-Est-ce votre foi qui les stimule ?
-Je veux pleurer cette bannière
-Qu’est la liberté prisonnière !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Ridé c’est mon futur ô mon Dieu,
-À souffrir mon corps trop douloureux !
-À souffrir chaque jour d’une messe
-La voix de l’hypocrite promesse.
-À souffrir dans chaque partition
-La note aiguë de la confession ;
-Et à souffrir le dernier voyage
-D’un compagnon mort de son vieil âge !
-
-Il me faut croire en quoi, croire en qui,
-Pour que je ne dises plus : pour Qui ?</p>
+Bonne découverte !</p>
+2
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
-
-            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
         </div>
-    </div>
-</div>
-
 
         <!-- Carte 6 -->
         <div id="livre-6" class="livre livre-hidden">

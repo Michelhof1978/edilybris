@@ -204,7 +204,7 @@ Attention : ce recueil n'est plus disponible en version papier, uniquement en nu
             <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Cet ouvrage a été publié en 2001, par les éditions Cléa à Dijon. Une cinquantaine de textes a fait l'objet d'une interprétation musicale à l'occasion d'un spectacle donné à Surgères, par Music Art Diffusion (association présidée par Christian Méchin, directeur de l'école de musique de Surgères).<br><br>Bonne découverte !</p>
 
             <!-- Colonnes de texte -->
-            <div class="row mt-3">
+            <div class="row mt-"">
                 <div class="col-md-6">
                     <h2>L'AMOUR A FLEUR D'AME : EXTRAITS</h2>
                     <h4 class="h2Jaune">MARIN</h4>
