@@ -1818,15 +1818,15 @@ input[type="email"]:focus {
 }
 /* FIN FORMULAIRE DE CONTACT*/
 
-/* BOUTONS CITATIONS*/
-.btnCitations{
-  background-color: #f7b500;
+/* */
+.btn-jaune-grande {
+  background-color: yellow;
   color: rgb(250, 245, 245);
   border: 1px solid #ccc;
   font-size: 1.5rem; /* Augmente la taille du texte */
-  padding: 10px 20px; /* Plus d'espace à l'intérieur */
+  padding: 20px 40px; /* Plus d'espace à l'intérieur */
   border-radius: 8px; /* Coins arrondis */
   display: inline-block;
   text-align: center;
 }
-/* FIN BOUTONS CITATIONS*/
+/* FIN FORMULAIRE DE CONTACT*/

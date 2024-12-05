@@ -75,7 +75,7 @@
 
                 <!-- Bouton centré et plus grand -->
                 <div class="text-center">
-                    <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
+                    <a href="fichePierreBrandaoCitations.php" class="btn"g: 15s: 8px;">Découvrir les citations</a>
                 </div>
             </div>
         </div>

@@ -73,9 +73,9 @@
                     Six recueils verront le jour, dont certains totalement épuisés. D'autres naîtront, à n'en pas douter ! Découvrons-les !
                 </p>
 
-                <!-- Bouton centré et plus grand -->
+                <!-- Bouton centré pour redirection -->
                 <div class="text-center">
-                    <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
+                    <a href="fichePierreBrandaoCitations.php" class="btn coloryellow" style="background-color: yellow; color: black; border: 1px solid #ccc;">Découvrir les citations</a>
                 </div>
             </div>
         </div>
