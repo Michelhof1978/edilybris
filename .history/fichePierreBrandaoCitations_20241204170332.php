@@ -1,13 +1,3 @@
-<?php include("head.php"); ?>
-
-<title>Pierre Brandao - Auteur</title>
-<meta name="description" content="Biographie et livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-
-</head>
-
-
-<?php include("header.php"); ?>
-
 <?php
 // Nombre de citations par ligne (2 par ligne)
 $citationsParLigne = 2;
@@ -311,7 +301,8 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 <!-- Section citations -->
 <section id="citations-section" class="citations text-white py-4">
     <div class="container">
-        <h2 class="h2Jaune text-center mt-4 mb-4">MAGASIN DE POÈMES À CHANTER</h2>
+        <h2 class="h2Jaune text-center mt-'
+         mb-4">MAGASIN DE POÈMES À CHANTER</h2>
         <div class="text-center">
             <img class="img-fluid w-25" src="images/poeme.png" alt="Image centrée">
         </div>
@@ -341,9 +332,3 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
 
     </div>
 </section>
-
-
-<?php include("footer.php"); ?>
-
-</body>
-</html>

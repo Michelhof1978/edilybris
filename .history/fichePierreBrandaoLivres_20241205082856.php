@@ -75,7 +75,7 @@
 
                 <!-- Bouton centré pour redirection -->
                 <div class="text-center">
-                    <a href="fichePierreBrandaoCitations.php" class="btn coloryellow">Découvrir les citations</a>
+                    <a href="fichePierreBrandaoCitations.php" class="btn colorYello" style="background-color: yellow; color: black; border: 1px solid #ccc;">Découvrir les citations</a>
                 </div>
             </div>
         </div>

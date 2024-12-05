@@ -8,12 +8,20 @@
 
 <?php include("header.php"); ?>
 
-
+<!-- Diviser l'écran en deux sections principales -->
+<div class="content-container">
+    <section class="main-section">
        
         <?php include("fichePierreBrandaoLivres.php"); ?>
-    
+    </section>
 
- 
+    <section class="main-section">
+        <
+        <?php include("fichePierreBrandaoCitations.php"); ?>
+    </section>
+</div>
+
+
 
 
 <?php include("footer.php"); ?>

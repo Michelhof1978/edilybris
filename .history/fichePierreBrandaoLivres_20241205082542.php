@@ -74,8 +74,8 @@
                 </p>
 
                 <!-- Bouton centré pour redirection -->
-                <div class="text-center">
-                    <a href="fichePierreBrandaoCitations.php" class="btn coloryellow">Découvrir les citations</a>
+                <div class="text-center coloryellow">
+                    <a href="/fichePierreBrandaoCitations.php" class="btn btn-primary">Découvrir les recueils</a>
                 </div>
             </div>
         </div>

@@ -53,35 +53,27 @@
 </div>
 
 <main>
-<section class="biographie">
-    <div class="containerAuteur">
-        <h2 class="h2Jaune">Biographie</h2>
+    <section class="biographie">
+        <div class="containerAuteur">
+            <h2 class="h2Jaune">Biographie</h2>
 
-        <!-- Section image et texte -->
-        <div class="bio-content">
-            <img src="images/pierreBrandao/pierreBrandao.png" alt="Pierre Brandao" class="img-fluid bio-image">
-            <div class="bio-text">
-                <p class="lead text-white">
-                    Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
+            <!-- Section image et texte -->
+            <div class="bio-content">
+                <img src="images/pierreBrandao/pierreBrandao.png" alt="Pierre Brandao" class="img-fluid bio-image">
+                <div class="bio-text">
+                    <p class="lead text-white">Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
                     Dès la primaire, séduit par la musicalité du vers, il rendait ses devoirs en utilisant la rime. <br>
                     À quinze ans, il rencontre un poète, Gilles Sorgel, qui se fait fort de lui montrer la voie en lui enseignant les règles de la versification. <br>
                     En lui demandant de vérifier l'absence de coquilles d'un ouvrage intitulé "Traité de prosodie à l'usage des classiques -et des dissidents", il s'assurait ainsi que le jeune poète acquérait des bases solides. <br>
-                    Bases qui lui ont permis, plusieurs années après, de rédiger en "vulgarisant" au mieux son propre traité de prosodie. <br>
+                    Bases qui lui ont permis, plusieurs années après, de rédiger en "vulgarisant" au mieux son propre traité de prosodie.
 
                     C'est dans l'essence de la vie que Pierre puise ses sources d'inspiration ; il a une sensibilité à fleur de peau et sa susceptibilité également martèle les poèmes. <br>
                     La poésie est un cri de l'âme, mais elle est également le vase dans lequel repose les soucis de l'existence. <br>
-                    Six recueils verront le jour, dont certains totalement épuisés. D'autres naîtront, à n'en pas douter ! Découvrons-les !
-                </p>
-
-                <!-- Bouton centré pour redirection -->
-                <div class="text-center">
-                    <a href="fichePierreBrandaoCitations.php" class="btn coloryellow">Découvrir les citations</a>
+                    Six recueils verront le jour, dont certains totalement épuisés. D'autres naîtront, à n'en pas douter ! Découvrons-les !</p>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-
+    </section>
 
     <section class="livres">
     <div class="containerAuteur">
@@ -206,14 +198,14 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
                 <div class="livre-image">
                     <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
                 <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
+            <p class=" fw-bold coloryellow mt-3 fs-4">15,00 €</p>
             <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
 
                 </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Titre du Livre 6</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
                     <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                 </div>
             </div>
