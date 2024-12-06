@@ -7,7 +7,7 @@
 <footer class="footer-section d-block d-md-none ">
     <div class="container">
         <!-- Section CTA -->
-        <div class="footer-cta1 pt-5 pb-5 text-center">
+        <div class="footer-cta pt-5 pb-5 text-center">
             <div class="row justify-content-center">
                 <div class="col-12 mb-4">
                     <div class="single-cta d-flex align-items-center justify-content-center">
@@ -108,7 +108,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid w-25">
+                    <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid ">
                     <div class="copyright-text">
                         <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
                     </div>

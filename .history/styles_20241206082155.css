@@ -303,67 +303,6 @@ width: 100%;
 
 }
 
-/* Style pour les icônes et le texte dans le footer */
-.footer-cta1 .row {
-  display: flex;
-  flex-wrap: wrap; /* Permet aux éléments de se réorganiser sur plusieurs lignes si nécessaire */
-  gap: 2rem; /* Espace entre chaque colonne */
-}
-
-.footer-cta1 .col {
-  flex: 1 1 100%; /* Assure que chaque élément prend toute la largeur disponible */
-  text-align: center;
-  display: flex;
-  align-items: center; /* Aligne les icônes et le texte verticalement */
-  justify-content: center;
-}
-
-.footer-cta1 i {
-  font-size: 1.5rem;
-  color: #ffcc00;
-  margin-right: 0.5rem;
-  display: inline-block;
-  vertical-align: middle; /* Assure que les icônes restent au même niveau que le texte */
-}
-
-.footer-cta1 span {
-  font-size: 1rem;
-  color: #d1d0d0;
-  display: inline-block;
-  vertical-align: middle;
-  line-height: 1.2; /* Ajuste l'espacement vertical si nécessaire */
-}
-
-/* Spécifique pour les écrans mobiles (jusqu'à 767px) */
-@media (max-width: 767px) {
-  /* Flexbox arrangera automatiquement les éléments en colonne sur les petits écrans */
-  .footer-cta1 .row {
-      flex-direction: column; /* Organise les éléments en colonne sur les petits écrans */
-      align-items: center;
-  }
-
-  /* Ajuste les marges des icônes et du texte */
-  .footer-cta1 .col {
-      flex: none; /* Enlève le comportement flexible et permet un centrage correct */
-      margin-bottom: 2rem; /* Ajoute un espace entre les éléments */
-  }
-
-  .footer-cta1 i {
-      font-size: 1.8rem; /* Augmente la taille des icônes sur mobile pour une meilleure lisibilité */
-  }
-
-  .footer-cta1 span {
-      font-size: 1.1rem; /* Augmente la taille du texte pour une meilleure visibilité */
-  }
-
-  /* Ajoutez plus de styles pour garantir que tout est bien lisible sur mobile */
-  .footer-cta1 h4 {
-      font-size: 1.2rem;
-      color: #fff;
-      margin-bottom: 0.5rem; /* Espacement entre le titre et le texte */
-  }
-}
-
 .footer-cta .row {
     display: flex;
     flex-wrap: nowrap; /* Empêche le retour à la ligne */
@@ -624,7 +563,7 @@ width: 100%;
 
 .harmonyDigitaFooter{
 
-  padding-bottom: -530px !important;
+  
 }
 /* END FOOTER */
 

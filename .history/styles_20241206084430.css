@@ -304,7 +304,7 @@ width: 100%;
 }
 
 /* Style pour les icônes et le texte dans le footer */
-.footer-cta1 .row {
+.footer-cta .row {
   display: flex;
   flex-wrap: wrap; /* Permet aux éléments de se réorganiser sur plusieurs lignes si nécessaire */
   gap: 2rem; /* Espace entre chaque colonne */

@@ -7,7 +7,7 @@
 <footer class="footer-section d-block d-md-none ">
     <div class="container">
         <!-- Section CTA -->
-        <div class="footer-cta1 pt-5 pb-5 text-center">
+        <div class="footer-cta pt-5 pb-5 text-center">
             <div class="row justify-content-center">
                 <div class="col-12 mb-4">
                     <div class="single-cta d-flex align-items-center justify-content-center">
