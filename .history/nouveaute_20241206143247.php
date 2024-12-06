@@ -25,8 +25,6 @@
 
 <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
 <!---------------------------------------------------------------->
-<!-- MODE MOBILE -->
-
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
 <div class="L-card-container mb-5 d-block d-md-none" id="L-group1">
     <div class="row">
@@ -129,8 +127,10 @@
     </div>
 </div>
 
+
+
 <!-- Boutons de navigation -->
-<div class="L-navigation d-block d-md-none">
+<div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>
