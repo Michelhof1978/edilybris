@@ -27,7 +27,9 @@
 <!---------------------------------------------------------------->
 <!-- MODE MOBILE -->
 
-<!-- Carrousel avec 6 cartes -->
+<!-- MODE MOBILE -->
+
+<!-- Groupe 1 - Affiché sur mobile uniquement -->
 <div id="L-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
     <!-- Carte 1 -->
@@ -76,7 +78,7 @@
     </div>
 
     <!-- Carte 4 -->
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <div class="L-card">
         <a href="link_to_book_G.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
@@ -91,7 +93,7 @@
     </div>
 
     <!-- Carte 5 -->
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <div class="L-card">
         <a href="link_to_book_D.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
@@ -106,7 +108,7 @@
     </div>
 
     <!-- Carte 6 -->
-    <div class="carousel-item">
+    <div class="carousel-item text-center">
       <div class="L-card">
         <a href="link_to_book_H.html">
           <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
@@ -132,9 +134,6 @@
   </button>
 </div>
 
-<!-- Include Bootstrap JS (Assurez-vous que Bootstrap JS est correctement lié) -->
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
 
 
 <!------------------------------------------------------------------------------>

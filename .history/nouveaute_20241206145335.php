@@ -27,7 +27,9 @@
 <!---------------------------------------------------------------->
 <!-- MODE MOBILE -->
 
-<!-- Carrousel avec 6 cartes -->
+<!-- MODE MOBILE -->
+
+<!-- Groupe 1 - Affiché sur mobile uniquement -->
 <div id="L-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
     <!-- Carte 1 -->
@@ -132,9 +134,6 @@
   </button>
 </div>
 
-<!-- Include Bootstrap JS (Assurez-vous que Bootstrap JS est correctement lié) -->
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
 
 
 <!------------------------------------------------------------------------------>
@@ -220,8 +219,8 @@
 
 
 <!-- Boutons de navigation -->
-<!-- <div class="L-navigation">
+<div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div> -->
+</div>
 

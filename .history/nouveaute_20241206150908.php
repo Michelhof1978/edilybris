@@ -27,11 +27,12 @@
 <!---------------------------------------------------------------->
 <!-- MODE MOBILE -->
 
-<!-- Carrousel avec 6 cartes -->
+<!-- Groupe 1 - Affiché sur mobile uniquement -->
+<!-- Groupe 1 - Affiché sur mobile uniquement -->
 <div id="L-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
     <!-- Carte 1 -->
-    <div class="carousel-item active">
+    <div class="carousel-item active d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_A.html">
           <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -46,7 +47,7 @@
     </div>
 
     <!-- Carte 2 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_B.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre B">
@@ -61,7 +62,7 @@
     </div>
 
     <!-- Carte 3 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_F.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -76,7 +77,7 @@
     </div>
 
     <!-- Carte 4 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_G.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
@@ -91,7 +92,7 @@
     </div>
 
     <!-- Carte 5 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_D.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
@@ -106,7 +107,7 @@
     </div>
 
     <!-- Carte 6 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_H.html">
           <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
@@ -132,10 +133,21 @@
   </button>
 </div>
 
-<!-- Include Bootstrap JS (Assurez-vous que Bootstrap JS est correctement lié) -->
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+<!-- Ajouter du CSS pour définir la largeur du carrousel -->
+<style>
+  #L-carousel .carousel-inner {
+    display: flex;
+    justify-content: center;
+  }
 
+  #L-carousel .carousel-item {
+    width: 100%; /* Assure que chaque élément du carrousel prend toute la largeur du parent */
+    max-width: 500px; /* Limite la largeur de l'élément (vous pouvez ajuster cette valeur) */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
 
 <!------------------------------------------------------------------------------>
 
