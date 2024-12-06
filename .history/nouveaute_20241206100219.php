@@ -21,13 +21,12 @@
     </div>
 </div>
 
-<!------------------------CARD NOUVEAUTE------------------------------->
+<!------------------------------------------------------------------------------>
 
 <h2 class="text-white text-center m-4">Nos dernières nouveautés</h2>
-<!----------------------------------->
-<!-- MODE MOBILE-->
-<!-- Groupe 1 -->
-<!-- Groupe 1 (Visible uniquement sur mobile) -->
+
+<!-- MODE MOBILE -->
+<!-- Groupe 1 (visible uniquement en mobile) -->
 <div class="L-card-container mb-5 d-block d-md-none" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
@@ -51,10 +50,6 @@
             </div>
         </a>
     </div>
-</div>
-
-<!-- Groupe 2 (Visible uniquement sur mobile) -->
-<div class="L-card-container mb-5 d-block d-md-none" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_D.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
@@ -66,6 +61,10 @@
             </div>
         </a>
     </div>
+</div>
+
+<!-- Groupe 2 (visible uniquement en desktop) -->
+<div class="L-card-container d-none d-md-block" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -77,10 +76,6 @@
             </div>
         </a>
     </div>
-</div>
-
-<!-- Groupe 3 (Visible uniquement sur mobile) -->
-<div class="L-card-container mb-5 d-block d-md-none" id="L-group3">
     <div class="L-card">
         <a href="link_to_book_G.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
@@ -105,18 +100,17 @@
     </div>
 </div>
 
-<!-- Boutons de navigation (Visible uniquement sur mobile) -->
-<div class="L-navigation d-block d-md-none">
+<!-- Boutons de navigation -->
+<div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>
 
 
-<!----------------------------------->
 
 <!-- MODE DESKTOP-->
 <!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group1">
+<!-- <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -152,10 +146,10 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
+<!-- <div class="L-card-container L-hidden" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -190,12 +184,12 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 
 <!-- Boutons de navigation -->
-<div class="L-navigation">
+<!-- <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div>
+</div> -->
 

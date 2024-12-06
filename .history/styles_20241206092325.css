@@ -658,6 +658,67 @@ width: 100%;
 
   /* FIN COOKIES */
 
+/* NOUVEAUTE CARD*/
+/* Nouvelle classe pour une carte spéciale */
+.special-card {
+  background-color: #2e2e2e; /* Un ton plus clair que le fond original */
+  border-radius: 15px; /* Plus de rayon sur les coins */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Effet de survol */
+}
+
+/* Effet sur le survol */
+.special-card:hover {
+  transform: scale(1.05); /* Légère agrandissement */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Ombre plus marquée */
+}
+
+/* Badge d'édition et popularité */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  background-color: #e50914;
+  color: white;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+/* Style pour l'étoile de notation */
+.rating {
+  margin-top: 10px;
+}
+
+.star {
+  color: #ffd700;
+  font-size: 1.2rem;
+}
+
+.book-price {
+  color: #f6e400;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* Modifications sur les titres et les descriptions */
+.book-title {
+  font-size: 1.1rem;
+  color: #e50914;
+}
+
+.book-author {
+  font-size: 0.9rem;
+  color: #fff;
+}
+
+.book-description {
+  font-size: 0.85rem;
+  margin-top: 5px;
+  color: #d1d1d1;
+}
+
+/* FIN NOUVEAUTE CARD*/
+
 /* lIVRES PROMO*/
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
@@ -1827,7 +1888,7 @@ input[type="email"]:focus {
 /* FIN BOUTONS CITATIONS*/
 
 .videoCommandeMobile{
-  margin-top: -200px;
+  margin-top: -150px;
   margin-bottom: -1000px ;
  
 }

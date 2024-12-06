@@ -658,6 +658,52 @@ width: 100%;
 
   /* FIN COOKIES */
 
+/* NOUVEAUTE CARD*/
+.netflix-card {
+    background-color: #141414;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 14rem; /* Taille réduite */
+}
+.netflix-card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 150px; /* Réduction de la hauteur de l'image */
+    object-fit: cover;
+}
+.netflix-card .card-body {
+    text-align: center;
+    padding: 0.75rem; /* Réduction du padding */
+}
+.netflix-card .card-title {
+    font-size: 1rem; /* Taille du titre réduite */
+}
+.netflix-card .card-text {
+    font-size: 0.9rem; /* Taille du texte réduite */
+}
+.netflix-card .card-price {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #e50914;
+}
+
+/* Style pour le lien et le contenu du livre */
+.book-cover {
+    width: 100%;
+    border-radius: 10px;
+}
+.book-details {
+    text-align: center;
+    padding: 10px;
+    background-color: #1E3A5F;
+    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+/* FIN NOUVEAUTE CARD*/
+
 /* lIVRES PROMO*/
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
@@ -1826,8 +1872,17 @@ input[type="email"]:focus {
 }
 /* FIN BOUTONS CITATIONS*/
 
-.videoCommandeMobile{
-  margin-top: -200px;
-  margin-bottom: -1000px ;
- 
-}
+@media (max-width: 767px) {
+        .vh-100 {
+            height: 100vh !important; /* Assure que la vidéo occupe toute la hauteur */
+        }
+        .position-relative {
+            height: auto; /* Désactive la hauteur fixe du conteneur */
+        }
+        .w-100 {
+            width: 100%; /* Remplit tout l'espace horizontal */
+        }
+        .video {
+            object-fit: contain; /* Permet à la vidéo de s'ajuster sans être coupée */
+        }
+    }

@@ -658,6 +658,112 @@ width: 100%;
 
   /* FIN COOKIES */
 
+/* NOUVEAUTE CARD*/
+/* Base style for all cards */
+.netflix-card-1, .netflix-card-2, .netflix-card-3 {
+  background-color: #141414;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  width: 100%; /* Full width */
+  max-width: 14rem; /* Limit size */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden; /* Hide overflowing content */
+}
+
+/* Specific styles for each card */
+.netflix-card-1 {
+  border: 2px solid #e50914; /* Red border for the first card */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Light shadow */
+}
+
+.netflix-card-2 {
+  border-radius: 15px; /* Rounded corners for the second card */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5); /* Stronger shadow */
+  transform: scale(1); /* Slightly different effect on hover */
+}
+
+.netflix-card-3 {
+  border: 2px dashed #f0f0f0; /* Dashed border for the third card */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); /* Medium shadow */
+}
+
+/* Hover effects for cards */
+.netflix-card-1:hover, .netflix-card-2:hover, .netflix-card-3:hover {
+  transform: scale(1.05); /* Slightly enlarge on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Stronger shadow on hover */
+}
+
+/* Image of the book */
+.book-cover {
+  width: 100%;
+  height: 180px; /* Set image height */
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+/* Book details styling */
+.book-details {
+  padding: 15px;
+  background-color: #1E3A5F;
+  color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+/* Title styling */
+.book-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #e50914;
+  margin-bottom: 5px;
+}
+
+/* Author styling */
+.book-author {
+  font-size: 1rem;
+  color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+/* Description styling */
+.book-description {
+  font-size: 0.9rem;
+  color: #d1d1d1;
+  margin-bottom: 10px;
+}
+
+/* Price styling */
+.book-price {
+  font-size: 1.1rem;
+  color: #e50914;
+  font-weight: bold;
+}
+
+/* Responsive: Cards layout for medium screens */
+@media (max-width: 991px) {
+  .carousel-inner {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+  .netflix-card-1, .netflix-card-2, .netflix-card-3 {
+      width: 45%; /* 2 cards per row */
+      margin: 10px;
+  }
+}
+
+/* Responsive: Cards layout for small screens */
+@media (max-width: 576px) {
+  .netflix-card-1, .netflix-card-2, .netflix-card-3 {
+      width: 100%; /* 1 card per row */
+      margin: 10px 0;
+  }
+}
+
+/* FIN NOUVEAUTE CARD*/
+
 /* lIVRES PROMO*/
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
@@ -1827,7 +1933,7 @@ input[type="email"]:focus {
 /* FIN BOUTONS CITATIONS*/
 
 .videoCommandeMobile{
-  margin-top: -200px;
+  margin-top: -150px;
   margin-bottom: -1000px ;
  
 }

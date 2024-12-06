@@ -27,8 +27,8 @@
 <!----------------------------------->
 <!-- MODE MOBILE-->
 <!-- Groupe 1 -->
-<!-- Groupe 1 (Visible uniquement sur mobile) -->
-<div class="L-card-container mb-5 d-block d-md-none" id="L-group1">
+<!-- Groupe 1 (Mobile uniquement) -->
+<div class="L-card-container mb-5 L-mobile-only" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -53,8 +53,8 @@
     </div>
 </div>
 
-<!-- Groupe 2 (Visible uniquement sur mobile) -->
-<div class="L-card-container mb-5 d-block d-md-none" id="L-group2">
+<!-- Groupe 2 (Mobile uniquement) -->
+<div class="L-card-container mb-5 L-mobile-only L-hidden" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_D.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
@@ -79,8 +79,8 @@
     </div>
 </div>
 
-<!-- Groupe 3 (Visible uniquement sur mobile) -->
-<div class="L-card-container mb-5 d-block d-md-none" id="L-group3">
+<!-- Groupe 3 (Mobile uniquement) -->
+<div class="L-card-container mb-5 L-mobile-only L-hidden" id="L-group3">
     <div class="L-card">
         <a href="link_to_book_G.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
@@ -105,8 +105,8 @@
     </div>
 </div>
 
-<!-- Boutons de navigation (Visible uniquement sur mobile) -->
-<div class="L-navigation d-block d-md-none">
+<!-- Boutons de navigation (Mobile uniquement) -->
+<div class="L-navigation L-mobile-only">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>

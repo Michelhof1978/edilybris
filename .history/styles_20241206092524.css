@@ -658,6 +658,97 @@ width: 100%;
 
   /* FIN COOKIES */
 
+/* NOUVEAUTE CARD*/
+/* Style de la carte de base */
+.netflix-card {
+  background-color: #141414;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  width: 100%; /* Full width pour responsivité */
+  max-width: 14rem; /* Limite la taille maximale pour les grandes résolutions */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Effet sur le survol */
+  overflow: hidden; /* Cache tout débordement */
+}
+
+/* Effet sur le survol : Légère expansion */
+.netflix-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Ombre plus nette au survol */
+}
+
+/* Image de la carte */
+.netflix-card img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 180px; /* Augmente la hauteur pour l'image */
+  object-fit: cover;
+}
+
+/* Contenu de la carte */
+.book-details {
+  text-align: center;
+  padding: 15px;
+  background-color: #1E3A5F;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+/* Titre du livre */
+.book-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #e50914;
+  margin-bottom: 5px;
+}
+
+/* Auteur du livre */
+.book-author {
+  font-size: 1rem;
+  color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+/* Description du livre */
+.book-description {
+  font-size: 0.9rem;
+  color: #d1d1d1;
+  margin-bottom: 10px;
+}
+
+/* Prix du livre */
+.book-price {
+  font-size: 1.1rem;
+  color: #e50914;
+  font-weight: bold;
+}
+
+/* Responsive : carte sur 2 colonnes pour les écrans de taille moyenne */
+@media (max-width: 991px) {
+  .carousel-inner {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+
+  .netflix-card {
+      margin: 10px;
+      width: 45%; /* 2 cartes par ligne */
+  }
+}
+
+/* Responsive : carte sur 1 colonne pour les petits écrans */
+@media (max-width: 576px) {
+  .netflix-card {
+      margin: 10px;
+      width: 100%; /* 1 carte par ligne */
+  }
+}
+
+/* FIN NOUVEAUTE CARD*/
+
 /* lIVRES PROMO*/
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
@@ -1827,7 +1918,7 @@ input[type="email"]:focus {
 /* FIN BOUTONS CITATIONS*/
 
 .videoCommandeMobile{
-  margin-top: -200px;
+  margin-top: -150px;
   margin-bottom: -1000px ;
  
 }

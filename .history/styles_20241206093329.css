@@ -658,6 +658,105 @@ width: 100%;
 
   /* FIN COOKIES */
 
+/* NOUVEAUTE CARD*/
+.carousel-container {
+  position: relative;
+  width: 90%;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.group {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.card {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+button {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 24px;
+  z-index: 10;
+}
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.prev {
+  left: 10px;
+  transform: translateY(-50%);
+}
+
+.next {
+  right: 10px;
+  transform: translateY(-50%);
+}
+
+@media (max-width: 768px) {
+  .group {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 150px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 120px;
+    height: 200px;
+  }
+}
+
+/* Style pour le lien et le contenu du livre */
+.book-cover {
+    width: 100%;
+    border-radius: 10px;
+}
+.book-details {
+    text-align: center;
+    padding: 10px;
+    background-color: #1E3A5F;
+    color: white; /* Le texte en blanc ressort bien sur un fond foncé */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre douce pour un effet 3D */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+/* FIN NOUVEAUTE CARD*/
+
 /* lIVRES PROMO*/
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
