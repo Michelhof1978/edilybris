@@ -28,10 +28,11 @@
 <!-- MODE MOBILE -->
 
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
+<!-- Carrousel avec 6 cartes -->
 <div id="L-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
     <!-- Carte 1 -->
-    <div class="carousel-item active">
+    <div class="carousel-item active d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_A.html">
           <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -46,7 +47,7 @@
     </div>
 
     <!-- Carte 2 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_B.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre B">
@@ -61,7 +62,7 @@
     </div>
 
     <!-- Carte 3 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_F.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -76,7 +77,7 @@
     </div>
 
     <!-- Carte 4 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_G.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
@@ -91,7 +92,7 @@
     </div>
 
     <!-- Carte 5 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_D.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
@@ -106,7 +107,7 @@
     </div>
 
     <!-- Carte 6 -->
-    <div class="carousel-item">
+    <div class="carousel-item d-flex justify-content-center align-items-center">
       <div class="L-card">
         <a href="link_to_book_H.html">
           <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
@@ -132,14 +133,21 @@
   </button>
 </div>
 
+<!-- Include Bootstrap JS (Assurez-vous que Bootstrap JS est correctement lié) -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
 
+<!-- Style CSS -->
+<style>
+  
+</style>
 
 <!------------------------------------------------------------------------------>
 
 
 <!-- MODE DESKTOP-->
 <!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group1">
+<!-- <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -175,10 +183,10 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
+<!-- <div class="L-card-container L-hidden" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -213,12 +221,12 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 
 <!-- Boutons de navigation -->
-<div class="L-navigation">
+<!-- <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div>
+</div> -->
 

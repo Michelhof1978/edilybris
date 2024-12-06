@@ -28,13 +28,14 @@
 <!-- MODE MOBILE -->
 
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
-<div id="L-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
+    
     <!-- Carte 1 -->
     <div class="carousel-item active">
       <div class="L-card">
         <a href="link_to_book_A.html">
-          <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
+          <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="d-block w-100" alt="Livre A">
           <div class="L-card-content">
             <div class="L-card-title">L'écho des collines</div>
             <div class="L-card-author">Alice Dubois</div>
@@ -49,7 +50,7 @@
     <div class="carousel-item">
       <div class="L-card">
         <a href="link_to_book_B.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre B">
+          <img src="images/pierreBrandao/luciolesMagiques.png" class="d-block w-100" alt="Livre B">
           <div class="L-card-content">
             <div class="L-card-title">Les murmures du temps</div>
             <div class="L-card-author">Bertrand Martin</div>
@@ -64,7 +65,7 @@
     <div class="carousel-item">
       <div class="L-card">
         <a href="link_to_book_F.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
+          <img src="images/pierreBrandao/luciolesMagiques.png" class="d-block w-100" alt="Livre F">
           <div class="L-card-content">
             <div class="L-card-title">La lumière des ombres</div>
             <div class="L-card-author">Fabien Leclerc</div>
@@ -79,7 +80,7 @@
     <div class="carousel-item">
       <div class="L-card">
         <a href="link_to_book_G.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
+          <img src="images/pierreBrandao/luciolesMagiques.png" class="d-block w-100" alt="Livre G">
           <div class="L-card-content">
             <div class="L-card-title">Les vagues éternelles</div>
             <div class="L-card-author">Gabrielle Blanc</div>
@@ -93,23 +94,8 @@
     <!-- Carte 5 -->
     <div class="carousel-item">
       <div class="L-card">
-        <a href="link_to_book_D.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
-          <div class="L-card-content">
-            <div class="L-card-title">Sous les cyprès</div>
-            <div class="L-card-author">Diane Morel</div>
-            <div class="L-card-description">Un roman poétique entre amour et nature.</div>
-            <div class="L-card-price">14,99 €</div>
-          </div>
-        </a>
-      </div>
-    </div>
-
-    <!-- Carte 6 -->
-    <div class="carousel-item">
-      <div class="L-card">
         <a href="link_to_book_H.html">
-          <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
+          <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="d-block w-100" alt="Livre H">
           <div class="L-card-content">
             <div class="L-card-title">Le chant des cendres</div>
             <div class="L-card-author">Henri Dupont</div>
@@ -119,27 +105,26 @@
         </a>
       </div>
     </div>
+    
   </div>
 
   <!-- Contrôles de navigation -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#L-carousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Précédent</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#L-carousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Suivant</span>
   </button>
 </div>
-
-
 
 <!------------------------------------------------------------------------------>
 
 
 <!-- MODE DESKTOP-->
 <!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group1">
+<!-- <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -175,10 +160,10 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
+<!-- <div class="L-card-container L-hidden" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -213,12 +198,12 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 
 <!-- Boutons de navigation -->
-<div class="L-navigation">
+<!-- <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div>
+</div> -->
 

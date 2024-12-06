@@ -28,8 +28,9 @@
 <!-- MODE MOBILE -->
 
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
+<!-- Carrousel avec 6 cartes -->
 <div id="L-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
-  <div class="carousel-inner">
+  <div class="carousel-inner text-center">
     <!-- Carte 1 -->
     <div class="carousel-item active">
       <div class="L-card">
@@ -133,13 +134,12 @@
 </div>
 
 
-
 <!------------------------------------------------------------------------------>
 
 
 <!-- MODE DESKTOP-->
 <!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group1">
+<!-- <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -175,10 +175,10 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
+<!-- <div class="L-card-container L-hidden" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -213,12 +213,12 @@
         </a>
     </div>
     
-</div>
+</div> -->
 
 
 <!-- Boutons de navigation -->
-<div class="L-navigation">
+<!-- <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div>
+</div> -->
 
