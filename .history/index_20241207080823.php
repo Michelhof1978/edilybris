@@ -74,9 +74,6 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
       <!-- Texte principal -->
       <div class="col-12 col-md-8">
         <div class="text-center py-5 rounded-4 p-2 fond-text">
-        <div class="text-center">
-        <img class="img-fluid w-50 mb-4" src="images/livres2.png" alt="Image centrée">
-    </div>
           <h3 class="mb-4">Bienvenue sur le site de notre association</h3>
           <p class="lead mb-4">
             Notre association a pour mission de promouvoir la lecture...

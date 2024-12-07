@@ -61,22 +61,16 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
  <?php include("nouveaute.php"); ?>
 
- 
-
- <!--MODE MOBILE -->
  <div class="text-center">
-        <img class="img-fluid w-75 mt-5" src="images/livresEtagere.png" alt="Image centrée">
+        <img class="img-fluid w-25" src="images/livreIndex.png" alt="Image centrée">
     </div>
-
+ <!--MODE MOBILE -->
  <div class="d-block d-md-none d-flex flex-column align-items-center justify-content-center min-vh-100">
     <div class="container">
     <div class="row justify-content-center">
       <!-- Texte principal -->
       <div class="col-12 col-md-8">
         <div class="text-center py-5 rounded-4 p-2 fond-text">
-        <div class="text-center">
-        <img class="img-fluid w-50 mb-4" src="images/livres2.png" alt="Image centrée">
-    </div>
           <h3 class="mb-4">Bienvenue sur le site de notre association</h3>
           <p class="lead mb-4">
             Notre association a pour mission de promouvoir la lecture...
