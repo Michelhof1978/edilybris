@@ -17,10 +17,10 @@
             </div>
         </div>
 
-        <nav class="navbar navbar-expand-md mt-2">
+        <nav class="navbar navbar-expand-md">
             <div class="container-fluid">
                 <!-- Bouton hamburger -->
-                <button class="navbar-toggler custom-toggler mx-auto " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler custom-toggler mx-auto coloryellow" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 

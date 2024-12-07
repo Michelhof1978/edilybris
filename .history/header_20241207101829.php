@@ -1,8 +1,3 @@
-<?php
-    // Constantes pour les URLs
-    define('', '');
-?>
-
 <header>
     <div class="">
         <div class="navbar-brand">
@@ -10,8 +5,8 @@
                 <!-- Logo et titre -->
                 <a class="navbar-brand ms-2 logo w-100" href="index.php">
                     <img src="images/logo.jpg" alt="Logo Edi'lybris" class="img-fluid logo" style="height: 50px; width: auto;">
-                    <strong class="text-white nav-brand-logo ">
-                        <span class="">Edi'lybris</span>
+                    <strong class="text-white nav-brand-logo">
+                        <span>Edi'lybris</span>
                     </strong>
                 </a>
             </div>
@@ -20,7 +15,7 @@
         <nav class="navbar navbar-expand-md mt-2">
             <div class="container-fluid">
                 <!-- Bouton hamburger -->
-                <button class="navbar-toggler custom-toggler mx-auto " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler custom-toggler mx-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
@@ -44,8 +39,10 @@
             </div>
         </nav>
     </div>
-    <div id="special-header">
-        <video autoplay muted id="video-bg" playsinline>
+
+    <!-- Section de la vidéo en mode responsive -->
+    <div id="special-header" class="embed-responsive embed-responsive-16by9">
+        <video autoplay muted loop class="embed-responsive-item" playsinline>
             <source src="videos/banner.mp4" type="video/mp4">
             Votre navigateur ne supporte pas la vidéo.
         </video>

@@ -306,7 +306,14 @@ header {
         align-items: center;
     }
 
-   
+    #special-header {
+        height: 25vh;
+    }
+
+    #logo-container img {
+        max-width: 20vh;
+        padding-top: 30px;
+    }
 
 
    

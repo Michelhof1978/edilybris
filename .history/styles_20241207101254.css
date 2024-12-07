@@ -306,10 +306,22 @@ header {
         align-items: center;
     }
 
-   
+    #special-header {
+        height: 25vh;
+    }
+
+    #logo-container img {
+        max-width: 20vh;
+        padding-top: 30px;
+    }
 
 
-   
+    .nav-brand-logo {
+        font-size: 25px;
+        font-family: "Special Elite", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
 }
 
 /* FOOTER */

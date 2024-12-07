@@ -213,12 +213,7 @@
             </div>
         </a>
     </div>
-    </div>
-<!-- Boutons de navigation -->
-<div class="L-navigation">
-    <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
-    <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div>
+    
 </div>
 
 

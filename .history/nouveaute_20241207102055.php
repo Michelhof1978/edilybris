@@ -121,19 +121,6 @@
     </div>
   </div>
 
-  <!-- Contrôles de navigation -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#book-carousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Précédent</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#book-carousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Suivant</span>
-  </button>
-</div>
-
-
-
 <!------------------------------------------------------------------------------>
 
 
@@ -213,13 +200,13 @@
             </div>
         </a>
     </div>
-    </div>
+    
+</div>
+
+</div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>
-</div>
-
-
 
