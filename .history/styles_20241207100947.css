@@ -243,40 +243,6 @@ header {
     .navbar-brand {
         text-align: center;
     }
-    
-/* Centrer l'image du logo sur les petits écrans */
-@media (max-width: 767px) {
-  .navbar-brand {
-      display: flex;
-      justify-content: center; /* Centrer horizontalement */
-      align-items: center; /* Centrer verticalement */
-      width: 100%;
-  }
-
-  .navbar-brand .logo {
-      height: 50px; /* Garder la hauteur du logo */
-      width: auto; /* Laisser la largeur s'ajuster pour garder les proportions */
-  }
-
-  /* Optionnel: centrer le texte à côté du logo si nécessaire */
-  .navbar-brand .text-white {
-      margin-left: 10px; /* Un petit espace entre le logo et le texte */
-  }
-
-  /* Centrer le menu de navigation pour les petits écrans */
-  .navbar-collapse {
-      text-align: center;
-  }
-
-  .navbar-nav {
-      width: 100%;
-  }
-
-  .navbar-nav .nav-item {
-      display: inline-block;
-      margin: 0 10px;
-  }
-}
 
     .navbar-toggler {
         margin-bottom: 1rem;

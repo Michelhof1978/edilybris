@@ -243,7 +243,6 @@ header {
     .navbar-brand {
         text-align: center;
     }
-    
 /* Centrer l'image du logo sur les petits écrans */
 @media (max-width: 767px) {
   .navbar-brand {
