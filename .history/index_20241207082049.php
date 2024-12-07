@@ -9,7 +9,7 @@
  <h1 class="text-white text-center m-4">Association d'Edi'lybris <br></h1>
 
  <div class="text-center">
-        <img class="img-fluid w-25" src="images/livreIndex.png" alt="Livres en illustation">
+        <img class="img-fluid w-25" src="images/livreIndex.png" alt="Livres">
     </div>
   
   <!-- PRESENTATION AUTEURS -->
@@ -32,27 +32,27 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
           class="img-fluid item imgAuteurIndex"
           src="images/annieBrunetot/annieBrunetot.jpg"
           style="--i: 2"
-          alt="Photo écrivain" />
+          alt="" />
         <span class="item" style="--i: 3"></span>
         <img
           class="img-fluid item imgAuteurIndex"
           src="images/pierreBrandao/pierreBrandao.png"
           style="--i: 4"
-          alt="Photo écrivain" />
+          alt="" />
 
         <img
           class="img-fluid item imgAuteurIndex"
           src="images/gillesHerve/gillesHerve.png"
           style="--i: 10"
-          alt="Photo écrivain" /> 
+          alt="" /> 
         <span class="item" style="--i: 11"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="" />
         <span class="item" style="--i: 5"></span>
 
         <span class="item" style="--i: 9"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
         <span class="item" style="--i: 7"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
       </div>
     </section>
 
@@ -65,7 +65,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
  <!--MODE MOBILE -->
  <div class="text-center">
-        <img class="img-fluid w-75 mt-5" src="images/livresEtagere.png" alt="Livres en illustation">
+        <img class="img-fluid w-75 mt-5" src="images/livresEtagere.png" alt="Image centrée">
     </div>
 
  <div class="d-block d-md-none d-flex flex-column align-items-center justify-content-center min-vh-100">
@@ -75,7 +75,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
       <div class="col-12 col-md-8">
         <div class="text-center py-5 rounded-4 p-2 fond-text">
         <div class="text-center">
-        <img class="img-fluid w-50 mb-4" src="images/livres2.png" alt="Livres en illustation">
+        <img class="img-fluid w-50 mb-4" src="images/livres2.png" alt="Image centrée">
     </div>
           <h3 class="mb-4">Bienvenue sur le site de notre association</h3>
           <p class="lead mb-4">
@@ -132,7 +132,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
     <!-- Image -->
     <div class="col-12 col-md-4 d-flex justify-content-center align-items-center ">
-      <img src="images/livreIndex2.png" alt="Livres en illustation" class="img-fluid" />
+      <img src="images/livreIndex2.png" alt="Image" class="img-fluid" />
     </div>
   </div>
 </div>

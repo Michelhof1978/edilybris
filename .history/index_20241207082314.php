@@ -52,7 +52,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         <span class="item" style="--i: 9"></span>
         <img class="img-fluid item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="Photo écrivain" />
         <span class="item" style="--i: 7"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
       </div>
     </section>
 

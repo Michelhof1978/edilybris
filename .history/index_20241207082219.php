@@ -32,27 +32,27 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
           class="img-fluid item imgAuteurIndex"
           src="images/annieBrunetot/annieBrunetot.jpg"
           style="--i: 2"
-          alt="Photo écrivain" />
+          alt="photo " />
         <span class="item" style="--i: 3"></span>
         <img
           class="img-fluid item imgAuteurIndex"
           src="images/pierreBrandao/pierreBrandao.png"
           style="--i: 4"
-          alt="Photo écrivain" />
+          alt="" />
 
         <img
           class="img-fluid item imgAuteurIndex"
           src="images/gillesHerve/gillesHerve.png"
           style="--i: 10"
-          alt="Photo écrivain" /> 
+          alt="" /> 
         <span class="item" style="--i: 11"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/patriciaScharff/patriciaScharff.png" style="--i: 12" alt="" />
         <span class="item" style="--i: 5"></span>
 
         <span class="item" style="--i: 9"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" style="--i: 8" alt="" />
         <span class="item" style="--i: 7"></span>
-        <img class="img-fluid item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="Photo écrivain" />
+        <img class="img-fluid item imgAuteurIndex" src="images/christinekunz/christinekunz.png" style="--i: 6" alt="" />
       </div>
     </section>
 
