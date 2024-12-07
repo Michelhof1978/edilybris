@@ -137,10 +137,9 @@
 <!------------------------------------------------------------------------------>
 
 
-<!-- MODE DESKTOP-->
-<div class="d-none d-md-block">
+<!-- MODE DESKTOP -->
 <!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group1">
+<div class="L-card-container mb-5 d-none d-md-block" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -175,11 +174,10 @@
             </div>
         </a>
     </div>
-    
 </div>
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
+<div class="L-card-container L-hidden d-none d-md-block" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -213,13 +211,10 @@
             </div>
         </a>
     </div>
-    
 </div>
 
-</div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>
-

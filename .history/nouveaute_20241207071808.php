@@ -137,8 +137,7 @@
 <!------------------------------------------------------------------------------>
 
 
-<!-- MODE DESKTOP-->
-<div class="d-none d-md-block">
+<!-- MODE DESKTOP -->
 <!-- Groupe 1 -->
 <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
@@ -175,7 +174,6 @@
             </div>
         </a>
     </div>
-    
 </div>
 
 <!-- Groupe 2 -->
@@ -213,13 +211,10 @@
             </div>
         </a>
     </div>
-    
 </div>
 
-</div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>
-

@@ -138,7 +138,6 @@
 
 
 <!-- MODE DESKTOP-->
-<div class="d-none d-md-block">
 <!-- Groupe 1 -->
 <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
@@ -216,7 +215,7 @@
     
 </div>
 
-</div>
+
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>

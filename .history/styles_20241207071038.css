@@ -791,7 +791,6 @@ width: 100%;
   color: inherit;  /* Hériter de la couleur du texte */
 }
 
-
 /* FIN CARDS L*/
 
 /* CARDS XL */
@@ -1836,7 +1835,7 @@ input[type="email"]:focus {
 }
 
 
-/* CARDS MOBILE*/
+/* */
 /* Définition de la structure des cartes */
 .book-card-container {
   display: flex;

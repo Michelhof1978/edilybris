@@ -791,6 +791,19 @@ width: 100%;
   color: inherit;  /* Hériter de la couleur du texte */
 }
 
+/* Cacher le groupe 2 sur mobile */
+@media (max-width: 768px) {
+  #L-group2 {
+      display: none; /* Cache le groupe 2 sur mobile */
+  }
+}
+
+/* Afficher le groupe 2 sur desktop */
+@media (min-width: 769px) {
+  #L-group2 {
+      display: block; /* Affiche le groupe 2 sur desktop */
+  }
+}
 
 /* FIN CARDS L*/
 

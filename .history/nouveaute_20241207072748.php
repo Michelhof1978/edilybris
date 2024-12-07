@@ -216,7 +216,7 @@
     
 </div>
 
-</div>
+
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>

@@ -137,89 +137,94 @@
 <!------------------------------------------------------------------------------>
 
 
-<!-- MODE DESKTOP-->
-<div class="d-none d-md-block">
-<!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group1">
-    <div class="L-card">
-        <a href="link_to_book_A.html">
-            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
-            <div class="L-card-content">
-                <div class="L-card-title">L'écho des collines</div>
-                <div class="L-card-author">Alice Dubois</div>
-                <div class="L-card-description">Une histoire captivante au cœur des montagnes.</div>
-                <div class="L-card-price">16,99 €</div>
+<!-- MODE DESKTOP -->
+<div class="container-fluid d-none d-lg-block">
+    <div class="row mb-4" id="group1">
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <a href="link_to_book_A.html" class="text-decoration-none text-dark">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="card-img-top img-fluid" alt="Livre A">
+                    <div class="card-body">
+                        <h5 class="card-title">L'écho des collines</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Alice Dubois</h6>
+                        <p class="card-text">Une histoire captivante au cœur des montagnes.</p>
+                        <div class="fw-bold text-success">16,99 €</div>
+                    </div>
+                </a>
             </div>
-        </a>
-    </div>
-    <div class="L-card">
-        <a href="link_to_book_B.html">
-            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre B">
-            <div class="L-card-content">
-                <div class="L-card-title">Les murmures du temps</div>
-                <div class="L-card-author">Bertrand Martin</div>
-                <div class="L-card-description">Un voyage à travers les époques et les secrets.</div>
-                <div class="L-card-price">18,99 €</div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <a href="link_to_book_B.html" class="text-decoration-none text-dark">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top img-fluid" alt="Livre B">
+                    <div class="card-body">
+                        <h5 class="card-title">Les murmures du temps</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Bertrand Martin</h6>
+                        <p class="card-text">Un voyage à travers les époques et les secrets.</p>
+                        <div class="fw-bold text-success">18,99 €</div>
+                    </div>
+                </a>
             </div>
-        </a>
-    </div>
-   
-    <div class="L-card">
-        <a href="link_to_book_D.html">
-            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
-            <div class="L-card-content">
-                <div class="L-card-title">Sous les cyprès</div>
-                <div class="L-card-author">Diane Morel</div>
-                <div class="L-card-description">Un roman poétique entre amour et nature.</div>
-                <div class="L-card-price">14,99 €</div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <a href="link_to_book_D.html" class="text-decoration-none text-dark">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top img-fluid" alt="Livre D">
+                    <div class="card-body">
+                        <h5 class="card-title">Sous les cyprès</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Diane Morel</h6>
+                        <p class="card-text">Un roman poétique entre amour et nature.</p>
+                        <div class="fw-bold text-success">14,99 €</div>
+                    </div>
+                </a>
             </div>
-        </a>
+        </div>
     </div>
-    
-</div>
 
-<!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group2">
-    <div class="L-card">
-        <a href="link_to_book_F.html">
-            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
-            <div class="L-card-content">
-                <div class="L-card-title">La lumière des ombres</div>
-                <div class="L-card-author">Fabien Leclerc</div>
-                <div class="L-card-description">Un thriller captivant à couper le souffle.</div>
-                <div class="L-card-price">17,99 €</div>
+    <div class="row mb-4 d-none" id="group2">
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <a href="link_to_book_F.html" class="text-decoration-none text-dark">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top img-fluid" alt="Livre F">
+                    <div class="card-body">
+                        <h5 class="card-title">La lumière des ombres</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Fabien Leclerc</h6>
+                        <p class="card-text">Un thriller captivant à couper le souffle.</p>
+                        <div class="fw-bold text-success">17,99 €</div>
+                    </div>
+                </a>
             </div>
-        </a>
-    </div>
-    <div class="L-card">
-        <a href="link_to_book_G.html">
-            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
-            <div class="L-card-content">
-                <div class="L-card-title">Les vagues éternelles</div>
-                <div class="L-card-author">Gabrielle Blanc</div>
-                <div class="L-card-description">Un récit émouvant au bord de l'océan.</div>
-                <div class="L-card-price">13,99 €</div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <a href="link_to_book_G.html" class="text-decoration-none text-dark">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" class="card-img-top img-fluid" alt="Livre G">
+                    <div class="card-body">
+                        <h5 class="card-title">Les vagues éternelles</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Gabrielle Blanc</h6>
+                        <p class="card-text">Un récit émouvant au bord de l'océan.</p>
+                        <div class="fw-bold text-success">13,99 €</div>
+                    </div>
+                </a>
             </div>
-        </a>
-    </div>
-    <div class="L-card">
-        <a href="link_to_book_H.html">
-            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
-            <div class="L-card-content">
-                <div class="L-card-title">Le chant des cendres</div>
-                <div class="L-card-author">Henri Dupont</div>
-                <div class="L-card-description">Une épopée historique riche en émotions.</div>
-                <div class="L-card-price">14,99 €</div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <a href="link_to_book_H.html" class="text-decoration-none text-dark">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="card-img-top img-fluid" alt="Livre H">
+                    <div class="card-body">
+                        <h5 class="card-title">Le chant des cendres</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Henri Dupont</h6>
+                        <p class="card-text">Une épopée historique riche en émotions.</p>
+                        <div class="fw-bold text-success">14,99 €</div>
+                    </div>
+                </a>
             </div>
-        </a>
+        </div>
     </div>
-    
-</div>
 
+    <div class="d-flex justify-content-between">
+        <button id="backButton" class="btn btn-secondary" disabled>Précédent</button>
+        <button id="nextButton" class="btn btn-primary">Suivant</button>
+    </div>
 </div>
-<!-- Boutons de navigation -->
-<div class="L-navigation">
-    <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
-    <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
-</div>
-
