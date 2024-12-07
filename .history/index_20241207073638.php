@@ -60,35 +60,8 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 <!--FIN  PRESENTATION AUTEURS -->
 
  <?php include("nouveaute.php"); ?>
-
  <!--MODE MOBILE -->
- <div class="d-block d-md-none d-flex flex-column align-items-center justify-content-center min-vh-100">
-    <div class="container">
-    <div class="row justify-content-center">
-      <!-- Texte principal -->
-      <div class="col-12 col-md-8">
-        <div class="text-center py-5 rounded-4 p-2 fond-text">
-          <h3 class="mb-4">Bienvenue sur le site de notre association</h3>
-          <p class="lead mb-4">
-            Notre association a pour mission de promouvoir la lecture...
-          </p>
-          <h3 class="mt-4 mb-3">Des auteurs pour tous les goûts</h3>
-          <p class="lead mb-4">
-            Nous avons rassemblé des ouvrages d'auteurs émergents...
-          </p>
-          <h3 class="mt-4 mb-3">Notre engagement</h3>
-          <p class="lead mb-4">
-            Au-delà de la simple vente, notre association se veut un lieu...
-          </p>
-          <h3 class="mt-4 mb-3">Faites partie de l’aventure !</h3>
-          <p class="lead">
-            Nous vous invitons à explorer notre catalogue en ligne...
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
 
 
 

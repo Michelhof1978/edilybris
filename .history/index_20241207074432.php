@@ -62,8 +62,8 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
  <?php include("nouveaute.php"); ?>
 
  <!--MODE MOBILE -->
- <div class="d-block d-md-none d-flex flex-column align-items-center justify-content-center min-vh-100">
-    <div class="container">
+<div class="d-block d-md-none">
+  <div class="container m-5">
     <div class="row justify-content-center">
       <!-- Texte principal -->
       <div class="col-12 col-md-8">
@@ -89,7 +89,6 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
     </div>
   </div>
 </div>
-
 
 
  <!--MODE DESKTOP -->
