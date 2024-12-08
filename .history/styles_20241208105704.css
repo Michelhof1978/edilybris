@@ -206,13 +206,16 @@ header {
   overflow: hidden;
 }
 
-/* @media (max-width: 768px) { Empêche le menu de s'afficher)
+@media (max-width: 768px) { /* Adjust breakpoint as needed */
   #special-header {
-      height: 30vh; 
+      height: 30vh; /* Reduce video height */
+     
   }
-} */
+}
 
-
+.navbar-collapse {
+  display: none; /* Assurez-vous que cette valeur est bien modifiée lors de l'ouverture du menu */
+}
 #logo-container {
     position: absolute;
     top: 50%;
@@ -1852,8 +1855,8 @@ input[type="email"]:focus {
 
 /* FIN BOUTONS CITATIONS*/
 .videoCommandeMobile{
-  margin-top: -300px;
-  margin-bottom: -1200px ;
+  margin-top: -100px;
+  margin-bottom: -1550px ;
  
 }
 

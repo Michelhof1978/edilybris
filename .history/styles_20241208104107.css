@@ -202,15 +202,32 @@ header {
 /* BANNER VIDEO HEADER*/
 #special-header {
   position: relative;
-  height: 70vh;
+  height: 70vh;  /* Hauteur pour les écrans plus larges */
   overflow: hidden;
 }
 
-/* @media (max-width: 768px) { Empêche le menu de s'afficher)
+#video-bg {
+  position: absolute;
+  top: 50%;  /* Centrer la vidéo verticalement */
+  left: 50%; /* Centrer la vidéo horizontalement */
+  transform: translate(-50%, -50%); /* Centrer parfaitement */
+  min-width: 100%; /* S'assurer que la vidéo occupe toute la largeur */
+  min-height: 100%; /* S'assurer que la vidéo occupe toute la hauteur */
+  object-fit: cover; /* Couvrir l'espace tout en préservant l'aspect ratio */
+  z-index: -1; /* Placer la vidéo derrière le contenu */
+}
+
+@media (max-width: 767px) {  /* Pour les écrans de taille mobile */
   #special-header {
-      height: 30vh; 
+      height: 50vh; /* Réduire la hauteur de la vidéo pour les petits écrans */
   }
-} */
+
+  #video-bg {
+      min-height: 100%;  /* S'assurer que la vidéo couvre toujours l'écran */
+      min-width: 100%;  /* Toujours couvrir toute la largeur */
+  }
+}
+
 
 
 #logo-container {
@@ -1852,8 +1869,8 @@ input[type="email"]:focus {
 
 /* FIN BOUTONS CITATIONS*/
 .videoCommandeMobile{
-  margin-top: -300px;
-  margin-bottom: -1200px ;
+  margin-top: -100px;
+  margin-bottom: -1550px ;
  
 }
 

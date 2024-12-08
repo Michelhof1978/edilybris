@@ -1,8 +1,6 @@
-
-<?php
-    // Constantes pour les URLs
-    define('', '');
-?>
+ 
+ 
+ 
 
 <header>
     <div class="">
@@ -17,12 +15,14 @@
                 </a>
             </div>
         </div>
-        <nav class="navbar navbar-expand-md">
+
+        <nav class="navbar navbar-expand-md mt-2">
             <div class="container-fluid">
                 <!-- Bouton hamburger -->
-                <button class="navbar-toggler custom-toggler mx-auto coloryellow" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler custom-toggler mx-auto " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+
                 <!-- Menu collapsé -->
                 <div class="collapse navbar-collapse mt-2 background-navbar" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto text-center me-3">
@@ -43,10 +43,5 @@
             </div>
         </nav>
     </div>
-    <div id="special-header">
-        <video autoplay muted id="video-bg" playsinline>
-            <source src="videos/banner.mp4" type="video/mp4">
-            Votre navigateur ne supporte pas la vidéo.
-        </video>
-    </div>
+    
 </header>

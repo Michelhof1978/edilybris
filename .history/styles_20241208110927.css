@@ -201,16 +201,10 @@ header {
 
 /* BANNER VIDEO HEADER*/
 #special-header {
-  position: relative;
-  height: 70vh;
-  overflow: hidden;
+    position: relative;
+    height: 70vh;
+    overflow: hidden;
 }
-
-/* @media (max-width: 768px) { Empêche le menu de s'afficher)
-  #special-header {
-      height: 30vh; 
-  }
-} */
 
 
 #logo-container {
@@ -1123,7 +1117,7 @@ input[type="email"]:focus {
   user-select: none;
 }
 
-.content::before,
+/* .content::before,
 .content::after {
   content: "";
   position: absolute;
@@ -1156,7 +1150,7 @@ input[type="email"]:focus {
   100% {
     --gradient-angle: 360deg;
   }
-}
+} */
 
 .content img {
   aspect-ratio: 3/2;

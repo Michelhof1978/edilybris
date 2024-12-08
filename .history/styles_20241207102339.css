@@ -137,6 +137,12 @@ header {
    
 }
 
+#special-header {
+    position: relative;
+    height: 70vh;
+    overflow: hidden;
+}
+
 #video-bg {
     position: absolute;
     top: 0;
@@ -201,16 +207,10 @@ header {
 
 /* BANNER VIDEO HEADER*/
 #special-header {
-  position: relative;
-  height: 70vh;
-  overflow: hidden;
+    position: relative;
+    height: 70vh;
+    overflow: hidden;
 }
-
-/* @media (max-width: 768px) { Empêche le menu de s'afficher)
-  #special-header {
-      height: 30vh; 
-  }
-} */
 
 
 #logo-container {
@@ -1853,7 +1853,7 @@ input[type="email"]:focus {
 /* FIN BOUTONS CITATIONS*/
 .videoCommandeMobile{
   margin-top: -300px;
-  margin-bottom: -1200px ;
+  margin-bottom: -1000px ;
  
 }
 

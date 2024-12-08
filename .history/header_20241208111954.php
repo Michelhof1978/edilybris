@@ -43,10 +43,5 @@
             </div>
         </nav>
     </div>
-    <div id="special-header">
-        <video autoplay muted id="video-bg" playsinline>
-            <source src="videos/banner.mp4" type="video/mp4">
-            Votre navigateur ne supporte pas la vidéo.
-        </video>
-    </div>
+    
 </header>

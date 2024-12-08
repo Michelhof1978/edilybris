@@ -206,7 +206,7 @@ header {
   overflow: hidden;
 }
 
-/* @media (max-width: 768px) { Empêche le menu de s'afficher)
+/* @media (max-width: 768px) { 
   #special-header {
       height: 30vh; 
   }

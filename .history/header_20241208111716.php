@@ -3,7 +3,6 @@
     // Constantes pour les URLs
     define('', '');
 ?>
-
 <header>
     <div class="">
         <div class="navbar-brand">

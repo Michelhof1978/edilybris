@@ -201,16 +201,10 @@ header {
 
 /* BANNER VIDEO HEADER*/
 #special-header {
-  position: relative;
-  height: 70vh;
-  overflow: hidden;
+    position: relative;
+    height: 70vh;
+    overflow: hidden;
 }
-
-/* @media (max-width: 768px) { Empêche le menu de s'afficher)
-  #special-header {
-      height: 30vh; 
-  }
-} */
 
 
 #logo-container {
