@@ -6,7 +6,7 @@
 
  <?php include("header.php"); ?>
  
- <h1 class="text-white text-center m-5">Association d'Edi'lybris <br></h1>
+ <h1 class="text-white text-center m-">Association d'Edi'lybris <br></h1>
 
  <div class="text-center">
         <img class="img-fluid w-25" src="images/livreIndex.png" alt="Livres en illustation">

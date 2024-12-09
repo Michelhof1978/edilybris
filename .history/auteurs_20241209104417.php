@@ -6,7 +6,7 @@
 
  <?php include("header.php"); ?>
  
- <h1 class="text-white text-center m-5">Soutien et promotion des auteurs littéraires</h1>
+ <h1 class="text-white text-center m-5">Soutien et promotion des Auteurs Littéraires</h1>
  
 <?php include("nouveaute.php"); ?>
 
