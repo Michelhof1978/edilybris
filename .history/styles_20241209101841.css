@@ -101,8 +101,8 @@ h1 {
   }
 
   @media (max-width: 768px) {
-    h1, h2{
-      font-size: 1.8em !important; /* Réduisez la taille de la police */
+    h1 h2{
+      font-size: 1.1em !important; /* Réduisez la taille de la police */
       margin: 20px 0 !important;  /* Ajustez la marge si nécessaire */
     }
   }
@@ -212,8 +212,6 @@ header {
 #special-header {
   position: relative;
   z-index: 1;
-  height: 70vh; /* Par défaut pour Desktop */
-  overflow: hidden; /* Évite tout débordement */
 }
 
 @media (max-width: 768px) { 

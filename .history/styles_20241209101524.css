@@ -65,10 +65,10 @@ body {
 }
 
 
-h1 {
+ {
     font-family: 'Georgia', serif;
     font-size: 2.5em;
-    font-weight: 700;
+    font-weigh1ht: 700;
     color: #34495e;
     text-align: center;
     text-transform: capitalize;
@@ -100,13 +100,6 @@ h1 {
     transform: scaleX(1);
   }
 
-  @media (max-width: 768px) {
-    h1, h2{
-      font-size: 1.8em !important; /* Réduisez la taille de la police */
-      margin: 20px 0 !important;  /* Ajustez la marge si nécessaire */
-    }
-  }
-  
   h2 {
     font-family: 'Merriweather', serif; /* Police de style journal */
     font-size: 2em;
@@ -212,8 +205,6 @@ header {
 #special-header {
   position: relative;
   z-index: 1;
-  height: 70vh; /* Par défaut pour Desktop */
-  overflow: hidden; /* Évite tout débordement */
 }
 
 @media (max-width: 768px) { 

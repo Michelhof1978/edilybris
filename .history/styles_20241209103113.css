@@ -212,8 +212,6 @@ header {
 #special-header {
   position: relative;
   z-index: 1;
-  height: 70vh; /* Par défaut pour Desktop */
-  overflow: hidden; /* Évite tout débordement */
 }
 
 @media (max-width: 768px) { 

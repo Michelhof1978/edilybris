@@ -102,7 +102,7 @@ h1 {
 
   @media (max-width: 768px) {
     h1, h2{
-      font-size: 1.8em !important; /* Réduisez la taille de la police */
+      font-size: 1.4em !important; /* Réduisez la taille de la police */
       margin: 20px 0 !important;  /* Ajustez la marge si nécessaire */
     }
   }
@@ -144,15 +144,6 @@ header {
    
 }
 
-#video-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: 0;
-}
 
 /* NARBAR */
 .navbar {
@@ -212,15 +203,20 @@ header {
 #special-header {
   position: relative;
   z-index: 1;
-  height: 70vh; /* Par défaut pour Desktop */
-  overflow: hidden; /* Évite tout débordement */
+  height: 70vh; /* Hauteur par défaut pour Desktop */
+  overflow: hidden; /* S'assure qu'aucune partie indésirable de la vidéo ne dépasse */
 }
 
-@media (max-width: 768px) { 
-  #special-header {
-      height: 30vh; 
-  }
+#video-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0; /* Place la vidéo derrière les autres contenus */
 }
+
 
 
 #logo-container {
