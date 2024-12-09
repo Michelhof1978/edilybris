@@ -115,7 +115,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     Formulaire De Contact
 </h1>
 
-<div class="text-center m-1">
+<div class="text-center mt-5">
     <img src="images/nousContacter.png" loading="lazy" alt="" class="img-fluid w-25">
 </div>
 
