@@ -150,8 +150,6 @@ header {
 /* NARBAR */
 .navbar {
     height: auto;
-    position: relative;
-    z-index: 10;
 }
 
 .text-decoration-custom {
@@ -204,7 +202,8 @@ header {
 /* BANNER VIDEO HEADER*/
 #special-header {
   position: relative;
-  z-index: 1;
+  height: 70vh;
+  overflow: hidden;
 }
 
 @media (max-width: 768px) { 
