@@ -1031,7 +1031,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
 
-<!--CARDS L AUTEURS-->
+<!-- FIN CARDS L-->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Sélection des boutons et des groupes
@@ -1057,7 +1057,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-<!-- FIN CARDS L AUTEURS-->
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

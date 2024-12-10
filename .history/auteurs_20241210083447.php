@@ -41,101 +41,120 @@
 
  <h2 class="text-white text-center m-5">Plongez dans l’univers de nos auteurs, livre par livre</h2> 
 
+ 
  <!-- MODE MOBILE -->
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
-<div id="mobile-book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
+<div id="book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <!-- Carte 1 -->
+    <!-- Groupe 1 -->
     <div class="carousel-item active">
-      <div class="book-card">
-        <a href="link_to_book_A.html">
-          <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
-          <div class="book-card-content">
-            <div class="book-card-title">L'écho des collines</div>
-            <div class="book-card-author">Alice Dubois</div>
-            <div class="book-card-description">Une histoire captivante au cœur des montagnes.</div>
-            <div class="book-card-price">16,99 €</div>
+      <div class="row">
+        <!-- Carte 1 -->
+        <div class="col-6">
+          <div class="book-card">
+            <a href="link_to_book_A.html">
+              <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
+              <div class="book-card-content">
+                <div class="book-card-title">L'écho des collines</div>
+                <div class="book-card-author">Alice Dubois</div>
+                <div class="book-card-description">Une histoire captivante au cœur des montagnes.</div>
+                <div class="book-card-price">16,99 €</div>
+              </div>
+            </a>
           </div>
-        </a>
+        </div>
+        <!-- Carte 2 -->
+        <div class="col-6">
+          <div class="book-card">
+            <a href="link_to_book_B.html">
+              <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre B">
+              <div class="book-card-content">
+                <div class="book-card-title">Les murmures du temps</div>
+                <div class="book-card-author">Bertrand Martin</div>
+                <div class="book-card-description">Un voyage à travers les époques et les secrets.</div>
+                <div class="book-card-price">18,99 €</div>
+              </div>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
-    <!-- Carte 2 -->
+
+    <!-- Groupe 2 -->
     <div class="carousel-item">
-      <div class="book-card">
-        <a href="link_to_book_B.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre B">
-          <div class="book-card-content">
-            <div class="book-card-title">Les murmures du temps</div>
-            <div class="book-card-author">Bertrand Martin</div>
-            <div class="book-card-description">Un voyage à travers les époques et les secrets.</div>
-            <div class="book-card-price">18,99 €</div>
+      <div class="row">
+        <!-- Carte 3 -->
+        <div class="col-6">
+          <div class="book-card">
+            <a href="link_to_book_F.html">
+              <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
+              <div class="book-card-content">
+                <div class="book-card-title">La lumière des ombres</div>
+                <div class="book-card-author">Fabien Leclerc</div>
+                <div class="book-card-description">Un thriller captivant à couper le souffle.</div>
+                <div class="book-card-price">17,99 €</div>
+              </div>
+            </a>
           </div>
-        </a>
+        </div>
+        <!-- Carte 4 -->
+        <div class="col-6">
+          <div class="book-card">
+            <a href="link_to_book_G.html">
+              <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
+              <div class="book-card-content">
+                <div class="book-card-title">Les vagues éternelles</div>
+                <div class="book-card-author">Gabrielle Blanc</div>
+                <div class="book-card-description">Un récit émouvant au bord de l'océan.</div>
+                <div class="book-card-price">13,99 €</div>
+              </div>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
-    <!-- Carte 3 -->
+
+    <!-- Groupe 3 -->
     <div class="carousel-item">
-      <div class="book-card">
-        <a href="link_to_book_F.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
-          <div class="book-card-content">
-            <div class="book-card-title">La lumière des ombres</div>
-            <div class="book-card-author">Fabien Leclerc</div>
-            <div class="book-card-description">Un thriller captivant à couper le souffle.</div>
-            <div class="book-card-price">17,99 €</div>
+      <div class="row">
+        <!-- Carte 5 -->
+        <div class="col-6">
+          <div class="book-card">
+            <a href="link_to_book_D.html">
+              <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
+              <div class="book-card-content">
+                <div class="book-card-title">Sous les cyprès</div>
+                <div class="book-card-author">Diane Morel</div>
+                <div class="book-card-description">Un roman poétique entre amour et nature.</div>
+                <div class="book-card-price">14,99 €</div>
+              </div>
+            </a>
           </div>
-        </a>
-      </div>
-    </div>
-    <!-- Carte 4 -->
-    <div class="carousel-item">
-      <div class="book-card">
-        <a href="link_to_book_G.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre G">
-          <div class="book-card-content">
-            <div class="book-card-title">Les vagues éternelles</div>
-            <div class="book-card-author">Gabrielle Blanc</div>
-            <div class="book-card-description">Un récit émouvant au bord de l'océan.</div>
-            <div class="book-card-price">13,99 €</div>
+        </div>
+        <!-- Carte 6 -->
+        <div class="col-6">
+          <div class="book-card">
+            <a href="link_to_book_H.html">
+              <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
+              <div class="book-card-content">
+                <div class="book-card-title">Le chant des cendres</div>
+                <div class="book-card-author">Henri Dupont</div>
+                <div class="book-card-description">Une épopée historique riche en émotions.</div>
+                <div class="book-card-price">14,99 €</div>
+              </div>
+            </a>
           </div>
-        </a>
-      </div>
-    </div>
-    <!-- Carte 5 -->
-    <div class="carousel-item">
-      <div class="book-card">
-        <a href="link_to_book_D.html">
-          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre D">
-          <div class="book-card-content">
-            <div class="book-card-title">Sous les cyprès</div>
-            <div class="book-card-author">Diane Morel</div>
-            <div class="book-card-description">Un roman poétique entre amour et nature.</div>
-            <div class="book-card-price">14,99 €</div>
-          </div>
-        </a>
-      </div>
-    </div>
-    <!-- Carte 6 -->
-    <div class="carousel-item">
-      <div class="book-card">
-        <a href="link_to_book_H.html">
-          <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre H">
-          <div class="book-card-content">
-            <div class="book-card-title">Le chant des cendres</div>
-            <div class="book-card-author">Henri Dupont</div>
-            <div class="book-card-description">Une épopée historique riche en émotions.</div>
-            <div class="book-card-price">14,99 €</div>
-          </div>
-        </a>
+        </div>
       </div>
     </div>
   </div>
+
   <!-- Contrôles de navigation -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#mobile-book-carousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#book-carousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Précédent</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#mobile-book-carousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#book-carousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Suivant</span>
   </button>

@@ -43,7 +43,7 @@
 
  <!-- MODE MOBILE -->
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
-<div id="mobile-book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
+<div id="book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
     <!-- Carte 1 -->
     <div class="carousel-item active">
@@ -59,6 +59,7 @@
         </a>
       </div>
     </div>
+
     <!-- Carte 2 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -73,6 +74,7 @@
         </a>
       </div>
     </div>
+
     <!-- Carte 3 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -87,6 +89,7 @@
         </a>
       </div>
     </div>
+
     <!-- Carte 4 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -101,6 +104,7 @@
         </a>
       </div>
     </div>
+
     <!-- Carte 5 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -115,6 +119,7 @@
         </a>
       </div>
     </div>
+
     <!-- Carte 6 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -130,12 +135,13 @@
       </div>
     </div>
   </div>
+
   <!-- Contrôles de navigation -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#mobile-book-carousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#book-carousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Précédent</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#mobile-book-carousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#book-carousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Suivant</span>
   </button>

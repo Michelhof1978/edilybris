@@ -1006,7 +1006,7 @@ var VanillaTilt = (function () {
 <!-- _____________________________________________________________________________________ -->
 
 
-   <!--  NOUVEAUTE CARDS L-->
+   <!--  CARDS L-->
  <script>
 document.addEventListener("DOMContentLoaded", function() {
     const nextGroupButton = document.getElementById('L-nextGroupButton');
@@ -1029,35 +1029,9 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-<!-- FIN CARDS NOUVEAUTE L-->
+<!-- FIN CARDS L-->
 
-<!--CARDS L AUTEURS-->
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    // Sélection des boutons et des groupes
-    const nextGroupButton = document.getElementById('next-group-button');
-    const prevGroupButton = document.getElementById('prev-group-button');
-    const group1 = document.getElementById('desktop-book-group-1');
-    const group2 = document.getElementById('desktop-book-group-2');
 
-    // Gestion du clic sur "Suivant"
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('d-none'); // Cache le groupe 1
-        group2.classList.remove('d-none'); // Affiche le groupe 2
-        prevGroupButton.disabled = false; // Active le bouton "Précédent"
-        nextGroupButton.disabled = true; // Désactive le bouton "Suivant"
-    });
-
-    // Gestion du clic sur "Précédent"
-    prevGroupButton.addEventListener('click', function() {
-        group1.classList.remove('d-none'); // Affiche le groupe 1
-        group2.classList.add('d-none'); // Cache le groupe 2
-        prevGroupButton.disabled = true; // Désactive le bouton "Précédent"
-        nextGroupButton.disabled = false; // Active le bouton "Suivant"
-    });
-});
-</script>
-<!-- FIN CARDS L AUTEURS-->
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

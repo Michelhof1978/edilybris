@@ -1006,7 +1006,7 @@ var VanillaTilt = (function () {
 <!-- _____________________________________________________________________________________ -->
 
 
-   <!--  NOUVEAUTE CARDS L-->
+   <!--  CARDS L-->
  <script>
 document.addEventListener("DOMContentLoaded", function() {
     const nextGroupButton = document.getElementById('L-nextGroupButton');
@@ -1029,9 +1029,8 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-<!-- FIN CARDS NOUVEAUTE L-->
+<!-- FIN CARDS NOUVEL-->
 
-<!--CARDS L AUTEURS-->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Sélection des boutons et des groupes
@@ -1057,7 +1056,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-<!-- FIN CARDS L AUTEURS-->
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->
