@@ -41,10 +41,9 @@
 
  <h2 class="text-white text-center m-5">Plongez dans l’univers de nos auteurs, livre par livre</h2> 
 
-
-<!-- MODE MOBILE -->
+ <!-- MODE MOBILE -->
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
-<div id="book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
+<div id="mobile-book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
     <!-- Carte 1 -->
     <div class="carousel-item active">
@@ -60,7 +59,6 @@
         </a>
       </div>
     </div>
-
     <!-- Carte 2 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -75,7 +73,6 @@
         </a>
       </div>
     </div>
-
     <!-- Carte 3 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -90,7 +87,6 @@
         </a>
       </div>
     </div>
-
     <!-- Carte 4 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -105,7 +101,6 @@
         </a>
       </div>
     </div>
-
     <!-- Carte 5 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -120,7 +115,6 @@
         </a>
       </div>
     </div>
-
     <!-- Carte 6 -->
     <div class="carousel-item">
       <div class="book-card">
@@ -136,13 +130,12 @@
       </div>
     </div>
   </div>
-
   <!-- Contrôles de navigation -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#book-carousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#mobile-book-carousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Précédent</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#book-carousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#mobile-book-carousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Suivant</span>
   </button>
@@ -156,7 +149,7 @@
 <!-- MODE DESKTOP-->
 <div class="d-none d-md-block">
 <!-- Groupe 1 -->
-<div class="L-card-container mb-5" id="L-group3">
+<div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
@@ -195,7 +188,7 @@
 </div>
 
 <!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group4">
+<div class="L-card-container d-none" id="L-group2">
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Livre F">
@@ -232,10 +225,15 @@
     </div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">
-    <button id="L-backButton2" class="L-button text-white" disabled>Précédent</button>
-    <button id="L-nextGroupButton2" class="L-button text-white">Suivant</button>
+    <button id="L-backButton" class="L-button text-white" disabled>Précédent</button>
+    <button id="L-nextGroupButton" class="L-button text-white">Suivant</button>
 </div>
-</div>
+</div>   
+ 
+
+<div class="text-center">
+        <img class="img-fluid w-25" src="images/livreAuteurs.png" alt="Image centrée">
+    </div>
 
 
 

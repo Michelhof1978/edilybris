@@ -1033,26 +1033,27 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton2');
-    const backButton = document.getElementById('L-backButton2');
-    const group1 = document.getElementById('L-group3');
-    const group2 = document.getElementById('L-group4');
+    const nextButton = document.getElementById('nextButton');
+    const prevButton = document.getElementById('prevButton');
+    const group1 = document.getElementById('group1');
+    const group2 = document.getElementById('group2');
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
+    nextButton.addEventListener('click', function() {
+        group1.classList.add('hidden');
+        group2.classList.remove('hidden');
+        prevButton.disabled = false;
+        nextButton.disabled = true;
     });
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
+    prevButton.addEventListener('click', function() {
+        group1.classList.remove('hidden');
+        group2.classList.add('hidden');
+        prevButton.disabled = true;
+        nextButton.disabled = false;
     });
 });
 </script>
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

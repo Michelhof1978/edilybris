@@ -1034,7 +1034,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const nextGroupButton = document.getElementById('L-nextGroupButton2');
-    const backButton = document.getElementById('L-backButton2');
+    const backButton = document.getElementById('L-backButton');
     const group1 = document.getElementById('L-group3');
     const group2 = document.getElementById('L-group4');
 

@@ -1009,50 +1009,132 @@ var VanillaTilt = (function () {
    <!--  NOUVEAUTE CARDS L-->
  <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton');
-    const backButton = document.getElementById('L-backButton');
-    const group1 = document.getElementById('L-group1');
-    const group2 = document.getElementById('L-group2');
+  const nextGroupButton = document.getElementById('desktop-nextGroupButton');
+  const backButton = document.getElementById('desktop-backButton');
+  const group1 = document.getElementById('desktop-group1');
+  const group2 = document.getElementById('desktop-group2');
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
+  nextGroupButton.addEventListener('click', function() {
+      group1.classList.add('desktop-hidden');
+      group2.classList.remove('desktop-hidden');
+      backButton.disabled = false;
+      nextGroupButton.disabled = true;
+  });
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
+  backButton.addEventListener('click', function() {
+      group1.classList.remove('desktop-hidden');
+      group2.classList.add('desktop-hidden');
+      backButton.disabled = true;
+      nextGroupButton.disabled = false;
+  });
 });
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton2');
-    const backButton = document.getElementById('L-backButton2');
-    const group1 = document.getElementById('L-group3');
-    const group2 = document.getElementById('L-group4');
+.book-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centre horizontalement */
+  gap: 20px; /* Espace entre les cartes */
+  width: 100%;
+  transition: opacity 0.3s ease;
+}
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
+.book-card {
+  background-color: #1E3A5F;
+  padding: 20px;
+  margin: 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(249, 248, 248, 0.1);
+  width: 250px; /* Largeur des cartes */
+  text-align: center;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
-});
-</script>
+.book-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.book-card-content {
+  text-align: center; /* Centrer tout le texte */
+}
+
+.book-card-title,
+.book-card-author,
+.book-card-description,
+.book-card-price {
+  color: white; /* Texte en blanc */
+}
+
+.book-card-title {
+  font-size: 18px;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.book-card-author {
+  font-size: 14px;
+  color: #ffcc00;
+  font-weight: bold;
+}
+
+.book-card-description {
+  font-size: 14px;
+  color: #bbb;
+}
+
+.book-card-price {
+  font-size: 18px;
+  color: #ffcc00;
+  margin-top: 10px;
+  font-weight: bold; /* Texte en gras */
+}
+
+.book-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.book-card-hidden {
+  display: none;
+}
+
+.book-navigation {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.book-button {
+  background-color: #ffcc00;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.book-button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
+
+/* Désactiver la sélection de texte sur les cartes */
+.book-card, .book-card * {
+  user-select: none;  /* Désactive la sélection de texte */
+  -webkit-user-select: none; /* Pour Safari */
+  -moz-user-select: none; /* Pour Firefox */
+}
+
+/* Enlever les effets de surlignage sur les liens (s'il y en a) */
+.book-card a {
+  text-decoration: none;  /* Supprimer le soulignement des liens */
+  color: inherit;  /* Hériter de la couleur du texte */
+}
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

@@ -1030,29 +1030,41 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
+<script><script>
+    // Fonction pour basculer entre les groupes de cartes
+    const nextButton = document.getElementById('L-nextGroupButton');
+    const backButton = document.getElementById('L-backButton');
+    const group1 = document.getElementById('L-group1');
+    const group2 = document.getElementById('L-group2');
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton2');
-    const backButton = document.getElementById('L-backButton2');
-    const group1 = document.getElementById('L-group3');
-    const group2 = document.getElementById('L-group4');
+    let currentGroup = 1; // On commence avec le groupe 1
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
+    // Fonction pour afficher le groupe suivant
+    function showNextGroup() {
+        if (currentGroup === 1) {
+            group1.classList.add('d-none'); // Cacher le groupe 1
+            group2.classList.remove('d-none'); // Afficher le groupe 2
+            currentGroup = 2; // Passer au groupe 2
+            backButton.disabled = false; // Activer le bouton "Précédent"
+        }
+    }
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
-});
+    // Fonction pour revenir au groupe précédent
+    function showPreviousGroup() {
+        if (currentGroup === 2) {
+            group2.classList.add('d-none'); // Cacher le groupe 2
+            group1.classList.remove('d-none'); // Afficher le groupe 1
+            currentGroup = 1; // Revenir au groupe 1
+            backButton.disabled = true; // Désactiver le bouton "Précédent"
+        }
+    }
+
+    // Ajouter les événements sur les boutons
+    nextButton.addEventListener('click', showNextGroup);
+    backButton.addEventListener('click', showPreviousGroup);
 </script>
+</script>
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

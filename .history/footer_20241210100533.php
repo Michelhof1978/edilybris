@@ -1009,50 +1009,78 @@ var VanillaTilt = (function () {
    <!--  NOUVEAUTE CARDS L-->
  <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton');
-    const backButton = document.getElementById('L-backButton');
-    const group1 = document.getElementById('L-group1');
-    const group2 = document.getElementById('L-group2');
+  const nextGroupButton = document.getElementById('desktop-nextGroupButton');
+  const backButton = document.getElementById('desktop-backButton');
+  const group1 = document.getElementById('desktop-group1');
+  const group2 = document.getElementById('desktop-group2');
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
+  nextGroupButton.addEventListener('click', function() {
+      group1.classList.add('desktop-hidden');
+      group2.classList.remove('desktop-hidden');
+      backButton.disabled = false;
+      nextGroupButton.disabled = true;
+  });
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
+  backButton.addEventListener('click', function() {
+      group1.classList.remove('desktop-hidden');
+      group2.classList.add('desktop-hidden');
+      backButton.disabled = true;
+      nextGroupButton.disabled = false;
+  });
 });
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton2');
-    const backButton = document.getElementById('L-backButton2');
-    const group1 = document.getElementById('L-group3');
-    const group2 = document.getElementById('L-group4');
+document.addEventListener("DOMContentLoaded", function () {
+  // Mobile: gestion du carrousel
+  const bookCarousel = new bootstrap.Carousel(document.getElementById('book-carousel'), {
+    ride: 'carousel',
+  });
 
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
+  // Desktop: gestion de la navigation entre groupes
+  const nextGroupButton = document.getElementById('book-nextGroupButton');
+  const backButton = document.getElementById('book-backButton');
+  const group1 = document.getElementById('book-group1');
+  const group2 = document.getElementById('book-group2');
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
+  let currentGroup = 1; // 1 = group1 visible, 2 = group2 visible
+
+  // Fonction pour afficher le groupe 1 et masquer le groupe 2
+  function showGroup1() {
+    group1.classList.remove('book-hidden');
+    group2.classList.add('book-hidden');
+    backButton.disabled = true;
+    nextGroupButton.disabled = false;
+  }
+
+  // Fonction pour afficher le groupe 2 et masquer le groupe 1
+  function showGroup2() {
+    group1.classList.add('book-hidden');
+    group2.classList.remove('book-hidden');
+    backButton.disabled = false;
+    nextGroupButton.disabled = true;
+  }
+
+  // Gestion du bouton "Suivant"
+  nextGroupButton.addEventListener('click', function () {
+    if (currentGroup === 1) {
+      showGroup2();
+      currentGroup = 2;
+    }
+  });
+
+  // Gestion du bouton "Précédent"
+  backButton.addEventListener('click', function () {
+    if (currentGroup === 2) {
+      showGroup1();
+      currentGroup = 1;
+    }
+  });
+
+  // Initialisation pour afficher le groupe 1 au chargement
+  showGroup1();
 });
-</script>
+<script></script>
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

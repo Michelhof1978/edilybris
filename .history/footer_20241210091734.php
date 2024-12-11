@@ -1031,28 +1031,33 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
 
+<!--CARDS L AUTEURS-->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton2');
-    const backButton = document.getElementById('L-backButton2');
-    const group1 = document.getElementById('L-group3');
-    const group2 = document.getElementById('L-group4');
+    // Sélectionner les boutons et les groupes
+    const nextGroupButton = document.getElementById('L-nextGroupButton');
+    const prevGroupButton = document.getElementById('L-backButton');
+    const group1 = document.getElementById('L-group1');
+    const group2 = document.getElementById('L-group2');
 
+    // Gestion du clic sur "Suivant"
     nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
+        group1.classList.add('d-none'); // Cache le groupe 1
+        group2.classList.remove('d-none'); // Affiche le groupe 2
+        prevGroupButton.disabled = false; // Active le bouton "Précédent"
+        nextGroupButton.disabled = true; // Désactive le bouton "Suivant"
     });
 
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
+    // Gestion du clic sur "Précédent"
+    prevGroupButton.addEventListener('click', function() {
+        group1.classList.remove('d-none'); // Affiche le groupe 1
+        group2.classList.add('d-none'); // Cache le groupe 2
+        prevGroupButton.disabled = true; // Désactive le bouton "Précédent"
+        nextGroupButton.disabled = false; // Active le bouton "Suivant"
     });
 });
 </script>
+<!-- FIN CARDS L AUTEURS-->
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->
