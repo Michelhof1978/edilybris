@@ -40,10 +40,10 @@
 <!-- FIN TEXTE AUTEURS-->
 
  <h2 class="text-white text-center m-5">Plongez dans l’univers de nos auteurs, livre par livre</h2> 
- <?php include("cardsL.php"); ?>
 
 
- <?php include("cardsXl.php"); ?>
+
+ <?php include("souscription.php"); ?>
 
 <?php include("souscription.php"); ?>
 

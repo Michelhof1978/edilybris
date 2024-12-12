@@ -935,6 +935,104 @@ width: 100%;
 #new-nextGroupButton {
   background-color:#f4c600;
 }
+
+ .new-card-container {
+    margin: 20px 0;
+  }
+
+  .new-card {
+    background-color: #1E3A5F;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #333;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .new-card:hover {
+    transform: scale(1.05);
+    box-shadow: 4px 4px 15px rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+  }
+
+  .new-card img {
+    width: 100%;
+    height: auto;
+  }
+
+  .new-card-content {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    color: #fff;
+  }
+
+  .new-card-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+  }
+
+  .new-card-author {
+    font-size: 14px;
+    color: #ffcc00 !important;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .new-card-description {
+    font-size: 14px;
+    color: #eee;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-align: center;
+  }
+
+  .new-card-price {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffcc00;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .new-navigation {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .new-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1E3A5F;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .new-button:hover {
+    background-color: #333;
+  }
+
+  #new-backButton:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+  }
+
+  #new-nextGroupButton {
+    background-color: #f4c600;
+  }
  /* FIN CARD XL AUTEURS  */
 
  /* PRESENTATION AUTEURS INDEX */
