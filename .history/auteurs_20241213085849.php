@@ -43,16 +43,12 @@
 
  <?php include("cardsL.php"); ?>
 
- <div class="text-center m-4">
-        <img class="img-fluid w-50" src="images/livresEtagere3.png" alt="Livres en illustation">
-    </div>
 
  <?php include("cardsXl.php"); ?>
 
 <?php include("souscription.php"); ?>
 
 <h2 class="text-white text-center m-4">Nos Auteurs</h2> 
-
 
 <!-- TROMBINOSCOPE -->
 <div class="carousel-container">

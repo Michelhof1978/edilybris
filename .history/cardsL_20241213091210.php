@@ -1,7 +1,7 @@
 <!-- CARDS XL Mobile -->
 <div class="d-block d-md-none"> 
   <!-- Groupe 1 -->
-  <div id="new-group1" class="new-card-container mb-3">
+  <div id="new-group1" class="new-card-container">
     <div class="new-card">
       <a href="link_to_book_A.html">
         <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">

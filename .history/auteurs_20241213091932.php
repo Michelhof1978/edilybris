@@ -43,8 +43,8 @@
 
  <?php include("cardsL.php"); ?>
 
- <div class="text-center m-4">
-        <img class="img-fluid w-50" src="images/livresEtagere3.png" alt="Livres en illustation">
+ <div class="text-center">
+        <img class="img-fluid w-25" src="images/livresEtagere3.png" alt="Livres en illustation">
     </div>
 
  <?php include("cardsXl.php"); ?>

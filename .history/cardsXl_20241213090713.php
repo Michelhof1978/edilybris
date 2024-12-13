@@ -1,5 +1,5 @@
 <!-- CARDS XL Mobile -->
-<div class="d-block d-md-none mb-3"> 
+<div class="d-block d-md-none"> 
   <!-- Groupe 1 -->
   <div id="new-group1" class="new-card-container">
     <div class="new-card">
