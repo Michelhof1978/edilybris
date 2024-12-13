@@ -632,7 +632,9 @@ footer {
 }
 
 .logoHarmony{
- 
+  height: auto;
+  height: 15px;
+  margin
 }
 /* END FOOTER */
 

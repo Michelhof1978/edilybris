@@ -9,7 +9,7 @@
 <!-- FOOTER DESKTOP -->
 <footer class="footer-section">
   <div class="container">
-    <div class="footer-cta pt-5">
+    <div class="footer-cta pt">
       <div class="row d-flex justify-content-center align-items-center">
         <!-- Adresse -->
         <div class="col d-flex align-items-center justify-content-center">
@@ -97,9 +97,9 @@
   <div class="copyright-area text-center">
     <div class="container">
       <div class="row">
-        <div class="text-center ">
+        <div class="text-center">
           <a href="https://harmony-digital.fr/" target="_blank" rel="noopener noreferrer">
-            <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital.fr" class="img-fluid w-25 logoHarmony">
+            <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25" style="margin-bottom: -30px;">
           </a>
           <div class="copyright-text">
             <p>
