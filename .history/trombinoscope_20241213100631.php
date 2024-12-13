@@ -1,59 +1,6 @@
-<!-- TROMBINOSCOPE MOBILE-->
- <!-- Carrousel de personnes -->
- <div id="carouselTrombinoscope" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <!-- Première personne -->
-            <div class="carousel-item active">
-                <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Gilles Harve" class="photo">
-                    <p class="name">Gilles Harve</p>
-                </div>
-            </div>
-            
-            <!-- Deuxième personne -->
-            <div class="carousel-item">
-                <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 2" class="photo">
-                    <p class="name">Personne 2</p>
-                </div>
-            </div>
-            
-            <!-- Troisième personne -->
-            <div class="carousel-item">
-                <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 3" class="photo">
-                    <p class="name">Personne 3</p>
-                </div>
-            </div>
-            
-            <!-- Quatrième personne -->
-            <div class="carousel-item">
-                <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 4" class="photo">
-                    <p class="name">Personne 4</p>
-                </div>
-            </div>
-            
-            <!-- Cinquième personne -->
-            <div class="carousel-item">
-                <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 5" class="photo">
-                    <p class="name">Personne 5</p>
-                </div>
-            </div>
-        </div>
-        
-        <!-- Contrôles du carrousel -->
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Précédent</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Suivant</span>
-        </button>
-    </div>
-<!-- FIN TROMBINOSCOPE MOBILE-->
+<h2 class="text-white text-center m-4">Nos Auteurs</h2> 
+
+
 
 <!-- TROMBINOSCOPE DESKTOP-->
 <div class="carousel-container d-none d-md-block">
@@ -270,4 +217,4 @@
 </div>
 
 
-<!-- Fin TROMBINOSCOPE DESKTOP-->
+<!-- Fin TROMBINOSCOPE -->

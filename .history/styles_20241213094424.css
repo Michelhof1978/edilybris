@@ -937,49 +937,6 @@ width: 100%;
 }
  /* FIN CARD XL AUTEURS  */
 
- /* TROMBI MOBILE */
- .trombinoscope {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 30px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.carousel-item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 10px;
-}
-
-.person {
-  border: 5px solid white; /* Bordure blanche autour de la photo */
-  padding: 10px;
-  background-color: white;
-  border-radius: 10px; /* Pour rendre les bords arrondis */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre légère pour l'effet 3D */
-  width: 200px;
-  margin: 0 auto;
-}
-
-
-.photo {
-  width: 100%;
-  height: auto;
-  border-radius: 8px; /* Bord arrondi pour la photo */
-  border: 5px solid white; /* Bordure blanche autour de la photo */
-}
-
-.name {
-  margin-top: 10px;
-  font-size: 18px;
-  font-weight: bold;
-  color: #333;
-}
- /* TROMBI MOBILE */
-
  /* PRESENTATION AUTEURS INDEX */
 /*Animation photo auteurs index*/
 .imgAuteurIndex {
@@ -1373,8 +1330,125 @@ input[type="email"]:focus {
 }
  /* FIN PRESENTATION AUTEURS INDEX  */
 
+/* TROMBINOSCOPE MOBILE*/
 
-/* TROMBINOSCOPE */
+/* Carrousel */
+.carousel {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+  overflow: hidden; /* Enlever la scrollbar */
+  position: relative;
+}
+
+/* Boîte du carrousel (où les cartes défilent) */
+.box {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Cartes de profil (les images) */
+.profile-card {
+  position: relative;
+  width: 140px;
+  height: 180px;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+  flex-shrink: 0;
+  transition: transform 0.3s ease-in-out;
+}
+.profile-card:hover {
+  transform: scale(1.05);
+}
+
+/* Image dans chaque carte */
+.profile-card .imgBx {
+  position: relative;
+  width: 100%;
+  height: 70%;
+  background: #222;
+}
+.profile-card .imgBx img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px 4px 0 0;
+}
+
+/* Détails de chaque carte */
+.profile-card .details {
+  position: relative;
+  width: 100%;
+  height: 30%;
+  text-align: center;
+  background: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-card .details h2 {
+  margin: 0;
+  font-size: 14px;
+  color: #000;
+  text-transform: uppercase;
+}
+
+/* Conteneur des boutons de navigation */
+.carousel-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+/* Style des boutons de navigation */
+.carousel-btn {
+  background-color: #f4c600;
+  border: none;
+  padding: 8px 16px;
+  font-size: 14px;
+  color: #000;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+.carousel-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+.carousel-btn:hover:not(:disabled) {
+  background-color: #e5b800;
+}
+
+/* Responsive pour mobile uniquement */
+@media (max-width: 768px) {
+  .carousel-container {
+    display: block;
+    width: 100%;
+  }
+  .box {
+    gap: 5px;
+  }
+  .profile-card {
+    width: 120px;
+    height: 160px;
+  }
+  .profile-card .details h2 {
+    font-size: 12px;
+  }
+}
+
+/* FIN TROMBINOSCOPE MOBILE*/
+
+
+/* TROMBINOSCOPE DESKTOP*/
 /* Conteneur du carrousel */
 .carousel {
   display: flex;
@@ -1506,7 +1580,9 @@ input[type="email"]:focus {
 .carousel-btn:hover:not(:disabled) {
   background-color: #f4c600; /* Couleur de survol */
 }
-/* FIN TROMBINOSCOPE */
+
+
+/* FIN TROMBINOSCOPE DESKTOP*/
 
 /* FICHE AUTEUR*/
 /* Header */

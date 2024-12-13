@@ -935,50 +935,7 @@ width: 100%;
 #new-nextGroupButton {
   background-color:#f4c600;
 }
- /* FIN CARD XL AUTEURS  */
-
- /* TROMBI MOBILE */
- .trombinoscope {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 30px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.carousel-item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 10px;
-}
-
-.person {
-  border: 5px solid white; /* Bordure blanche autour de la photo */
-  padding: 10px;
-  background-color: white;
-  border-radius: 10px; /* Pour rendre les bords arrondis */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre légère pour l'effet 3D */
-  width: 200px;
-  margin: 0 auto;
-}
-
-
-.photo {
-  width: 100%;
-  height: auto;
-  border-radius: 8px; /* Bord arrondi pour la photo */
-  border: 5px solid white; /* Bordure blanche autour de la photo */
-}
-
-.name {
-  margin-top: 10px;
-  font-size: 18px;
-  font-weight: bold;
-  color: #333;
-}
- /* TROMBI MOBILE */
+ /* FIN CARD  AUTEURS  */
 
  /* PRESENTATION AUTEURS INDEX */
 /*Animation photo auteurs index*/
