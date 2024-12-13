@@ -7,7 +7,7 @@
 
 
 <!-- FOOTER DESKTOP -->
-<footer class="footer-section">
+<footer class="footer-section d-none d-md-block">
   <div class="container">
     <div class="footer-cta pt-5 pb-5">
       <div class="row d-flex justify-content-center align-items-center">
