@@ -4,60 +4,71 @@
 
 
 <!-- FOOTER MOBILE -->
-
-
-<!-- FOOTER DESKTOP -->
-<footer class="footer-section d-none d-md-block">
-<div class="container">
-    <div class="footer-cta pt-5 pb-5">
-        <div class="row d-flex justify-content-center align-items-center">
-            <!-- Adresse -->
-            <div class="col d-flex align-items-center justify-content-center">
-                <i class="fas fa-map-marker-alt me-2"></i>
-                <span>9, rue des Mésanges<br> 79400 SAINT-MAIXENT-L'ÉCOLE</span>
-            </div>
-            <!-- Téléphone -->
-            <div class="col d-flex align-items-center justify-content-center">
-                <i class="fas fa-phone me-2"></i>
-                <span>06 23 53 30 18</span>
-            </div>
-            <!-- Email -->
-            <div class="col d-flex align-items-center justify-content-center">
-                <i class="far fa-envelope-open me-2"></i>
-                <span>edilybris@gmail.com</span>
+<footer class="footer-section ">
+    <div class="container ">
+        <!-- Section CTA -->
+        <div class="footer-cta1 pt-5 pb-5 text-center">
+            <div class="row justify-content-center">
+                <div class="col-12 mb-4">
+                    <div class="single-cta d-flex align-items-center justify-content-center">
+                        <i class="fas fa-map-marker-alt me-2"></i>
+                        <div class="cta-text">
+                            <h4>Adresse</h4>
+                            <span>9, rue des Mésanges <br>79400 SAINT-MAIXENT-L'ÉCOLE</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-cta d-flex align-items-center justify-content-center">
+                        <i class="fas fa-phone me-2"></i>
+                        <div class="cta-text">
+                            <h4>Appelez-Nous !</h4>
+                            <span>06 23 53 30 18</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 mb-4">
+                    <div class="single-cta d-flex align-items-center justify-content-center">
+                        <i class="far fa-envelope-open me-2"></i>
+                        <div class="cta-text">
+                            <h4>Mail</h4>
+                            <span>edilybris@gmail.com</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</div>
-</div>
-        <!-- Contenu du Footer -->
-        <div class="footer-content pt-5 pb-5 justify-content-center">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 mb-50">
+        <!-- Footer Content -->
+        <div class="footer-content text-center">
+            <div class="row justify-content-center">
+                <div class="col-12 mb-5">
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <a class="navbar-brand" href="index.php">
                                 <strong class="text-white nav-brand-logo">
-                                    <span class="text-white">Edi'lybris</span>
+                                    <span class="text-orange-footer-2">Edi'lybris
                                 </strong>
+                                
                             </a>
+                        </div>
+                        <div class="mb-3 text-center">
+                            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25">
                         </div>
                         <div class="footer-text">
                         </div>
-                        <div class="footer-social-icon">
-    <span class="pt-3 ms-5 me-4">Suivez-nous !</span>
-    <a href="https://www.facebook.com/edilybris/" target="_blank">
-        <i class="fab fa-facebook facebook-icon"></i>
-    </a>
-    <a href="https://www.instagram.com/edilybris/" target="_blank">
-        <i class="fab fa-instagram instagram-icon"></i>
-    </a>
-</div>
 
+                        <div class="footer-social-icon">
+                            <span class="pt-3 d-block ms-2 me-4">Suivez-nous !</span>
+                            <a href="YOUTUBE" target="_blank">
+                                <i class="fab fa-youtube youtube-bg me-1"></i>
+                            </a>
+                            <a href="LINKEDIN" target="_blank">
+                                <i class="fab fa-linkedin linkedin-bg"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
-
-                <div class="col-xl-4 col-lg-4 mb-50">
+                <div class="col-12 mb-5">
                     <div class="footer-widget">
                         <div class="footer-widget-heading2 text-center text-white m-2">
                             <h3>Liens utiles</h3>
@@ -73,13 +84,13 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 mb-50">
+                <div class="col-12 mb-5">
                     <div class="footer-widget">
                         <div class="footer-widget-heading2 text-center text-white m-2">
-                            <h3>Edil'info</h3>
+                            <h3>Newsletter</h3>
                         </div>
                         <div class="footer-text mb-3">
-                            <p>Abonnez-vous à notre Edil'info pour rester informé des dernières actualités.</p>
+                            <p>Abonnez-vous à notre newsletter pour rester informé des dernières actualités.</p>
                         </div>
                         <div class="subscribe-form">
                             <form action="newsletter_signup.php" method="post" class="d-flex justify-content-center">
@@ -87,15 +98,108 @@
                                 <button type="submit"><i class="fab fa-telegram-plane"></i></button>
                             </form>
                         </div>
-                        <div class="mt-3">
-                            <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-25 mt-3">
-                        </div>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="copyright-area text-center">
+        <div class="container">
+            <div class="row">
+                <div class="text-center">
+                    <img src="images/logoHarmonyDigital.png" alt="" class="img-fluid w-25">
+                    <div class="copyright-text">
+                        <p>Copyright &copy; 2022 - <span id="date"></span>, Droits réservés <a href="https://harmony-digital.fr/" target="_blank"><br><span class="pt-5">Site réalisé par Michel Hoffmann <br> Harmony Digital</span></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mt-2">
+        <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-78315-2" border="0" /></a>
+        </div>   
+        </div>
+</footer>
+<!-- FIN FOOTER MOBILE -->
+
+<!-- FOOTER DESKTOP -->
+ <footer class="footer-section bg-dark text-light pt-5">
+        <div class="container">
+            <div class="footer-cta pb-5">
+                <div class="row d-flex justify-content-center align-items-center">
+                    <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <i class="fas fa-map-marker-alt me-2"></i>
+                        <span>9, rue des Mésanges<br>79400 SAINT-MAIXENT-L'ÉCOLE</span>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <i class="fas fa-phone me-2"></i>
+                        <span>06 23 53 30 18</span>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <i class="far fa-envelope-open me-2"></i>
+                        <span>edilybris@gmail.com</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-content">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 mb-50">
+                        <div class="footer-widget">
+                            <div class="footer-logo">
+                                <a class="navbar-brand" href="index.php">
+                                    <strong class="text-white nav-brand-logo">
+                                        <span class="text-white">Edi'lybris</span>
+                                    </strong>
+                                </a>
+                            </div>
+                            <div class="footer-social-icon mt-4">
+                                <span class="me-4">Suivez-nous !</span>
+                                <a href="https://www.facebook.com/edilybris/" target="_blank">
+                                    <i class="fab fa-facebook facebook-icon fa-2x"></i>
+                                </a>
+                                <a href="https://www.instagram.com/edilybris/" target="_blank">
+                                    <i class="fab fa-instagram instagram-icon fa-2x"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 mb-50">
+                        <div class="footer-widget">
+                            <div class="footer-widget-heading2 text-center text-white m-2">
+                                <h3>Liens utiles</h3>
+                            </div>
+                            <div class="footer-links pb-3">
+                                <ul class="list-unstyled">
+                                    <li><a href="mentionsLegales.php">Mentions Légales</a></li>
+                                    <li><a href="politiquedeConfidentialite.php">Politique de Confidentialité</a></li>
+                                    <li><a href="conditionsGeneralesDeVente.php">CGV</a></li>
+                                    <li><a href="formulaireDeContact.php">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 mb-50">
+                        <div class="footer-widget">
+                            <div class="footer-widget-heading2 text-center text-white m-2">
+                                <h3>Edil'info</h3>
+                            </div>
+                            <div class="footer-text mb-3">
+                                <p>Abonnez-vous à notre Edil'info pour rester informé des dernières actualités.</p>
+                            </div>
+                            <div class="subscribe-form">
+                                <form action="newsletter_signup.php" method="post" class="d-flex justify-content-center">
+                                    <input type="email" name="email" placeholder="Adresse Mail" class="me-2" required>
+                                    <button type="submit"><i class="fab fa-telegram-plane"></i></button>
+                                </form>
+                            </div>
+                            <div class="mt-3 text-center"> <img src="images/plumeFooter.png" loading="lazy" alt="" class="img-fluid w-50 mt-3"> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-area text-center">
         <div class="container">
             <div class="row">
                 <div class="text-center">
@@ -116,7 +220,9 @@
         </div>   
         
     </div>
-</footer>
+
+    </footer>
+
 <!-- FIN FOOTER DESKTOP -->
 
 <!-- COOKIES -->

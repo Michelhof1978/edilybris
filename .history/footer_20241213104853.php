@@ -5,6 +5,7 @@
 
 <!-- FOOTER MOBILE -->
 
+<!-- FIN FOOTER MOBILE -->
 
 <!-- FOOTER DESKTOP -->
 <footer class="footer-section d-none d-md-block">
