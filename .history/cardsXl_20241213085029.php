@@ -1,43 +1,4 @@
 <!-- CARDS XL Mobile -->
-<div class="d-block d-md-none"> 
-  <!-- Groupe 1 -->
-  <div id="new-group1" class="new-card-container">
-    <div class="new-card">
-      <a href="link_to_book_A.html">
-        <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre A">
-        <div class="new-card-content">
-          <div class="new-card-title">L'écho des collines</div>
-          <div class="new-card-author">Alice Dubois</div>
-          <div class="new-card-description">Une histoire captivante au cœur des montagnes.</div>
-          <div class="new-card-price">16,99 €</div>
-        </div>
-      </a>
-    </div>
-    <!-- Ajouter d'autres cartes ici pour le Groupe 1 -->
-  </div>
-
-  <!-- Groupe 2 -->
-  <div id="new-group2" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_F.html">
-        <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Livre F">
-        <div class="new-card-content">
-          <div class="new-card-title">La lumière des ombres</div>
-          <div class="new-card-author">Fabien Leclerc</div>
-          <div class="new-card-description">Un thriller captivant à couper le souffle.</div>
-          <div class="new-card-price">17,99 €</div>
-        </div>
-      </a>
-    </div>
-    <!-- Ajouter d'autres cartes ici pour le Groupe 2 -->
-  </div>
-
-  <!-- Boutons de navigation -->
-  <div class="new-navigation">
-    <button id="new-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
-    <button id="new-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
-  </div>
-</div>
 
 <!-- FIN CARDS XL Mobile -->
 
