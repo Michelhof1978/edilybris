@@ -51,9 +51,9 @@
 
 <?php include("souscription.php"); ?>
 
+<h2 class="text-white text-center m-4">Nos Auteurs</h2> 
 
-
-<?php include("trombinoscope.php"); ?>
+<?php include("trombi.php"); ?>
 
 
 
