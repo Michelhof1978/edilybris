@@ -406,15 +406,6 @@ footer {
   background-color: #003366; /* Applique la couleur de fond dans la zone du contenu */
 }
 
-.footer-pattern img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 330px;
-  background-size: cover;
-  background-position: 100% 100%;
-}
-
 .footer-logo {
   margin-bottom: 30px;
 }
@@ -428,23 +419,6 @@ footer {
   font-size: 14px;
   color: #fff;
   line-height: 28px;
-  text-align: center; /* Centre le texte horizontalement */
-}
-
-/* Optionnel : pour centrer le contenu dans un conteneur plus large */
-.footer-text {
-  display: flex;
-  flex-direction: column; /* Empile les éléments verticalement */
-  align-items: center; /* Centre les éléments horizontalement */
-}
-
-/* Media query pour cibler les écrans mobiles (exemple : moins de 768px de largeur) */
-@media (max-width: 768px) {
-  .footer-text p {
-    /* Ajustements spécifiques pour mobile si nécessaire */
-    font-size: 16px; /* Par exemple, augmenter la taille de la police */
-    line-height: 24px;
-  }
 }
 
 .footer-social-icon {
@@ -494,163 +468,11 @@ footer {
   transform: scale(1.2);
 }
 
-.footer-widget-heading h3 {
+.footer-widget-heading2 h3 {
   color: #fff;
   font-size: 20px;
   font-weight: 600;
-  margin-bottom: 20px; /* Marge ajustée pour plus d'espace au-dessus des liens */
-  position: relative;
-}
-
-.footer-widget-heading h3::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -15px;
-  height: 2px;
-  width: 50px;
-  background: rgba(228, 28, 61, 0.427);
-}
-
-.footer-links ul {
-  padding: 0;
-  list-style: none;
-}
-
-.footer-links ul li {
-  margin-bottom: 10px;
-}
-
-.footer-links ul li a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-.footer-links ul li a:hover {
-  text-decoration: underline;
-}
-
-.footer-links ul li {
-  margin-bottom: 12px; /* Ajoute une marge inférieure pour séparer les éléments */
-}
-
-.footer-links ul li a {
-  color: #fff;
-  text-transform: capitalize;
-}
-
-.footer-links ul li a:hover {
-  color: #ffffff;
-}
-
-.subscribe-form {
-  position: relative;
-  overflow: hidden;
-}
-
-.subscribe-form input {
-  width: 100%;
-  padding: 14px 28px;
-  background: #2E2E2E;
-  border: 1px solid #2E2E2E;
-  color: #fff;
-}
-
-.subscribe-form button {
-  position: absolute;
-  right: 0;
-  background: #ffcc00;
-  padding: 13px 20px;
-  top: 0;
-}
-
-.subscribe-form button i {
-  color: #fff;
-  font-size: 22px;
-  transform: rotate(-6deg);
-}
-
-.copyright-area {
-  background-color: #003366; /* Applique la couleur de fond dans la zone des copyrights */
-  padding: 40px 0;
-  margin-bottom: -30px;
-  padding-top: 10px;
-}
-
-.copyright-text p {
-  font-size: 14px;
-  color: #878787;
-}
-
-.copyright-text p a {
-  color: beige;
-}
-
-.footer-menu li {
-  display: inline-block;
-  margin-left: 20px;
-}
-
-.footer-menu li a {
-  font-size: 14px;
-  color: #878787;
-}
-
-.footer-widget {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-/* CSS supplémentaire pour améliorer la visibilité du footer sur mobile */
-@media (max-width: 767px) {
-  footer {
-    position: relative;
-    bottom: auto;
-    padding: 20px 0;
-  }
-
-  .footer-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .footer-widget {
-    margin-bottom: 20px;
-  }
-
-  .footer-cta .row {
-    flex-wrap: wrap;
-    gap: 1rem;
-  }
-
-  .footer-cta .col {
-    flex: 0 0 100%;
-    margin-bottom: 10px;
-  }
-
-  .footer-social-icon i {
-    font-size: 1.5rem;
-    margin-right: 5px;
-  }
-
-  .footer-social-icon span {
-    font-size: 16px;
-  }
-
-  .copyright-area {
-    margin-bottom: 0;
-  }
-
-  * {
-    box-sizing: border-box;
-  }
-}
-
 .logoHarmony{
-  margin: -10px;
-  margin-top: -20px;
  
 }
 /* END FOOTER */

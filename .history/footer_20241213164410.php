@@ -98,7 +98,7 @@
             <div class="row">
                 <div class="text-center ">
                 <a href="https://harmony-digital.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-25 logoHarmony">
+    <img src="images/logoHarmonyDigital.png" alt="Logo Harmony Digital" class="img-fluid w-2 logoHarmony">
 </a>
                     <div class="copyright-text">
                         <p>

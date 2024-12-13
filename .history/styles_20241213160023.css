@@ -428,23 +428,6 @@ footer {
   font-size: 14px;
   color: #fff;
   line-height: 28px;
-  text-align: center; /* Centre le texte horizontalement */
-}
-
-/* Optionnel : pour centrer le contenu dans un conteneur plus large */
-.footer-text {
-  display: flex;
-  flex-direction: column; /* Empile les éléments verticalement */
-  align-items: center; /* Centre les éléments horizontalement */
-}
-
-/* Media query pour cibler les écrans mobiles (exemple : moins de 768px de largeur) */
-@media (max-width: 768px) {
-  .footer-text p {
-    /* Ajustements spécifiques pour mobile si nécessaire */
-    font-size: 16px; /* Par exemple, augmenter la taille de la police */
-    line-height: 24px;
-  }
 }
 
 .footer-social-icon {
@@ -602,14 +585,6 @@ footer {
   align-items: center;
 }
 
-/* CSS supplémentaire pour améliorer la visibilité du footer sur mobile */
-@media (max-width: 767px) {
-  footer {
-    position: relative;
-    bottom: auto;
-    padding: 20px 0;
-  }
-
   .footer-content {
     display: flex;
     flex-direction: column;
@@ -649,8 +624,6 @@ footer {
 }
 
 .logoHarmony{
-  margin: -10px;
-  margin-top: -20px;
  
 }
 /* END FOOTER */
