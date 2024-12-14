@@ -65,7 +65,7 @@
             <!-- Livre 2 -->
             <div id="livre-2-mobile" class="livre-mobile row align-items-center my-4 d-none">
                 <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid w-75 mb-3 text-white" alt="Couverture du livre Le Coeur à ses Saisons">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid w-75 mb-3 " alt="Couverture du livre Le Coeur à ses Saisons">
                     <p class="fw-bold coloryellow fs-5">15,00 €</p>
                 </div>
                 <div class="col-12 text-white">
@@ -77,7 +77,7 @@
                         Il en va du temps comme des sentiments... 
                     </p>
                     <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                         LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...
                     </p>
                     <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

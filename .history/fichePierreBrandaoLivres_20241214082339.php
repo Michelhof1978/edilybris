@@ -36,87 +36,13 @@
     </div>
 </section>
 
-<!-- MODE MOBILE--> 
-<!-- Section des livres -->
-<section class="livres-mobile d-block d-md-none py-4">
-        <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre Brandao</h2>
 
-            <!-- Livre 1 -->
-            <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
-                <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75 mb-3" alt="Couverture du livre L'Amuserie">
-                    <p class="fw-bold coloryellow fs-5">15,00 €</p>
-                </div>
-                <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">L'AMUSERIE (ET PLEURE PARFOIS)</h3>
-                    <p>
-                        <strong>Année de publication :</strong> 2005
-                    </p>
-                    <p class="lead">
-                        Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions...
-                    </p>
-                    <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Livre 2 -->
-            <div id="livre-2-mobile" class="livre-mobile row align-items-center my-4 d-none">
-                <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid w-75 mb-3 text-white" alt="Couverture du livre Le Coeur à ses Saisons">
-                    <p class="fw-bold coloryellow fs-5">15,00 €</p>
-                </div>
-                <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">LE COEUR À SES SAISONS</h3>
-                    <p>
-                        <strong>Année de publication :</strong> 2010
-                    </p>
-                    <p class="lead">
-                        Il en va du temps comme des sentiments... 
-                    </p>
-                    <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Livre 3 -->
-            <div id="livre-3-mobile" class="livre-mobile row align-items-center my-4 d-none">
-                <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid w-75 mb-3" alt="Couverture du livre Lucioles Magiques">
-                    <p class="fw-bold coloryellow fs-5">15,00 €</p>
-                </div>
-                <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">LUCIOLES MAGIQUES</h3>
-                    <p>
-                        <strong>Année de publication :</strong> 2015
-                    </p>
-                    <p class="lead">
-                        LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...
-                    </p>
-                    <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Boutons de navigation -->
-            <div class="d-flex justify-content-center mt-4">
-                <button id="livre-backButton-mobile" class="btn btn-secondary me-2" disabled>Précédent</button>
-                <button id="livre-nextButton-mobile" class="btn btn-primary">Suivant</button>
-            </div>
-        </div>
-    </section>
-
-  <!-- MODE DESKTOP--> 
-    <section class="livres d-none d-md-block">
+    <section class="livres">
     <div class="containerAuteur">
         <h2>Les livres de Pierre Brandao</h2>
 
        <!-- Carte 1 --> 
-<div id="livre-1" class="livre">
+<div id="livre-1" class="livre d-none d-md-block">
     <div class="livre-content">
         <div class="livre-image">
             <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
@@ -139,7 +65,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
 </div>
 
         <!-- Carte 2 -->
-        <div id="livre-2" class="livre livre-hidden">
+        <div id="livre-2" class="livre livre-hidden d-none d-md-block">
             <div class="livre-content">
                 <div class="livre-image">
                     <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre 2">
@@ -178,7 +104,7 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
         </div>
 
         <!-- Carte 3 -->
-        <div id="livre-3" class="livre livre-hidden">
+        <div id="livre-3" class="livre livre-hidden d-none d-md-block">
             <div class="livre-content">
                 <div class="livre-image">
                     <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture du livre 3">
@@ -197,7 +123,7 @@ Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques
         </div>
 
         <!-- Carte 4 -->
-        <div id="livre-4" class="livre livre-hidden">
+        <div id="livre-4" class="livre livre-hidden d-none d-md-block">
             <div class="livre-content">
                 <div class="livre-image">
                     <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture du livre 4">
@@ -219,7 +145,7 @@ Attention : ce recueil n'est plus disponible en version papier, uniquement en nu
         </div>
 
        <!-- Carte 5 -->
-<div id="livre-5" class="livre livre-hidden">
+<div id="livre-5" class="livre livre-hidden d-none d-md-block">
     <div class="livre-content">
         <div class="livre-image">
             <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture du livre 5">
@@ -355,4 +281,3 @@ Pour que je ne dises plus : pour Qui ?</p>
         </div>
     </div>
 </section>
-<!-- FIN MODE DESKTOP--> 

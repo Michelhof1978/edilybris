@@ -1119,7 +1119,7 @@ document.addEventListener("DOMContentLoaded", function() {
         updateNavigation();
     });
 </script>
-<!-- FIN FICHE AUTEUR MOBILE-->
+<!-- FICHE AUTEUR MOBILE-->
 <!-- _____________________________________________________________________________________ -->
 
 <!--SEO -->

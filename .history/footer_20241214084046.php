@@ -1086,40 +1086,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-<!-- FICHE AUTEUR MOBILE-->
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        let currentLivreIndex = 0;
-        const livres = document.querySelectorAll('.livre-mobile');
-        const backButton = document.getElementById('livre-backButton-mobile');
-        const nextButton = document.getElementById('livre-nextButton-mobile');
 
-        function updateNavigation() {
-            livres.forEach((livre, index) => {
-                livre.classList.toggle('d-none', index !== currentLivreIndex);
-            });
-            backButton.disabled = currentLivreIndex === 0;
-            nextButton.disabled = currentLivreIndex === livres.length - 1;
-        }
-
-        backButton.addEventListener('click', () => {
-            if (currentLivreIndex > 0) {
-                currentLivreIndex--;
-                updateNavigation();
-            }
-        });
-
-        nextButton.addEventListener('click', () => {
-            if (currentLivreIndex < livres.length - 1) {
-                currentLivreIndex++;
-                updateNavigation();
-            }
-        });
-
-        updateNavigation();
-    });
-</script>
-<!-- FIN FICHE AUTEUR MOBILE-->
 <!-- _____________________________________________________________________________________ -->
 
 <!--SEO -->

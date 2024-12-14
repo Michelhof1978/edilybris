@@ -1086,7 +1086,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE LIVRE-->
 
-<!-- FICHE AUTEUR MOBILE-->
+<!-- -->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         let currentLivreIndex = 0;
@@ -1119,7 +1119,7 @@ document.addEventListener("DOMContentLoaded", function() {
         updateNavigation();
     });
 </script>
-<!-- FIN FICHE AUTEUR MOBILE-->
+
 <!-- _____________________________________________________________________________________ -->
 
 <!--SEO -->
