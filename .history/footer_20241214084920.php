@@ -1,6 +1,11 @@
 <div class="text-center ">
         <img class="img-fluid w-25" src="images/plume.png" alt="Image centrée">
     </div>
+<!-- FOOTER MOBILE -->
+
+<!-- FIN FOOTER MOBILE -->
+
+
 
 <!-- FOOTER DESKTOP ET MOBILE -->
 <footer class="footer-section ">
@@ -120,7 +125,7 @@
     </div>
 </div>
 
-<!-- FIN FOOTER DESKTOP ET MOBILE-->
+<!-- FIN FOOTER DESKTOP -->
 
 <!-- COOKIES -->
 <div id="cookie-banner">

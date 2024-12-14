@@ -120,7 +120,7 @@
     </div>
 </div>
 
-<!-- FIN FOOTER DESKTOP ET MOBILE-->
+<!-- FIN FOOTER DESKTOP -->
 
 <!-- COOKIES -->
 <div id="cookie-banner">
