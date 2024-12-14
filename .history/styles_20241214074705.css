@@ -1638,7 +1638,7 @@ input[type="email"]:focus {
 .livre-hidden {
   display: none;
 }
-
+/* FIN FICHE AUTEUR*/
 /* CITATIONS*/
 .citations {
   background-color: #003366;

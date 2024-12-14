@@ -1503,199 +1503,215 @@ input[type="email"]:focus {
 }
 /* FIN TROMBINOSCOPE */
 
-/* FICHE AUTEUR*/
-/* Header */
 .headerAuteur {
   background-color: #003366;
   color: white;
-  padding: 40px 0;
+  padding: 40px 20px;
   text-align: center;
 }
 
+.headerAuteur h1 {
+  font-size: 2.5rem;
+}
+
 .headerAuteur .intro {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin-top: 10px;
 }
 
 /* Section Biographie */
 .biographie {
-  background-image: url('images/fondLivres.png'); 
-  background-size: cover; /* L'image occupe toute la section */
+  background-image: url('images/fondLivres.png');
+  background-size: cover;
   background-position: center;
-  background-attachment: fixed; /* L'image reste fixe lors du défilement */
-  padding: 40px 0;
-  color: white; /* Texte en blanc pour contraster avec le fond */
-}
-
-.biographie .container {
-  width: 80%;
-  margin: 0 auto;
+  background-attachment: fixed;
+  padding: 40px 20px;
+  color: white;
 }
 
 .biographie h2 {
   font-size: 2rem;
-  color: #003366;
   margin-bottom: 20px;
-  color: #ffcc00;
+  text-align: center;
 }
 
-
-
-/* Bio Content avec image et texte */
 .bio-content {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
-  margin-top: 30px;
+  gap: 20px;
 }
 
 .bio-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-right: 20px;
+  flex: 1 1 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.bio-text {
+  flex: 2 1 100%;
+  padding: 20px;
 }
 
 .bio-text p {
-  font-size: 1.1rem;
-  line-height: 1.8;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.bio-text .btnCitations {
+  display: inline-block;
+  background-color: #ffcc00;
+  color: #003366;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.bio-text .btnCitations:hover {
+  background-color: #e6b800;
 }
 
 /* Section Livres */
 .livres {
-  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
-    background-size: cover; /* L'image occupe toute la section */
-    background-position: center;
-    background-attachment: fixed; /* L'image reste fixe lors du défilement */
-  padding: 40px 0;
-}
-
-.livres .containerAuteur {
-  width: 85%;
-  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: #f4f4f4;
 }
 
 .livres h2 {
-  font-size: 2rem;
-  color: #003366;
-  margin-bottom: 20px;
   text-align: center;
-  color: #ffcc00;
+  font-size: 2rem;
+  margin-bottom: 30px;
 }
 
 .livre {
   display: flex;
-  background-color: #003366;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.livre-image {
+  flex: 1 1 100%;
   padding: 20px;
-  margin-bottom: 30px;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  color: white;
+  text-align: center;
 }
 
-.livre img {
-  width: 150px;
-  height: auto;
-  border-radius: 8px;
-  margin-right: 20px;
+.livre-details {
+  flex: 2 1 100%;
+  padding: 20px;
 }
 
-.livre .details {
-  flex-grow: 1;
-}
-
-.livre h3 {
-  font-size: 1.6rem;
-  color: #003366;
-}
-
-.livre .annee {
-  font-size: 1.1rem;
-  color: #777;
+.livre-details h3 {
+  font-size: 1.5rem;
   margin-bottom: 10px;
 }
 
-.livre p {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  margin-bottom: 10px;
+.livre-details p {
+  margin-bottom: 15px;
+  font-size: 1rem;
 }
 
-.livre .lien {
-  font-size: 1.1rem;
+.livre-details .lien {
+  display: inline-block;
+  margin-top: 10px;
   color: #003366;
-  text-decoration: none;
-  border-bottom: 2px solid #003366;
-  transition: all 0.3s ease;
+  text-decoration: underline;
 }
 
-.livre .lien:hover {
-  color: #0055cc;
-  border-bottom: 2px solid #0055cc;
-}
-
-.livre-hidden {
-  display: none;
-}
-
-/* CITATIONS*/
-.citations {
-  background-color: #003366;
-  padding: 40px 0;
-}
-
-.citations blockquote {
-  font-size: 1.2rem;
-  font-style: italic;
-  margin-bottom: 20px;
-  padding-left: 20px;
-  border-left: 4px solid #003366;
-  color: #faf7f7;
-}
-
-.pagination {
-  display: flex;
-  justify-content: center; /* Centre tous les éléments horizontalement */
-  align-items: center; /* Centre les éléments verticalement */
-  margin-top: 20px;
-  flex-wrap: wrap; /* Permet aux éléments de passer à la ligne si nécessaire */
-}
-
-.pagination a {
-  text-decoration: none;
-  padding: 10px 15px;
-  margin: 0 5px;
-  background-color: #f0ad4e;
-  color: white;
-  border-radius: 5px;
-  font-weight: bold;
-}
-
-
-.pagination .page-num {
-  background-color: #6c757d; /* Gris pour les numéros de page non sélectionnés */
-  color: white;
-}
-
-.pagination .page-num.active {
-  background-color: #ffcc00; /* Jaune pour la page active */
-}
-
-.pagination span {
-  margin: 0 10px;
-  font-weight: bold;
+.livre-details .lien:hover {
   color: #ffcc00;
 }
 
-/* Optionnel : ajouter une petite bordure autour des éléments de pagination */
-.pagination a,
-.pagination span {
-  border: 1px solid #ffcc00;
+/* Boutons de navigation */
+.livre-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
+.livre-button {
+  background-color: #003366;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
 
-/* FIN FICHE AUTEUR*/
+.livre-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Responsivité */
+@media (max-width: 768px) {
+  .headerAuteur h1 {
+    font-size: 2rem;
+  }
+
+  .bio-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .bio-text {
+    padding: 10px;
+  }
+
+  .livre {
+    flex-direction: column;
+  }
+
+  .livre-image {
+    padding: 10px;
+  }
+
+  .livre-details {
+    padding: 10px;
+  }
+
+  .livre-details h3 {
+    font-size: 1.25rem;
+  }
+
+  .livre-details p {
+    font-size: 0.9rem;
+  }
+
+  .livre-navigation {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .livre-button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .headerAuteur h1 {
+    font-size: 1.5rem;
+  }
+
+  .bio-text p {
+    font-size: 0.9rem;
+  }
+
+  .btnCitations {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+
+  .livre-details p {
+    font-size: 0.8rem;
+  }
+}
 
 /* Changer la couleur des h3 en #ffcc00 */
 .h2Jaune {

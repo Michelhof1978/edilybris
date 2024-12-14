@@ -1519,7 +1519,7 @@ input[type="email"]:focus {
 
 /* Section Biographie */
 .biographie {
-  background-image: url('images/fondLivres.png'); 
+  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
   background-size: cover; /* L'image occupe toute la section */
   background-position: center;
   background-attachment: fixed; /* L'image reste fixe lors du défilement */
@@ -1639,7 +1639,7 @@ input[type="email"]:focus {
   display: none;
 }
 
-/* CITATIONS*/
+/* Citations */
 .citations {
   background-color: #003366;
   padding: 40px 0;
@@ -1898,13 +1898,27 @@ input[type="email"]:focus {
 }
 /* FIN BOUTONS CITATIONS*/
 
-/* @media (max-width: 767px) {
-  .videoCommandeMobile {
-   margin-top: -x; /* Valeur plus modérée */
-    /* margin-bottom: ; Valeur plus modérée */
-  /* }
-} */ */
 
+/* FIN BOUTONS CITATIONS*/
+/* Styles par défaut (pour les écrans plus larges que les mobiles) */
+.videoCommandeMobile {
+  /* Ces styles s'appliqueront aux écrans non mobiles, vous pouvez les laisser vides ou mettre d'autres styles */
+}
+
+/* Media Query pour les mobiles (écrans dont la largeur est inférieure à 768px par exemple) */
+@media (max-width: 767px) { /* on peut aussi utiliser @media only screen and (max-width: 767px) */
+  .videoCommandeMobile {
+   padding-bottom: -500px;
+  }
+}
+
+/* Autre exemple avec une taille d'écran différente pour les mobiles */
+@media (max-width: 480px) {
+    .videoCommandeMobile {
+        margin-top: -250px; /* Adaptation pour un écran encore plus petit */
+        margin-bottom: -1000px;
+    }
+}
 
 
 /* CARDS MOBILE*/

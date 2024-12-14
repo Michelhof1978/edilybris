@@ -8,9 +8,12 @@
 
 <?php include("header.php"); ?>
 
-       
-<?php include("fichePierreBrandaoLivres.php"); ?>
+
+       <?php include("fichePierreBrandaoLivres.php"); ?>
     
+
+ 
+
 
 <?php include("footer.php"); ?>
 

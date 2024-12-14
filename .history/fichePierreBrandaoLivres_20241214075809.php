@@ -15,7 +15,7 @@
         <!-- Section image et texte -->
         <div class="bio-content">
             <div class="bio-text">
-                <p class="lead text-white text-center m-4">
+                <p class="lead text-white text-center">
                     Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
                     Dès la primaire, séduit par la musicalité du vers, il rendait ses devoirs en utilisant la rime. <br>
                     À quinze ans, il rencontre un poète, Gilles Sorgel, qui se fait fort de lui montrer la voie en lui enseignant les règles de la versification. <br>

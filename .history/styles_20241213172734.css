@@ -1519,7 +1519,7 @@ input[type="email"]:focus {
 
 /* Section Biographie */
 .biographie {
-  background-image: url('images/fondLivres.png'); 
+  background-image: url('images/fondLivres.png'); /* Remplacer par ton image */
   background-size: cover; /* L'image occupe toute la section */
   background-position: center;
   background-attachment: fixed; /* L'image reste fixe lors du défilement */
@@ -1639,7 +1639,7 @@ input[type="email"]:focus {
   display: none;
 }
 
-/* CITATIONS*/
+/* Citations */
 .citations {
   background-color: #003366;
   padding: 40px 0;
@@ -1898,12 +1898,12 @@ input[type="email"]:focus {
 }
 /* FIN BOUTONS CITATIONS*/
 
-/* @media (max-width: 767px) {
+@media (max-width: 767px) {
   .videoCommandeMobile {
-   margin-top: -x; /* Valeur plus modérée */
-    /* margin-bottom: ; Valeur plus modérée */
-  /* }
-} */ */
+   margin-top: -845px; /* Valeur plus modérée */
+    margin-bottom: -px; /* Valeur plus modérée */
+  }
+}
 
 
 
