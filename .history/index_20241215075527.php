@@ -30,7 +30,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
         <span class="item" style="--i: 1"></span>
         <img
           class="img-fluid item imgAuteurIndex"
-          src="images/annieBrunetot/annieBrunetot.png"
+          src="images/annieBrunetot/annieBrunetot."
           style="--i: 2"
           alt="Photo écrivain" />
         <span class="item" style="--i: 3"></span>
