@@ -32,12 +32,12 @@
             </a>
         </div>
 
-        <!-- BESSEDE ARLETTE-->
+        <!-- -->
         <div class="carousel-item">
-            <a href="FicheBessedeArlette.php">
+            <a href="FicheJoelBerthelot.php">
                 <div class="person">
-                    <img src="images/arletteBessede/arletteBessede.webp" alt="Photo de BESSEDE ARLETTE" class="photo">
-                    <p class="name">BESSEDE ARLETTE</p>
+                    <img src="images/joelBerthelot/joelBerthelot.webp" alt="Photo de JOEL BERTHELOT" class="photo">
+                    <p class="name">JOEL BERTHELOT</p>
                 </div>
             </a>
         </div>
@@ -90,13 +90,13 @@
           <h2>JOEL BERTHELOT</h2>
         </div>
       </a>
-         <!-- BESSEDE ARLETTE-->
-      <a href="FicheBessedeArlette.php" class="profile-card producer">
+         <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx ">
-          <img src="images/arletteBessede/arletteBessede.webp" class="img-fluid" alt="Photo de BESSEDE ARLETTE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>BESSEDE ARLETTE</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

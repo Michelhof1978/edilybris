@@ -93,7 +93,7 @@
          <!-- BESSEDE ARLETTE-->
       <a href="FicheBessedeArlette.php" class="profile-card producer">
         <div class="imgBx ">
-          <img src="images/arletteBessede/arletteBessede.webp" class="img-fluid" alt="Photo de BESSEDE ARLETTE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Photo de BESSEDE ARLETTE">
         </div>
         <div class="details mb-3">
           <h2>BESSEDE ARLETTE</h2>

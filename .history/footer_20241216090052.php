@@ -1,5 +1,5 @@
 <div class="text-center ">
-        <img class="img-fluid w-25" src="images/plume.webp" alt="Image centrée">
+        <img class="img-fluid w-25" src="images/plume." alt="Image centrée">
     </div>
 
 <!-- FOOTER DESKTOP ET MOBILE -->

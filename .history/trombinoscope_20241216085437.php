@@ -22,26 +22,17 @@
             </a>
         </div>
 
-        <!-- JOEL BERTHELOT-->
+        <!-- Troisième personne -->
         <div class="carousel-item">
-            <a href="FicheJoelBerthelot.php">
+            <a href="/profil-personne3">
                 <div class="person">
-                    <img src="images/joelBerthelot/joelBerthelot.webp" alt="Photo de JOEL BERTHELOT" class="photo">
-                    <p class="name">JOEL BERTHELOT</p>
+                    <img src="images/gillesHerve/gillesHerve.png" alt="Photo de Personne 3" class="photo">
+                    <p class="name">Personne 3</p>
                 </div>
             </a>
         </div>
 
-        <!-- BESSEDE ARLETTE-->
-        <div class="carousel-item">
-            <a href="FicheBessedeArlette.php">
-                <div class="person">
-                    <img src="images/arletteBessede/arletteBessede.webp" alt="Photo de BESSEDE ARLETTE" class="photo">
-                    <p class="name">BESSEDE ARLETTE</p>
-                </div>
-            </a>
-        </div>
-
+        <!-- Ajoutez d'autres personnes de la même manière -->
     </div>
 
     <!-- Contrôles du carrousel -->
@@ -81,184 +72,184 @@
           <h2>David Beaulieu</h2>
         </div>
       </a>
-         <!-- JOEL BERTHELOT-->
-      <a href="FicheJoelBerthelot.php" class="profile-card producer">
+
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/joelBerthelot/joelBerthelot.webp" class="img-fluid" alt="Photo de JOEL BERTHELOT">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>JOEL BERTHELOT</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
-         <!-- BESSEDE ARLETTE-->
-      <a href="FicheBessedeArlette.php" class="profile-card producer">
+
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx ">
-          <img src="images/arletteBessede/arletteBessede.webp" class="img-fluid" alt="Photo de BESSEDE ARLETTE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
-        <div class="details mb-3">
-          <h2>BESSEDE ARLETTE</h2>
+        <div class="details mb-4">
+          <h2>Abdel François</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
-          <h2>Gilles Hervé</h2>
-        </div>
-      </a>
- <!-- DAVID BEAULIEU-->
-      <a href="page_gilles_herve.html" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
-        </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
 
-       <!-- DAVID BEAULIEU-->
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
-        </div>
-        <div class="details mb-3">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
- <!-- DAVID BEAULIEU-->
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
-        </div>
-        <div class="details mb-3">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
- <!-- DAVID BEAULIEU-->
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
-        </div>
-        <div class="details mb-3">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
- <!-- DAVID BEAULIEU-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
+      <!-- Répétition de cartes (ajoutons 34 autres cartes) -->
+      <a href="page_abdel_francois.html" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
+        </div>
+        <div class="details mb-4">
+          <h2>Abdel François</h2>
+        </div>
+      </a>
+
+      <a href="page_abdel_francois.html" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
+        </div>
+        <div class="details mb-4">
+          <h2>Abdel François</h2>
+        </div>
+      </a>
+
+      <a href="page_abdel_francois.html" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
+        </div>
+        <div class="details mb-4">
+          <h2>Abdel François</h2>
+        </div>
+      </a>
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
-        </div>
-        <div class="details mb-3">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Abdel François</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
-      <a href="page_abdel_francois.html" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
-        </div>
-        <div class="details mb-3">
-          <h2>Abdel François</h2>
-        </div>
-      </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
+      <a href="page_abdel_francois.html" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
+        </div>
+        <div class="details mb-4">
+          <h2>Abdel François</h2>
+        </div>
+      </a>
+
+      <a href="page_abdel_francois.html" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
+        </div>
+        <div class="details mb-4">
+          <h2>Abdel François</h2>
+        </div>
+      </a>
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
+      <a href="page_gilles_herve.html" class="profile-card director">
+        <div class="imgBx">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
+        </div>
+        <div class="details mb-4">
+          <h2>Gilles Hervé</h2>
+        </div>
+      </a>
+
       <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Abdel François</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Abdel François</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
           <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Abdel François</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx ">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- DAVID BEAULIEU-->
+
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
           <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
-        <div class="details mb-3">
+        <div class="details mb-4">
           <h2>Gilles Hervé</h2>
         </div>
       </a>
