@@ -132,7 +132,7 @@ Notre association rassemble écrivains confirmés et nouveaux talents pour promo
 
     <!-- Image -->
     <div class="col-12 col-md-4 d-flex justify-content-center align-items-center ">
-      <img src="images/livreIndex2.webp" alt="Livres en illustation" class="img-fluid" />
+      <img src="images/livreIndex2.png" alt="Livres en illustation" class="img-fluid" />
     </div>
   </div>
 </div>

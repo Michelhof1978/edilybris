@@ -1,65 +1,72 @@
-<!-- TROMBINOSCOPE MOBILE -->
-<!-- Carrousel de personnes -->
-<div id="carouselTrombinoscope" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
-    <div class="carousel-inner">
-        <!-- Patrice Bachereau -->
-        <div class="carousel-item active">
-            <a href="/profil-patrice">
+<!-- TROMBINOSCOPE MOBILE-->
+ <!-- Carrousel de personnes -->
+ <div id="carouselTrombinoscope" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <!-- Première personne -->
+            <div class="carousel-item active">
                 <div class="person">
-                    <img src="images/patriceBachereau/patriceBachereau.webp" alt="Photo de Patrice Bachereau" class="photo">
+                    <img src="images/patriceBachereau" alt="Gilles Harve" class="photo">
                     <p class="name">Patrice Bachereau</p>
                 </div>
-            </a>
-        </div>
-
-        <!-- Deuxième personne -->
-        <div class="carousel-item">
-            <a href="/profil-personne2">
+            </div>
+            
+            <!-- Deuxième personne -->
+            <div class="carousel-item">
                 <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Photo de Personne 2" class="photo">
+                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 2" class="photo">
                     <p class="name">Personne 2</p>
                 </div>
-            </a>
-        </div>
-
-        <!-- Troisième personne -->
-        <div class="carousel-item">
-            <a href="/profil-personne3">
+            </div>
+            
+            <!-- Troisième personne -->
+            <div class="carousel-item">
                 <div class="person">
-                    <img src="images/gillesHerve/gillesHerve.png" alt="Photo de Personne 3" class="photo">
+                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 3" class="photo">
                     <p class="name">Personne 3</p>
                 </div>
-            </a>
+            </div>
+            
+            <!-- Quatrième personne -->
+            <div class="carousel-item">
+                <div class="person">
+                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 4" class="photo">
+                    <p class="name">Personne 4</p>
+                </div>
+            </div>
+            
+            <!-- Cinquième personne -->
+            <div class="carousel-item">
+                <div class="person">
+                    <img src="images/gillesHerve/gillesHerve.png" alt="Personne 5" class="photo">
+                    <p class="name">Personne 5</p>
+                </div>
+            </div>
         </div>
-
-        <!-- Ajoutez d'autres personnes de la même manière -->
+        
+        <!-- Contrôles du carrousel -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Précédent</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Suivant</span>
+        </button>
     </div>
-
-    <!-- Contrôles du carrousel -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Précédent</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Suivant</span>
-    </button>
-</div>
-<!-- FIN TROMBINOSCOPE MOBILE -->
-
+<!-- FIN TROMBINOSCOPE MOBILE-->
 
 <!-- TROMBINOSCOPE DESKTOP-->
 <div class="carousel-container d-none d-md-block">
   <!-- Carrousel -->
   <div class="carousel">
     <div class="box">
-      <!-- Patrice Bachereau-->
+      <!-- Cartes de profils -->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/patriceBachereau/patriceBachereau.webp" class="img-fluid" alt="Photo de Patrice Bachereau">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details">
-          <h2> Patrice Bachereau</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
 
