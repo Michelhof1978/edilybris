@@ -124,7 +124,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </h4>
 
 <div class="text-center m-3">
-    <img src="images/livresEtagere2.webp" loading="lazy" alt="" class="img-fluid w-50">
+    <img src="images/livresEtagere2.png" loading="lazy" alt="" class="img-fluid w-50">
 </div>
 
 <h4 class="mb-5 text-center">

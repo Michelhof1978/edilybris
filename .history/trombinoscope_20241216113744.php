@@ -104,7 +104,7 @@
 <div class="carousel-item">
             <a href="ficheJosyaneDejesus.php">
                 <div class="person">
-                    <img src="images/JosyaneDeJesus/josianneDeJesus.webp alt="Photo de DE JESUS BERGEY JOSYANE " class="photo">
+                    <img src="images/jeanPierreCretel/jeanPierreCretel.webp" alt="Photo de DE JESUS BERGEY JOSYANE " class="photo">
                     <p class="name">DE JESUS BERGEY JOSYANE </p>
                 </div>
             </a>
@@ -234,13 +234,13 @@
           <h2>CRETEL JEAN-PIERRE </h2>
         </div>
       </a>
- <!-- DE JESUS BERGEY JOSYANE-->
-      <a href="ficheJosyaneDejesus.php" class="profile-card producer">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/JosyaneDeJesus/josianneDeJesus.webp" class="img-fluid" alt="Photo de DE JESUS BERGEY JOSYANE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>DE JESUS BERGEY JOSYANE</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

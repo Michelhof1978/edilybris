@@ -237,7 +237,7 @@
  <!-- DE JESUS BERGEY JOSYANE-->
       <a href="ficheJosyaneDejesus.php" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/JosyaneDeJesus/josianneDeJesus.webp" class="img-fluid" alt="Photo de DE JESUS BERGEY JOSYANE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Photo de DE JESUS BERGEY JOSYANE">
         </div>
         <div class="details mb-3">
           <h2>DE JESUS BERGEY JOSYANE</h2>
