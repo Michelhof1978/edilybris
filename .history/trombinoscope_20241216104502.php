@@ -62,12 +62,12 @@
             </a>
         </div>
 
-        <!-- CATHELINEAU JOCELYNE -->
+        <!-- CAT -->
         <div class="carousel-item">
-            <a href="ficheJocelynCathelineau.php">
+            <a href="ficheRoxaneLovac.php">
                 <div class="person">
-                    <img src="images/JocelyneCathelineau/jocelyneCathelineau.webp" alt="Photo de CATHELINEAU JOCELYNE" class="photo">
-                    <p class="name">CATHELINEAU JOCELYNE</p>
+                    <img src="images/roxaneLovac/roxaneLovac.webp" alt="Photo de Lovac Roxane" class="photo">
+                    <p class="name">Lovac Roxane</p>
                 </div>
             </a>
         </div>
@@ -159,13 +159,13 @@
           <h2>LOVAC ROXANE</h2>
         </div>
       </a>
- <!-- CATHELINEAU JOCELYNE-->
-      <a href="ficheJocelynCathelineau.php" class="profile-card producer">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/JocelyneCathelineau/jocelyneCathelineau.webp" class="img-fluid" alt="Photo de CATHELINEAU JOCELYNE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>CATHELINEAU JOCELYNE</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

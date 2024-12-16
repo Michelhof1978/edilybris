@@ -160,9 +160,9 @@
         </div>
       </a>
  <!-- CATHELINEAU JOCELYNE-->
-      <a href="ficheJocelynCathelineau.php" class="profile-card producer">
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/JocelyneCathelineau/jocelyneCathelineau.webp" class="img-fluid" alt="Photo de CATHELINEAU JOCELYNE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
           <h2>CATHELINEAU JOCELYNE</h2>
