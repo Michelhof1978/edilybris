@@ -44,27 +44,14 @@
 
  <!-- BRANDAO PIERRE-->
  <div class="carousel-item">
-            <a href="FichePierreBrandao.php">
+            <a href="FicheBessedeArlette.php">
                 <div class="person">
-                    <img src="images/pierreBrandao/pierreBrandao.webp" alt="Photo de BRANDAO PIERRE" class="photo">
-                    <p class="name">BRANDAO PIERRE</p>
-                </div>
-            </a>
-        </div>
-
-        <!-- LOVAC ROXANE-->
-<div class="carousel-item">
-            <a href="ficheRoxaneLovac.php">
-                <div class="person">
-                    <img src="images/roxaneLovac/roxaneLovac.webp" alt="Photo de LOVAC ROXANE" class="photo">
-                    <p class="name">LOVAC ROXANE</p>
+                    <img src="images/arletteBessede/arletteBessede.webp" alt="Photo de BESSEDE ARLETTE" class="photo">
+                    <p class="name">BESSEDE ARLETTE</p>
                 </div>
             </a>
         </div>
     </div>
-
-    </div>
-    ficheRoxaneLovac
 
     <!-- Contrôles du carrousel -->
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="prev">
@@ -121,32 +108,32 @@
           <h2>BESSEDE ARLETTE</h2>
         </div>
       </a>
- <!-- BRANDAO PIERRE-->
-      <a href="fichePierreBrandao.php" class="profile-card director">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/pierreBrandao/pierreBrandao.webp" class="img-fluid" alt="Photo de BRANDAO PIERRE">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>BRANDAO PIERRE</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- BRUNETOT ANNIE-->
-      <a href="ficheAnnieBrunetot.php" class="profile-card director">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/annieBrunetot/annieBrunetot.webp" class="img-fluid" alt="Gilles Hervé">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>BRUNETOT ANNIE</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
 
-       <!-- LOVAC ROXANE-->
-      <a href="ficheRoxaneLovac.php" class="profile-card producer">
+       <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/roxaneLovac/roxaneLovac.webp" class="img-fluid" alt="Photo de LOVAC ROXANE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>LOVAC ROXANE</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

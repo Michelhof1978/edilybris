@@ -56,7 +56,7 @@
 <div class="carousel-item">
             <a href="ficheRoxaneLovac.php">
                 <div class="person">
-                    <img src="images/roxaneLovac/roxaneLovac.webp" alt="Photo de LOVAC ROXANE" class="photo">
+                    <img src="images/roxaneLovac/rox" alt="Photo de LOVAC ROXANE" class="photo">
                     <p class="name">LOVAC ROXANE</p>
                 </div>
             </a>
@@ -140,13 +140,13 @@
         </div>
       </a>
 
-       <!-- LOVAC ROXANE-->
-      <a href="ficheRoxaneLovac.php" class="profile-card producer">
+       <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/roxaneLovac/roxaneLovac.webp" class="img-fluid" alt="Photo de LOVAC ROXANE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>LOVAC ROXANE</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->
