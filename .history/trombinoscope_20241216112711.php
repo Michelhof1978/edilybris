@@ -92,9 +92,9 @@
         </div>
 <!-- CRETEL JEAN-PIERRE -->
 <div class="carousel-item">
-            <a href="ficheJeanPierreCretel.php">
+            <a href="fiche.php">
                 <div class="person">
-                    <img src="images/jeanPierreCretel/jeanPierreCretel.webp" alt="Photo de CRETEL JEAN-PIERRE" class="photo">
+                    <img src="images/lydiaChauvin/lydiaChauvin.webp" alt="Photo de CRETEL JEAN-PIERRE" class="photo">
                     <p class="name">CRETEL JEAN-PIERRE</p>
                 </div>
             </a>
@@ -215,13 +215,13 @@
           <h2>CHAUVIN LYDIA</h2>
         </div>
       </a>
- <!-- CRETEL JEAN-PIERRE -->
+ <!-- DAVID BEAULIEU-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/jeanPierreCretel/jeanPierreCretel.webp" class="img-fluid" alt="Photo de CRETEL JEAN-PIERRE ">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>CRETEL JEAN-PIERRE </h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

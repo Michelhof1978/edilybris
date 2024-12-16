@@ -90,20 +90,8 @@
                 </div>
             </a>
         </div>
-<!-- CRETEL JEAN-PIERRE -->
-<div class="carousel-item">
-            <a href="ficheJeanPierreCretel.php">
-                <div class="person">
-                    <img src="images/jeanPierreCretel/jeanPierreCretel.webp" alt="Photo de CRETEL JEAN-PIERRE" class="photo">
-                    <p class="name">CRETEL JEAN-PIERRE</p>
-                </div>
-            </a>
-        </div>
-
-
       </div>
 
-      
     <!-- Contrôles du carrousel -->
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -207,21 +195,21 @@
         </div>
       </a>
  <!-- CHAUVIN LYDIA-->
-      <a href="ficheLydiaChauvin.php" class="profile-card director">
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/lydiaChauvin/lydiaChauvin.webp" class="img-fluid" alt="Photo de CHAUVIN LYDIA">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
           <h2>CHAUVIN LYDIA</h2>
         </div>
       </a>
- <!-- CRETEL JEAN-PIERRE -->
+ <!-- DAVID BEAULIEU-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/jeanPierreCretel/jeanPierreCretel.webp" class="img-fluid" alt="Photo de CRETEL JEAN-PIERRE ">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>CRETEL JEAN-PIERRE </h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

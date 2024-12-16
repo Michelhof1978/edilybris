@@ -74,36 +74,16 @@
     
      <!-- CHARGY-DUPUIS MADELAINE -->
      <div class="carousel-item">
-            <a href="ficheChargyDupuisMadelaine.php">
+            <a href="fiche.php">
                 <div class="person">
-                    <img src="images/ChargyDupuisMadelaine/ChargyDupuisMadelaine.webp" alt="Photo de CHARGY-DUPUIS MADELAINE" class="photo">
+                    <img src="images/JocelyneCathelineau/jocelyneCathelineau.webp" alt="Photo de CHARGY-DUPUIS MADELAINE" class="photo">
                     <p class="name">CHARGY-DUPUIS MADELAINE</p>
                 </div>
             </a>
         </div>
-<!-- CHAUVIN LYDIA -->
-<div class="carousel-item">
-            <a href="ficheLydiaChauvin.php">
-                <div class="person">
-                    <img src="images/lydiaChauvin/lydiaChauvin.webp" alt="Photo de CHAUVIN LYDIA" class="photo">
-                    <p class="name">CHAUVIN LYDIA</p>
-                </div>
-            </a>
-        </div>
-<!-- CRETEL JEAN-PIERRE -->
-<div class="carousel-item">
-            <a href="ficheJeanPierreCretel.php">
-                <div class="person">
-                    <img src="images/jeanPierreCretel/jeanPierreCretel.webp" alt="Photo de CRETEL JEAN-PIERRE" class="photo">
-                    <p class="name">CRETEL JEAN-PIERRE</p>
-                </div>
-            </a>
-        </div>
-
 
       </div>
 
-      
     <!-- Contrôles du carrousel -->
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTrombinoscope" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -197,31 +177,31 @@
           <h2>CATHELINEAU JOCELYNE</h2>
         </div>
       </a>
- <!-- CHARGY-DUPUIS MADELAINE-->
-      <a href="ficheChargyDupuisMadelaine.php" class="profile-card producer">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/ChargyDupuisMadelaine/ChargyDupuisMadelaine.webp" class="img-fluid" alt="Photo de CHARGY-DUPUIS MADELAINE">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>CHARGY-DUPUIS MADELAINE</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
- <!-- CHAUVIN LYDIA-->
-      <a href="ficheLydiaChauvin.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/lydiaChauvin/lydiaChauvin.webp" class="img-fluid" alt="Photo de CHAUVIN LYDIA">
-        </div>
-        <div class="details mb-3">
-          <h2>CHAUVIN LYDIA</h2>
-        </div>
-      </a>
- <!-- CRETEL JEAN-PIERRE -->
+ <!-- DAVID BEAULIEU-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/jeanPierreCretel/jeanPierreCretel.webp" class="img-fluid" alt="Photo de CRETEL JEAN-PIERRE ">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>CRETEL JEAN-PIERRE </h2>
+          <h2>Gilles Hervé</h2>
+        </div>
+      </a>
+ <!-- DAVID BEAULIEU-->
+      <a href="page_gilles_herve.html" class="profile-card director">
+        <div class="imgBx">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
+        </div>
+        <div class="details mb-3">
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->
