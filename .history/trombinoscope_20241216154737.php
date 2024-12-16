@@ -381,7 +381,7 @@
  <!-- LO PINTO GUY-->
       <a href="ficheGuyLoPinto.php" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/guyLopinto/guyLopinto.webp" class="img-fluid" alt=" Photo de LO PINTO GUY">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt=" Photo de LO PINTO GUY">
         </div>
         <div class="details mb-3">
           <h2>LO PINTO GUY</h2>

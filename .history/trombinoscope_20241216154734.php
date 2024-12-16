@@ -187,7 +187,7 @@
  <div class="carousel-item">
             <a href="ficheGuyLoPinto.php.php">
                 <div class="person">
-                    <img src="images/guyLopinto/guyLopinto.webp" alt="Photo de LO PINTO GUY" class="photo">
+                    <img src="images/guyLopinto/gu" alt="Photo de LO PINTO GUY" class="photo">
                     <p class="name">LO PINTO GUY</p>
                 </div>
             </a>
@@ -381,7 +381,7 @@
  <!-- LO PINTO GUY-->
       <a href="ficheGuyLoPinto.php" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/guyLopinto/guyLopinto.webp" class="img-fluid" alt=" Photo de LO PINTO GUY">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt=" Photo de LO PINTO GUY">
         </div>
         <div class="details mb-3">
           <h2>LO PINTO GUY</h2>
