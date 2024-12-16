@@ -114,7 +114,7 @@
  <div class="carousel-item">
             <a href="ficheJeanMichelDelaneau.php">
                 <div class="person">
-                    <img src="images/jeanMichelDelaneau/jeanMichelDelaneau.webp" alt="Photo de 
+                    <img src="images/jeanMichelDelaneau/Jean Michel Delaneau" alt="Photo de 
                     JeanMichelDelaneau" class="photo">
                     <p class="name">DELANAUD JEAN-MICHEL </p>
                 </div>

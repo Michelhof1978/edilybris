@@ -114,7 +114,7 @@
  <div class="carousel-item">
             <a href="ficheJeanMichelDelaneau.php">
                 <div class="person">
-                    <img src="images/jeanMichelDelaneau/jeanMichelDelaneau.webp" alt="Photo de 
+                    <img src="images/jeanMichelDelaneau/Jean Michel Delaneau" alt="Photo de 
                     JeanMichelDelaneau" class="photo">
                     <p class="name">DELANAUD JEAN-MICHEL </p>
                 </div>
@@ -254,9 +254,9 @@
         </div>
       </a>
  <!-- DELANAUD JEAN-MICHEL-->
-      <a href="ficheJeanMichelDelaneau.php" class="profile-card director">
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/jeanMichelDelaneau/jeanMichelDelaneau.webp" class="img-fluid" alt="Photo de DELANAUD JEAN-MICHEL">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="P">
         </div>
         <div class="details mb-3">
           <h2>DELANAUD JEAN-MICHEL</h2>

@@ -114,8 +114,7 @@
  <div class="carousel-item">
             <a href="ficheJeanMichelDelaneau.php">
                 <div class="person">
-                    <img src="images/jeanMichelDelaneau/jeanMichelDelaneau.webp" alt="Photo de 
-                    JeanMichelDelaneau" class="photo">
+                    <img src="images/jeanMichelDelaneau" alt="Photo de DE JESUS BERGEY JOSYANE " class="photo">
                     <p class="name">DELANAUD JEAN-MICHEL </p>
                 </div>
             </a>
@@ -253,13 +252,13 @@
           <h2>DE JESUS BERGEY JOSYANE</h2>
         </div>
       </a>
- <!-- DELANAUD JEAN-MICHEL-->
-      <a href="ficheJeanMichelDelaneau.php" class="profile-card director">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/jeanMichelDelaneau/jeanMichelDelaneau.webp" class="img-fluid" alt="Photo de DELANAUD JEAN-MICHEL">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>DELANAUD JEAN-MICHEL</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->
