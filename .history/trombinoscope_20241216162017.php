@@ -177,7 +177,7 @@
  <div class="carousel-item">
             <a href="ficheLucLeGuennec.php">
                 <div class="person">
-                    <img src="images/lucLeGuennec/lucLeGuennec.webp" alt="Photo de LE GUENNEC LUC" class="photo">
+                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de LE GUENNEC LUC" class="photo">
                     <p class="name">LE GUENNEC LUC</p>
                 </div>
             </a>

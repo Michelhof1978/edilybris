@@ -177,7 +177,7 @@
  <div class="carousel-item">
             <a href="ficheLucLeGuennec.php">
                 <div class="person">
-                    <img src="images/lucLeGuennec/lucLeGuennec.webp" alt="Photo de LE GUENNEC LUC" class="photo">
+                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de LE GUENNEC LUC" class="photo">
                     <p class="name">LE GUENNEC LUC</p>
                 </div>
             </a>
@@ -185,30 +185,20 @@
 
          <!-- LO PINTO GUY -->
  <div class="carousel-item">
-            <a href="ficheGuyLoPinto.php">
+            <a href="ficheGuyLoPinto.php.php">
                 <div class="person">
                     <img src="images/guyLopinto/guyLopinto.webp" alt="Photo de LO PINTO GUY" class="photo">
                     <p class="name">LO PINTO GUY</p>
                 </div>
             </a>
         </div>
-        
-          <!-- MAILY JOCELYN -->
- <div class="carousel-item">
-            <a href="ficheJocelynMaily.php">
-                <div class="person">
-                    <img src="images/JocelynMailly/jocelynMaily.webp" alt="Photo de MAILY JOCELYN" class="photo">
-                    <p class="name">MAILY JOCELYN</p>
-                </div>
-            </a>
-        </div>
 
-        <!-- NADINI ABDEL FRANCOIS-->
+          <!-- MAILY -->
  <div class="carousel-item">
-            <a href="ficheAbdelFrancoisNadini.php">
+            <a href="ficheGuyLoPinto.php.php">
                 <div class="person">
-                    <img src="images/JocelynMailly/jocelynMaily.webp" alt="Photo de NADINI ABDEL FRANCOIS" class="photo">
-                    <p class="name">NADINI ABDEL FRANCOIS</p>
+                    <img src="images/guyLopinto/guyLopinto.webp" alt="Photo de LO PINTO GUY" class="photo">
+                    <p class="name">LO PINTO GUY</p>
                 </div>
             </a>
         </div>
@@ -408,31 +398,31 @@
           <h2>LO PINTO GUY</h2>
         </div>
       </a>
- <!-- MAILY JOCELYN-->
-      <a href="ficheJocelynMaily.php" class="profile-card producer">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/JocelynMailly/jocelynMaily.webp" class="img-fluid" alt="Photo MAILY JOCELYN">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>MAILY JOCELYN</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
- <!-- GILLES HERVE-->
+ <!-- DAVID BEAULIEU-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx ">
-          <img src="images/gillesHerve/gillesHerve.webp" class="img-fluid" alt=" Photo de Gilles Hervé">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>GILLES HERVE</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- NADINI ABDEL FRANCOIS-->
-      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de NADINI ABDEL FRANCOIS">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>NADINI ABDEL FRANCOIS</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
 

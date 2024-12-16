@@ -177,7 +177,7 @@
  <div class="carousel-item">
             <a href="ficheLucLeGuennec.php">
                 <div class="person">
-                    <img src="images/lucLeGuennec/lucLeGuennec.webp" alt="Photo de LE GUENNEC LUC" class="photo">
+                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de LE GUENNEC LUC" class="photo">
                     <p class="name">LE GUENNEC LUC</p>
                 </div>
             </a>
@@ -192,23 +192,13 @@
                 </div>
             </a>
         </div>
-        
+
           <!-- MAILY JOCELYN -->
  <div class="carousel-item">
             <a href="ficheJocelynMaily.php">
                 <div class="person">
-                    <img src="images/JocelynMailly/jocelynMaily.webp" alt="Photo de MAILY JOCELYN" class="photo">
+                    <img src="images/JocelynMailly/jo" alt="Photo de MAILY JOCELYN" class="photo">
                     <p class="name">MAILY JOCELYN</p>
-                </div>
-            </a>
-        </div>
-
-        <!-- NADINI ABDEL FRANCOIS-->
- <div class="carousel-item">
-            <a href="ficheAbdelFrancoisNadini.php">
-                <div class="person">
-                    <img src="images/JocelynMailly/jocelynMaily.webp" alt="Photo de NADINI ABDEL FRANCOIS" class="photo">
-                    <p class="name">NADINI ABDEL FRANCOIS</p>
                 </div>
             </a>
         </div>
@@ -411,28 +401,28 @@
  <!-- MAILY JOCELYN-->
       <a href="ficheJocelynMaily.php" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/JocelynMailly/jocelynMaily.webp" class="img-fluid" alt="Photo MAILY JOCELYN">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Photo MAILY JOCELYN">
         </div>
         <div class="details mb-3">
           <h2>MAILY JOCELYN</h2>
         </div>
       </a>
- <!-- GILLES HERVE-->
+ <!-- DAVID BEAULIEU-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx ">
-          <img src="images/gillesHerve/gillesHerve.webp" class="img-fluid" alt=" Photo de Gilles Hervé">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>GILLES HERVE</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- NADINI ABDEL FRANCOIS-->
-      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de NADINI ABDEL FRANCOIS">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>NADINI ABDEL FRANCOIS</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
 

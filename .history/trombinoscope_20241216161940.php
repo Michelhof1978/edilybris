@@ -177,7 +177,7 @@
  <div class="carousel-item">
             <a href="ficheLucLeGuennec.php">
                 <div class="person">
-                    <img src="images/lucLeGuennec/lucLeGuennec.webp" alt="Photo de LE GUENNEC LUC" class="photo">
+                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de LE GUENNEC LUC" class="photo">
                     <p class="name">LE GUENNEC LUC</p>
                 </div>
             </a>
@@ -417,13 +417,13 @@
           <h2>MAILY JOCELYN</h2>
         </div>
       </a>
- <!-- GILLES HERVE-->
+ <!-- GILLESHER-->
       <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx ">
-          <img src="images/gillesHerve/gillesHerve.webp" class="img-fluid" alt=" Photo de Gilles Hervé">
+          <img src="images/gillesHerve/gillesHerve.webp" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>GILLES HERVE</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
  <!-- NADINI ABDEL FRANCOIS-->
