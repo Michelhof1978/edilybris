@@ -172,16 +172,7 @@
                 </div>
             </a>
         </div>
-
-         <!-- LE GUENNEC LUC -->
- <div class="carousel-item">
-            <a href="ficheLucLeGuennec.php">
-                <div class="person">
-                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de LE GUENNEC LUC" class="photo">
-                    <p class="name">LE GUENNEC LUC</p>
-                </div>
-            </a>
-        </div>
+        
 
       </div>
 
@@ -360,13 +351,13 @@
           <h2>KUNZ CHRISTINE</h2>
         </div>
       </a>
- <!-- LE GUENNEC LUC-->
-      <a href="ficheLucLeGuennec" class="profile-card producer">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/lucLeGuennec/lucLeGuennec.webp" class="img-fluid" alt="Phot de LE GUENNEC LUC">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>LE GUENNEC LUC</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

@@ -165,20 +165,10 @@
         
         <!-- KUNZ CHRISTINE -->
  <div class="carousel-item">
-            <a href="ficheChristineKunz.php">
+            <a href="ficheVeroniqueAsh.php">
                 <div class="person">
-                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de KUNZ CHRISTINE" class="photo">
+                    <img src="images/veroniqueAsh/veroniqueAsh.webp" alt="Photo de KUNZ CHRISTINE" class="photo">
                     <p class="name">KUNZ CHRISTINE</p>
-                </div>
-            </a>
-        </div>
-
-         <!-- LE GUENNEC LUC -->
- <div class="carousel-item">
-            <a href="ficheLucLeGuennec.php">
-                <div class="person">
-                    <img src="images/christinekunz/christinekunz.webp" alt="Photo de LE GUENNEC LUC" class="photo">
-                    <p class="name">LE GUENNEC LUC</p>
                 </div>
             </a>
         </div>
@@ -352,21 +342,21 @@
         </div>
       </a>
  <!-- KUNZ CHRISTINE-->
-      <a href="ficheChristineKunz.php" class="profile-card director">
+      <a href="page_gilles_herve.html" class="profile-card director">
         <div class="imgBx">
-          <img src="images/ChristineKunz/christinekunz.webp" class="img-fluid" alt="Photo KUNZ CHRISTINE">
+          <img src="images/gillesHerve/gillesHerve.png" class="img-fluid" alt="Gilles Hervé">
         </div>
         <div class="details mb-3">
-          <h2>KUNZ CHRISTINE</h2>
+          <h2>Gilles Hervé</h2>
         </div>
       </a>
- <!-- LE GUENNEC LUC-->
-      <a href="ficheLucLeGuennec" class="profile-card producer">
+ <!-- DAVID BEAULIEU-->
+      <a href="page_abdel_francois.html" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/lucLeGuennec/lucLeGuennec.webp" class="img-fluid" alt="Phot de LE GUENNEC LUC">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.png" class="img-fluid" alt="Abdel François">
         </div>
         <div class="details mb-3">
-          <h2>LE GUENNEC LUC</h2>
+          <h2>Abdel François</h2>
         </div>
       </a>
  <!-- DAVID BEAULIEU-->

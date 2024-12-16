@@ -363,7 +363,7 @@
  <!-- LE GUENNEC LUC-->
       <a href="ficheLucLeGuennec" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/lucLeGuennec/lucLeGuennec.webp" class="img-fluid" alt="Phot de LE GUENNEC LUC">
+          <img src="images/lucLeGuennec/" class="img-fluid" alt="Phot de LE GUENNEC LUC">
         </div>
         <div class="details mb-3">
           <h2>LE GUENNEC LUC</h2>
