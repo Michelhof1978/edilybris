@@ -1,10 +1,10 @@
 <!-- CARDS XL Mobile -->
 <div class="d-block d-md-none">
-  <!-- Carte 1 -->
+  <!-- Groupe 1 -->
   <div id="new-group1" class="new-card-container">
     <div class="new-card">
       <a href="link_to_book_A.html">
-        <img src="images/pierreBrandao/XLlamourafleurdame.webp" class="img-fluid" alt="Couverture de livre l'amour a fleur d'âme">
+        <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre">
         <div class="new-card-content">
           <div class="new-card-title">L'écho des collines</div>
           <div class="new-card-author">Alice Dubois</div>
@@ -46,7 +46,7 @@
   <div id="new-group4" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_D.html">
-        <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre">
+        <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre>
         <div class="new-card-content">
           <div class="new-card-title">Sous les cyprès</div>
           <div class="new-card-author">Diane Morel</div>

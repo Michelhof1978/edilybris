@@ -1,10 +1,10 @@
 <!-- CARDS XL Mobile -->
 <div class="d-block d-md-none">
-  <!-- Carte 1 -->
+  <!-- Groupe 1 -->
   <div id="new-group1" class="new-card-container">
     <div class="new-card">
       <a href="link_to_book_A.html">
-        <img src="images/pierreBrandao/XLlamourafleurdame.webp" class="img-fluid" alt="Couverture de livre l'amour a fleur d'âme">
+        <img src="images/pierreBrandao/XLlamourafleurdame.webp" class="img-fluid" alt="Couverture de livre l'amour a fleur d'me">
         <div class="new-card-content">
           <div class="new-card-title">L'écho des collines</div>
           <div class="new-card-author">Alice Dubois</div>

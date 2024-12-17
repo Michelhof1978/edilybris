@@ -1,6 +1,6 @@
 <!-- CARDS XL Mobile -->
 <div class="d-block d-md-none">
-  <!-- Carte 1 -->
+  <!-- C 1 -->
   <div id="new-group1" class="new-card-container">
     <div class="new-card">
       <a href="link_to_book_A.html">
