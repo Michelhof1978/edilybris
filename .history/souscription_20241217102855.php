@@ -14,7 +14,7 @@
                 <div class="L-card-author">Cathelineau Jocelyne</div>
                 <div class="L-card-price">
                     <span class="L-price-old" style="text-decoration: line-through;">20,00 €</span>
-                    <span class="L-price-new text-success">18,00 €</span>
+                    <span class="L-price-new text-suces">18,00 €</span>
                 </div>
             </div>
         </a>
