@@ -190,7 +190,7 @@
       </div>
     </a>
   </div>
-   <!-- carte 15 -->
+   <!-- carte 14 -->
   <div class="new-card">
     <a href="link_to_book_O.html">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">

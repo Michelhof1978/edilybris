@@ -160,7 +160,7 @@
       </div>
     </a>
   </div>
-   <!-- carte 12 -->
+   <!-- carte 11 -->
   <div class="new-card">
     <a href="link_to_book_L.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -170,7 +170,7 @@
       </div>
     </a>
   </div>
-   <!-- carte 13 -->
+   <!-- carte 12 -->
   <div class="new-card">
     <a href="link_to_book_M.html">
       <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
@@ -180,7 +180,7 @@
       </div>
     </a>
   </div>
-   <!-- carte 14 -->
+   <!-- carte 13 -->
   <div class="new-card">
     <a href="link_to_book_N.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -190,7 +190,7 @@
       </div>
     </a>
   </div>
-   <!-- carte 15 -->
+   <!-- carte 14 -->
   <div class="new-card">
     <a href="link_to_book_O.html">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">

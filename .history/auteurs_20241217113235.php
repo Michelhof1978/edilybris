@@ -20,7 +20,7 @@
         <!-- <img class="" src="images/livreAuteurs3.png" alt="Image centrée"> -->
     
       <div class="text-center">
-        <img class="img-fluid w-25" src="images/livreAuteurs2.webp" alt="Image centrée">
+        <img class="img-fluid w-25" src="images/livreAuteurs2.w" alt="Image centrée">
     </div>
       <h3 class="mb-4">Soutenir la création littéraire</h3>
         <p class="lead mb-4">

@@ -17,10 +17,10 @@
   <div id="new-group2" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_F.html">
-        <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="img-fluid" alt="Couverture de livre les mystères de l'Hometrou">
+        <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
         <div class="new-card-content">
-          <div class="new-card-author">Cathelineau Jocelyne</div>
-          <div class="new-card-price">23,00 €</div>
+          <div class="new-card-author">Fabien Leclerc</div>
+          <div class="new-card-price">17,99 €</div>
         </div>
       </a>
     </div>
@@ -42,7 +42,6 @@
 
 <!-- Groupe 1 -->
 <div id="new-group1" class="new-card-container">
-  <!-- carte 1 -->
   <div class="new-card">
     <a href="link_to_book_A.html">
       <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
@@ -52,17 +51,15 @@
       </div>
     </a>
   </div>
-  <!-- carte 2 -->
   <div class="new-card">
     <a href="link_to_book_B.html">
-      <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="img-fluid" alt="Couverture de livre  les mystères de l'Hometrou">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
       <div class="new-card-content">
-        <div class="new-card-author">Cathelineau Jocelyne</div>
-        <div class="new-card-price">23,00€</div>
+        <div class="new-card-author">Bertrand Martin</div>
+        <div class="new-card-price">18,99 €</div>
       </div>
     </a>
   </div>
-   <!-- carte 3 -->
   <div class="new-card">
     <a href="link_to_book_C.html">
       <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
@@ -72,7 +69,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 4 -->
   <div class="new-card">
     <a href="link_to_book_D.html">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
@@ -82,7 +78,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 5 -->
   <div class="new-card">
     <a href="link_to_book_E.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -96,7 +91,6 @@
 
 <!-- Groupe 2 -->
 <div id="new-group2" class="new-card-container new-hidden">
-   <!-- carte 6 -->
   <div class="new-card">
     <a href="link_to_book_F.html">
       <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
@@ -106,7 +100,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 7 -->
   <div class="new-card">
     <a href="link_to_book_G.html">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
@@ -116,7 +109,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 8 -->
   <div class="new-card">
     <a href="link_to_book_H.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -126,7 +118,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 9 -->
   <div class="new-card">
     <a href="link_to_book_I.html">
       <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
@@ -136,7 +127,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 10 -->
   <div class="new-card">
     <a href="link_to_book_J.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -150,7 +140,6 @@
 
 <!-- Groupe 3 -->
 <div id="new-group3" class="new-card-container new-hidden">
-   <!-- carte 10 -->
   <div class="new-card">
     <a href="link_to_book_K.html">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
@@ -160,7 +149,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 12 -->
   <div class="new-card">
     <a href="link_to_book_L.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -170,7 +158,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 13 -->
   <div class="new-card">
     <a href="link_to_book_M.html">
       <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
@@ -180,7 +167,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 14 -->
   <div class="new-card">
     <a href="link_to_book_N.html">
       <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
@@ -190,7 +176,6 @@
       </div>
     </a>
   </div>
-   <!-- carte 15 -->
   <div class="new-card">
     <a href="link_to_book_O.html">
       <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
