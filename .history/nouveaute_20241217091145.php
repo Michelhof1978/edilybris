@@ -126,7 +126,8 @@
 <!-- MODE DESKTOP-->
 <div class="d-none d-md-block">
 <!-- Groupe 1 -->
- <!-- Carte 1 Berthelot Joël -->
+ <!-- Groupe 1 -->
+
 <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">

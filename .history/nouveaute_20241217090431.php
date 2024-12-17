@@ -30,7 +30,7 @@
 <!-- Groupe 1 - Affiché sur mobile uniquement -->
 <div id="book-carousel" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <!-- Carte 1 Berthelot Joël-->
+    <!-- Carte 1 -->
     <div class="carousel-item active">
       <div class="book-card">
         <a href="link_to_book_A.html">
@@ -104,9 +104,7 @@
       </div>
     </div>
 
-    
-  </div>
-
+   
   <!-- Contrôles de navigation -->
   <button class="carousel-control-prev" type="button" data-bs-target="#book-carousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -126,15 +124,14 @@
 <!-- MODE DESKTOP-->
 <div class="d-none d-md-block">
 <!-- Groupe 1 -->
- <!-- Carte 1 Berthelot Joël -->
 <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
-            <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Livre A">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Livre A">
             <div class="L-card-content">
                 <div class="L-card-title">J'ai tellement envie de t'écrire</div>
-                <div class="L-card-author">Berthelot Joël</div>
-                <div class="L-card-price">20,00 €</div>
+                <div class="L-card-author">Alice Dubois</div>
+                <div class="L-card-price">16,99 €</div>
             </div>
         </a>
     </div>
@@ -156,7 +153,6 @@
             <div class="L-card-content">
                 <div class="L-card-title">Sous les cyprès</div>
                 <div class="L-card-author">Diane Morel</div>
-                <div class="L-card-description">Un roman poétique entre amour et nature.</div>
                 <div class="L-card-price">14,99 €</div>
             </div>
         </a>
@@ -172,7 +168,6 @@
             <div class="L-card-content">
                 <div class="L-card-title">La lumière des ombres</div>
                 <div class="L-card-author">Fabien Leclerc</div>
-                <div class="L-card-description">Un thriller captivant à couper le souffle.</div>
                 <div class="L-card-price">17,99 €</div>
             </div>
         </a>
@@ -183,7 +178,6 @@
             <div class="L-card-content">
                 <div class="L-card-title">Les vagues éternelles</div>
                 <div class="L-card-author">Gabrielle Blanc</div>
-                <div class="L-card-description">Un récit émouvant au bord de l'océan.</div>
                 <div class="L-card-price">13,99 €</div>
             </div>
         </a>
@@ -194,7 +188,6 @@
             <div class="L-card-content">
                 <div class="L-card-title">Le chant des cendres</div>
                 <div class="L-card-author">Henri Dupont</div>
-                <div class="L-card-description">Une épopée historique riche en émotions.</div>
                 <div class="L-card-price">14,99 €</div>
             </div>
         </a>
