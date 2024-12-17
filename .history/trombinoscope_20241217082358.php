@@ -485,7 +485,7 @@
       <!-- TROUVE EMMANUEL-->
       <a href="ficheEmmanuelTrouve.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/emmanuelTrouve/emmanuelTrouve.webp" class="img-fluid" alt="Photo de TROUVE EMMANUEL">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TROUVE EMMANUEL">
         </div>
         <div class="details mb-3">
           <h2>TROUVE EMMANUEL</h2>

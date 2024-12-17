@@ -233,12 +233,12 @@
             </a>
         </div>
       </div>
-       <!-- TROUVE EMMANUEL-->
+       <!-- TROUVE-->
  <div class="carousel-item">
-            <a href="ficheEmmanuelTrouve.php">
+            <a href="ficheAntoineTeillet.php">
                 <div class="person">
-                    <img src="images/emmanuelTrouve/emmanuelTrouve.webp" alt="Photo de TROUVE EMMANUEL" class="photo">
-                    <p class="name">TROUVE EMMANUEL</p>
+                    <img src="images/antoineTeillet/antoineTeillet.webp" alt="Photo de TEILLET ANTOINE" class="photo">
+                    <p class="name">TEILLET ANTOINE</p>
                 </div>
             </a>
         </div>
@@ -482,13 +482,13 @@
           <h2>TEILLET ANTOINE</h2>
         </div>
       </a>
-      <!-- TROUVE EMMANUEL-->
-      <a href="ficheEmmanuelTrouve.php" class="profile-card director">
+      <!-- TAHET ALAIN-->
+      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/emmanuelTrouve/emmanuelTrouve.webp" class="img-fluid" alt="Photo de TROUVE EMMANUEL">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
         </div>
         <div class="details mb-3">
-          <h2>TROUVE EMMANUEL</h2>
+          <h2>TAHET ALAIN</h2>
         </div>
       </a>
 <!-- TAHET ALAIN-->

@@ -235,9 +235,9 @@
       </div>
        <!-- TROUVE EMMANUEL-->
  <div class="carousel-item">
-            <a href="ficheEmmanuelTrouve.php">
+            <a href="ficheAntoineTeillet.php">
                 <div class="person">
-                    <img src="images/emmanuelTrouve/emmanuelTrouve.webp" alt="Photo de TROUVE EMMANUEL" class="photo">
+                    <img src="images/antoineTeillet/antoineTeillet.webp" alt="Photo de TROUVE EMMANUEL" class="photo">
                     <p class="name">TROUVE EMMANUEL</p>
                 </div>
             </a>
@@ -483,9 +483,9 @@
         </div>
       </a>
       <!-- TROUVE EMMANUEL-->
-      <a href="ficheEmmanuelTrouve.php" class="profile-card director">
+      <a href="ficheEmma" class="profile-card director">
         <div class="imgBx">
-          <img src="images/emmanuelTrouve/emmanuelTrouve.webp" class="img-fluid" alt="Photo de TROUVE EMMANUEL">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TROUVE EMMANUEL">
         </div>
         <div class="details mb-3">
           <h2>TROUVE EMMANUEL</h2>

@@ -213,35 +213,16 @@
             </a>
         </div>
 
-         <!-- TAHET ALAIN-->
+         <!-- TA-->
  <div class="carousel-item">
-            <a href="ficheAlainTahet.php">
+            <a href="ficheAbdelFrancoisNadini.php">
                 <div class="person">
-                    <img src="images/alainTahet/alainTahet.webp" alt="Photo de TAHET ALAIN" class="photo">
-                    <p class="name">TAHET ALAIN</p>
+                    <img src="images/JocelynMailly/jocelynMaily.webp" alt="Photo de NADINI ABDEL FRANCOIS" class="photo">
+                    <p class="name">NADINI ABDEL FRANCOIS</p>
                 </div>
             </a>
         </div>
 
-          <!-- TEILLET ANTOINE-->
- <div class="carousel-item">
-            <a href="ficheAntoineTeillet.php">
-                <div class="person">
-                    <img src="images/antoineTeillet/antoineTeillet.webp" alt="Photo de TEILLET ANTOINE" class="photo">
-                    <p class="name">TEILLET ANTOINE</p>
-                </div>
-            </a>
-        </div>
-      </div>
-       <!-- TROUVE EMMANUEL-->
- <div class="carousel-item">
-            <a href="ficheEmmanuelTrouve.php">
-                <div class="person">
-                    <img src="images/emmanuelTrouve/emmanuelTrouve.webp" alt="Photo de TROUVE EMMANUEL" class="photo">
-                    <p class="name">TROUVE EMMANUEL</p>
-                </div>
-            </a>
-        </div>
       </div>
 
       
@@ -464,60 +445,6 @@
           <h2>NADINI ABDEL FRANCOIS</h2>
         </div>
       </a>
-      <!-- TAHET ALAIN-->
-      <a href="ficheAlainTahet.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/alainTahet/alainTahet.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
-        </div>
-        <div class="details mb-3">
-          <h2>TAHET ALAIN</h2>
-        </div>
-      </a>
-      <!-- TEILLET ANTOINE-->
-      <a href="ficheAntoineTeillet.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/antoineTeillet/antoineTeillet.webp" class="img-fluid" alt="Photo de TEILLET ANTOINE">
-        </div>
-        <div class="details mb-3">
-          <h2>TEILLET ANTOINE</h2>
-        </div>
-      </a>
-      <!-- TROUVE EMMANUEL-->
-      <a href="ficheEmmanuelTrouve.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/emmanuelTrouve/emmanuelTrouve.webp" class="img-fluid" alt="Photo de TROUVE EMMANUEL">
-        </div>
-        <div class="details mb-3">
-          <h2>TROUVE EMMANUEL</h2>
-        </div>
-      </a>
-<!-- TAHET ALAIN-->
-<a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
-        </div>
-        <div class="details mb-3">
-          <h2>TAHET ALAIN</h2>
-        </div>
-      </a>
-      <!-- TAHET ALAIN-->
-      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
-        </div>
-        <div class="details mb-3">
-          <h2>TAHET ALAIN</h2>
-        </div>
-      </a>
-      <!-- TAHET ALAIN-->
-      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
-        </div>
-        <div class="details mb-3">
-          <h2>TAHET ALAIN</h2>
-        </div>
-      </a>      
 
     </div>
   </div>
