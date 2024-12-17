@@ -523,7 +523,7 @@
       <!-- SCHARFF PATRICIA-->
       <a href="fichePatriciaScharff.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/patriciaScharff/patriciaScharff.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
         </div>
         <div class="details mb-3">
           <h2>SCHARFF PATRICIA</h2>

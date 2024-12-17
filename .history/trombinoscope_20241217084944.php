@@ -256,7 +256,7 @@
 <div class="carousel-item">
             <a href="fichePatriciaScharff.php">
                 <div class="person">
-                    <img src="images/patriciaScharff/patriciaScharff.webp" alt="Photo de SCHARFF PATRICIA" class="photo">
+                    <img src="images/patriciaScharff/pat" alt="Photo de SCHARFF PATRICIA" class="photo">
                     <p class="name">SCHARFF PATRICIA</p>
                 </div>
             </a>
@@ -523,7 +523,7 @@
       <!-- SCHARFF PATRICIA-->
       <a href="fichePatriciaScharff.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/patriciaScharff/patriciaScharff.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
         </div>
         <div class="details mb-3">
           <h2>SCHARFF PATRICIA</h2>

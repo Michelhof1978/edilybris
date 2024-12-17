@@ -245,22 +245,14 @@
 
  <!-- WEBER DENECHAUD Jannick-->
  <div class="carousel-item">
-            <a href="ficheJannickWeber.php">
+            <a href="ficheJannickWebber">
                 <div class="person">
-                    <img src="images/jannickWeber/jannickWebber.webp" alt="Photo de WEBER DENECHAUD Jannick" class="photo">
-                    <p class="name">WEBER JANNICK</p>
+                    <img src="images/emmanuelTrouve/emmanuelTrouve.webp" alt="Photo de WEBER DENECHAUD Jannick" class="photo">
+                    <p class="name">WEBER DENECHAUD Jannick</p>
                 </div>
             </a>
         </div>
-<!-- SCHARFF PATRICIA -->
-<div class="carousel-item">
-            <a href="fichePatriciaScharff.php">
-                <div class="person">
-                    <img src="images/patriciaScharff/patriciaScharff.webp" alt="Photo de SCHARFF PATRICIA" class="photo">
-                    <p class="name">SCHARFF PATRICIA</p>
-                </div>
-            </a>
-        </div>
+
 
       </div>
 
@@ -512,23 +504,32 @@
         </div>
       </a>
 <!-- WEBER DENECHAUD Jannick-->
-<a href="ficheJannickWeber.php" class="profile-card director">
+<a href="ficheDenechaudJannick.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/jannickWeber/jannickWebber.webp" class="img-fluid" alt="Photo de WEBER DENECHAUD Jannick">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de WEBER DENECHAUD Jannick">
         </div>
         <div class="details mb-3">
-          <h2>WEBER JANNICK</h2>
+          <h2>WEBER DENECHAUD Jannick</h2>
         </div>
       </a>
-      <!-- SCHARFF PATRICIA-->
-      <a href="fichePatriciaScharff.php" class="profile-card director">
+      <!-- TAHET ALAIN-->
+      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/patriciaScharff/patriciaScharff.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
         </div>
         <div class="details mb-3">
-          <h2>SCHARFF PATRICIA</h2>
+          <h2>TAHET ALAIN</h2>
         </div>
       </a>
+      <!-- TAHET ALAIN-->
+      <a href="ficheAbdelFrancoisNadini.php" class="profile-card director">
+        <div class="imgBx">
+          <img src="images/abdelFrançoisNadini/abdelFrançoisNadini.webp" class="img-fluid" alt="Photo de TAHET ALAIN">
+        </div>
+        <div class="details mb-3">
+          <h2>TAHET ALAIN</h2>
+        </div>
+      </a>      
 
     </div>
   </div>
