@@ -47,7 +47,7 @@
         <img class="img-fluid w-50" src="images/livresEtagere3.webp" alt="Livres en illustation">
     </div>
 
- <?php include("cardsXl.php"); ?>
+ <?php include("cards.php"); ?>
 
 <?php include("souscription.php"); ?>
 

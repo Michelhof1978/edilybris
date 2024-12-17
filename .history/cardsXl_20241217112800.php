@@ -102,7 +102,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_G.html">
-      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre G">
       <div class="new-card-content">
         <div class="new-card-author">Gabrielle Blanc</div>
         <div class="new-card-price">13,99 €</div>
@@ -111,7 +111,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_H.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Livre H">
       <div class="new-card-content">
         <div class="new-card-author">Henri Dupont</div>
         <div class="new-card-price">14,99 €</div>
@@ -120,7 +120,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_I.html">
-      <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Livre I">
       <div class="new-card-content">
         <div class="new-card-author">Isabelle Fournier</div>
         <div class="new-card-price">16,99 €</div>
@@ -129,7 +129,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_J.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Livre J">
       <div class="new-card-content">
         <div class="new-card-author">Jean-Louis Perrin</div>
         <div class="new-card-price">18,99 €</div>
@@ -142,7 +142,7 @@
 <div id="new-group3" class="new-card-container new-hidden">
   <div class="new-card">
     <a href="link_to_book_K.html">
-      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre K">
       <div class="new-card-content">
         <div class="new-card-author">Katia Moulin</div>
         <div class="new-card-price">19,99 €</div>
@@ -151,7 +151,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_L.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Livre L">
       <div class="new-card-content">
         <div class="new-card-author">Louis Germain</div>
         <div class="new-card-price">15,99 €</div>
@@ -160,7 +160,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_M.html">
-      <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Livre M">
       <div class="new-card-content">
         <div class="new-card-author">Marie Noël</div>
         <div class="new-card-price">13,99 €</div>
@@ -169,7 +169,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_N.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Livre N">
       <div class="new-card-content">
         <div class="new-card-author">Nicolas Dupuis</div>
         <div class="new-card-price">17,99 €</div>
@@ -178,7 +178,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_O.html">
-      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre O">
       <div class="new-card-content">
         <div class="new-card-author">Océane Mercier</div>
         <div class="new-card-price">18,99 €</div>

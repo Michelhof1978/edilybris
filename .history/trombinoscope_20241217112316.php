@@ -1,6 +1,4 @@
 
-<h2 class="text-white text-center m-4">Les auteurs</h2>
-
 
 <!-- TROMBINOSCOPE MOBILE -->
 <!-- Carrousel de personnes -->

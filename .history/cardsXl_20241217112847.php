@@ -169,7 +169,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_N.html">
-      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Livre N">
       <div class="new-card-content">
         <div class="new-card-author">Nicolas Dupuis</div>
         <div class="new-card-price">17,99 €</div>
@@ -178,7 +178,7 @@
   </div>
   <div class="new-card">
     <a href="link_to_book_O.html">
-      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
+      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Livre O">
       <div class="new-card-content">
         <div class="new-card-author">Océane Mercier</div>
         <div class="new-card-price">18,99 €</div>

@@ -44,7 +44,7 @@
  <?php include("cardsL.php"); ?>
 
  <div class="text-center m-4">
-        <img class="img-fluid w-50" src="images/livresEtagere3.webp" alt="Livres en illustation">
+        <img class="img-fluid w-50" src="images/livresEtagere3." alt="Livres en illustation">
     </div>
 
  <?php include("cardsXl.php"); ?>
