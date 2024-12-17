@@ -155,6 +155,7 @@
             <div class="L-card-content">
                 <div class="L-card-title">Les vagues éternelles</div>
                 <div class="L-card-author">Gabrielle Blanc</div>
+                <div class="L-card-description">Un récit émouvant au bord de l'océan.</div>
                 <div class="L-card-price">13,99 €</div>
             </div>
         </a>
@@ -165,6 +166,7 @@
             <div class="L-card-content">
                 <div class="L-card-title">Le chant des cendres</div>
                 <div class="L-card-author">Henri Dupont</div>
+                <div class="L-card-description">Une épopée historique riche en émotions.</div>
                 <div class="L-card-price">14,99 €</div>
             </div>
         </a>

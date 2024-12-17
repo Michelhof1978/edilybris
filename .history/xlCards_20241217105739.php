@@ -105,8 +105,8 @@
         <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre l'amuserie">
         <div class="new-card-content">
           <div class="new-card-title">l'amuserie</div>
-          <div class="new-card-author">Brandao Pierre</div>
-          <div class="new-card-price">15,00 €</div>
+          <div class="new-card-author">Alice Dubois</div>
+          <div class="new-card-price">1 €</div>
         </div>
       </a>
     </div>

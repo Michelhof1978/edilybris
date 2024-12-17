@@ -165,6 +165,7 @@
             <div class="L-card-content">
                 <div class="L-card-title">Le chant des cendres</div>
                 <div class="L-card-author">Henri Dupont</div>
+                <div class="L-card-description">Une épopée historique riche en émotions.</div>
                 <div class="L-card-price">14,99 €</div>
             </div>
         </a>

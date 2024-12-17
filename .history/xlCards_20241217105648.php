@@ -102,11 +102,11 @@
     <!-- Carte 1 -->
     <div class="new-card">
       <a href="link_to_book_A.html">
-        <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre l'amuserie">
+        <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre">
         <div class="new-card-content">
-          <div class="new-card-title">l'amuserie</div>
-          <div class="new-card-author">Brandao Pierre</div>
-          <div class="new-card-price">15,00 €</div>
+          <div class="new-card-title">L'écho des collines</div>
+          <div class="new-card-author">Alice Dubois</div>
+          <div class="new-card-price">16,99 €</div>
         </div>
       </a>
     </div>
