@@ -73,7 +73,7 @@
     <div class="carousel-item">
       <div class="book-card">
         <a href="link_to_book_G.html">
-          <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
+          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture de livre">
           <div class="book-card-content">
             <div class="book-card-author">Cretel Jean-Pierre</div>
             <div class="book-card-price">14,00 €</div>
@@ -153,13 +153,13 @@
 
 <!-- Groupe 2 -->
 <div class="L-card-container L-hidden" id="L-group2">
-   <!-- Carte 4 Cretel Jean-Pierre-->
+   <!-- Carte 4 -->
     <div class="L-card">
         <a href="link_to_book_F.html">
-            <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture de livre">
             <div class="L-card-content">
-                <div class="L-card-author">Cretel Jean-Pierre</div>
-                <div class="L-card-price">14,00 €</div>
+                <div class="L-card-author">Fabien Leclerc</div>
+                <div class="L-card-price">17,99 €</div>
             </div>
         </a>
     </div>

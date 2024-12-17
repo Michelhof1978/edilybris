@@ -156,7 +156,7 @@
    <!-- Carte 4 Cretel Jean-Pierre-->
     <div class="L-card">
         <a href="link_to_book_F.html">
-            <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
+            <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre">
             <div class="L-card-content">
                 <div class="L-card-author">Cretel Jean-Pierre</div>
                 <div class="L-card-price">14,00 €</div>

@@ -62,6 +62,7 @@
         <a href="link_to_book_F.html">
           <img src="images/annieBrunetot/couvrectovvlbsjys.webp" class="img-fluid" alt="Couverture de livre Va voir là-bas si j'y suis">
           <div class="book-card-content">
+            <div class="book-card-title">Va voir là-bas si j'y suis</div>
             <div class="book-card-author">Brunetot Annie</div>
             <div class="book-card-price">16,00 €</div>
           </div>
@@ -69,14 +70,16 @@
       </div>
     </div>
 
-    <!-- Carte 4 Cretel Jean-Pierre-->
+    <!-- Carte 4 -->
     <div class="carousel-item">
       <div class="book-card">
         <a href="link_to_book_G.html">
-          <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
+          <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture de livre">
           <div class="book-card-content">
-            <div class="book-card-author">Cretel Jean-Pierre</div>
-            <div class="book-card-price">14,00 €</div>
+            <div class="book-card-title">Les vagues éternelles</div>
+            <div class="book-card-author">Gabrielle Blanc</div>
+            <div class="book-card-description">Un récit émouvant au bord de l'océan.</div>
+            <div class="book-card-price">13,99 €</div>
           </div>
         </a>
       </div>
@@ -88,7 +91,9 @@
         <a href="link_to_book_D.html">
           <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture de livre">
           <div class="book-card-content">
+            <div class="book-card-title">Sous les cyprès</div>
             <div class="book-card-author">Diane Morel</div>
+            <div class="book-card-description">Un roman poétique entre amour et nature.</div>
             <div class="book-card-price">14,99 €</div>
           </div>
         </a>
@@ -123,6 +128,7 @@
         <a href="link_to_book_A.html">
             <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Couverture de livre J'ai tellement envie de t'écrire">
             <div class="L-card-content">
+                <div class="L-card-title">J'ai tellement envie de t'écrire</div>
                 <div class="L-card-author">Berthelot Joël</div>
                 <div class="L-card-price">20,00 €</div>
             </div>
@@ -133,6 +139,7 @@
         <a href="link_to_book_B.html">
             <img src="images/pierreBrandao/couvlenlevement-pierre-brandaobr-pour-site.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
             <div class="L-card-content">
+                <div class="L-card-title">L'enlèvement</div>
                 <div class="L-card-author">Brandao Pierre</div>
                 <div class="L-card-price">22,00 €</div>
             </div>
@@ -143,6 +150,7 @@
         <a href="link_to_book_D.html">
             <img src="images/annieBrunetot/couvrectovvlbsjys.webp" class="img-fluid" alt="Couverture de livre Va voir là-bas si j'y suis">
             <div class="L-card-content">
+                <div class="L-card-title">Va voir là-bas si j'y suis</div>
                 <div class="L-card-author">Brunetot Annie</div>
                 <div class="L-card-price">16,00 €</div>
             </div>
@@ -153,13 +161,14 @@
 
 <!-- Groupe 2 -->
 <div class="L-card-container L-hidden" id="L-group2">
-   <!-- Carte 4 Cretel Jean-Pierre-->
+   <!-- Carte 4 -->
     <div class="L-card">
         <a href="link_to_book_F.html">
-            <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture de livre">
             <div class="L-card-content">
-                <div class="L-card-author">Cretel Jean-Pierre</div>
-                <div class="L-card-price">14,00 €</div>
+                <div class="L-card-title">La lumière des ombres</div>
+                <div class="L-card-author">Fabien Leclerc</div>
+                <div class="L-card-price">17,99 €</div>
             </div>
         </a>
     </div>
@@ -168,6 +177,7 @@
         <a href="link_to_book_G.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture de livre">
             <div class="L-card-content">
+                <div class="L-card-title">Les vagues éternelles</div>
                 <div class="L-card-author">Gabrielle Blanc</div>
                 <div class="L-card-price">13,99 €</div>
             </div>
