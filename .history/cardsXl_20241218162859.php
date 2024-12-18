@@ -52,11 +52,11 @@
     </div>
   </div>
 
-  <!-- Groupe 5 Cretel Jean-Pierre-->
+  <!-- Groupe 4 Cretel Jean-Pierre-->
   <div id="new-group2" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_F.html">
-        <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
+        <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
         <div class="new-card-content">
           <div class="new-card-author"> Cretel Jean-Pierre</div>
           <div class="new-card-price">13,00 €</div>
@@ -114,20 +114,20 @@
    <!-- carte 4 Cretel Jean-Pierre-->
   <div class="new-card">
     <a href="link_to_book_D.html">
-      <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
+      <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
       <div class="new-card-content">
         <div class="new-card-author">Cretel Jean-Pierre</div>
-        <div class="new-card-price">12,00 €</div>
+        <div class="new-card-price">14,99 €</div>
       </div>
     </a>
   </div>
-   <!-- carte 5 Cretel Jean-Pierre -->
+   <!-- carte 5 -->
   <div class="new-card">
     <a href="link_to_book_E.html">
-      <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
+      <img src="images/pierreBrandao/XLlamuserie.png" class="img-fluid" alt="Couverture de livre ">
       <div class="new-card-content">
-        <div class="new-card-author">Cretel Jean-Pierre</div>
-        <div class="new-card-price">13,00 €</div>
+        <div class="new-card-author">Émile Rousseau</div>
+        <div class="new-card-price">15,99 €</div>
       </div>
     </a>
   </div>
