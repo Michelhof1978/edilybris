@@ -30,22 +30,9 @@
   <div id="new-group2" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_F.html">
-        <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre Recette pour un spectacle">
+        <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre les mystères de l'Hometrou">
         <div class="new-card-content">
           <div class="new-card-author"> Chauvin Lydia</div>
-          <div class="new-card-price">12,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 4 Cretel Jean-Pierre-->
-  <div id="new-group2" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_F.html">
-        <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
-        <div class="new-card-content">
-          <div class="new-card-author"> Cretel Jean-Pierre</div>
           <div class="new-card-price">12,00 €</div>
         </div>
       </a>
@@ -91,19 +78,19 @@
    <!-- carte 3  Chauvin Lydia-->
   <div class="new-card">
     <a href="link_to_book_C.html">
-      <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre Recette pour un spectacle">
+      <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre ">
       <div class="new-card-content">
-        <div class="new-card-author"> Chauvin Lydia</div>
+        <div class="new-card-author"> Chargy-Dupuis Madeleine</div>
         <div class="new-card-price">12,00 €</div>
       </div>
     </a>
   </div>
-   <!-- carte 4 Cretel Jean-Pierre-->
+   <!-- carte 4 -->
   <div class="new-card">
     <a href="link_to_book_D.html">
-      <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
+      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
       <div class="new-card-content">
-        <div class="new-card-author">Cretel Jean-Pierre</div>
+        <div class="new-card-author">Diane Morel</div>
         <div class="new-card-price">14,99 €</div>
       </div>
     </a>

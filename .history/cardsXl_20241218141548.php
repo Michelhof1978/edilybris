@@ -43,7 +43,7 @@
   <div id="new-group2" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_F.html">
-        <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
+        <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre eNTIER">
         <div class="new-card-content">
           <div class="new-card-author"> Cretel Jean-Pierre</div>
           <div class="new-card-price">12,00 €</div>
@@ -101,7 +101,7 @@
    <!-- carte 4 Cretel Jean-Pierre-->
   <div class="new-card">
     <a href="link_to_book_D.html">
-      <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
+      <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture de livre ">
       <div class="new-card-content">
         <div class="new-card-author">Cretel Jean-Pierre</div>
         <div class="new-card-price">14,99 €</div>
