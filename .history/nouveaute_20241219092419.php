@@ -82,14 +82,14 @@
       </div>
     </div>
 
-    <!-- Carte 5 Brandao Pierre-->
+    <!-- Carte 5 -->
     <div class="carousel-item">
       <div class="book-card">
         <a href="link_to_book_D.html">
           <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour 2">
           <div class="book-card-content">
-            <div class="book-card-author">Brandao Pierre</div>
-            <div class="book-card-price">15,00 €</div>
+            <div class="book-card-author"></div>
+            <div class="book-card-price">14,99 €</div>
           </div>
         </a>
       </div>

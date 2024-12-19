@@ -89,7 +89,7 @@
           <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour 2">
           <div class="book-card-content">
             <div class="book-card-author">Brandao Pierre</div>
-            <div class="book-card-price">15,00 €</div>
+            <div class="book-card-price">1 €</div>
           </div>
         </a>
       </div>
