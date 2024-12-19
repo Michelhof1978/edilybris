@@ -104,14 +104,14 @@
             </div>
         </div>
 
-        <!-- Groupe 8 Cretel Jean-Pierre-->
+        <!-- Groupe 7 Cretel Jean-Pierre-->
         <div id="new-group6" class="new-card-container new-hidden">
             <div class="new-card">
                 <a href="link_to_book_F.html">
-                    <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
+                    <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre luminescence">
                     <div class="new-card-content">
-                        <div class="new-card-author">Cretel Jean-Pierre</div>
-                        <div class="new-card-price">14,00 €</div>
+                        <div class="new-card-author">Hervé Gilles</div>
+                        <div class="new-card-price">8,00 €</div>
                     </div>
                 </a>
             </div>
@@ -191,13 +191,13 @@
                 </div>
             </a>
         </div>
-        <!-- carte 7 Cretel Jean-Pierre -->
+        <!-- carte 7 -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
+                <img src="images/sample/sample7.webp" class="img-fluid" alt="Couverture de livre Book 7">
                 <div class="new-card-content">
-                    <div class="new-card-author">Cretel Jean-Pierre</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Author 7</div>
+                    <div class="new-card-price">18,00 €</div>
                 </div>
             </a>
         </div>

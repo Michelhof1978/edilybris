@@ -108,7 +108,7 @@
         <div id="new-group6" class="new-card-container new-hidden">
             <div class="new-card">
                 <a href="link_to_book_F.html">
-                    <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
+                    <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                     <div class="new-card-content">
                         <div class="new-card-author">Cretel Jean-Pierre</div>
                         <div class="new-card-price">14,00 €</div>
@@ -194,7 +194,7 @@
         <!-- carte 7 Cretel Jean-Pierre -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
+                <img src="images/sample/sample7.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                 <div class="new-card-content">
                     <div class="new-card-author">Cretel Jean-Pierre</div>
                     <div class="new-card-price">14,00 €</div>
