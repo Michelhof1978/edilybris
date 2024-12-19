@@ -43,7 +43,7 @@
 <div class="L-card-container mb-5" id="L-group3">
     <div class="L-card">
         <a href="link_to_book_A.html">
-            <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="couverture de livre le vent nous conduira">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="couverture de livre le vent nous conduira">
             <div class="L-card-content">
                 <div class="L-card-author">De Jesus-Bergey Josyane</div>
                 <div class="L-card-price">22,00 €</div>

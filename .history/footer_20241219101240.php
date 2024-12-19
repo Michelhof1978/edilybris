@@ -206,71 +206,42 @@
 
 <!--  CARDS XL-->
 <script>
-   const mobileGroups = document.querySelectorAll('.d-block.d-md-none .new-card-container');
-        const mobileBackButton = document.getElementById('new-mobile-backButton');
-        const mobileNextButton = document.getElementById('new-mobile-nextGroupButton');
-        let mobileCurrentGroup = 1;
-        const mobileTotalGroups = 6;
+  document.addEventListener("DOMContentLoaded", function () {
+    const groups = document.querySelectorAll(".new-card-container");
+    const backButton = document.getElementById("new-backButton");
+    const nextButton = document.getElementById("new-nextGroupButton");
+    let currentGroupIndex = 0;
 
-        // Desktop navigation
-        const desktopGroups = document.querySelectorAll('.d-none.d-md-block .new-card-container');
-        const desktopBackButton = document.getElementById('new-desktop-backButton');
-        const desktopNextButton = document.getElementById('new-desktop-nextGroupButton');
-        let desktopCurrentGroup = 1;
-        const desktopTotalGroups = 3;
+    // Fonction pour mettre à jour l'affichage des groupes
+    function updateGroups() {
+      groups.forEach((group, index) => {
+        group.classList.toggle("new-hidden", index !== currentGroupIndex);
+      });
+      backButton.disabled = currentGroupIndex === 0;
+      nextButton.disabled = currentGroupIndex === groups.length - 1;
+    }
 
-        // Mobile navigation functions
-        function updateMobileGroups() {
-            mobileGroups.forEach((group, index) => {
-                group.classList.toggle('new-hidden', index + 1 !== mobileCurrentGroup);
-            });
+    // Gestion du clic sur "Suivant"
+    nextButton.addEventListener("click", () => {
+      if (currentGroupIndex < groups.length - 1) {
+        currentGroupIndex++;
+        updateGroups();
+      }
+    });
 
-            mobileBackButton.disabled = mobileCurrentGroup === 1;
-            mobileNextButton.disabled = mobileCurrentGroup === mobileTotalGroups;
-        }
+    // Gestion du clic sur "Précédent"
+    backButton.addEventListener("click", () => {
+      if (currentGroupIndex > 0) {
+        currentGroupIndex--;
+        updateGroups();
+      }
+    });
 
-        mobileBackButton.addEventListener('click', () => {
-            if (mobileCurrentGroup > 1) {
-                mobileCurrentGroup--;
-                updateMobileGroups();
-            }
-        });
+    // Initialisation
+    updateGroups();
+  });
+</script>
 
-        mobileNextButton.addEventListener('click', () => {
-            if (mobileCurrentGroup < mobileTotalGroups) {
-                mobileCurrentGroup++;
-                updateMobileGroups();
-            }
-        });
-
-        // Desktop navigation functions
-        function updateDesktopGroups() {
-            desktopGroups.forEach((group, index) => {
-                group.classList.toggle('new-hidden', index + 1 !== desktopCurrentGroup);
-            });
-
-            desktopBackButton.disabled = desktopCurrentGroup === 1;
-            desktopNextButton.disabled = desktopCurrentGroup === desktopTotalGroups;
-        }
-
-        desktopBackButton.addEventListener('click', () => {
-            if (desktopCurrentGroup > 1) {
-                desktopCurrentGroup--;
-                updateDesktopGroups();
-            }
-        });
-
-        desktopNextButton.addEventListener('click', () => {
-            if (desktopCurrentGroup < desktopTotalGroups) {
-                desktopCurrentGroup++;
-                updateDesktopGroups();
-            }
-        });
-
-        // Initialize groups
-        updateMobileGroups();
-        updateDesktopGroups();
-  </script>
   <!--  FIN card XL-->
 
 
