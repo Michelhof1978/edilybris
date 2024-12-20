@@ -1,4 +1,4 @@
-<!-- CARDS L Mobile -->
+<!-- CARDS XL Mobile -->
 <div class="d-block d-md-none"> 
   <!-- Groupe 1 De Jesus-Bergey Josyane -->
   <div id="new-group1" class="new-card-container mb-3">
@@ -35,7 +35,7 @@
   </div>
 </div>
 
-<!-- FIN CARDS L Mobile -->
+<!-- FIN CARDS XL Mobile -->
 
 <!-- MODE DESKTOP-->
 <div class="d-none d-md-block">

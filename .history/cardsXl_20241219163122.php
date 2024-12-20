@@ -117,14 +117,14 @@
             </div>
         </div>
 
-         <!-- Groupe 9 Delanaud Jean-Michel-->
+         <!-- Groupe 9 Trouvé Emmanuel-->
          <div id="new-group6" class="new-card-container new-hidden">
             <div class="new-card">
                 <a href="link_to_book_F.html">
-                    <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d_ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nullepart">
+                    <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                     <div class="new-card-content">
-                        <div class="new-card-author">Delanaud Jean-Michel</div>
-                        <div class="new-card-price">12,00 €</div>
+                        <div class="new-card-author">Trouvé Emmanuel</div>
+                        <div class="new-card-price">17,00 €</div>
                     </div>
                 </a>
             </div>
@@ -194,7 +194,7 @@
 
     <!-- Groupe 2 -->
     <div id="desktop-group2" class="new-card-container new-hidden">
-        <!-- carte 6 Galard François -->
+        <!-- carte 6 -->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre Luminescence">
@@ -214,14 +214,13 @@
                 </div>
             </a>
         </div>
-
-        <!-- carte 8 jean Michel Delaneau-->
+        <!-- carte 8 Trouvé Emmanuel-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
+                <img src="images/sample/sample8.webp" class="img-fluid" alt="Couverture de livre Entre">
                 <div class="new-card-content">
-                    <div class="new-card-author">Delaneau Jean Michel </div>
-                    <div class="new-card-price">12,00 €</div>
+                    <div class="new-card-author">Trouvé Emmanuel</div>
+                    <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
         </div>

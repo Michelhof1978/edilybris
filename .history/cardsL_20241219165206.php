@@ -35,7 +35,7 @@
   </div>
 </div>
 
-<!-- FIN CARDS L Mobile -->
+<!-- FIN CARDS XL Mobile -->
 
 <!-- MODE DESKTOP-->
 <div class="d-none d-md-block">

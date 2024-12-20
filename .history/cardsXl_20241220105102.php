@@ -214,13 +214,23 @@
                 </div>
             </a>
         </div>
+        <!-- carte 8 Delanaud Jean-Michel-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
+                <div class="new-card-content">
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
 
-        <!-- carte 8 jean Michel Delaneau-->
+        <!-- carte 8 jeanMichelDelaneau-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
+                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d_ici.webp" class="img-fluid" alt="Couverture de livre ">
                 <div class="new-card-content">
-                    <div class="new-card-author">Delaneau Jean Michel </div>
+                    <div class="new-card-author">Trouvé Emmanuel</div>
                     <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
