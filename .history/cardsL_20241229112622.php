@@ -2,6 +2,7 @@
 <div class="d-block d-md-none"> 
   <!-- Groupe 1 -->
   <div id="new-group1" class="new-card-container mb-3">
+    <!-- Carte 1 De Jesus-Bergey Josyane -->
     <div class="new-card">
       <a href="link_to_book_A.html">
         <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="couverture de livre le vent nous conduira">
@@ -11,6 +12,7 @@
         </div>
       </a>
     </div>
+    <!-- Ajouter d'autres cartes ici pour le Groupe 1 -->
   </div>
 
   <!-- Groupe 2 -->
@@ -24,110 +26,7 @@
         </div>
       </a>
     </div>
-  </div>
-
-  <!-- Groupe 3 -->
-  <div id="new-group3" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_B.html">
-        <img src="images/AuthorB/bookB-cover.webp" class="img-fluid" alt="Couverture de livre B">
-        <div class="new-card-content">
-          <div class="new-card-author">Author B</div>
-          <div class="new-card-price">19,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 4 -->
-  <div id="new-group4" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_C.html">
-        <img src="images/AuthorC/bookC-cover.webp" class="img-fluid" alt="Couverture de livre C">
-        <div class="new-card-content">
-          <div class="new-card-author">Author C</div>
-          <div class="new-card-price">20,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 5 -->
-  <div id="new-group5" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_D.html">
-        <img src="images/AuthorD/bookD-cover.webp" class="img-fluid" alt="Couverture de livre D">
-        <div class="new-card-content">
-          <div class="new-card-author">Author D</div>
-          <div class="new-card-price">18,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 6 -->
-  <div id="new-group6" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_E.html">
-        <img src="images/AuthorE/bookE-cover.webp" class="img-fluid" alt="Couverture de livre E">
-        <div class="new-card-content">
-          <div class="new-card-author">Author E</div>
-          <div class="new-card-price">21,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 7 -->
-  <div id="new-group7" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_G.html">
-        <img src="images/AuthorG/bookG-cover.webp" class="img-fluid" alt="Couverture de livre G">
-        <div class="new-card-content">
-          <div class="new-card-author">Author G</div>
-          <div class="new-card-price">16,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 8 -->
-  <div id="new-group8" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_H.html">
-        <img src="images/AuthorH/bookH-cover.webp" class="img-fluid" alt="Couverture de livre H">
-        <div class="new-card-content">
-          <div class="new-card-author">Author H</div>
-          <div class="new-card-price">23,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 9 -->
-  <div id="new-group9" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_I.html">
-        <img src="images/AuthorI/bookI-cover.webp" class="img-fluid" alt="Couverture de livre I">
-        <div class="new-card-content">
-          <div class="new-card-author">Author I</div>
-          <div class="new-card-price">15,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <!-- Groupe 10 -->
-  <div id="new-group10" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_J.html">
-        <img src="images/AuthorJ/bookJ-cover.webp" class="img-fluid" alt="Couverture de livre J">
-        <div class="new-card-content">
-          <div class="new-card-author">Author J</div>
-          <div class="new-card-price">24,00 €</div>
-        </div>
-      </a>
-    </div>
+    <!-- Ajouter d'autres cartes ici pour le Groupe 2 -->
   </div>
 
   <!-- Boutons de navigation -->
@@ -136,8 +35,8 @@
     <button id="new-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
   </div>
 </div>
-<!-- FIN CARDS L Mobile -->
 
+<!-- FIN CARDS L Mobile -->
 
 <!-- MODE DESKTOP-->
 <div class="d-none d-md-block">

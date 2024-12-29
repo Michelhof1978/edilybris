@@ -117,14 +117,14 @@
             </div>
         </div>
         
-         <!-- Groupe 10 -->
+         <!-- Groupe 9 Delanaud Jean-Michel-->
          <div id="new-group6" class="new-card-container new-hidden">
             <div class="new-card">
                 <a href="link_to_book_F.html">
-                    <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
+                    <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d_ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nullepart">
                     <div class="new-card-content">
-                        <div class="new-card-author">Emmanuel Trouvé </div>
-                        <div class="new-card-price">17,00 €</div>
+                        <div class="new-card-author">Delanaud Jean-Michel</div>
+                        <div class="new-card-price">12,00 €</div>
                     </div>
                 </a>
             </div>
@@ -225,7 +225,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 9 -->
+        <!-- carte 9 Emmanuel Trouvé-->
         <div class="new-card">
             <a href="link_to_book_I.html">
                 <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">

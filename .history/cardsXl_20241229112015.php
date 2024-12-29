@@ -225,7 +225,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 9 -->
+        <!-- carte 9 Emmanuel Trouvé-->
         <div class="new-card">
             <a href="link_to_book_I.html">
                 <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
