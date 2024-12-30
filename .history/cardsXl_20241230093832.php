@@ -3,10 +3,10 @@
     <!-- Groupes Mobile -->
     <div id="mobile-group-1" class="card-container">
         <!-- carte 1 -->
-        <div class="card rounded bgCardXlMobile">
+        <div class="card rounded">
             <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="card-image" alt="Couverture de livre L'amuserie">
-                <div class="card-content bgCardXlMobile">
+                <div class="card-content">
                     <div class="card-author">Brandao Pierre</div>
                     <div class="card-price">15,00 €</div>
                 </div>
@@ -15,7 +15,7 @@
     </div>
     <div id="mobile-group-2" class="card-container hidden">
         <!-- carte 2 -->
-        <div class="card rounded bgCardXlMobile">
+        <div class="card rounded">
             <a href="link_to_book_B.html">
                 <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="card-image" alt="Couverture de livre Les mystères de l'Hometrou">
                 <div class="card-content">
@@ -27,7 +27,7 @@
     </div>
     <div id="mobile-group-3" class="card-container hidden">
         <!-- carte 3 -->
-        <div class="card rounded bgCardXlMobile">
+        <div class="card rounded">
             <a href="link_to_book_C.html">
                 <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="card-image" alt="Couverture de livre Recette pour un spectacle">
                 <div class="card-content">
@@ -40,7 +40,7 @@
     <!-- Ajouter les groupes suivants -->
     <div id="mobile-group-10" class="card-container hidden">
         <!-- carte 10 -->
-        <div class="card rounded bgCardXlMobile">
+        <div class="card rounded">
             <a href="link_to_book_J.html">
                 <img src="images/sample/sample10.webp" class="card-image" alt="Couverture de livre Book 10">
                 <div class="card-content">

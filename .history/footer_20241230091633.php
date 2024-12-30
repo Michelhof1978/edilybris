@@ -205,50 +205,42 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!--  CARDS XL-->
-  <!--  CARDS XL MOBILE-->
   <script>
-  // Sélectionner tous les groupes de cartes et les boutons
-const mobileGroups2 = document.querySelectorAll('.mobile-view .card-container'); // Tous les conteneurs de groupes
-const mobileBackButton2 = document.getElementById('mobile-back-button'); // Bouton "Précédent"
-const mobileNextButton2 = document.getElementById('mobile-next-button'); // Bouton "Suivant"
-let mobileCurrentGroup2 = 1; // Groupe affiché initialement
-const mobileTotalGroups2 = mobileGroups2.length; // Nombre total de groupes (calculé dynamiquement)
+   const mobileGroups2 = document.querySelectorAll('.mobile-view .card-container');
+const mobileBackButton2 = document.getElementById('mobile-back-button');
+const mobileNextButton2 = document.getElementById('mobile-next-button');
+let mobileCurrentGroup2 = 1;
+const mobileTotalGroups2 = mobileGroups2.length; // Utilisation dynamique du nombre de groupes
 
-// Fonction pour gérer l'affichage des groupes
 function updateMobileGroups2() {
     mobileGroups2.forEach((group, index) => {
-        // Ajoute ou retire la classe "hidden" selon le groupe actuel
         group.classList.toggle('hidden', index + 1 !== mobileCurrentGroup2);
     });
 
-    // Désactiver ou activer les boutons en fonction de la position
     mobileBackButton2.disabled = mobileCurrentGroup2 === 1;
     mobileNextButton2.disabled = mobileCurrentGroup2 === mobileTotalGroups2;
 }
 
-// Gestion du clic sur le bouton "Précédent"
 mobileBackButton2.addEventListener('click', () => {
     if (mobileCurrentGroup2 > 1) {
-        mobileCurrentGroup2--; // Décrémente le groupe actuel
-        updateMobileGroups2(); // Met à jour l'affichage
+        mobileCurrentGroup2--;
+        updateMobileGroups2();
     }
 });
 
-// Gestion du clic sur le bouton "Suivant"
 mobileNextButton2.addEventListener('click', () => {
     if (mobileCurrentGroup2 < mobileTotalGroups2) {
-        mobileCurrentGroup2++; // Incrémente le groupe actuel
-        updateMobileGroups2(); // Met à jour l'affichage
+        mobileCurrentGroup2++;
+        updateMobileGroups2();
     }
 });
 
-// Initialisation : afficher le premier groupe
+// Initialize groups
 updateMobileGroups2();
-  </script>
-  <!--  FIN CARDS XL MOBILE-->
 
-  <!--  CARDS XL DESKTOP-->
+  </script>
 <script>
+  
    const mobileGroups = document.querySelectorAll('.d-block.d-md-none .new-card-container');
         const mobileBackButton = document.getElementById('new-mobile-backButton');
         const mobileNextButton = document.getElementById('new-mobile-nextGroupButton');
@@ -314,8 +306,7 @@ updateMobileGroups2();
         updateMobileGroups();
         updateDesktopGroups();
   </script>
-   <!--  FINCARDS XL DESKTOP-->
-  <!--  FIN CARTD XL-->
+  <!--  FIN card XL-->
 
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->

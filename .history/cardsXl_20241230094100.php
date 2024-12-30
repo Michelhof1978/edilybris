@@ -6,7 +6,7 @@
         <div class="card rounded bgCardXlMobile">
             <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="card-image" alt="Couverture de livre L'amuserie">
-                <div class="card-content bgCardXlMobile">
+                <div class="card-content">
                     <div class="card-author">Brandao Pierre</div>
                     <div class="card-price">15,00 €</div>
                 </div>

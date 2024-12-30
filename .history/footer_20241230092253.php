@@ -246,8 +246,7 @@ mobileNextButton2.addEventListener('click', () => {
 updateMobileGroups2();
   </script>
   <!--  FIN CARDS XL MOBILE-->
-
-  <!--  CARDS XL DESKTOP-->
+    
 <script>
    const mobileGroups = document.querySelectorAll('.d-block.d-md-none .new-card-container');
         const mobileBackButton = document.getElementById('new-mobile-backButton');
@@ -314,8 +313,7 @@ updateMobileGroups2();
         updateMobileGroups();
         updateDesktopGroups();
   </script>
-   <!--  FINCARDS XL DESKTOP-->
-  <!--  FIN CARTD XL-->
+  <!--  FIN card XL-->
 
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->

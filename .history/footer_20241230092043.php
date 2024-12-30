@@ -205,7 +205,6 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!--  CARDS XL-->
-  <!--  CARDS XL MOBILE-->
   <script>
   // Sélectionner tous les groupes de cartes et les boutons
 const mobileGroups2 = document.querySelectorAll('.mobile-view .card-container'); // Tous les conteneurs de groupes
@@ -244,11 +243,11 @@ mobileNextButton2.addEventListener('click', () => {
 
 // Initialisation : afficher le premier groupe
 updateMobileGroups2();
-  </script>
-  <!--  FIN CARDS XL MOBILE-->
 
-  <!--  CARDS XL DESKTOP-->
+
+  </script>
 <script>
+  
    const mobileGroups = document.querySelectorAll('.d-block.d-md-none .new-card-container');
         const mobileBackButton = document.getElementById('new-mobile-backButton');
         const mobileNextButton = document.getElementById('new-mobile-nextGroupButton');
@@ -314,8 +313,7 @@ updateMobileGroups2();
         updateMobileGroups();
         updateDesktopGroups();
   </script>
-   <!--  FINCARDS XL DESKTOP-->
-  <!--  FIN CARTD XL-->
+  <!--  FIN card XL-->
 
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->

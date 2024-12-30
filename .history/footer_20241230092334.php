@@ -314,8 +314,8 @@ updateMobileGroups2();
         updateMobileGroups();
         updateDesktopGroups();
   </script>
-   <!--  FINCARDS XL DESKTOP-->
-  <!--  FIN CARTD XL-->
+   <!--  CARDS XL DESKTOP-->
+  <!--  FIN card XL-->
 
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->

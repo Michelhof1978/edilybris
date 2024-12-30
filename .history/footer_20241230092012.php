@@ -203,11 +203,7 @@
 
 
 <!-- _____________________________________________________________________________________ -->
-
-<!--  CARDS XL-->
-  <!--  CARDS XL MOBILE-->
-  <script>
-  // Sélectionner tous les groupes de cartes et les boutons
+<script>// Sélectionner tous les groupes de cartes et les boutons
 const mobileGroups2 = document.querySelectorAll('.mobile-view .card-container'); // Tous les conteneurs de groupes
 const mobileBackButton2 = document.getElementById('mobile-back-button'); // Bouton "Précédent"
 const mobileNextButton2 = document.getElementById('mobile-next-button'); // Bouton "Suivant"
@@ -244,11 +240,44 @@ mobileNextButton2.addEventListener('click', () => {
 
 // Initialisation : afficher le premier groupe
 updateMobileGroups2();
-  </script>
-  <!--  FIN CARDS XL MOBILE-->
+</script>
+<!--  CARDS XL-->
+  <script>
+    const mobileGroups2 = document.querySelectorAll('.mobile-view .card-container');
+const mobileBackButton2 = document.getElementById('mobile-back-button');
+const mobileNextButton2 = document.getElementById('mobile-next-button');
+let mobileCurrentGroup2 = 1;
+const mobileTotalGroups2 = 10;
 
-  <!--  CARDS XL DESKTOP-->
+function updateMobileGroups() {
+    mobileGroups.forEach((group, index) => {
+        group.classList.toggle('hidden', index + 1 !== mobileCurrentGroup);
+    });
+
+    mobileBackButton.disabled = mobileCurrentGroup === 1;
+    mobileNextButton.disabled = mobileCurrentGroup === mobileTotalGroups;
+}
+
+mobileBackButton.addEventListener('click', () => {
+    if (mobileCurrentGroup > 1) {
+        mobileCurrentGroup--;
+        updateMobileGroups();
+    }
+});
+
+mobileNextButton.addEventListener('click', () => {
+    if (mobileCurrentGroup < mobileTotalGroups) {
+        mobileCurrentGroup++;
+        updateMobileGroups();
+    }
+});
+
+// Initialize groups
+updateMobileGroups();
+
+  </script>
 <script>
+  
    const mobileGroups = document.querySelectorAll('.d-block.d-md-none .new-card-container');
         const mobileBackButton = document.getElementById('new-mobile-backButton');
         const mobileNextButton = document.getElementById('new-mobile-nextGroupButton');
@@ -314,8 +343,7 @@ updateMobileGroups2();
         updateMobileGroups();
         updateDesktopGroups();
   </script>
-   <!--  FINCARDS XL DESKTOP-->
-  <!--  FIN CARTD XL-->
+  <!--  FIN card XL-->
 
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
