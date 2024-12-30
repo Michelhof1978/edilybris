@@ -1,6 +1,6 @@
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
+    <!-- Groupe 1  PIERRE BRANDAO-->
     <div id="mobile-group1" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="link_to_book_A.html">
@@ -13,7 +13,7 @@
         </div>
     </div>
 
-    <!-- Groupe 2 Cathelineau Jocelyne-->
+    <!-- Groupe 2 -->
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
@@ -26,7 +26,7 @@
         </div>
     </div>
 
-    <!-- Groupe 3 Chauvin Lydia-->
+    <!-- Groupe 3 -->
     <div id="mobile-group3" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_C.html">
@@ -39,7 +39,7 @@
         </div>
     </div>
 
-    <!-- Groupe 4 Cretel Jean-Pierre-->
+    <!-- Groupe 4 -->
     <div id="mobile-group4" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_D.html">
@@ -52,7 +52,7 @@
         </div>
     </div>
 
-    <!-- Groupe 5 Cretel Jean-Pierre-->
+    <!-- Groupe 5 -->
     <div id="mobile-group5" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_E.html">
@@ -65,7 +65,7 @@
         </div>
     </div>
 
-    <!-- Groupe 6 Galard François-->
+    <!-- Groupe 6 -->
     <div id="mobile-group6" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_F.html">
@@ -78,7 +78,7 @@
         </div>
     </div>
 
-    <!-- Groupe 7 Cretel Jean-Pierre-->
+    <!-- Groupe 7 -->
     <div id="mobile-group7" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_G.html">
@@ -91,7 +91,7 @@
         </div>
     </div>
 
-    <!-- Groupe 8 Delaneau Jean Michel-->
+    <!-- Groupe 8 -->
     <div id="mobile-group8" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_H.html">
@@ -104,7 +104,7 @@
         </div>
     </div>
 
-    <!-- Groupe 9 Emmanuel Trouvé-->
+    <!-- Groupe 9 -->
     <div id="mobile-group9" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_I.html">
@@ -139,7 +139,7 @@
 
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">
-    <!-- Groupe 1 Pierre Brandao-->
+    <!-- Groupe 1 -->
     <div id="desktop-group1" class="new-card-container">
         <!-- carte 1 -->
         <div class="new-card">
@@ -151,7 +151,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 2 Cathelineau Jocelyne-->
+        <!-- carte 2 -->
         <div class="new-card">
             <a href="link_to_book_B.html">
                 <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="img-fluid" alt="Couverture de livre Les mystères de l'Hometrou">
@@ -161,7 +161,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 3 Chauvin Lydia-->
+        <!-- carte 3 -->
         <div class="new-card">
             <a href="link_to_book_C.html">
                 <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre Recette pour un spectacle">
@@ -171,7 +171,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 4 Cretel Jean-Pierre-->
+        <!-- carte 4 -->
         <div class="new-card">
             <a href="link_to_book_D.html">
                 <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
@@ -181,7 +181,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 5 Cretel Jean-Pierre-->
+        <!-- carte 5 -->
         <div class="new-card">
             <a href="link_to_book_E.html">
                 <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">

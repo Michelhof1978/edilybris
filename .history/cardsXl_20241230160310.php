@@ -181,7 +181,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 5 Cretel Jean-Pierre-->
+        <!-- carte 5 -->
         <div class="new-card">
             <a href="link_to_book_E.html">
                 <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
