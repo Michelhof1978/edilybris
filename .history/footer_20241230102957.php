@@ -988,7 +988,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
-<!-- _____________________________________________________________________________________ -->
+
 <!-- CARDS  L AUTEUR-->
 <script>
 // MOBILE SCRIPT
@@ -1082,7 +1082,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <!-- CARDS  L AUTEUR-->
-
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

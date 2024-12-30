@@ -965,32 +965,7 @@ var VanillaTilt = (function () {
 
 
    <!--  NOUVEAUTE CARDS L-->
- <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const nextGroupButton = document.getElementById('L-nextGroupButton');
-    const backButton = document.getElementById('L-backButton');
-    const group1 = document.getElementById('L-group1');
-    const group2 = document.getElementById('L-group2');
-
-    nextGroupButton.addEventListener('click', function() {
-        group1.classList.add('L-hidden');
-        group2.classList.remove('L-hidden');
-        backButton.disabled = false;
-        nextGroupButton.disabled = true;
-    });
-
-    backButton.addEventListener('click', function() {
-        group1.classList.remove('L-hidden');
-        group2.classList.add('L-hidden');
-        backButton.disabled = true;
-        nextGroupButton.disabled = false;
-    });
-});
-</script>
-<!-- FIN CARDS NOUVEAUTE L-->
-<!-- _____________________________________________________________________________________ -->
-<!-- CARDS  L AUTEUR-->
-<script>
+   <script>
 // MOBILE SCRIPT
 document.addEventListener("DOMContentLoaded", function() {
   // Mobile
@@ -1081,8 +1056,31 @@ document.addEventListener("DOMContentLoaded", function() {
   showDesktopGroup(currentDesktopGroup);
 });
 </script>
-<!-- CARDS  L AUTEUR-->
 
+<!-- FIN CARDS NOUVEAUTE L-->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const nextGroupButton = document.getElementById('L-nextGroupButton2');
+    const backButton = document.getElementById('L-backButton2');
+    const group1 = document.getElementById('L-group3');
+    const group2 = document.getElementById('L-group4');
+
+    nextGroupButton.addEventListener('click', function() {
+        group1.classList.add('L-hidden');
+        group2.classList.remove('L-hidden');
+        backButton.disabled = false;
+        nextGroupButton.disabled = true;
+    });
+
+    backButton.addEventListener('click', function() {
+        group1.classList.remove('L-hidden');
+        group2.classList.add('L-hidden');
+        backButton.disabled = true;
+        nextGroupButton.disabled = false;
+    });
+});
+</script>
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->
