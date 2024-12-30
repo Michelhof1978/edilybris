@@ -205,110 +205,118 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!--  CARDS XL-->
+  <!--  CARDS XL MOBILE-->
   <script>
-document.addEventListener('DOMContentLoaded', function () {
-    // Variables pour les boutons et les groupes de livres
-    const mobileBackBtn = document.getElementById('mobile-back-btn');
-    const mobileNextBtn = document.getElementById('mobile-next-btn');
-    const desktopBackBtn = document.getElementById('new-desktop-backButton');
-    const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
+  // Sélectionner tous les groupes de cartes et les boutons
+const mobileGroups2 = document.querySelectorAll('.mobile-view .card-container'); // Tous les conteneurs de groupes
+const mobileBackButton2 = document.getElementById('mobile-back-button'); // Bouton "Précédent"
+const mobileNextButton2 = document.getElementById('mobile-next-button'); // Bouton "Suivant"
+let mobileCurrentGroup2 = 1; // Groupe affiché initialement
+const mobileTotalGroups2 = mobileGroups2.length; // Nombre total de groupes (calculé dynamiquement)
 
-    const mobileGroups = [
-        document.getElementById('mobile-group1'),
-        document.getElementById('mobile-group2'),
-        document.getElementById('mobile-group3'),
-        document.getElementById('mobile-group4'),
-        document.getElementById('mobile-group5'),
-        document.getElementById('mobile-group6'),
-        document.getElementById('mobile-group7'),
-        document.getElementById('mobile-group8'),
-        document.getElementById('mobile-group9'),
-        document.getElementById('mobile-group10'),
-    ];
-
-    const desktopGroups = [
-        document.getElementById('desktop-group1'),
-        document.getElementById('desktop-group2'),
-    ];
-
-    let currentMobileGroup = 0;
-    let currentDesktopGroup = 0;
-
-    // Fonction pour cacher tous les groupes
-    function hideAllGroups(groups) {
-        groups.forEach(group => {
-            group.classList.add('mobile-hidden'); // Pour mobile
-            group.classList.add('new-hidden'); // Pour desktop
-        });
-    }
-
-    // Fonction pour afficher un groupe spécifique
-    function showGroup(groups, index) {
-        groups[index].classList.remove('mobile-hidden'); // Pour mobile
-        groups[index].classList.remove('new-hidden'); // Pour desktop
-    }
-
-    // Mise à jour de l'état des boutons mobile
-    function updateMobileButtons() {
-        mobileBackBtn.disabled = currentMobileGroup === 0;
-        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
-    }
-
-    // Mise à jour de l'état des boutons desktop
-    function updateDesktopButtons() {
-        desktopBackBtn.disabled = currentDesktopGroup === 0;
-        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
-    }
-
-    // Navigation mobile : précédent
-    mobileBackBtn.addEventListener('click', function () {
-        if (currentMobileGroup > 0) {
-            hideAllGroups(mobileGroups);
-            currentMobileGroup--;
-            showGroup(mobileGroups, currentMobileGroup);
-            updateMobileButtons();
-        }
+// Fonction pour gérer l'affichage des groupes
+function updateMobileGroups2() {
+    mobileGroups2.forEach((group, index) => {
+        // Ajoute ou retire la classe "hidden" selon le groupe actuel
+        group.classList.toggle('hidden', index + 1 !== mobileCurrentGroup2);
     });
 
-    // Navigation mobile : suivant
-    mobileNextBtn.addEventListener('click', function () {
-        if (currentMobileGroup < mobileGroups.length - 1) {
-            hideAllGroups(mobileGroups);
-            currentMobileGroup++;
-            showGroup(mobileGroups, currentMobileGroup);
-            updateMobileButtons();
-        }
-    });
+    // Désactiver ou activer les boutons en fonction de la position
+    mobileBackButton2.disabled = mobileCurrentGroup2 === 1;
+    mobileNextButton2.disabled = mobileCurrentGroup2 === mobileTotalGroups2;
+}
 
-    // Navigation desktop : précédent
-    desktopBackBtn.addEventListener('click', function () {
-        if (currentDesktopGroup > 0) {
-            hideAllGroups(desktopGroups);
-            currentDesktopGroup--;
-            showGroup(desktopGroups, currentDesktopGroup);
-            updateDesktopButtons();
-        }
-    });
-
-    // Navigation desktop : suivant
-    desktopNextBtn.addEventListener('click', function () {
-        if (currentDesktopGroup < desktopGroups.length - 1) {
-            hideAllGroups(desktopGroups);
-            currentDesktopGroup++;
-            showGroup(desktopGroups, currentDesktopGroup);
-            updateDesktopButtons();
-        }
-    });
-
-    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
-    showGroup(mobileGroups, currentMobileGroup);
-    showGroup(desktopGroups, currentDesktopGroup);
-    updateMobileButtons();
-    updateDesktopButtons();
+// Gestion du clic sur le bouton "Précédent"
+mobileBackButton2.addEventListener('click', () => {
+    if (mobileCurrentGroup2 > 1) {
+        mobileCurrentGroup2--; // Décrémente le groupe actuel
+        updateMobileGroups2(); // Met à jour l'affichage
+    }
 });
 
+// Gestion du clic sur le bouton "Suivant"
+mobileNextButton2.addEventListener('click', () => {
+    if (mobileCurrentGroup2 < mobileTotalGroups2) {
+        mobileCurrentGroup2++; // Incrémente le groupe actuel
+        updateMobileGroups2(); // Met à jour l'affichage
+    }
+});
+
+// Initialisation : afficher le premier groupe
+updateMobileGroups2();
+  </script>
+  <!--  FIN CARDS XL MOBILE-->
+
+  <!--  CARDS XL DESKTOP-->
+<script>
+   const mobileGroups = document.querySelectorAll('.d-block.d-md-none .new-card-container');
+        const mobileBackButton = document.getElementById('new-mobile-backButton');
+        const mobileNextButton = document.getElementById('new-mobile-nextGroupButton');
+        let mobileCurrentGroup = 1;
+        const mobileTotalGroups = 6;
+
+        // Desktop navigation
+        const desktopGroups = document.querySelectorAll('.d-none.d-md-block .new-card-container');
+        const desktopBackButton = document.getElementById('new-desktop-backButton');
+        const desktopNextButton = document.getElementById('new-desktop-nextGroupButton');
+        let desktopCurrentGroup = 1;
+        const desktopTotalGroups = 3;
+
+        // Mobile navigation functions
+        function updateMobileGroups() {
+            mobileGroups.forEach((group, index) => {
+                group.classList.toggle('new-hidden', index + 1 !== mobileCurrentGroup);
+            });
+
+            mobileBackButton.disabled = mobileCurrentGroup === 1;
+            mobileNextButton.disabled = mobileCurrentGroup === mobileTotalGroups;
+        }
+
+        mobileBackButton.addEventListener('click', () => {
+            if (mobileCurrentGroup > 1) {
+                mobileCurrentGroup--;
+                updateMobileGroups();
+            }
+        });
+
+        mobileNextButton.addEventListener('click', () => {
+            if (mobileCurrentGroup < mobileTotalGroups) {
+                mobileCurrentGroup++;
+                updateMobileGroups();
+            }
+        });
+
+        // Desktop navigation functions
+        function updateDesktopGroups() {
+            desktopGroups.forEach((group, index) => {
+                group.classList.toggle('new-hidden', index + 1 !== desktopCurrentGroup);
+            });
+
+            desktopBackButton.disabled = desktopCurrentGroup === 1;
+            desktopNextButton.disabled = desktopCurrentGroup === desktopTotalGroups;
+        }
+
+        desktopBackButton.addEventListener('click', () => {
+            if (desktopCurrentGroup > 1) {
+                desktopCurrentGroup--;
+                updateDesktopGroups();
+            }
+        });
+
+        desktopNextButton.addEventListener('click', () => {
+            if (desktopCurrentGroup < desktopTotalGroups) {
+                desktopCurrentGroup++;
+                updateDesktopGroups();
+            }
+        });
+
+        // Initialize groups
+        updateMobileGroups();
+        updateDesktopGroups();
+  </script>
+   <!--  FINCARDS XL DESKTOP-->
   <!--  FIN CARD XL-->
-</script>
+
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
   <script>

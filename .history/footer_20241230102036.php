@@ -308,7 +308,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
   <!--  FIN CARD XL-->
-</script>
+
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
   <script>

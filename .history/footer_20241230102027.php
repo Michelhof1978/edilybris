@@ -205,7 +205,7 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!--  CARDS XL-->
-  <script>
+  <sc
 document.addEventListener('DOMContentLoaded', function () {
     // Variables pour les boutons et les groupes de livres
     const mobileBackBtn = document.getElementById('mobile-back-btn');
@@ -308,7 +308,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
   <!--  FIN CARD XL-->
-</script>
+
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
   <script>

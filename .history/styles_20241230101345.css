@@ -817,9 +817,9 @@ footer {
   text-decoration: none;  /* Supprimer le soulignement des liens */
   color: inherit;  /* Hériter de la couleur du texte */
 }
-/* FIN CARDS L*/
 
-/* CARD XL AUTEURS MOBILE */
+
+/* FIN CARDS L*/
 .mobile-books-container {
   display: flex;
   justify-content: center;
@@ -945,9 +945,8 @@ footer {
     font-size: 13px;
   }
 }
-/* CARD XL AUTEURS MOBILE */
+/* CARDS XL*/
 
-/* CARDS XL AUTEURS DESKTOP*/
 .new-card-container {
   display: flex;
   justify-content: center;
@@ -1056,7 +1055,7 @@ footer {
 #new-nextGroupButton {
   background-color:#f4c600;
 }
- 
+ /* FIN CARD XL AUTEURS DESKTOP */
  .card-container {
   display: flex;
   justify-content: center;
@@ -1143,7 +1142,6 @@ footer {
 .next-button {
   background-color: #f4c600;
 }
-/* FIN CARD XL AUTEURS DESKTOP */
 
  /* TROMBI MOBILE */
  .trombinoscope {

@@ -946,8 +946,7 @@ footer {
   }
 }
 /* CARD XL AUTEURS MOBILE */
-
-/* CARDS XL AUTEURS DESKTOP*/
+/* CARDS XL*/
 .new-card-container {
   display: flex;
   justify-content: center;
@@ -1056,7 +1055,7 @@ footer {
 #new-nextGroupButton {
   background-color:#f4c600;
 }
- 
+ /* FIN CARD XL AUTEURS DESKTOP */
  .card-container {
   display: flex;
   justify-content: center;
@@ -1143,7 +1142,6 @@ footer {
 .next-button {
   background-color: #f4c600;
 }
-/* FIN CARD XL AUTEURS DESKTOP */
 
  /* TROMBI MOBILE */
  .trombinoscope {
