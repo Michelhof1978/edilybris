@@ -265,7 +265,15 @@
                 </div>
             </a>
         </div>
-
+<!-- WEBER DENECHAUD JANNICK -->
+<div class="carousel-item">
+            <a href="fichePatriciaScharff.php">
+                <div class="person">
+                    <img src="images:" alt="Photo de WEBER DENECHAUD JANNICK" class="photo">
+                    <p class="name">WEBER DENECHAUD JANNICK</p>
+                </div>
+            </a>
+        </div>
 
       </div>
 

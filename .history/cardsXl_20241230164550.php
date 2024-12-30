@@ -104,18 +104,6 @@
         </div>
     </div>
 
-    <!-- Groupe 9 Emmanuel Trouvé-->
-    <div id="mobile-group9" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_I.html">
-                <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Emmanuel Trouvé</div>
-                    <div class="mobile-book-price">17,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
 
     <!-- Groupe 10 Jannick Weber Denechaud-->
     <div id="mobile-group10" class="mobile-books-container mobile-hidden">

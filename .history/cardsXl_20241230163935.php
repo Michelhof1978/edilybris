@@ -226,7 +226,7 @@
                 </div>
             </a>
         </div>
-        
+       
         <!-- carte 9 WEBER DENECHAUD JANNICK-->
         <div class="new-card">
             <a href="link_to_book_J.html">

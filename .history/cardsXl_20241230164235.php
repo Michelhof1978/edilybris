@@ -227,7 +227,7 @@
             </a>
         </div>
         
-        <!-- carte 9 WEBER DENECHAUD JANNICK-->
+        <!-- carte  WEBER DENECHAUD JANNICK-->
         <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">

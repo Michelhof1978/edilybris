@@ -104,21 +104,21 @@
         </div>
     </div>
 
-    <!-- Groupe 9 Emmanuel Trouvé-->
-    <div id="mobile-group9" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 9 Jannick Weber Denechaud-->
+    <div id="mobile-group10" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="link_to_book_I.html">
-                <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
+            <a href="link_to_book_J.html">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre Jannick Weber Denechaud">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Emmanuel Trouvé</div>
+                    <div class="mobile-book-author">Jannick Weber Denechaud</div>
                     <div class="mobile-book-price">17,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 10 Jannick Weber Denechaud-->
-    <div id="mobile-group10" class="mobile-books-container mobile-hidden">
+     <!-- Groupe 9 Jannick Weber Denechaud-->
+     <div id="mobile-group10" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre Jannick Weber Denechaud">
@@ -226,7 +226,7 @@
                 </div>
             </a>
         </div>
-        
+       
         <!-- carte 9 WEBER DENECHAUD JANNICK-->
         <div class="new-card">
             <a href="link_to_book_J.html">
@@ -238,8 +238,8 @@
             </a>
         </div>
     </div>
+    </div>
 
-   
     <!-- Boutons de navigation -->
     <div class="new-navigation">
         <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>

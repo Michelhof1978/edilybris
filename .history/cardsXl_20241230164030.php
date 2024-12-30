@@ -226,8 +226,17 @@
                 </div>
             </a>
         </div>
-        
-        <!-- carte 9 WEBER DENECHAUD JANNICK-->
+        <!-- carte 9 Emmanuel Trouvé-->
+        <div class="new-card">
+            <a href="link_to_book_I.html">
+                <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
+                <div class="new-card-content">
+                    <div class="new-card-author">Emmanuel Trouvé</div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 10 WEBER DENECHAUD JANNICK-->
         <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
