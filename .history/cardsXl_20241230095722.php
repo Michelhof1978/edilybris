@@ -1,141 +1,64 @@
 <!-- MODE MOBILE -->
-<div class="d-block d-md-none">
-    <!-- Groupe 1 -->
-    <div id="mobile-group1" class="mobile-books-container">
-        <div class="mobile-book-card">
+<!-- MODE MOBILE -->
+<div class="mobile-view d-block d-sm-none ">
+    <!-- Groupes Mobile -->
+    <div id="mobile-group-1" class="card-container">
+        <!-- carte 1 -->
+        <div class="card rounded-3 bgCardXlMobile">  <!-- rounded-3 pour des coins plus arrondis -->
             <a href="link_to_book_A.html">
-                <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">15,00 €</div>
+                <img src="images/pierreBrandao/XLlamuserie.webp" class="card-image" alt="Couverture de livre L'amuserie">
+                <div class="card-content bgCardXlMobile">
+                    <div class="card-author">Brandao Pierre</div>
+                    <div class="card-price">15,00 €</div>
                 </div>
             </a>
         </div>
     </div>
-
-    <!-- Groupe 2 -->
-    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
+    <div id="mobile-group-2" class="card-container hidden">
+        <!-- carte 2 -->
+        <div class="card rounded-3">
             <a href="link_to_book_B.html">
-                <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="img-fluid" alt="Couverture de livre Les mystères de l'Hometrou">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Cathelineau Jocelyne</div>
-                    <div class="mobile-book-price">23,00 €</div>
+                <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="card-image" alt="Couverture de livre Les mystères de l'Hometrou">
+                <div class="card-content bgCardXlMobile">
+                    <div class="card-author">Cathelineau Jocelyne</div>
+                    <div class="card-price">23,00 €</div>
                 </div>
             </a>
         </div>
     </div>
-
-    <!-- Groupe 3 -->
-    <div id="mobile-group3" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
+    <div id="mobile-group-3" class="card-container hidden">
+        <!-- carte 3 -->
+        <div class="card rounded-3 bgCardXlMobile">
             <a href="link_to_book_C.html">
-                <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre Recette pour un spectacle">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Chauvin Lydia</div>
-                    <div class="mobile-book-price">12,00 €</div>
+                <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="card-image" alt="Couverture de livre Recette pour un spectacle">
+                <div class="card-content bgCardXlMobile">
+                    <div class="card-author">Chauvin Lydia</div>
+                    <div class="card-price">12,00 €</div>
                 </div>
             </a>
         </div>
     </div>
-
-    <!-- Groupe 4 -->
-    <div id="mobile-group4" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_D.html">
-                <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Cretel Jean-Pierre</div>
-                    <div class="mobile-book-price">12,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 5 -->
-    <div id="mobile-group5" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_E.html">
-                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Cretel Jean-Pierre</div>
-                    <div class="mobile-book-price">13,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 6 -->
-    <div id="mobile-group6" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_F.html">
-                <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre Luminescence">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Galard François</div>
-                    <div class="mobile-book-price">13,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 7 -->
-    <div id="mobile-group7" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_G.html">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Cretel Jean-Pierre</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 8 -->
-    <div id="mobile-group8" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_H.html">
-                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Delaneau Jean Michel</div>
-                    <div class="mobile-book-price">12,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 9 -->
-    <div id="mobile-group9" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_I.html">
-                <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Emmanuel Trouvé</div>
-                    <div class="mobile-book-price">17,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 10 -->
-    <div id="mobile-group10" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
+    <!-- Ajouter les groupes suivants -->
+    <div id="mobile-group-10" class="card-container hidden">
+        <!-- carte 10 -->
+        <div class="card rounded-3 bgCardXlMobile">
             <a href="link_to_book_J.html">
-                <img src="images/sample/sample10.webp" class="img-fluid" alt="Couverture de livre Book 10">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Author 10</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                <img src="images/sample/sample10.webp" class="card-image" alt="Couverture de livre Book 10">
+                <div class="card-content bgCardXlMobile">
+                    <div class="card-author">Author 10</div>
+                    <div class="card-price">14,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Boutons de navigation -->
-    <div class="mobile-navigation">
-        <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
-        <button id="mobile-next-btn" class="mobile-button">Suivant</button>
+    <!-- Boutons de navigation pour mobile -->
+    <div class="navigation">
+        <button id="mobile-back-button" class="button xl-buttonback-button text-white" disabled>Précédent</button>
+        <button id="mobile-next-button" class="button next-button text-white">Suivant</button>
     </div>
 </div>
+
 
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">

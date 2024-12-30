@@ -2,6 +2,7 @@
 <div class="d-block d-md-none">
     <!-- Groupe 1 -->
     <div id="mobile-group1" class="mobile-books-container">
+        <!-- carte 1 -->
         <div class="mobile-book-card">
             <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
@@ -11,10 +12,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 2 -->
-    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
+        <!-- carte 2 -->
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="img-fluid" alt="Couverture de livre Les mystères de l'Hometrou">
@@ -24,10 +22,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 3 -->
-    <div id="mobile-group3" class="mobile-books-container mobile-hidden">
+        <!-- carte 3 -->
         <div class="mobile-book-card">
             <a href="link_to_book_C.html">
                 <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre Recette pour un spectacle">
@@ -37,10 +32,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 4 -->
-    <div id="mobile-group4" class="mobile-books-container mobile-hidden">
+        <!-- carte 4 -->
         <div class="mobile-book-card">
             <a href="link_to_book_D.html">
                 <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Sentier de traverses">
@@ -50,10 +42,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 5 -->
-    <div id="mobile-group5" class="mobile-books-container mobile-hidden">
+        <!-- carte 5 -->
         <div class="mobile-book-card">
             <a href="link_to_book_E.html">
                 <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
@@ -65,8 +54,9 @@
         </div>
     </div>
 
-    <!-- Groupe 6 -->
-    <div id="mobile-group6" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 2 -->
+    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
+        <!-- carte 6 -->
         <div class="mobile-book-card">
             <a href="link_to_book_F.html">
                 <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre Luminescence">
@@ -76,10 +66,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 7 -->
-    <div id="mobile-group7" class="mobile-books-container mobile-hidden">
+        <!-- carte 7 -->
         <div class="mobile-book-card">
             <a href="link_to_book_G.html">
                 <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
@@ -89,10 +76,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 8 -->
-    <div id="mobile-group8" class="mobile-books-container mobile-hidden">
+        <!-- carte 8 -->
         <div class="mobile-book-card">
             <a href="link_to_book_H.html">
                 <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
@@ -102,10 +86,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 9 -->
-    <div id="mobile-group9" class="mobile-books-container mobile-hidden">
+        <!-- carte 9 -->
         <div class="mobile-book-card">
             <a href="link_to_book_I.html">
                 <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="Couverture de livre Entre vie et poésie">
@@ -115,10 +96,7 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <!-- Groupe 10 -->
-    <div id="mobile-group10" class="mobile-books-container mobile-hidden">
+        <!-- carte 10 -->
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/sample/sample10.webp" class="img-fluid" alt="Couverture de livre Book 10">
@@ -136,6 +114,8 @@
         <button id="mobile-next-btn" class="mobile-button">Suivant</button>
     </div>
 </div>
+
+
 
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">
