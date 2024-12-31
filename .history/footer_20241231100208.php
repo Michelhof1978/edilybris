@@ -205,7 +205,7 @@
 <!-- _____________________________________________________________________________________ -->
 
 <!--  CARDS XL mobile et desktop AUTEUR-->
-<script>
+  <script>
 document.addEventListener('DOMContentLoaded', function () {
     // Variables pour les boutons et les groupes de livres
     const mobileBackBtn = document.getElementById('mobile-back-btn');
@@ -213,23 +213,22 @@ document.addEventListener('DOMContentLoaded', function () {
     const desktopBackBtn = document.getElementById('new-desktop-backButton');
     const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
 
-    // Ajout de 30 groupes pour mobile
-    const mobileGroups = Array.from({ length: 30 }, (_, i) =>
-        document.getElementById(`mobile-group${i + 1}`)
-    );
+    const mobileGroups = [
+        document.getElementById('mobile-group1'),
+        document.getElementById('mobile-group2'),
+        document.getElementById('mobile-group3'),
+        document.getElementById('mobile-group4'),
+        document.getElementById('mobile-group5'),
+        document.getElementById('mobile-group6'),
+        document.getElementById('mobile-group7'),
+        document.getElementById('mobile-group8'),
+        document.getElementById('mobile-group9'),
+        document.getElementById('mobile-group10'),
+    ];
 
-    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
     const desktopGroups = [
         document.getElementById('desktop-group1'),
         document.getElementById('desktop-group2'),
-        document.getElementById('desktop-group3'),
-        document.getElementById('desktop-group4'),
-        document.getElementById('desktop-group5'),
-        document.getElementById('desktop-group6'),
-        document.getElementById('desktop-group7'),
-        document.getElementById('desktop-group8'),
-        document.getElementById('desktop-group9'),
-        document.getElementById('desktop-group10'),
     ];
 
     let currentMobileGroup = 0;
@@ -238,19 +237,15 @@ document.addEventListener('DOMContentLoaded', function () {
     // Fonction pour cacher tous les groupes
     function hideAllGroups(groups) {
         groups.forEach(group => {
-            if (group) {
-                group.classList.add('mobile-hidden'); // Pour mobile
-                group.classList.add('new-hidden'); // Pour desktop
-            }
+            group.classList.add('mobile-hidden'); // Pour mobile
+            group.classList.add('new-hidden'); // Pour desktop
         });
     }
 
     // Fonction pour afficher un groupe spécifique
     function showGroup(groups, index) {
-        if (groups[index]) {
-            groups[index].classList.remove('mobile-hidden'); // Pour mobile
-            groups[index].classList.remove('new-hidden'); // Pour desktop
-        }
+        groups[index].classList.remove('mobile-hidden'); // Pour mobile
+        groups[index].classList.remove('new-hidden'); // Pour desktop
     }
 
     // Mise à jour de l'état des boutons mobile
@@ -312,7 +307,6 @@ document.addEventListener('DOMContentLoaded', function () {
     updateDesktopButtons();
 });
 </script>
-
 <!--  FIN CARDS XL mobile et desktop AUTEUR-->
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
