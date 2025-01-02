@@ -30,7 +30,7 @@
   <div id="new-group3" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_B.html">
-        <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="Couverture de livre Le carnassier saintongeais">
+        <img src="images/AuthorB/bookB-cover.webp" class="img-fluid" alt="Couverture de livre Le carnassier saintongeais">
         <div class="new-card-content">
           <div class="new-card-author">Jannick Weber Denechaud</div>
           <div class="new-card-price">15,00 €</div>
@@ -164,13 +164,13 @@
         </a>
     </div>
    
-     <!-- Carte 3 WEBER DENECHAUD JANNICK-->
+     <!-- Carte 2 WEBER DENECHAUD JANNICK-->
     <div class="L-card">
         <a href="link_to_book_D.html">
-            <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="couverture de livre Le carnassier saintongeais">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="couverture de livre Le carnassier saintongeais">
             <div class="L-card-content">
-                <div class="L-card-author">Jannick Weber Denechaud</div>
-                <div class="L-card-price">15,00 €</div>
+                <div class="L-card-author">Diane Morel</div>
+                <div class="L-card-price">14,99 €</div>
             </div>
         </a>
     </div>
@@ -179,7 +179,6 @@
 
 <!-- Groupe 2 -->
 <div class="L-card-container L-hidden" id="L-group4">
-   <!-- Carte 4-->
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="couverture de livre">
@@ -189,7 +188,6 @@
             </div>
         </a>
     </div>
-     <!-- Carte 5-->
     <div class="L-card">
         <a href="link_to_book_G.html">
             <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="couverture de livre">
@@ -200,7 +198,6 @@
         </a>
     </div>
     <div class="L-card">
-       <!-- Carte 6-->
         <a href="link_to_book_H.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="couverture de livre">
             <div class="L-card-content">

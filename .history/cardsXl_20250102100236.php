@@ -307,8 +307,8 @@
         </div> 
     </div>
    
-     <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
+     <!-- Groupe 2 -->
+     <div id="desktop-group2" class="new-card-container new-hidden">
         <!-- carte 6 Galard François -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -363,7 +363,7 @@
             </a>
         </div> 
     </div>
-
+    
     <!-- Boutons de navigation -->
     <div class="new-navigation">
         <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>

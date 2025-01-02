@@ -30,7 +30,7 @@
   <div id="new-group3" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_B.html">
-        <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="Couverture de livre Le carnassier saintongeais">
+        <img src="images/AuthorB/bookB-cover.webp" class="img-fluid" alt="Couverture de livre Le carnassier saintongeais">
         <div class="new-card-content">
           <div class="new-card-author">Jannick Weber Denechaud</div>
           <div class="new-card-price">15,00 €</div>
@@ -167,10 +167,10 @@
      <!-- Carte 3 WEBER DENECHAUD JANNICK-->
     <div class="L-card">
         <a href="link_to_book_D.html">
-            <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="couverture de livre Le carnassier saintongeais">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="couverture de livre Le carnassier saintongeais">
             <div class="L-card-content">
                 <div class="L-card-author">Jannick Weber Denechaud</div>
-                <div class="L-card-price">15,00 €</div>
+                <div class="L-card-price">14,99iv>
             </div>
         </a>
     </div>
