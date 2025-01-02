@@ -130,26 +130,13 @@
         </div>
     </div>
 
-     <!-- Groupe 11 PATRICIA SCHARFF-->
-     <div id="mobile-group11" class="mobile-books-container mobile-hidden">
+     <!-- Groupe 10 PATRICIA SCHARFF-->
+     <div id="mobile-group10" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre lA PLEINE DES JEUX">
+                <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre Jannick Weber Denechaud">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Patricia Scharff</div>
-                    <div class="mobile-book-price">10,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 12 PATRICIA SCHARFF-->
-    <div id="mobile-group12" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Patricia Scharff</div>
+                    <div class="mobile-book-author">Jannick Weber Denechaud</div>
                     <div class="mobile-book-price">15,00 €</div>
                 </div>
             </a>
@@ -345,13 +332,13 @@
                 </div>
             </a>
         </div>
-        <!-- carte 7 PATRICIA SCHARFF -->
+        <!-- carte 7 Cretel Jean-Pierre -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                 <div class="new-card-content">
                     <div class="new-card-author">Cretel Jean-Pierre</div>
-                    <div class="new-card-price">15,00 €</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>

@@ -130,32 +130,6 @@
         </div>
     </div>
 
-     <!-- Groupe 11 PATRICIA SCHARFF-->
-     <div id="mobile-group11" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre lA PLEINE DES JEUX">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Patricia Scharff</div>
-                    <div class="mobile-book-price">10,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 12 PATRICIA SCHARFF-->
-    <div id="mobile-group12" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Patricia Scharff</div>
-                    <div class="mobile-book-price">15,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -338,20 +312,20 @@
         <!-- carte 6 Galard François -->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre La pleine des jeux">
+                <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre La pleine">
                 <div class="new-card-content">
                     <div class="new-card-author">Patricia Scharff</div>
                     <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 7 PATRICIA SCHARFF -->
+        <!-- carte 7 Cretel Jean-Pierre -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                 <div class="new-card-content">
                     <div class="new-card-author">Cretel Jean-Pierre</div>
-                    <div class="new-card-price">15,00 €</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>

@@ -143,8 +143,8 @@
         </div>
     </div>
 
-    <!-- Groupe 12 PATRICIA SCHARFF-->
-    <div id="mobile-group12" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 11 PATRICIA SCHARFF-->
+    <div id="mobile-group11" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
@@ -345,13 +345,13 @@
                 </div>
             </a>
         </div>
-        <!-- carte 7 PATRICIA SCHARFF -->
+        <!-- carte 7 Cretel Jean-Pierre -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
                     <div class="new-card-author">Cretel Jean-Pierre</div>
-                    <div class="new-card-price">15,00 €</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
