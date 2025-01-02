@@ -222,10 +222,10 @@
     </div>
 
     <!-- Groupe 18 VERONIQUE ASH -->
-    <div id="mobile-group18" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group17" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Les carabistouilles">
+                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre mES CARABISTOUILLE">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Ash Véronique</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -234,8 +234,8 @@
         </div>
     </div>
 
-      <!-- Groupe 19  LUC LE GUENNEC-->
-      <div id="mobile-group19" class="mobile-books-container mobile-hidden">
+      <!-- Groupe 18  LUC LE GUENNEC-->
+      <div id="mobile-group18" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
@@ -247,13 +247,13 @@
         </div>
     </div>
 
-     <!-- Groupe 20 VERONIQUE ASH -->
-     <div id="mobile-group20" class="mobile-books-container mobile-hidden">
+     <!-- Groupe 17 VERONIQUE ASH -->
+     <div id="mobile-group17" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Véronique Ash</div>
+                    <div class="mobile-book-author"> Véronique</div>
                     <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>

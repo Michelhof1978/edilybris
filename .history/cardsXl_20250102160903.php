@@ -208,57 +208,32 @@
         </div>
     </div>
 
-     <!-- Groupe 17 VERONIQUE ASH -->
+     <!-- Groupe 17 ASH VERONIQUE-->
      <div id="mobile-group17" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Ash Véronique</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                    <div class="mobile-book-price">20,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 18 VERONIQUE ASH -->
-    <div id="mobile-group18" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Les carabistouilles">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Ash Véronique</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-      <!-- Groupe 19  LUC LE GUENNEC-->
-      <div id="mobile-group19" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Le Guennec Luc</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-     <!-- Groupe 20 VERONIQUE ASH -->
-     <div id="mobile-group20" class="mobile-books-container mobile-hidden">
+      <!-- Groupe 18 -->
+      <div id="mobile-group18" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Véronique Ash</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                    <div class="mobile-book-author"> Ash Véronique</div>
+                    <div class="mobile-book-price">20,00 €</div>
                 </div>
             </a>
         </div>
     </div>
+
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
@@ -531,7 +506,7 @@
         <!-- carte 19 VERONOIQUE ASH-->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
+                <img src="images/veroniqueAsh/couv-carabistouilles-recto-min.webp" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
                 <div class="new-card-content">
                     <div class="new-card-author">Ash Véronique </div>
                     <div class="new-card-price">14,00 €</div>
@@ -539,13 +514,13 @@
             </a>
         </div>
 
-         <!-- carte 20 LUC LE GUENNEC-->
+         <!-- carte 20-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
+                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="new-card-content">
-                    <div class="new-card-author">Le Guennec Luc</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Pierre Brandao</div>
+                    <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
         </div> 

@@ -247,8 +247,8 @@
         </div>
     </div>
 
-     <!-- Groupe 20 VERONIQUE ASH -->
-     <div id="mobile-group20" class="mobile-books-container mobile-hidden">
+     <!-- Groupe  VERONIQUE ASH -->
+     <div id="mobile-group19" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
