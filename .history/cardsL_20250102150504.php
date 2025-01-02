@@ -182,7 +182,7 @@
    <!-- Carte 4-->
     <div class="L-card">
         <a href="link_to_book_F.html">
-            <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="couverture de livre Abreuver">
             <div class="L-card-content">
                 <div class="L-card-author">Christine Kunz</div>
                 <div class="L-card-price">20,00 €</div>

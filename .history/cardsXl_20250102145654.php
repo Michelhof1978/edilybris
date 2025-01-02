@@ -221,19 +221,7 @@
         </div>
     </div>
 
-      <!-- Groupe 18-->
-      <div id="mobile-group17" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Ash Véronique</div>
-                    <div class="mobile-book-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
+    
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">

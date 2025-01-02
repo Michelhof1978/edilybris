@@ -43,7 +43,7 @@
   <div id="new-group4" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_C.html">
-        <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="Couverture de livre Abrever le fou qui dort en nos désert">
+        <img src="images/AuthorC/bookC-cover.webp" class="img-fluid" alt="Couverture de livre Abrever le fou qui dort en nos desert">
         <div class="new-card-content">
           <div class="new-card-author">Kunz Chrisitine</div>
           <div class="new-card-price">20,00 €</div>
@@ -177,15 +177,15 @@
     
 </div>
 
-<!-- Groupe 2 - CHRISTINE KUNZ -->
+<!-- Groupe 2 -->
 <div class="L-card-container L-hidden" id="L-group4">
    <!-- Carte 4-->
     <div class="L-card">
         <a href="link_to_book_F.html">
-            <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
+            <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="couverture de livre">
             <div class="L-card-content">
-                <div class="L-card-author">Christine Kunz</div>
-                <div class="L-card-price">20,00 €</div>
+                <div class="L-card-author">Fabien Leclerc</div>
+                <div class="L-card-price">17,99 €</div>
             </div>
         </a>
     </div>

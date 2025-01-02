@@ -221,7 +221,7 @@
         </div>
     </div>
 
-      <!-- Groupe 18-->
+      <!-- Groupe 17 ASH VERONIQUE-->
       <div id="mobile-group17" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
