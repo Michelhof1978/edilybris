@@ -207,20 +207,6 @@
             </a>
         </div>
     </div>
-
-     <!-- Groupe 17 PIERRE BRANDAO-->
-     <div id="mobile-group17" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Ash Véronique</div>
-                    <div class="mobile-book-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -481,10 +467,10 @@
         <!-- carte 18 VERONOIQUE ASH-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
+                <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
                 <div class="new-card-content">
-                    <div class="new-card-author">Ash Véronique </div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Ash V </div>
+                    <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
         </div>

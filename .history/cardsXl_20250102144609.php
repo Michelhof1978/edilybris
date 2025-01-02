@@ -220,7 +220,7 @@
             </a>
         </div>
     </div>
-
+    
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -481,7 +481,7 @@
         <!-- carte 18 VERONOIQUE ASH-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
+                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées>
                 <div class="new-card-content">
                     <div class="new-card-author">Ash Véronique </div>
                     <div class="new-card-price">14,00 €</div>
