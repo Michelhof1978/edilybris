@@ -2111,12 +2111,12 @@ input[type="email"]:focus {
 }
 /* FIN BOUTONS CITATIONS*/
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .videoCommandeMobile {
-   margin-bottom: -1500px; 
+   margin-top: -x; /* Valeur plus modérée 
+    /* margin-bottom: ; Valeur plus modérée 
    }
 } 
-
 
 
 
