@@ -156,8 +156,8 @@
         </div>
     </div>
 
-    <!-- Groupe 13 PATRICE BACHEREAU-->
-    <div id="mobile-group13" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 12 PATRICE BACHEREAU-->
+    <div id="mobile-group12" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
@@ -363,19 +363,19 @@
             <a href="link_to_book_G.html">
                 <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
-                    <div class="new-card-author">Patricia Scharff</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
                     <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>
 
-        <!-- carte 13 PATRICE BACHEREAU-->
+        <!-- carte 8 jean Michel Delaneau-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
+                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
                 <div class="new-card-content">
-                    <div class="new-card-author">Patrice Bachereau </div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">Delaneau Jean Michel </div>
+                    <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>

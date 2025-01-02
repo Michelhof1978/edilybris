@@ -372,10 +372,10 @@
         <!-- carte 13 PATRICE BACHEREAU-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
+                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
                 <div class="new-card-content">
-                    <div class="new-card-author">Patrice Bachereau </div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">pATRICE </div>
+                    <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>
