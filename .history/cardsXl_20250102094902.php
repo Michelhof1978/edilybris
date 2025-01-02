@@ -121,10 +121,10 @@
     <div id="mobile-group10" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre Jannick Weber Denechaud">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre Jannick Weber Denechaud">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber Denechaud</div>
-                    <div class="mobile-book-price">15,00 €</div>
+                    <div class="mobile-book-price">17,00 €</div>
                 </div>
             </a>
         </div>
@@ -238,13 +238,13 @@
             </a>
         </div>
 
-         <!-- carte 10 WEBER DENECHAUD JANNICK-->
+         <!-- carte 9 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber Denechaud</div>
-                    <div class="new-card-price">15,00 €</div>
+                    <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
         </div> 
