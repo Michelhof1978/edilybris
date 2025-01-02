@@ -199,7 +199,7 @@
      <div id="mobile-group16" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre Les ronds points de la colère">
+                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Brandao Pierre</div>
                     <div class="mobile-book-price">20,00 €</div>
@@ -366,7 +366,7 @@
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Weber Denechaud Jannick </div>
+                    <div class="new-card-author">Jannick Weber Denechaud</div>
                     <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
@@ -377,7 +377,7 @@
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Weber Denechaud Jannick </div>
+                    <div class="new-card-author">Jannick Weber Denechaud</div>
                     <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
@@ -391,7 +391,7 @@
             <a href="link_to_book_F.html">
                 <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre La pleine des jeux">
                 <div class="new-card-content">
-                    <div class="new-card-author">Scharff Patricia </div>
+                    <div class="new-card-author">Patricia Scharff</div>
                     <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
@@ -401,7 +401,7 @@
             <a href="link_to_book_G.html">
                 <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
-                    <div class="new-card-author">Scharff Patricia </div>
+                    <div class="new-card-author">Patricia Scharff</div>
                     <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
@@ -412,7 +412,7 @@
             <a href="link_to_book_H.html">
                 <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
                 <div class="new-card-content">
-                    <div class="new-card-author">Bachereau Patrice </div>
+                    <div class="new-card-author">Patrice Bachereau </div>
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
@@ -423,18 +423,18 @@
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile !">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-author">Pierre Brandao</div>
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
         </div>
 
-         <!-- carte 15 Pierre Brandao-->
+         <!-- carte 15 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-author">Pierre Brandao</div>
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
@@ -443,13 +443,13 @@
 
     <!-- Groupe 5 -->
     <div id="desktop-group5" class="new-card-container new-hidden">
-        <!-- carte 16 Pierre Brandao-->
+        <!-- carte 16 -->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre Les ronds points de la colère">
+                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre La pleine des jeux">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">20,00 €</div>
+                    <div class="new-card-author">Patricia Scharff</div>
+                    <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>

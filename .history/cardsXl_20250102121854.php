@@ -443,10 +443,10 @@
 
     <!-- Groupe 5 -->
     <div id="desktop-group5" class="new-card-container new-hidden">
-        <!-- carte 16 Pierre Brandao-->
+        <!-- carte 16 -->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre Les ronds points de la colère">
+                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre La pleine des jeux">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
                     <div class="new-card-price">20,00 €</div>
