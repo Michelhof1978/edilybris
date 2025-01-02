@@ -173,7 +173,7 @@
     <div id="mobile-group14" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min .webp" class="img-fluid" alt="Couverture de livre Quelle tuile !">
+                <img src="images/pierreBrandao:" class="img-fluid" alt="Couverture de livre Quelle tuile !">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Pierre Brandao</div>
                     <div class="mobile-book-price">22,00 €</div>
