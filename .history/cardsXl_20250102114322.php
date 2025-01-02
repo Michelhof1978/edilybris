@@ -441,7 +441,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 17 -->
+        <!-- carte 12 PATRICIA SCHARFF -->
         <div class="new-card">
             <a href="link_to_book_G.html">
                 <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
@@ -452,7 +452,7 @@
             </a>
         </div>
 
-        <!-- carte 18-->
+        <!-- carte 13 PATRICE BACHEREAU-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
@@ -463,7 +463,7 @@
             </a>
         </div>
         
-        <!-- carte 19-->
+        <!-- carte 14 Pierre Brandao-->
         <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile !">
@@ -474,7 +474,7 @@
             </a>
         </div>
 
-         <!-- carte 20-->
+         <!-- carte 15 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">

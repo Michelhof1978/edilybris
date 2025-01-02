@@ -474,7 +474,7 @@
             </a>
         </div>
 
-         <!-- carte 20-->
+         <!-- carte 15 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
