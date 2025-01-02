@@ -382,45 +382,45 @@
 
      <!-- Groupe 3 -->
      <div id="desktop-group3" class="new-card-container new-hidden">
-        <!-- carte 6  -->
+        <!-- carte 6 Galard François -->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre ">
+                <img src="images/" class="img-fluid" alt="Couverture de livre Luminescence">
                 <div class="new-card-content">
-                    <div class="new-card-author"></div>
+                    <div class="new-card-author">Galard François</div>
                     <div class="new-card-price">,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 7 -->
+        <!-- carte 7 Cretel Jean-Pierre -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                 <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
 
-        <!-- carte 8 -->
+        <!-- carte 8 jean Michel Delaneau-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
                 <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
+                    <div class="new-card-author">Delaneau Jean Michel </div>
+                    <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>
         
-        <!-- carte 9 -->
+        <!-- carte 9 WEBER DENECHAUD JANNICK-->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre ">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
+                    <div class="new-card-author">Weber Denechaud Jannick </div>
+                    <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
         </div>
@@ -428,10 +428,10 @@
          <!-- carte 10 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
+                    <div class="new-card-author">Weber Denechaud Jannick </div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div> 

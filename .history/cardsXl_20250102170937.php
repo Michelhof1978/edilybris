@@ -406,7 +406,7 @@
         <!-- carte 8 -->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
+                <img src="images" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
                 <div class="new-card-content">
                     <div class="new-card-author"></div>
                     <div class="new-card-price">,00 €</div>
@@ -494,7 +494,7 @@
         </div> 
     </div>
 
-    <!-- Groupe 5 -->
+    <!-- Groupe 5 images/pierreBrandao/img010 (1)-min.webp-->
     <div id="desktop-group5" class="new-card-container new-hidden">
         <!-- carte 16 Pierre Brandao-->
         <div class="new-card">

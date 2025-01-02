@@ -428,7 +428,7 @@
          <!-- carte 10 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
                     <div class="new-card-author"></div>
                     <div class="new-card-price">,00 €</div>

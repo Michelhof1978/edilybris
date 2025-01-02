@@ -324,7 +324,10 @@
     </div>
 
     <!-- Groupe 2 -->
-    <div id="desktop-group2" class="new-card-container new-hidden">
+    
+
+     <!-- Groupe 3 -->
+     <div id="desktop-group3" class="new-card-container new-hidden">
         <!-- carte 6 Galard François -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -362,7 +365,7 @@
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Jannick Weber Denechaud</div>
+                    <div class="new-card-author">Weber Denechaud Jannick </div>
                     <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
@@ -373,65 +376,8 @@
             <a href="link_to_book_J.html">
                 <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Jannick Weber Denechaud</div>
+                    <div class="new-card-author">Weber Denechaud Jannick </div>
                     <div class="new-card-price">15,00 €</div>
-                </div>
-            </a>
-        </div> 
-    </div>
-
-     <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
-        <!-- carte 6  -->
-        <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre ">
-                <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
-                </div>
-            </a>
-        </div>
-        <!-- carte 7 -->
-        <div class="new-card">
-            <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
-                <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
-                </div>
-            </a>
-        </div>
-
-        <!-- carte 8 -->
-        <div class="new-card">
-            <a href="link_to_book_H.html">
-                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
-                <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
-                </div>
-            </a>
-        </div>
-        
-        <!-- carte 9 -->
-        <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre ">
-                <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
-                </div>
-            </a>
-        </div>
-
-         <!-- carte 10 WEBER DENECHAUD JANNICK-->
-         <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
-                <div class="new-card-content">
-                    <div class="new-card-author"></div>
-                    <div class="new-card-price">,00 €</div>
                 </div>
             </a>
         </div> 
