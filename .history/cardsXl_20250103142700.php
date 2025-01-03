@@ -312,19 +312,6 @@
         </div>
     </div>
 
-     <!-- Groupe 25 PIERRE BRANDAO-->
-     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1 er mai">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre</div>
-                    <div class="mobile-book-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>

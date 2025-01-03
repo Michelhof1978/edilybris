@@ -299,27 +299,14 @@
         </div>
     </div>
 
-        <!-- Groupe 24 PIERRE BRANDAO-->
-        <div id="mobile-group24" class="mobile-books-container mobile-hidden">
+        <!-- Groupe 23 PIERRE BRANDAO-->
+        <div id="mobile-group23" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicacitres">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Brandao Pierre</div>
-                    <div class="mobile-book-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-     <!-- Groupe 25 PIERRE BRANDAO-->
-     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1 er mai">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre</div>
-                    <div class="mobile-book-price">20,00 €</div>
+                    <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>
         </div>
@@ -562,7 +549,7 @@
 
         <!-- Groupe 5 -->
         <div id="desktop-group5" class="new-card-container new-hidden">
-        <!-- carte 21 PIERRE BRANDAO-->
+        <!-- carte 21 Pierre Brandao-->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
@@ -594,68 +581,10 @@
             </a>
         </div>
         
-         <!-- carte 24 PIERRE BRANDAO-->
-         <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
-                <div class="new-card-content">
-                    <div class="new-card-author">Pierre Brandao </div>
-                    <div class="new-card-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-
-         <!-- carte 25 -->
-         <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
-                <div class="new-card-content">
-                    <div class="new-card-author">Le Guennec Luc</div>
-                    <div class="new-card-price">14,00 €</div>
-                </div>
-            </a>
-        </div> 
-    </div>
-
-     
-     <!-- Groupe 6 -->
-     <div id="desktop-group6" class="new-card-container new-hidden">
-        <!-- carte 26 PIERRE BRANDAO-->
-        <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
-                <div class="new-card-content">
-                    <div class="new-card-author">Pierre Brandao </div>
-                    <div class="new-card-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-        <!-- carte 27 PIERRE BRANDAO-->
-        <div class="new-card">
-            <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'Assassin du 1er mai">
-                <div class="new-card-content">
-                    <div class="new-card-author">Pierre Brandao </div>
-                    <div class="new-card-price">20,00 €</div>
-                </div>
-            </a>
-        </div>
-
-        <!-- carte 28-->
-        <div class="new-card">
-            <a href="link_to_book_H.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
-                <div class="new-card-content">
-                    <div class="new-card-author">Lovac Roxane </div>
-                    <div class="new-card-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-        
-        <!-- carte 29-->
+        <!-- carte 24-->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
+                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
                 <div class="new-card-content">
                     <div class="new-card-author">Ash Véronique </div>
                     <div class="new-card-price">14,00 €</div>
@@ -663,10 +592,10 @@
             </a>
         </div>
 
-         <!-- carte 30-->
+         <!-- carte 25-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
+                <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
                 <div class="new-card-content">
                     <div class="new-card-author">Le Guennec Luc</div>
                     <div class="new-card-price">14,00 €</div>
@@ -675,6 +604,17 @@
         </div> 
     </div>
 
+     <!-- carte 26 PIERRE BRANDAO-->
+     <div class="new-card">
+            <a href="link_to_book_J.html">
+                <img src="images/pi" class="img-fluid" alt="Couverture de livre Quai des cicacitres">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">20,00 €</div>
+                </div>
+            </a>
+        </div> 
+    </div>
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">
@@ -682,5 +622,3 @@
         <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
     </div>
 </div>
-
-

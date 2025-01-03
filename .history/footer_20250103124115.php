@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
 
     // Ajout de 30 groupes pour mobile
-    const mobileGroups = Array.from({ length: 50 }, (_, i) =>
+    const mobileGroups = Array.from({ length: 0 }, (_, i) =>
         document.getElementById(`mobile-group${i + 1}`)
     );
 
