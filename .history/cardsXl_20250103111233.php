@@ -277,7 +277,7 @@
     <div id="mobile-group22" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
+                <img src="images/roxaneLovac/ class="img-fluid" alt="Couverture de livre Au delas de l'intime">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Lovac Roxane</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -532,13 +532,13 @@
                 </div>
             </a>
         </div>
-        <!-- carte 22 ROXANE LOVAC-->
+        <!-- carte 22-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
+                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
-                    <div class="new-card-author">Lovac Roxane </div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>

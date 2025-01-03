@@ -535,7 +535,7 @@
         <!-- carte 22 ROXANE LOVAC-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
                     <div class="new-card-author">Lovac Roxane </div>
                     <div class="new-card-price">14,00 €</div>
