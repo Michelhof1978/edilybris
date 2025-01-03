@@ -325,19 +325,6 @@
         </div>
     </div>
 
-    <!-- Groupe 25 BESSEDE ARLETTE-->
-    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre</div>
-                    <div class="mobile-book-price">10,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -632,14 +619,14 @@
 
      
      <!-- Groupe 6 -->
-     <div id="desktop-group6" class="new-card-container new-hidden">
-        <!-- carte 26 ARLETTE BESSEDE-->
+     <div id="desktop-group5" class="new-card-container new-hidden">
+        <!-- carte 26-->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
+                <img src="images" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
                 <div class="new-card-content">
-                    <div class="new-card-author">Bessède Arlette </div>
-                    <div class="new-card-price">10,00 €</div>
+                    <div class="new-card-author">Lo Pinto Guy </div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
@@ -654,7 +641,7 @@
             </a>
         </div>
 
-        <!-- carte 28 -->
+        <!-- carte 23 -->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
@@ -665,7 +652,7 @@
             </a>
         </div>
         
-         <!-- carte 29-->
+         <!-- carte 2-->
          <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
@@ -676,7 +663,7 @@
             </a>
         </div>
 
-         <!-- carte 30-->
+         <!-- carte 2-->
          <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images" class="img-fluid" alt="Couverture de livre L'assassinn du 1 er mai">

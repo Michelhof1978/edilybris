@@ -325,7 +325,7 @@
         </div>
     </div>
 
-    <!-- Groupe 25 BESSEDE ARLETTE-->
+    <!-- Groupe 25 PIERRE BRANDAO-->
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">

@@ -325,19 +325,6 @@
         </div>
     </div>
 
-    <!-- Groupe 25 BESSEDE ARLETTE-->
-    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre</div>
-                    <div class="mobile-book-price">10,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -632,21 +619,21 @@
 
      
      <!-- Groupe 6 -->
-     <div id="desktop-group6" class="new-card-container new-hidden">
-        <!-- carte 26 ARLETTE BESSEDE-->
+     <div id="desktop-group5" class="new-card-container new-hidden">
+        <!-- carte 21 PIERRE BRANDAO-->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
+                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
                 <div class="new-card-content">
-                    <div class="new-card-author">Bessède Arlette </div>
-                    <div class="new-card-price">10,00 €</div>
+                    <div class="new-card-author">Lo Pinto Guy </div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 27 -->
+        <!-- carte 22 ROXANE LOVAC-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
                 <div class="new-card-content">
                     <div class="new-card-author">Lovac Roxane </div>
                     <div class="new-card-price">14,00 €</div>
@@ -654,10 +641,10 @@
             </a>
         </div>
 
-        <!-- carte 28 -->
+        <!-- carte 23 ROXANE LOVAC-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
                 <div class="new-card-content">
                     <div class="new-card-author">Lovac Roxane </div>
                     <div class="new-card-price">14,00 €</div>
@@ -665,10 +652,10 @@
             </a>
         </div>
         
-         <!-- carte 29-->
+         <!-- carte 24 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
+                <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
                 <div class="new-card-content">
                     <div class="new-card-author">Pierre Brandao </div>
                     <div class="new-card-price">20,00 €</div>
@@ -676,7 +663,7 @@
             </a>
         </div>
 
-         <!-- carte 30-->
+         <!-- carte 25 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images" class="img-fluid" alt="Couverture de livre L'assassinn du 1 er mai">

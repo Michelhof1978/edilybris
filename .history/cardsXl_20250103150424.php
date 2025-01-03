@@ -323,20 +323,9 @@
                 </div>
             </a>
         </div>
-    </div>
+    </div>Mes mots sont des paysages
 
-    <!-- Groupe 25 BESSEDE ARLETTE-->
-    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre</div>
-                    <div class="mobile-book-price">10,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
+    
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
