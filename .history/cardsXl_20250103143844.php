@@ -608,7 +608,7 @@
          <!-- carte 25 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassinn du 1 er mai">
+                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassinn du 1 er ">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">20,00 €</div>

@@ -134,7 +134,7 @@
   <div id="new-group11" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_J.html">
-        <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture de livre Elles ... comme liberté">
+        <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture de livre Elle">
         <div class="new-card-content">
           <div class="new-card-author">Bessède Arlette</div>
           <div class="new-card-price">22,00 €</div>

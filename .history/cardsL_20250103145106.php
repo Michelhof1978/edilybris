@@ -130,20 +130,6 @@
     </div>
   </div>
 
-  <!-- Groupe 11 ARLETTE BESSEDE -->
-  <div id="new-group11" class="new-card-container new-hidden">
-    <div class="new-card">
-      <a href="link_to_book_J.html">
-        <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture de livre Elles ... comme liberté">
-        <div class="new-card-content">
-          <div class="new-card-author">Bessède Arlette</div>
-          <div class="new-card-price">22,00 €</div>
-        </div>
-      </a>
-    </div>
-  </div>
-
-
   <!-- Boutons de navigation -->
   <div class="new-navigation">
     <button id="new-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
@@ -223,18 +209,7 @@
             </div>
         </a>
     </div>
-
-    <div class="L-card">
-       <!-- Carte 6 ARLETTE BESSEDE-->
-        <a href="link_to_book_H.html">
-            <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="couverture de livre Elle ... comme liberté">
-            <div class="L-card-content">
-                <div class="L-card-author">Bessède Arlette</div>
-                <div class="L-card-price">22,00 €</div>
-            </div>
-        </a>
-    </div>
-
+    
     </div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">

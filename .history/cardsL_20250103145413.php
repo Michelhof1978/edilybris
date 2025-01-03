@@ -131,13 +131,13 @@
   </div>
 
   <!-- Groupe 11 ARLETTE BESSEDE -->
-  <div id="new-group11" class="new-card-container new-hidden">
+  <div id="new-group10" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_J.html">
-        <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture de livre Elles ... comme liberté">
+        <img src="images/AuthorJ/bookJ-cover.webp" class="img-fluid" alt="Couverture de livre J">
         <div class="new-card-content">
-          <div class="new-card-author">Bessède Arlette</div>
-          <div class="new-card-price">22,00 €</div>
+          <div class="new-card-author">Author J</div>
+          <div class="new-card-price">24,00 €</div>
         </div>
       </a>
     </div>
