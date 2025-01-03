@@ -204,7 +204,7 @@
         <a href="link_to_book_H.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
             <div class="L-card-content">
-                <div class="L-card-author">Brandao Pierre</div>
+                <div class="L-card-author">Brandao</div>
                 <div class="L-card-price">22,00 €</div>
             </div>
         </a>

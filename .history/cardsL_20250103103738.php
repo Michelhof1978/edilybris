@@ -200,12 +200,12 @@
         </a>
     </div>
     <div class="L-card">
-       <!-- Carte 6 PIERRE BRANDAO-->
+       <!-- Carte 6-->
         <a href="link_to_book_H.html">
-            <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="couverture de livre">
             <div class="L-card-content">
-                <div class="L-card-author">Brandao Pierre</div>
-                <div class="L-card-price">22,00 €</div>
+                <div class="L-card-author">Henri Dupont</div>
+                <div class="L-card-price">14,99 €</div>
             </div>
         </a>
     </div>
