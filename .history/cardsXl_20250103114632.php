@@ -286,11 +286,11 @@
         </div>
     </div>
 
-    <!-- Groupe 23 ROXANE LOVAC-->
-    <div id="mobile-group23" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 22 ROXANE LOVAC-->
+    <div id="mobile-group22" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Lovac Roxane</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -298,7 +298,6 @@
             </a>
         </div>
     </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>

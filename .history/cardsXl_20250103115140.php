@@ -286,7 +286,7 @@
         </div>
     </div>
 
-    <!-- Groupe 23 ROXANE LOVAC-->
+    <!-- Groupe 22 ROXANE LOVAC-->
     <div id="mobile-group23" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
