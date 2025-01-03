@@ -56,7 +56,7 @@
   <div id="new-group5" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_D.html">
-        <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre Lucioles Magiques">
+        <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livr">
         <div class="new-card-content">
           <div class="new-card-author">Brandao Pierre</div>
           <div class="new-card-price">10,00 €</div>

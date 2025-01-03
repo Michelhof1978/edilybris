@@ -260,11 +260,11 @@
         </div>
     </div>
 
-    <!-- Groupe 21 GUY LO PINTO -->
+    <!-- Groupe 21 VERONIQUE ASH -->
     <div id="mobile-group21" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
+                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delas de l">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Lo Pinto Guy</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -273,18 +273,6 @@
         </div>
     </div>
 
-    <!-- Groupe 22 -->
-    <div id="mobile-group22" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Lo Pinto Guy</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>

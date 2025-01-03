@@ -52,14 +52,14 @@
     </div>
   </div>
 
-  <!-- Groupe 5 PIERRE BRANDAO-->
+  <!-- Groupe 5 -->
   <div id="new-group5" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_D.html">
-        <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre Lucioles Magiques">
+        <img src="images/AuthorD/bookD-cover.webp" class="img-fluid" alt="Couverture de livre D">
         <div class="new-card-content">
-          <div class="new-card-author">Brandao Pierre</div>
-          <div class="new-card-price">10,00 €</div>
+          <div class="new-card-author">Author D</div>
+          <div class="new-card-price">18,00 €</div>
         </div>
       </a>
     </div>
@@ -192,7 +192,7 @@
      <!-- Carte 5 PIERRE BRANDAO-->
     <div class="L-card">
         <a href="link_to_book_G.html">
-            <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Lucioles Magiques">
+            <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Luciole Magique">
             <div class="L-card-content">
                 <div class="L-card-author">Brandao Pierre</div>
                 <div class="L-card-price">10,00 €</div>

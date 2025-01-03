@@ -253,38 +253,13 @@
             <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Ash Véronique </div>
+                    <div class="mobile-book-author"> Véronique Ash</div>
                     <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 21 GUY LO PINTO -->
-    <div id="mobile-group21" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Lo Pinto Guy</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 22 -->
-    <div id="mobile-group22" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Lo Pinto Guy</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -525,7 +500,7 @@
         <!-- carte 21 Pierre Brandao-->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
+                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.png" class="img-fluid" alt="Couverture de livre Au delà">
                 <div class="new-card-content">
                     <div class="new-card-author">Lo Pinto Guy </div>
                     <div class="new-card-price">14,00 €</div>

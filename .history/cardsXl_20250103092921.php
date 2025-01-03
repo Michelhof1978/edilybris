@@ -253,38 +253,13 @@
             <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Ash Véronique </div>
+                    <div class="mobile-book-author"> Véronique Ash</div>
                     <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 21 GUY LO PINTO -->
-    <div id="mobile-group21" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Lo Pinto Guy</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 22 -->
-    <div id="mobile-group22" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Lo Pinto Guy</div>
-                    <div class="mobile-book-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -521,61 +496,7 @@
     </div>
 
         <!-- Groupe 5 -->
-        <div id="desktop-group5" class="new-card-container new-hidden">
-        <!-- carte 21 Pierre Brandao-->
-        <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
-                <div class="new-card-content">
-                    <div class="new-card-author">Lo Pinto Guy </div>
-                    <div class="new-card-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-        <!-- carte 22-->
-        <div class="new-card">
-            <a href="link_to_book_G.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
-                <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">15,00 €</div>
-                </div>
-            </a>
-        </div>
-
-        <!-- carte 23-->
-        <div class="new-card">
-            <a href="link_to_book_H.html">
-                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
-                <div class="new-card-content">
-                    <div class="new-card-author">Ash Véronique </div>
-                    <div class="new-card-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-        
-        <!-- carte 24-->
-        <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
-                <div class="new-card-content">
-                    <div class="new-card-author">Ash Véronique </div>
-                    <div class="new-card-price">14,00 €</div>
-                </div>
-            </a>
-        </div>
-
-         <!-- carte 25-->
-         <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
-                <div class="new-card-content">
-                    <div class="new-card-author">Le Guennec Luc</div>
-                    <div class="new-card-price">14,00 €</div>
-                </div>
-            </a>
-        </div> 
-    </div>
+         
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">
