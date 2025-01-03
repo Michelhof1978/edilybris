@@ -381,7 +381,10 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
+     
+   
+     <!-- Groupe 4 -->
+     <div id="desktop-group4" class="new-card-container new-hidden">
         <!-- carte 11 PATRICIA SCHARFF -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -436,10 +439,9 @@
             </a>
         </div> 
     </div>
-   
 
-    <!-- Groupe 4 -->
-    <div id="desktop-group4" class="new-card-container new-hidden">
+    <!-- Groupe 5 -->
+    <div id="desktop-group5" class="new-card-container new-hidden">
         <!-- carte 16 Pierre Brandao-->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -494,8 +496,6 @@
             </a>
         </div> 
     </div>
-
-        <!-- Groupe 5 -->
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">

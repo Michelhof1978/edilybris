@@ -381,65 +381,13 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
-        <!-- carte 11 PATRICIA SCHARFF -->
-        <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre La pleine des jeux">
-                <div class="new-card-content">
-                    <div class="new-card-author">Scharff Patricia </div>
-                    <div class="new-card-price">10,00 €</div>
-                </div>
-            </a>
-        </div>
-        <!-- carte 12 PATRICIA SCHARFF -->
-        <div class="new-card">
-            <a href="link_to_book_G.html">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
-                <div class="new-card-content">
-                    <div class="new-card-author">Scharff Patricia </div>
-                    <div class="new-card-price">15,00 €</div>
-                </div>
-            </a>
-        </div>
-
-        <!-- carte 13 PATRICE BACHEREAU-->
-        <div class="new-card">
-            <a href="link_to_book_H.html">
-                <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
-                <div class="new-card-content">
-                    <div class="new-card-author">Bachereau Patrice </div>
-                    <div class="new-card-price">22,00 €</div>
-                </div>
-            </a>
-        </div>
-        
-        <!-- carte 14 Pierre Brandao-->
-        <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile !">
-                <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">22,00 €</div>
-                </div>
-            </a>
-        </div>
-
-         <!-- carte 15 Pierre Brandao-->
-         <div class="new-card">
-            <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
-                <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">22,00 €</div>
-                </div>
-            </a>
-        </div> 
-    </div>
+     
    
+     <!-- Groupe 4 -->
+    
 
-    <!-- Groupe 4 -->
-    <div id="desktop-group4" class="new-card-container new-hidden">
+    <!-- Groupe 5 -->
+    <div id="desktop-group5" class="new-card-container new-hidden">
         <!-- carte 16 Pierre Brandao-->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -494,8 +442,6 @@
             </a>
         </div> 
     </div>
-
-        <!-- Groupe 5 -->
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">
