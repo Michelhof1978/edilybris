@@ -338,11 +338,11 @@
         </div>
     </div>
 
-    <!-- Groupe 27 ARLETTE BESSEDE -->
+    <!-- Groupe 25 ARLETTE BESSEDE -->
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <img src="images/arletteBessede/couv-verso-slvidnr-ab_11zon.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Arlette Bessède </div>
                     <div class="mobile-book-price">12,00 €</div>

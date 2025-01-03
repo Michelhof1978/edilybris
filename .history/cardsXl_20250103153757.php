@@ -325,7 +325,7 @@
         </div>
     </div>
 
-    <!-- Groupe 26 ARLETTE BESSEDE -->
+    <!-- Groupe 25 ARLETTE BESSEDE -->
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
@@ -338,11 +338,11 @@
         </div>
     </div>
 
-    <!-- Groupe 27 ARLETTE BESSEDE -->
+    <!-- Groupe 25 ARLETTE BESSEDE -->
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <img src="images/arletteBessede/couv-verso-slvidnr-ab_11zon.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Arlette Bessède </div>
                     <div class="mobile-book-price">12,00 €</div>
@@ -649,7 +649,7 @@
         <!-- carte 26 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
+                <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">Bessède Arlette </div>
                     <div class="new-card-price">10,00 €</div>
@@ -659,10 +659,10 @@
         <!-- carte 27 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <img src="images" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
                 <div class="new-card-content">
-                    <div class="new-card-author">Bessède Arlette </div>
-                    <div class="new-card-price">12,00 €</div>
+                    <div class="new-card-author">B </div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
