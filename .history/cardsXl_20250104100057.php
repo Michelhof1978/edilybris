@@ -390,19 +390,6 @@
         </div>
     </div>
 
-    <!-- Groupe 31 JOCELYN MAILY -->
-    <div id="mobile-group31" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Maily Jocelyn </div>
-                    <div class="mobile-book-price">17 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -751,64 +738,7 @@
                 </div>
             </a>
         </div>
-      </div>
-
-      <!-- Groupe 7 -->
-     <div id="desktop-group7" class="new-card-container new-hidden">
-        <!-- carte 31 JOCELYN MAILY -->
-        <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
-                <div class="new-card-content">
-                    <div class="new-card-author">Maily Jocelyn</div>
-                    <div class="new-card-price">17,00 €</div>
-                </div>
-            </a>
-        </div>
-        <!-- carte 32 -->
-        <div class="new-card">
-            <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
-                <div class="new-card-content">
-                    <div class="new-card-author">Maily Jocelyn </div>
-                    <div class="new-card-price">17,00 €</div>
-                </div>
-            </a>
-        </div>
-
-        <!-- carte 2-->
-        <div class="new-card">
-            <a href="link_to_book_H.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
-                <div class="new-card-content">
-                    <div class="new-card-author">Beaulieu David </div>
-                    <div class="new-card-price">18,00 €</div>
-                </div>
-            </a>
-        </div>
-        
-         <!-- carte -->
-         <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
-                <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">15,00 €</div>
-                </div>
-            </a>
-        </div>
-
-         <!-- carte 3-->
-         <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
-                <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">??? €</div>
-                </div>
-            </a>
-        </div>
-      </div>
+</div>
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">

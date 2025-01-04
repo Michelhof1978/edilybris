@@ -394,9 +394,9 @@
     <div id="mobile-group31" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
+                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Maily Jocelyn </div>
+                    <div class="mobile-book-author"> Maily Jocel </div>
                     <div class="mobile-book-price">17 €</div>
                 </div>
             </a>
@@ -765,10 +765,10 @@
                 </div>
             </a>
         </div>
-        <!-- carte 32 -->
+        <!-- carte 32 JOCELYN MAILY -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images" class="img-fluid" alt="Couverture de livre Loozana bluee">
                 <div class="new-card-content">
                     <div class="new-card-author">Maily Jocelyn </div>
                     <div class="new-card-price">17,00 €</div>

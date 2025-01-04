@@ -237,7 +237,19 @@
     </div>
     </div>
 
-    
+    <div class="L-card-container L-hidden" id="L-group4">
+    <div class="L-card">
+       <!-- Carte 6 ARLETTE BESSEDE-->
+        <a href="link_to_book_H.html">
+            <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="couverture de livre Elle ... comme liberté">
+            <div class="L-card-content">
+                <div class="L-card-author">Bessède Arlette</div>
+                <div class="L-card-price">22,00 €</div>
+            </div>
+        </a>
+    </div>
+
+    </div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton2" class="L-button text-white" disabled>Précédent</button>

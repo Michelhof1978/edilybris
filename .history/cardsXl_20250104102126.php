@@ -768,7 +768,7 @@
         <!-- carte 32 -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images" class="img-fluid" alt="Couverture de livre Des os et des ailes">
                 <div class="new-card-content">
                     <div class="new-card-author">Maily Jocelyn </div>
                     <div class="new-card-price">17,00 €</div>

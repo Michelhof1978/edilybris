@@ -166,83 +166,91 @@
 
 
 <!-- MODE DESKTOP-->
+<!-- MODE DESKTOP -->
 <div class="d-none d-md-block">
-<!-- Groupe 1-->
- <!-- Carte 1 De Jesus-Bergey Josyane-->
-<div class="L-card-container mb-5" id="L-group3">
+  <!-- Groupe 1 -->
+  <div class="L-card-container mb-5" id="L-group1">
+    <!-- Carte 1 -->
     <div class="L-card">
-        <a href="link_to_book_A.html">
-            <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="couverture de livre le vent nous conduira">
-            <div class="L-card-content">
-                <div class="L-card-author">De Jesus-Bergey Josyane</div>
-                <div class="L-card-price">22,00 €</div>
-            </div>
-        </a>
+      <a href="link_to_book_A.html">
+        <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="couverture de livre Le vent nous conduira">
+        <div class="L-card-content">
+          <div class="L-card-author">De Jesus-Bergey Josyane</div>
+          <div class="L-card-price">22,00 €</div>
+        </div>
+      </a>
     </div>
-    <!-- Carte 2 WEBER DENECHAUD JANNICK-->
+    <!-- Carte 2 -->
     <div class="L-card">
-        <a href="link_to_book_B.html">
-            <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="couverture de livre Entre vie et poésie">
-            <div class="L-card-content">
-                <div class="L-card-author">Emmanuel Trouvé</div>
-                <div class="L-card-price">17,00 €</div>
-            </div>
-        </a>
+      <a href="link_to_book_B.html">
+        <img src="images/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="couverture de livre Entre vie et poésie">
+        <div class="L-card-content">
+          <div class="L-card-author">Emmanuel Trouvé</div>
+          <div class="L-card-price">17,00 €</div>
+        </div>
+      </a>
     </div>
-   
-     <!-- Carte 3 WEBER DENECHAUD JANNICK-->
+    <!-- Carte 3 -->
     <div class="L-card">
-        <a href="link_to_book_D.html">
-            <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="couverture de livre Le carnassier saintongeais">
-            <div class="L-card-content">
-                <div class="L-card-author">Jannick Weber Denechaud</div>
-                <div class="L-card-price">15,00 €</div>
-            </div>
-        </a>
+      <a href="link_to_book_D.html">
+        <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="couverture de livre Le carnassier saintongeais">
+        <div class="L-card-content">
+          <div class="L-card-author">Jannick Weber Denechaud</div>
+          <div class="L-card-price">15,00 €</div>
+        </div>
+      </a>
     </div>
-    
-</div>
+  </div>
 
-<!-- Groupe 2 -->
-<div class="L-card-container L-hidden" id="L-group4">
-   <!-- Carte 4 CHRISTINE KUNZ -->
+  <!-- Groupe 2 -->
+  <div class="L-card-container L-hidden" id="L-group2">
+    <!-- Carte 4 -->
     <div class="L-card">
-        <a href="link_to_book_F.html">
-            <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
-            <div class="L-card-content">
-                <div class="L-card-author">Christine Kunz</div>
-                <div class="L-card-price">20,00 €</div>
-            </div>
-        </a>
+      <a href="link_to_book_F.html">
+        <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
+        <div class="L-card-content">
+          <div class="L-card-author">Christine Kunz</div>
+          <div class="L-card-price">20,00 €</div>
+        </div>
+      </a>
     </div>
-     <!-- Carte 5 PIERRE BRANDAO-->
+    <!-- Carte 5 -->
     <div class="L-card">
-        <a href="link_to_book_G.html">
-            <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Lucioles Magiques">
-            <div class="L-card-content">
-                <div class="L-card-author">Brandao Pierre</div>
-                <div class="L-card-price">10,00 €</div>
-            </div>
-        </a>
+      <a href="link_to_book_G.html">
+        <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Lucioles Magiques">
+        <div class="L-card-content">
+          <div class="L-card-author">Brandao Pierre</div>
+          <div class="L-card-price">10,00 €</div>
+        </div>
+      </a>
     </div>
+    <!-- Carte 6 -->
     <div class="L-card">
-       <!-- Carte 6 PIERRE BRANDAO-->
-        <a href="link_to_book_H.html">
-            <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
-            <div class="L-card-content">
-                <div class="L-card-author">Brandao Pierre</div>
-                <div class="L-card-price">22,00 €</div>
-            </div>
-        </a>
+      <a href="link_to_book_H.html">
+        <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
+        <div class="L-card-content">
+          <div class="L-card-author">Brandao Pierre</div>
+          <div class="L-card-price">22,00 €</div>
+        </div>
+      </a>
     </div>
-    </div>
+  </div>
 
-    
-<!-- Boutons de navigation -->
-<div class="L-navigation">
+  <!-- Groupe 3 -->
+  <div class="L-card-container L-hidden" id="L-group3">
+    <!-- Ajouter les cartes ici -->
+  </div>
+
+  <!-- Groupe 4 -->
+  <div class="L-card-container L-hidden" id="L-group4">
+    <!-- Ajouter les cartes ici -->
+  </div>
+
+  <!-- Boutons de navigation -->
+  <div class="L-navigation">
     <button id="L-backButton2" class="L-button text-white" disabled>Précédent</button>
     <button id="L-nextGroupButton2" class="L-button text-white">Suivant</button>
-</div>
+  </div>
 </div>
 
 <!--FIN  CARDS L -->

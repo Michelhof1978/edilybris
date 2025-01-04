@@ -765,10 +765,10 @@
                 </div>
             </a>
         </div>
-        <!-- carte 32 -->
+        <!-- carte 32 JOCELYN MAILY -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images" class="img-fluid" alt="Couverture de livre Loozana bluee">
                 <div class="new-card-content">
                     <div class="new-card-author">Maily Jocelyn </div>
                     <div class="new-card-price">17,00 €</div>

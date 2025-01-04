@@ -203,9 +203,9 @@
     
 </div>
 
-<!-- Groupe 2 -->
+<!-- Groupe 2 - CHRISTINE KUNZ -->
 <div class="L-card-container L-hidden" id="L-group4">
-   <!-- Carte 4 CHRISTINE KUNZ -->
+   <!-- Carte 4-->
     <div class="L-card">
         <a href="link_to_book_F.html">
             <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
@@ -235,9 +235,19 @@
             </div>
         </a>
     </div>
+
+    <div class="L-card">
+       <!-- Carte 6 ARLETTE BESSEDE-->
+        <a href="link_to_book_H.html">
+            <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="couverture de livre Elle ... comme liberté">
+            <div class="L-card-content">
+                <div class="L-card-author">Bessède Arlette</div>
+                <div class="L-card-price">22,00 €</div>
+            </div>
+        </a>
     </div>
 
-    
+    </div>
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton2" class="L-button text-white" disabled>Précédent</button>

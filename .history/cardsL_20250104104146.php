@@ -169,7 +169,7 @@
 <div class="d-none d-md-block">
 <!-- Groupe 1-->
  <!-- Carte 1 De Jesus-Bergey Josyane-->
-<div class="L-card-container mb-5" id="L-group3">
+<div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
         <a href="link_to_book_A.html">
             <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="couverture de livre le vent nous conduira">
@@ -237,7 +237,40 @@
     </div>
     </div>
 
-    
+    <!-- Groupe 3 -->
+<div class="L-card-container L-hidden" id="L-group5">
+   <!-- Carte 4 CHRISTINE KUNZ -->
+    <div class="L-card">
+        <a href="link_to_book_F.html">
+            <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
+            <div class="L-card-content">
+                <div class="L-card-author">Christine Kunz</div>
+                <div class="L-card-price">20,00 €</div>
+            </div>
+        </a>
+    </div>
+     <!-- Carte 5 PIERRE BRANDAO-->
+    <div class="L-card">
+        <a href="link_to_book_G.html">
+            <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Lucioles Magiques">
+            <div class="L-card-content">
+                <div class="L-card-author">Brandao Pierre</div>
+                <div class="L-card-price">10,00 €</div>
+            </div>
+        </a>
+    </div>
+    <div class="L-card">
+       <!-- Carte 6 PIERRE BRANDAO-->
+        <a href="link_to_book_H.html">
+            <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
+            <div class="L-card-content">
+                <div class="L-card-author">Brandao Pierre</div>
+                <div class="L-card-price">22,00 €</div>
+            </div>
+        </a>
+    </div>
+    </div>
+
 <!-- Boutons de navigation -->
 <div class="L-navigation">
     <button id="L-backButton2" class="L-button text-white" disabled>Précédent</button>

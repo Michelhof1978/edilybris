@@ -390,19 +390,6 @@
         </div>
     </div>
 
-    <!-- Groupe 31 JOCELYN MAILY -->
-    <div id="mobile-group31" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Maily Jocelyn </div>
-                    <div class="mobile-book-price">17 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -755,31 +742,31 @@
 
       <!-- Groupe 7 -->
      <div id="desktop-group7" class="new-card-container new-hidden">
-        <!-- carte 31 JOCELYN MAILY -->
+        <!-- carte 26 -->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
+                <img src="images" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Maily Jocelyn</div>
-                    <div class="new-card-price">17,00 €</div>
+                    <div class="new-card-author">Bessède Arlette </div>
+                    <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 32 -->
+        <!-- carte 2-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre ">
+                <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
                 <div class="new-card-content">
-                    <div class="new-card-author">Maily Jocelyn </div>
-                    <div class="new-card-price">17,00 €</div>
+                    <div class="new-card-author">Bessède Arlette </div>
+                    <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>
 
-        <!-- carte 2-->
+        <!-- carte 28 DAVID BEAULIEU-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
+                <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
                 <div class="new-card-content">
                     <div class="new-card-author">Beaulieu David </div>
                     <div class="new-card-price">18,00 €</div>
@@ -787,10 +774,10 @@
             </a>
         </div>
         
-         <!-- carte -->
+         <!-- carte 29 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
+                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
                     <div class="new-card-price">15,00 €</div>
@@ -798,10 +785,10 @@
             </a>
         </div>
 
-         <!-- carte 3-->
+         <!-- carte 30 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
+                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
                     <div class="new-card-price">??? €</div>
