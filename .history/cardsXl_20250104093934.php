@@ -313,7 +313,7 @@
     </div>
 
      <!-- Groupe 25 PIERRE BRANDAO-->
-     <div id="mobile-group25" class="mobile-books-container mobile-hidden">
+     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1 er mai">
@@ -326,7 +326,7 @@
     </div>
 
     <!-- Groupe 26 ARLETTE BESSEDE -->
-    <div id="mobile-group26" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
@@ -339,7 +339,7 @@
     </div>
 
     <!-- Groupe 27 ARLETTE BESSEDE -->
-    <div id="mobile-group27" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
@@ -351,27 +351,14 @@
         </div>
     </div>
 
-    <!-- Groupe 28 DAVID BEAULIEU -->
-    <div id="mobile-group28" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 27 DAVID BEAULIEU -->
+    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Beaulieu David </div>
                     <div class="mobile-book-price">18,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 29 PIERRE BRANDAO -->
-    <div id="mobile-group29" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre </div>
-                    <div class="mobile-book-price">15,00 €</div>
                 </div>
             </a>
         </div>
@@ -704,13 +691,13 @@
             </a>
         </div>
         
-         <!-- carte 29 PIERRE BRANDAO-->
+         <!-- carte 29 PIERRE BRANDA-->
          <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
+                <img src="images" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">15,00 €</div>
+                    <div class="new-card-author">Pierre Brandao </div>
+                    <div class="new-card-price">20,00 €</div>
                 </div>
             </a>
         </div>

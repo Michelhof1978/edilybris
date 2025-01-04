@@ -707,7 +707,7 @@
          <!-- carte 29 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
+                <img src="images/pierreBrandao/savGendarmerieBonjour1.png" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
                     <div class="new-card-price">15,00 €</div>

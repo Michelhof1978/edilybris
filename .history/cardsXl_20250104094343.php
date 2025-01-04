@@ -368,7 +368,7 @@
     <div id="mobile-group29" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour">
+                <img src="images/pierreBrandao/savGendarmerieBonjour1.png" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Brandao Pierre </div>
                     <div class="mobile-book-price">15,00 €</div>
@@ -707,7 +707,7 @@
          <!-- carte 29 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
+                <img src="images/pierreBrandao/savGendarmerieBonjour1.png" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
                     <div class="new-card-price">15,00 €</div>
