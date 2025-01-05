@@ -973,16 +973,22 @@ var VanillaTilt = (function () {
    <!--  NOUVEAUTE CARDS L-->
    <script>
 document.addEventListener("DOMContentLoaded", function () {
-    // Vérifie si l'appareil est en mode mobile
+    // Vérifie si l'appareil est en mode mobile (d-block d-md-none)
     const isMobile = window.matchMedia("(max-width: 768px)").matches;
 
     if (isMobile) {
         const nextButton = document.getElementById("new-nextGroupButton");
         const backButton = document.getElementById("new-backButton");
-        const groups = Array.from(document.querySelectorAll(".new-card-container"));
+        const groups = document.querySelectorAll(".new-card-container");
         let currentGroupIndex = 0;
 
-        // Fonction pour afficher le groupe actuel et masquer les autres
+        // Initialise les boutons
+        function updateNavigationButtons() {
+            backButton.disabled = currentGroupIndex === 0;
+            nextButton.disabled = currentGroupIndex === groups.length - 1;
+        }
+
+        // Affiche uniquement le groupe courant
         function updateGroupVisibility() {
             groups.forEach((group, index) => {
                 if (index === currentGroupIndex) {
@@ -991,30 +997,28 @@ document.addEventListener("DOMContentLoaded", function () {
                     group.classList.add("new-hidden");
                 }
             });
-
-            // Mettre à jour les boutons
-            backButton.disabled = currentGroupIndex === 0;
-            nextButton.disabled = currentGroupIndex === groups.length - 1;
         }
 
-        // Gestionnaire de clic pour le bouton "Suivant"
+        // Écouteurs pour les boutons
         nextButton.addEventListener("click", function () {
             if (currentGroupIndex < groups.length - 1) {
                 currentGroupIndex++;
                 updateGroupVisibility();
+                updateNavigationButtons();
             }
         });
 
-        // Gestionnaire de clic pour le bouton "Précédent"
         backButton.addEventListener("click", function () {
             if (currentGroupIndex > 0) {
                 currentGroupIndex--;
                 updateGroupVisibility();
+                updateNavigationButtons();
             }
         });
 
         // Initialisation
         updateGroupVisibility();
+        updateNavigationButtons();
     }
 });
 </script>

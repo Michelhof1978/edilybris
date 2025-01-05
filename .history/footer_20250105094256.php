@@ -971,58 +971,32 @@ var VanillaTilt = (function () {
 
 
    <!--  NOUVEAUTE CARDS L-->
-   <script>
-document.addEventListener("DOMContentLoaded", function () {
-    // Vérifie si l'appareil est en mode mobile
-    const isMobile = window.matchMedia("(max-width: 768px)").matches;
+ <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const nextGroupButton = document.getElementById('L-nextGroupButton');
+    const backButton = document.getElementById('L-backButton');
+    const group1 = document.getElementById('L-group1');
+    const group2 = document.getElementById('L-group2');
 
-    if (isMobile) {
-        const nextButton = document.getElementById("new-nextGroupButton");
-        const backButton = document.getElementById("new-backButton");
-        const groups = Array.from(document.querySelectorAll(".new-card-container"));
-        let currentGroupIndex = 0;
+    nextGroupButton.addEventListener('click', function() {
+        group1.classList.add('L-hidden');
+        group2.classList.remove('L-hidden');
+        backButton.disabled = false;
+        nextGroupButton.disabled = true;
+    });
 
-        // Fonction pour afficher le groupe actuel et masquer les autres
-        function updateGroupVisibility() {
-            groups.forEach((group, index) => {
-                if (index === currentGroupIndex) {
-                    group.classList.remove("new-hidden");
-                } else {
-                    group.classList.add("new-hidden");
-                }
-            });
-
-            // Mettre à jour les boutons
-            backButton.disabled = currentGroupIndex === 0;
-            nextButton.disabled = currentGroupIndex === groups.length - 1;
-        }
-
-        // Gestionnaire de clic pour le bouton "Suivant"
-        nextButton.addEventListener("click", function () {
-            if (currentGroupIndex < groups.length - 1) {
-                currentGroupIndex++;
-                updateGroupVisibility();
-            }
-        });
-
-        // Gestionnaire de clic pour le bouton "Précédent"
-        backButton.addEventListener("click", function () {
-            if (currentGroupIndex > 0) {
-                currentGroupIndex--;
-                updateGroupVisibility();
-            }
-        });
-
-        // Initialisation
-        updateGroupVisibility();
-    }
+    backButton.addEventListener('click', function() {
+        group1.classList.remove('L-hidden');
+        group2.classList.add('L-hidden');
+        backButton.disabled = true;
+        nextGroupButton.disabled = false;
+    });
 });
 </script>
-
 <!-- FIN CARDS NOUVEAUTE L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
- <script>
+ <script></script>
 // Desktop Navigation
 const desktopGroups = document.querySelectorAll('.L-card-container');
 let currentDesktopIndex = 0;
@@ -1052,7 +1026,7 @@ function updateDesktopButtons() {
   desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
 }
 
-</script>
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->
