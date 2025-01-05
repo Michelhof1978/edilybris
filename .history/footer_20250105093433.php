@@ -996,7 +996,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- FIN CARDS NOUVEAUTE L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
- <script>
+ <script></script>
 // Desktop Navigation
 const desktopGroups = document.querySelectorAll('.L-card-container');
 let currentDesktopIndex = 0;
@@ -1026,7 +1026,7 @@ function updateDesktopButtons() {
   desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
 }
 
-</script>
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

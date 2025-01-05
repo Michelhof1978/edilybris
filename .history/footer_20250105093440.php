@@ -1026,7 +1026,7 @@ function updateDesktopButtons() {
   desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
 }
 
-</script>
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

@@ -252,7 +252,7 @@
      <!-- Carte 8 -->
     <div class="L-card">
         <a href="link_to_book_G.html">
-            <img src="images" class="img-fluid" alt="couverture de livre Lucioles Magiques">
+            <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Lucioles Magiques">
             <div class="L-card-content">
                 <div class="L-card-author">Brandao Pierre</div>
                 <div class="L-card-price">10,00 €</div>

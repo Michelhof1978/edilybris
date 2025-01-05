@@ -996,37 +996,66 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- FIN CARDS NOUVEAUTE L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
- <script>
-// Desktop Navigation
-const desktopGroups = document.querySelectorAll('.L-card-container');
-let currentDesktopIndex = 0;
-const desktopBackButton = document.getElementById('L-backButton2');
-const desktopNextButton = document.getElementById('L-nextGroupButton2');
+<script>
+  // Mobile Navigation
+  const mobileGroups = document.querySelectorAll('.new-card-container');
+  let currentMobileIndex = 0;
+  const mobileBackButton = document.getElementById('new-backButton');
+  const mobileNextButton = document.getElementById('new-nextGroupButton');
 
-desktopNextButton.addEventListener('click', () => {
-  if (currentDesktopIndex < desktopGroups.length - 1) {
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    currentDesktopIndex++;
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    updateDesktopButtons();
+  mobileNextButton.addEventListener('click', () => {
+    if (currentMobileIndex < mobileGroups.length - 1) {
+      mobileGroups[currentMobileIndex].classList.add('new-hidden');
+      currentMobileIndex++;
+      mobileGroups[currentMobileIndex].classList.remove('new-hidden');
+      updateMobileButtons();
+    }
+  });
+
+  mobileBackButton.addEventListener('click', () => {
+    if (currentMobileIndex > 0) {
+      mobileGroups[currentMobileIndex].classList.add('new-hidden');
+      currentMobileIndex--;
+      mobileGroups[currentMobileIndex].classList.remove('new-hidden');
+      updateMobileButtons();
+    }
+  });
+
+  function updateMobileButtons() {
+    mobileBackButton.disabled = currentMobileIndex === 0;
+    mobileNextButton.disabled = currentMobileIndex === mobileGroups.length - 1;
   }
-});
 
-desktopBackButton.addEventListener('click', () => {
-  if (currentDesktopIndex > 0) {
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    currentDesktopIndex--;
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    updateDesktopButtons();
+  // Desktop Navigation
+  const desktopGroups = document.querySelectorAll('.L-card-container');
+  let currentDesktopIndex = 0;
+  const desktopBackButton = document.getElementById('L-backButton');
+  const desktopNextButton = document.getElementById('L-nextGroupButton');
+
+  desktopNextButton.addEventListener('click', () => {
+    if (currentDesktopIndex < desktopGroups.length - 1) {
+      desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+      currentDesktopIndex++;
+      desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+      updateDesktopButtons();
+    }
+  });
+
+  desktopBackButton.addEventListener('click', () => {
+    if (currentDesktopIndex > 0) {
+      desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+      currentDesktopIndex--;
+      desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+      updateDesktopButtons();
+    }
+  });
+
+  function updateDesktopButtons() {
+    desktopBackButton.disabled = currentDesktopIndex === 0;
+    desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
   }
-});
-
-function updateDesktopButtons() {
-  desktopBackButton.disabled = currentDesktopIndex === 0;
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
-}
-
 </script>
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->

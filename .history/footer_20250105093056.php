@@ -996,37 +996,99 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- FIN CARDS NOUVEAUTE L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
- <script>
-// Desktop Navigation
-const desktopGroups = document.querySelectorAll('.L-card-container');
-let currentDesktopIndex = 0;
-const desktopBackButton = document.getElementById('L-backButton2');
-const desktopNextButton = document.getElementById('L-nextGroupButton2');
+<script>
+// MOBILE SCRIPT
+document.addEventListener("DOMContentLoaded", function() {
+  // Mobile
+  let currentGroup = 1;
+  const totalGroups = 10;
+  
+  const nextButton = document.getElementById('new-nextGroupButton');
+  const backButton = document.getElementById('new-backButton');
+  
+  const showGroup = (groupNumber) => {
+    // Cache tous les groupes
+    for (let i = 1; i <= totalGroups; i++) {
+      const group = document.getElementById(`new-group${i}`);
+      group.classList.add('new-hidden');
+    }
 
-desktopNextButton.addEventListener('click', () => {
-  if (currentDesktopIndex < desktopGroups.length - 1) {
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    currentDesktopIndex++;
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    updateDesktopButtons();
-  }
+    // Affiche le groupe actuel
+    const current = document.getElementById(`new-group${groupNumber}`);
+    current.classList.remove('new-hidden');
+    
+    // Active/désactive les boutons de navigation
+    backButton.disabled = groupNumber === 1;
+    nextButton.disabled = groupNumber === totalGroups;
+  };
+
+  // Fonction pour aller au groupe suivant
+  nextButton.addEventListener('click', () => {
+    if (currentGroup < totalGroups) {
+      currentGroup++;
+      showGroup(currentGroup);
+    }
+  });
+
+  // Fonction pour revenir au groupe précédent
+  backButton.addEventListener('click', () => {
+    if (currentGroup > 1) {
+      currentGroup--;
+      showGroup(currentGroup);
+    }
+  });
+
+  // Initialisation
+  showGroup(currentGroup);
 });
 
-desktopBackButton.addEventListener('click', () => {
-  if (currentDesktopIndex > 0) {
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    currentDesktopIndex--;
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    updateDesktopButtons();
-  }
+// DESKTOP SCRIPT
+document.addEventListener("DOMContentLoaded", function() {
+  // Desktop
+  let currentDesktopGroup = 3;
+  const totalDesktopGroups = 4;
+
+  const nextDesktopButton = document.getElementById('L-nextGroupButton2');
+  const backDesktopButton = document.getElementById('L-backButton2');
+  
+  const showDesktopGroup = (groupNumber) => {
+    // Cache tous les groupes
+    for (let i = 3; i <= totalDesktopGroups; i++) {
+      const group = document.getElementById(`L-group${i}`);
+      group.classList.add('L-hidden');
+    }
+
+    // Affiche le groupe actuel
+    const currentDesktop = document.getElementById(`L-group${groupNumber}`);
+    currentDesktop.classList.remove('L-hidden');
+    
+    // Active/désactive les boutons de navigation
+    backDesktopButton.disabled = groupNumber === 3;
+    nextDesktopButton.disabled = groupNumber === totalDesktopGroups;
+  };
+
+  // Fonction pour aller au groupe suivant
+  nextDesktopButton.addEventListener('click', () => {
+    if (currentDesktopGroup < totalDesktopGroups) {
+      currentDesktopGroup++;
+      showDesktopGroup(currentDesktopGroup);
+    }
+  });
+
+  // Fonction pour revenir au groupe précédent
+  backDesktopButton.addEventListener('click', () => {
+    if (currentDesktopGroup > 3) {
+      currentDesktopGroup--;
+      showDesktopGroup(currentDesktopGroup);
+    }
+  });
+
+  // Initialisation
+  showDesktopGroup(currentDesktopGroup);
 });
-
-function updateDesktopButtons() {
-  desktopBackButton.disabled = currentDesktopIndex === 0;
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
-}
-
 </script>
+<!-- CARDS  L AUTEUR-->
+
 <!-- _____________________________________________________________________________________ -->
 
 <!-- TROMBINOSCOPE-->
