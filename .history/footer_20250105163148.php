@@ -1,6 +1,7 @@
 <div class="text-center ">
         <img class="img-fluid w-25" src="images/plume.webp" alt="Image centrée">
     </div>
+
 <!-- FOOTER DESKTOP ET MOBILE -->
 <footer class="footer-section ">
 <div class="container">
@@ -118,7 +119,9 @@
         <button onclick="refuseCookies()"><strong>Refuser</strong></button>
     </div>
 </div>
+
 <!-- FIN FOOTER DESKTOP ET MOBILE-->
+
 <!-- COOKIES -->
 <div id="cookie-banner">
     <p><strong>Ce site web utilise des cookies.</strong> </p><br>
@@ -128,12 +131,17 @@
         <button onclick="refuseCookies()"><strong>Refuser</strong></button>
     </div>
 </div>
+
+
 <!-- _____________________________________________________________________________________ -->
+
 <!-- Scripts JavaScript -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js" async></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous" async></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <!-- _____________________________________________________________________________________ -->
+
 <!-- COOKIES -->
 <script>
     // Fonction pour obtenir la valeur d'un cookie
@@ -141,6 +149,7 @@
         let match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
         if (match) return match[2];
     }
+
     // Fonction pour définir un cookie avec une durée d'expiration (en jours)
     function setCookie(name, value, days) {
         let expires = '';
@@ -151,17 +160,23 @@
         }
         document.cookie = name + '=' + value + expires + '; path=/';
     }
+
     // Fonction appelée lorsqu'un utilisateur accepte les cookies
     function acceptCookies() {
         // Ajoutez ici le code pour définir les cookies ou effectuer d'autres actions nécessaires
+
         // Définir un cookie indiquant que l'utilisateur a accepté les cookies
         setCookie('cookieConsent', 'accepted', 365);
+
         document.getElementById('cookie-banner').style.display = 'none';
     }
+
     // Fonction appelée lorsqu'un utilisateur refuse les cookies
     function refuseCookies() {
+
         document.getElementById('cookie-banner').style.display = 'none';
     }
+
     // Vérifier si l'utilisateur a déjà accepté les cookies
     if (getCookie('cookieConsent') !== 'accepted') {
         // Affiche la bannière de consentement après un délai 
@@ -170,7 +185,10 @@
         }, 2000);
     }
 </script>
+
 <!-- _____________________________________________________________________________________ -->
+
+
 <!-- Script pour mettre à jour l'année dans le footer -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -179,88 +197,123 @@
         document.getElementById('date2').textContent = year; // Mise à jour simultanée pour les deux éléments
     });
 </script>
+
 <!-- Scripts -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+
 <!-- _____________________________________________________________________________________ -->
 
 <!--  CARDS XL mobile et desktop AUTEUR-->
 <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            // Variables pour les boutons et les groupes de livres
-            const desktopBackBtn = document.getElementById('new-desktop-backButton');
-            const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
-            // Ajout des groupes pour desktop
-            const desktopGroups = [
-                document.getElementById('desktop-group1'),
-                document.getElementById('desktop-group2'),
-                document.getElementById('desktop-group3'),
-                document.getElementById('desktop-group4'),
-                document.getElementById('desktop-group5'),
-                document.getElementById('desktop-group6'),
-                document.getElementById('desktop-group7'),
-                document.getElementById('desktop-group8'),
-                document.getElementById('desktop-group9'),
-                document.getElementById('desktop-group10'),
-            ];
-            let currentDesktopGroup = 0;
-            // Fonction pour cacher tous les groupes
-            function hideAllGroups(groups) {
-                groups.forEach(group => {
-                    if (group) {
-                        group.classList.add('new-hidden');
-                    }
-                });
+document.addEventListener('DOMContentLoaded', function () {
+    // Variables pour les boutons et les groupes de livres
+    const mobileBackBtn = document.getElementById('mobile-back-btn');
+    const mobileNextBtn = document.getElementById('mobile-next-btn');
+    const desktopBackBtn = document.getElementById('new-desktop-backButton');
+    const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
+
+    // Ajout de 30 groupes pour mobile
+    const mobileGroups = Array.from({ length: 0 }, (_, i) =>
+        document.getElementById(`mobile-group${i + 1}`)
+    );
+
+    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
+    const desktopGroups = [
+        document.getElementById('desktop-group1'),
+        document.getElementById('desktop-group2'),
+        document.getElementById('desktop-group3'),
+        document.getElementById('desktop-group4'),
+        document.getElementById('desktop-group5'),
+        document.getElementById('desktop-group6'),
+        document.getElementById('desktop-group7'),
+        document.getElementById('desktop-group8'),
+        document.getElementById('desktop-group9'),
+        document.getElementById('desktop-group10'),
+    ];
+
+    let currentMobileGroup = 0;
+    let currentDesktopGroup = 0;
+
+    // Fonction pour cacher tous les groupes
+    function hideAllGroups(groups) {
+        groups.forEach(group => {
+            if (group) {
+                group.classList.add('mobile-hidden'); // Pour mobile
+                group.classList.add('new-hidden'); // Pour desktop
             }
-            // Fonction pour afficher un groupe spécifique
-            function showGroup(groups, index) {
-                if (groups[index]) {
-                    groups[index].classList.remove('new-hidden');
-                }
-            }
-            // Mise à jour de l'état des boutons desktop
-            function updateDesktopButtons() {
-                // Bouton "Précédent"
-                if (currentDesktopGroup === 0) {
-                    desktopBackBtn.disabled = true;
-                    desktopBackBtn.classList.add('disabled-btn');
-                } else {
-                    desktopBackBtn.disabled = false;
-                    desktopBackBtn.classList.remove('disabled-btn');
-                }
-                // Bouton "Suivant"
-                if (currentDesktopGroup === desktopGroups.length - 3) {
-                    desktopNextBtn.disabled = true;
-                    desktopNextBtn.classList.add('disabled-btn');  // Ajout de la classe pour le gris
-                } else {
-                    desktopNextBtn.disabled = false;
-                    desktopNextBtn.classList.remove('disabled-btn');  // Retirer la classe
-                }
-            }
-            // Navigation desktop : précédent
-            desktopBackBtn.addEventListener('click', function () {
-                if (currentDesktopGroup > 0) {
-                    hideAllGroups(desktopGroups);
-                    currentDesktopGroup--;
-                    showGroup(desktopGroups, currentDesktopGroup);
-                    updateDesktopButtons();
-                }
-            });
-            // Navigation desktop : suivant
-            desktopNextBtn.addEventListener('click', function () {
-                if (currentDesktopGroup < desktopGroups.length - 3) {
-                    hideAllGroups(desktopGroups);
-                    currentDesktopGroup++;
-                    showGroup(desktopGroups, currentDesktopGroup);
-                    updateDesktopButtons();
-                }
-            });
-            // Initialisation de l'affichage (on affiche le premier groupe)
+        });
+    }
+
+    // Fonction pour afficher un groupe spécifique
+    function showGroup(groups, index) {
+        if (groups[index]) {
+            groups[index].classList.remove('mobile-hidden'); // Pour mobile
+            groups[index].classList.remove('new-hidden'); // Pour desktop
+        }
+    }
+
+    // Mise à jour de l'état des boutons mobile
+    function updateMobileButtons() {
+        mobileBackBtn.disabled = currentMobileGroup === 0;
+        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
+    }
+
+    // Mise à jour de l'état des boutons desktop
+    function updateDesktopButtons() {
+        desktopBackBtn.disabled = currentDesktopGroup === 0;
+        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
+    }
+
+    // Navigation mobile : précédent
+    mobileBackBtn.addEventListener('click', function () {
+        if (currentMobileGroup > 0) {
+            hideAllGroups(mobileGroups);
+            currentMobileGroup--;
+            showGroup(mobileGroups, currentMobileGroup);
+            updateMobileButtons();
+        }
+    });
+
+    // Navigation mobile : suivant
+    mobileNextBtn.addEventListener('click', function () {
+        if (currentMobileGroup < mobileGroups.length - 1) {
+            hideAllGroups(mobileGroups);
+            currentMobileGroup++;
+            showGroup(mobileGroups, currentMobileGroup);
+            updateMobileButtons();
+        }
+    });
+
+    // Navigation desktop : précédent
+    desktopBackBtn.addEventListener('click', function () {
+        if (currentDesktopGroup > 0) {
+            hideAllGroups(desktopGroups);
+            currentDesktopGroup--;
             showGroup(desktopGroups, currentDesktopGroup);
             updateDesktopButtons();
-        });
-    </script>
-<!--  FIN CARDS XL mobile et desktop AUTEUR-->
+        }
+    });
 
+    // Navigation desktop : suivant
+    desktopNextBtn.addEventListener('click', function () {
+        if (currentDesktopGroup < desktopGroups.length - 1) {
+            hideAllGroups(desktopGroups);
+            currentDesktopGroup++;
+            showGroup(desktopGroups, currentDesktopGroup);
+            updateDesktopButtons();
+        }
+    });
+
+    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
+    showGroup(mobileGroups, currentMobileGroup);
+    showGroup(desktopGroups, currentDesktopGroup);
+    updateMobileButtons();
+    updateDesktopButtons();
+});
+</script>
+
+<!--  FIN CARDS XL mobile et desktop AUTEUR-->
 
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
   <script>
@@ -276,28 +329,37 @@
   controlsContainer: "#custom-control",
   controlsPosition: "bottom",
 });
+
 // ScrollReveal JS
+
 ScrollReveal({ distance: "30px", easing: "ease-in" });
+
 ScrollReveal().reveal(".title", {
   delay: 300,
   origin: "top",
 });
+
 ScrollReveal().reveal(".paragraph", {
   delay: 800,
   origin: "top",
 });
+
 ScrollReveal().reveal("#form", {
   delay: 1200,
   origin: "bottom",
 });
+
 // Form
+
 const emailId = document.getElementById("email-id");
 const error = document.getElementById("error");
 const mailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+
 //! get the cursor position in the input
 emailId.addEventListener("keyup", (e) => {
   console.log("Caret at: ", e.target.selectionStart);
 });
+
 //! show whether the email address is valid or not with an outline
 emailId.addEventListener("input", (e) => {
   const emailInputValue = e.currentTarget.value;
@@ -310,12 +372,14 @@ emailId.addEventListener("input", (e) => {
     emailId.style.outline = "2px dotted rgb(118, 167, 63)";
   }
 });
+
 //! if email address is empty, remove the outline from the input
 function checkEmpty() {
   if (emailId.value == "") {
     emailId.style.outline = "none";
   }
 }
+
 //! submit the email address
 form.addEventListener("submit", (e) => {
   if (emailId.value.match(mailRegex)) {
@@ -330,21 +394,26 @@ form.addEventListener("submit", (e) => {
     alert("Oops! Please check your email");
   }
 });
+
 //! typing animation for the placeholder
 let i = 0;
 let placeholder = "";
 const txt = "example@domain.com";
 const speed = 150;
+
 setTimeout(() => {
   type();
 }, 1600);
+
 function type() {
   placeholder += txt.charAt(i);
   emailId.setAttribute("placeholder", placeholder);
   i++;
   setTimeout(type, speed);
 }
+
 // Vanilla-Tilt JS
+
 var VanillaTilt = (function () {
   "use strict";
   class VanillaTilt {
@@ -354,24 +423,30 @@ var VanillaTilt = (function () {
           "Can't initialize VanillaTilt because " + element + " is not a Node."
         );
       }
+
       this.width = null;
       this.height = null;
       this.clientWidth = null;
       this.clientHeight = null;
       this.left = null;
       this.top = null;
+
       // for Gyroscope sampling
       this.gammazero = null;
       this.betazero = null;
       this.lastgammazero = null;
       this.lastbetazero = null;
+
       this.transitionTimeout = null;
       this.updateCall = null;
       this.event = null;
+
       this.updateBind = this.update.bind(this);
       this.resetBind = this.reset.bind(this);
+
       this.element = element;
       this.settings = this.extendSettings(settings);
+
       this.reverse = this.settings.reverse ? -1 : 1;
       this.resetToStart = VanillaTilt.isSettingTrue(
         this.settings["reset-to-start"]
@@ -385,23 +460,30 @@ var VanillaTilt = (function () {
       );
       this.gyroscope = VanillaTilt.isSettingTrue(this.settings.gyroscope);
       this.gyroscopeSamples = this.settings.gyroscopeSamples;
+
       this.elementListener = this.getElementListener();
+
       if (this.glare) {
         this.prepareGlare();
       }
+
       if (this.fullPageListening) {
         this.updateClientSize();
       }
+
       this.addEventListeners();
       this.reset();
+
       if (this.resetToStart === false) {
         this.settings.startX = 0;
         this.settings.startY = 0;
       }
     }
+
     static isSettingTrue(setting) {
       return setting === "" || setting === true || setting === 1;
     }
+
     /**
      * Method returns element what will be listen mouse events
      * @return {Node}
@@ -410,19 +492,24 @@ var VanillaTilt = (function () {
       if (this.fullPageListening) {
         return window.document;
       }
+
       if (typeof this.settings["mouse-event-element"] === "string") {
         const mouseEventElement = document.querySelector(
           this.settings["mouse-event-element"]
         );
+
         if (mouseEventElement) {
           return mouseEventElement;
         }
       }
+
       if (this.settings["mouse-event-element"] instanceof Node) {
         return this.settings["mouse-event-element"];
       }
+
       return this.element;
     }
+
     /**
      * Method set listen methods for this.elementListener
      * @return {Node}
@@ -433,6 +520,7 @@ var VanillaTilt = (function () {
       this.onMouseLeaveBind = this.onMouseLeave.bind(this);
       this.onWindowResizeBind = this.onWindowResize.bind(this);
       this.onDeviceOrientationBind = this.onDeviceOrientation.bind(this);
+
       this.elementListener.addEventListener(
         "mouseenter",
         this.onMouseEnterBind
@@ -442,9 +530,11 @@ var VanillaTilt = (function () {
         this.onMouseLeaveBind
       );
       this.elementListener.addEventListener("mousemove", this.onMouseMoveBind);
+
       if (this.glare || this.fullPageListening) {
         window.addEventListener("resize", this.onWindowResizeBind);
       }
+
       if (this.gyroscope) {
         window.addEventListener(
           "deviceorientation",
@@ -452,6 +542,7 @@ var VanillaTilt = (function () {
         );
       }
     }
+
     /**
      * Method remove event listeners from current this.elementListener
      */
@@ -468,38 +559,48 @@ var VanillaTilt = (function () {
         "mousemove",
         this.onMouseMoveBind
       );
+
       if (this.gyroscope) {
         window.removeEventListener(
           "deviceorientation",
           this.onDeviceOrientationBind
         );
       }
+
       if (this.glare || this.fullPageListening) {
         window.removeEventListener("resize", this.onWindowResizeBind);
       }
     }
+
     destroy() {
       clearTimeout(this.transitionTimeout);
       if (this.updateCall !== null) {
         cancelAnimationFrame(this.updateCall);
       }
+
       this.element.style.willChange = "";
       this.element.style.transition = "";
       this.element.style.transform = "";
       this.resetGlare();
+
       this.removeEventListeners();
       this.element.vanillaTilt = null;
       delete this.element.vanillaTilt;
+
       this.element = null;
     }
+
     onDeviceOrientation(event) {
       if (event.gamma === null || event.beta === null) {
         return;
       }
+
       this.updateElementPosition();
+
       if (this.gyroscopeSamples > 0) {
         this.lastgammazero = this.gammazero;
         this.lastbetazero = this.betazero;
+
         if (this.gammazero === null) {
           this.gammazero = event.gamma;
           this.betazero = event.beta;
@@ -507,49 +608,64 @@ var VanillaTilt = (function () {
           this.gammazero = (event.gamma + this.lastgammazero) / 2;
           this.betazero = (event.beta + this.lastbetazero) / 2;
         }
+
         this.gyroscopeSamples -= 1;
       }
+
       const totalAngleX =
         this.settings.gyroscopeMaxAngleX - this.settings.gyroscopeMinAngleX;
       const totalAngleY =
         this.settings.gyroscopeMaxAngleY - this.settings.gyroscopeMinAngleY;
+
       const degreesPerPixelX = totalAngleX / this.width;
       const degreesPerPixelY = totalAngleY / this.height;
+
       const angleX =
         event.gamma - (this.settings.gyroscopeMinAngleX + this.gammazero);
       const angleY =
         event.beta - (this.settings.gyroscopeMinAngleY + this.betazero);
+
       const posX = angleX / degreesPerPixelX;
       const posY = angleY / degreesPerPixelY;
+
       if (this.updateCall !== null) {
         cancelAnimationFrame(this.updateCall);
       }
+
       this.event = {
         clientX: posX + this.left,
         clientY: posY + this.top,
       };
+
       this.updateCall = requestAnimationFrame(this.updateBind);
     }
+
     onMouseEnter() {
       this.updateElementPosition();
       this.element.style.willChange = "transform";
       this.setTransition();
     }
+
     onMouseMove(event) {
       if (this.updateCall !== null) {
         cancelAnimationFrame(this.updateCall);
       }
+
       this.event = event;
       this.updateCall = requestAnimationFrame(this.updateBind);
     }
+
     onMouseLeave() {
       this.setTransition();
+
       if (this.settings.reset) {
         requestAnimationFrame(this.resetBind);
       }
     }
+
     reset() {
       this.onMouseEnter();
+
       if (this.fullPageListening) {
         this.event = {
           clientX:
@@ -575,12 +691,14 @@ var VanillaTilt = (function () {
               this.height,
         };
       }
+
       let backupScale = this.settings.scale;
       this.settings.scale = 1;
       this.update();
       this.settings.scale = backupScale;
       this.resetGlare();
     }
+
     resetGlare() {
       if (this.glare) {
         this.glareElement.style.transform =
@@ -588,8 +706,10 @@ var VanillaTilt = (function () {
         this.glareElement.style.opacity = "0";
       }
     }
+
     getValues() {
       let x, y;
+
       if (this.fullPageListening) {
         x = this.event.clientX / this.clientWidth;
         y = this.event.clientY / this.clientHeight;
@@ -597,8 +717,10 @@ var VanillaTilt = (function () {
         x = (this.event.clientX - this.left) / this.width;
         y = (this.event.clientY - this.top) / this.height;
       }
+
       x = Math.min(Math.max(x, 0), 1);
       y = Math.min(Math.max(y, 0), 1);
+
       let tiltX = (
         this.reverse *
         (this.settings.max - x * this.settings.max * 2)
@@ -613,6 +735,7 @@ var VanillaTilt = (function () {
           -(this.event.clientY - (this.top + this.height / 2))
         ) *
         (180 / Math.PI);
+
       return {
         tiltX: tiltX,
         tiltY: tiltY,
@@ -621,15 +744,19 @@ var VanillaTilt = (function () {
         angle: angle,
       };
     }
+
     updateElementPosition() {
       let rect = this.element.getBoundingClientRect();
+
       this.width = this.element.offsetWidth;
       this.height = this.element.offsetHeight;
       this.left = rect.left;
       this.top = rect.top;
     }
+
     update() {
       let values = this.getValues();
+
       this.element.style.transform =
         "perspective(" +
         this.settings.perspective +
@@ -647,19 +774,23 @@ var VanillaTilt = (function () {
         ", " +
         this.settings.scale +
         ")";
+
       if (this.glare) {
         this.glareElement.style.transform = `rotate(${values.angle}deg) translate(-50%, -50%)`;
         this.glareElement.style.opacity = `${
           (values.percentageY * this.settings["max-glare"]) / 100
         }`;
       }
+
       this.element.dispatchEvent(
         new CustomEvent("tiltChange", {
           detail: values,
         })
       );
+
       this.updateCall = null;
     }
+
     /**
      * Appends the glare element (if glarePrerender equals false)
      * and sets the default style
@@ -670,16 +801,21 @@ var VanillaTilt = (function () {
         // Create glare element
         const jsTiltGlare = document.createElement("div");
         jsTiltGlare.classList.add("js-tilt-glare");
+
         const jsTiltGlareInner = document.createElement("div");
         jsTiltGlareInner.classList.add("js-tilt-glare-inner");
+
         jsTiltGlare.appendChild(jsTiltGlareInner);
         this.element.appendChild(jsTiltGlare);
       }
+
       this.glareElementWrapper = this.element.querySelector(".js-tilt-glare");
       this.glareElement = this.element.querySelector(".js-tilt-glare-inner");
+
       if (this.glarePrerender) {
         return;
       }
+
       Object.assign(this.glareElementWrapper.style, {
         position: "absolute",
         top: "0",
@@ -690,6 +826,7 @@ var VanillaTilt = (function () {
         "pointer-events": "none",
         "border-radius": "inherit",
       });
+
       Object.assign(this.glareElement.style, {
         position: "absolute",
         top: "50%",
@@ -700,40 +837,48 @@ var VanillaTilt = (function () {
         "transform-origin": "0% 0%",
         opacity: "0",
       });
+
       this.updateGlareSize();
     }
+
     updateGlareSize() {
       if (this.glare) {
         const glareSize =
           (this.element.offsetWidth > this.element.offsetHeight
             ? this.element.offsetWidth
             : this.element.offsetHeight) * 2;
+
         Object.assign(this.glareElement.style, {
           width: `${glareSize}px`,
           height: `${glareSize}px`,
         });
       }
     }
+
     updateClientSize() {
       this.clientWidth =
         window.innerWidth ||
         document.documentElement.clientWidth ||
         document.body.clientWidth;
+
       this.clientHeight =
         window.innerHeight ||
         document.documentElement.clientHeight ||
         document.body.clientHeight;
     }
+
     onWindowResize() {
       this.updateGlareSize();
       this.updateClientSize();
     }
+
     setTransition() {
       clearTimeout(this.transitionTimeout);
       this.element.style.transition =
         this.settings.speed + "ms " + this.settings.easing;
       if (this.glare)
         this.glareElement.style.transition = `opacity ${this.settings.speed}ms ${this.settings.easing}`;
+
       this.transitionTimeout = setTimeout(() => {
         this.element.style.transition = "";
         if (this.glare) {
@@ -741,6 +886,7 @@ var VanillaTilt = (function () {
         }
       }, this.settings.speed);
     }
+
     extendSettings(settings) {
       let defaultSettings = {
         reverse: false,
@@ -767,6 +913,7 @@ var VanillaTilt = (function () {
         gyroscopeMaxAngleY: 45,
         gyroscopeSamples: 10,
       };
+
       let newSettings = {};
       for (var property in defaultSettings) {
         if (property in settings) {
@@ -782,18 +929,23 @@ var VanillaTilt = (function () {
           newSettings[property] = defaultSettings[property];
         }
       }
+
       return newSettings;
     }
+
     static init(elements, settings) {
       if (elements instanceof Node) {
         elements = [elements];
       }
+
       if (elements instanceof NodeList) {
         elements = [].slice.call(elements);
       }
+
       if (!(elements instanceof Array)) {
         return;
       }
+
       elements.forEach((element) => {
         if (!("vanillaTilt" in element)) {
           element.vanillaTilt = new VanillaTilt(element, settings);
@@ -801,106 +953,144 @@ var VanillaTilt = (function () {
       });
     }
   }
+
   if (typeof document !== "undefined") {
     /* expose the class to window */
     window.VanillaTilt = VanillaTilt;
+
     VanillaTilt.init(document.querySelectorAll("[data-tilt]"));
   }
+
   return VanillaTilt;
 })();
+
   </script>
   <!--  FIN PRESENTATION AUTEUR TROMBINOSCOPE-->
+
 <!-- _____________________________________________________________________________________ -->
+
+
    <!--  NOUVEAUTE CARDS L-->
-   <script>
-document.addEventListener("DOMContentLoaded", function () {
-    // Vérifie si l'appareil est en mode mobile
-    const isMobile = window.matchMedia("(max-width: 768px)").matches;
-    if (isMobile) {
-        const nextButton = document.getElementById("new-nextGroupButton");
-        const backButton = document.getElementById("new-backButton");
-        const groups = Array.from(document.querySelectorAll(".new-card-container"));
-        let currentGroupIndex = 0;
-        // Fonction pour afficher le groupe actuel et masquer les autres
-        function updateGroupVisibility() {
-            groups.forEach((group, index) => {
-                if (index === currentGroupIndex) {
-                    group.classList.remove("new-hidden");
-                } else {
-                    group.classList.add("new-hidden");
-                }
-            });
-            // Mettre à jour les boutons
-            backButton.disabled = currentGroupIndex === 0;
-            nextButton.disabled = currentGroupIndex === groups.length - 1;
-        }
-        // Gestionnaire de clic pour le bouton "Suivant"
-        nextButton.addEventListener("click", function () {
-            if (currentGroupIndex < groups.length - 1) {
-                currentGroupIndex++;
-                updateGroupVisibility();
-            }
-        });
-        // Gestionnaire de clic pour le bouton "Précédent"
-        backButton.addEventListener("click", function () {
-            if (currentGroupIndex > 0) {
-                currentGroupIndex--;
-                updateGroupVisibility();
-            }
-        });
-        // Initialisation
-        updateGroupVisibility();
-    }
+ <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const nextGroupButton = document.getElementById('L-nextGroupButton');
+    const backButton = document.getElementById('L-backButton');
+    const group1 = document.getElementById('L-group1');
+    const group2 = document.getElementById('L-group2');
+
+    nextGroupButton.addEventListener('click', function() {
+        group1.classList.add('L-hidden');
+        group2.classList.remove('L-hidden');
+        backButton.disabled = false;
+        nextGroupButton.disabled = true;
+    });
+
+    backButton.addEventListener('click', function() {
+        group1.classList.remove('L-hidden');
+        group2.classList.add('L-hidden');
+        backButton.disabled = true;
+        nextGroupButton.disabled = false;
+    });
 });
 </script>
 <!-- FIN CARDS NOUVEAUTE L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
 <script>
-// Desktop Navigation
-// Récupération des groupes de cartes (desktop)
-const desktopGroups = document.querySelectorAll('.L-card-container');
-let currentDesktopIndex = 0;
-// Boutons de navigation
-const desktopBackButton = document.getElementById('L-backButton2');
-const desktopNextButton = document.getElementById('L-nextGroupButton2');
-// Gestionnaire pour le bouton "Suivant"
-desktopNextButton.addEventListener('click', () => {
-  if (currentDesktopIndex < desktopGroups.length - 1) {
-    // Masque le groupe actuel
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe suivant
-    currentDesktopIndex++;
-    // Affiche le nouveau groupe
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
-    updateDesktopButtons();
-  }
+// MOBILE SCRIPT
+document.addEventListener("DOMContentLoaded", function() {
+  // Mobile
+  let currentGroup = 1;
+  const totalGroups = 10;
+  
+  const nextButton = document.getElementById('new-nextGroupButton');
+  const backButton = document.getElementById('new-backButton');
+  
+  const showGroup = (groupNumber) => {
+    // Cache tous les groupes
+    for (let i = 1; i <= totalGroups; i++) {
+      const group = document.getElementById(`new-group${i}`);
+      group.classList.add('new-hidden');
+    }
+
+    // Affiche le groupe actuel
+    const current = document.getElementById(`new-group${groupNumber}`);
+    current.classList.remove('new-hidden');
+    
+    // Active/désactive les boutons de navigation
+    backButton.disabled = groupNumber === 1;
+    nextButton.disabled = groupNumber === totalGroups;
+  };
+
+  // Fonction pour aller au groupe suivant
+  nextButton.addEventListener('click', () => {
+    if (currentGroup < totalGroups) {
+      currentGroup++;
+      showGroup(currentGroup);
+    }
+  });
+
+  // Fonction pour revenir au groupe précédent
+  backButton.addEventListener('click', () => {
+    if (currentGroup > 1) {
+      currentGroup--;
+      showGroup(currentGroup);
+    }
+  });
+
+  // Initialisation
+  showGroup(currentGroup);
 });
-// Gestionnaire pour le bouton "Précédent"
-desktopBackButton.addEventListener('click', () => {
-  if (currentDesktopIndex > 0) {
-    // Masque le groupe actuel
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe précédent
-    currentDesktopIndex--;
-    // Affiche le nouveau groupe
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
-    updateDesktopButtons();
-  }
+
+// DESKTOP SCRIPT
+document.addEventListener("DOMContentLoaded", function() {
+  // Desktop
+  let currentDesktopGroup = 3;
+  const totalDesktopGroups = 4;
+
+  const nextDesktopButton = document.getElementById('L-nextGroupButton2');
+  const backDesktopButton = document.getElementById('L-backButton2');
+  
+  const showDesktopGroup = (groupNumber) => {
+    // Cache tous les groupes
+    for (let i = 3; i <= totalDesktopGroups; i++) {
+      const group = document.getElementById(`L-group${i}`);
+      group.classList.add('L-hidden');
+    }
+
+    // Affiche le groupe actuel
+    const currentDesktop = document.getElementById(`L-group${groupNumber}`);
+    currentDesktop.classList.remove('L-hidden');
+    
+    // Active/désactive les boutons de navigation
+    backDesktopButton.disabled = groupNumber === 3;
+    nextDesktopButton.disabled = groupNumber === totalDesktopGroups;
+  };
+
+  // Fonction pour aller au groupe suivant
+  nextDesktopButton.addEventListener('click', () => {
+    if (currentDesktopGroup < totalDesktopGroups) {
+      currentDesktopGroup++;
+      showDesktopGroup(currentDesktopGroup);
+    }
+  });
+
+  // Fonction pour revenir au groupe précédent
+  backDesktopButton.addEventListener('click', () => {
+    if (currentDesktopGroup > 3) {
+      currentDesktopGroup--;
+      showDesktopGroup(currentDesktopGroup);
+    }
+  });
+
+  // Initialisation
+  showDesktopGroup(currentDesktopGroup);
 });
-// Fonction pour activer/désactiver les boutons en fonction de l'index actuel
-function updateDesktopButtons() {
-  // Désactive le bouton "Précédent" si on est au premier groupe
-  desktopBackButton.disabled = currentDesktopIndex === 0;
-  // Désactive le bouton "Suivant" si on est au dernier groupe
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
-}
-// Initialisation des boutons au chargement
-updateDesktopButtons();
 </script>
+<!-- CARDS  L AUTEUR-->
+
 <!-- _____________________________________________________________________________________ -->
+
 <!-- TROMBINOSCOPE-->
 <script>
 // Sélectionner les éléments nécessaires
@@ -908,15 +1098,19 @@ const box = document.querySelector(".box");
 const cards = document.querySelectorAll(".profile-card");
 const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
+
 let index = 0;  // L'index de la carte actuellement visible
 const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
+
 // Fonction pour mettre à jour la position du carrousel
 function updateCarouselPosition() {
   box.style.transform = `translateX(-${index * cardWidth}px)`;
+
   // Désactiver les flèches si nécessaire
   prevBtn.disabled = index === 0;
   nextBtn.disabled = index === cards.length - 1;
 }
+
 // Écouteurs d'événements pour les boutons de navigation
 nextBtn.addEventListener("click", function() {
   if (index < cards.length - 1) {
@@ -924,17 +1118,22 @@ nextBtn.addEventListener("click", function() {
     updateCarouselPosition();
   }
 });
+
 prevBtn.addEventListener("click", function() {
   if (index > 0) {
     index--;
     updateCarouselPosition();
   }
 });
+
 // Initialiser la position du carrousel
 updateCarouselPosition();
+
 </script>
 <!-- FIN TROMBINOSCOPE-->
+
 <!-- _____________________________________________________________________________________ -->
+
 <!-- CITATIONS-->
 <script>
   // Variables globales pour le suivi de l'indice du livre actuel
@@ -942,39 +1141,49 @@ let currentBookIndex = 0;
 const books = document.querySelectorAll('.livre');
 const nextButton = document.getElementById('livre-nextButton');
 const backButton = document.getElementById('livre-backButton');
+
 // Fonction pour afficher le livre suivant
 function showNextBook() {
     // Masquer le livre actuel
     books[currentBookIndex].classList.add('livre-hidden');
+
     // Incrémenter l'indice
     currentBookIndex++;
+
     // Vérifier si on a atteint la fin
     if (currentBookIndex >= books.length) {
         currentBookIndex = books.length - 1; // Ne pas dépasser la dernière carte
         nextButton.disabled = true; // Désactiver le bouton "Suivant" si on est à la dernière carte
     }
+
     // Afficher le livre suivant
     books[currentBookIndex].classList.remove('livre-hidden');
     backButton.disabled = false; // Activer le bouton "Précédent"
 }
+
 // Fonction pour afficher le livre précédent
 function showPreviousBook() {
     // Masquer le livre actuel
     books[currentBookIndex].classList.add('livre-hidden');
+
     // Décrémenter l'indice
     currentBookIndex--;
+
     // Vérifier si on est déjà au premier livre
     if (currentBookIndex <= 0) {
         currentBookIndex = 0; // Ne pas dépasser la première carte
         backButton.disabled = true; // Désactiver le bouton "Précédent" si on est à la première carte
     }
+
     // Afficher le livre précédent
     books[currentBookIndex].classList.remove('livre-hidden');
     nextButton.disabled = false; // Activer le bouton "Suivant"
 }
+
 // Ajout des événements aux boutons
 nextButton.addEventListener('click', showNextBook);
 backButton.addEventListener('click', showPreviousBook);
+
 // Initialiser en masquant tous les livres sauf le premier
 books.forEach((book, index) => {
     if (index !== 0) {
@@ -983,7 +1192,9 @@ books.forEach((book, index) => {
 });
 </script>
 <!-- FIN CITATIONS-->
+
 <!-- _____________________________________________________________________________________ -->
+
 <!-- FICHE LIVRE-->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -991,6 +1202,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const prevButton = document.getElementById("livre-backButton");
     const nextButton = document.getElementById("livre-nextButton");
     let currentIndex = 0;
+
     function showCurrentLivre() {
         livres.forEach((livre, index) => {
             livre.style.display = index === currentIndex ? "block" : "none";
@@ -998,22 +1210,26 @@ document.addEventListener("DOMContentLoaded", function() {
         prevButton.disabled = currentIndex === 0;
         nextButton.disabled = currentIndex === livres.length - 1;
     }
+
     prevButton.addEventListener("click", function() {
         if (currentIndex > 0) {
             currentIndex--;
             showCurrentLivre();
         }
     });
+
     nextButton.addEventListener("click", function() {
         if (currentIndex < livres.length - 1) {
             currentIndex++;
             showCurrentLivre();
         }
     });
+
     showCurrentLivre(); // Initialize the first card
 });
 </script>
 <!-- FIN FICHE LIVRE-->
+
 <!-- FICHE AUTEUR MOBILE-->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
@@ -1021,6 +1237,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const livres = document.querySelectorAll('.livre-mobile');
         const backButton = document.getElementById('livre-backButton-mobile');
         const nextButton = document.getElementById('livre-nextButton-mobile');
+
         function updateNavigation() {
             livres.forEach((livre, index) => {
                 livre.classList.toggle('d-none', index !== currentLivreIndex);
@@ -1028,27 +1245,35 @@ document.addEventListener("DOMContentLoaded", function() {
             backButton.disabled = currentLivreIndex === 0;
             nextButton.disabled = currentLivreIndex === livres.length - 1;
         }
+
         backButton.addEventListener('click', () => {
             if (currentLivreIndex > 0) {
                 currentLivreIndex--;
                 updateNavigation();
             }
         });
+
         nextButton.addEventListener('click', () => {
             if (currentLivreIndex < livres.length - 1) {
                 currentLivreIndex++;
                 updateNavigation();
             }
         });
+
         updateNavigation();
     });
 </script>
 <!-- FIN FICHE AUTEUR MOBILE-->
 <!-- _____________________________________________________________________________________ -->
+
 <!--SEO -->
+
 <!-- _____________________________________________________________________________________ -->
+
 <!-- Google Tag Manager -->
 <!-- _____________________________________________________________________________________ -->
+
 <!-- End Google Tag Manager -->
 <!-- _____________________________________________________________________________________ -->
+
 <!-- Google Analytics -->
