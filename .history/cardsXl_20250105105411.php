@@ -455,19 +455,6 @@
         </div>
     </div>
 
-    <!-- Groupe 34 ANTOINE TEILLET-->
-    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Tahet Alain </div>
-                    <div class="mobile-book-price">22,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
@@ -989,20 +976,7 @@
         </div>
       </div>
 
-       <!-- Groupe 8-->
-     <div id="desktop-group8" class="new-card-container new-hidden">
-        <!-- carte 35 ANTOINE TEILLET -->
-        <div class="new-card">
-            <a href="link_to_book_F.html">
-                <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
-                <div class="new-card-content">
-                    <div class="new-card-author">Thellet Antoine</div>
-                    <div class="new-card-price">22,00 €</div>
-                </div>
-            </a>
-        </div>
       
-      </div>
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">
