@@ -78,14 +78,14 @@
     </div>
   </div>
 
-  <!-- Groupe 7 JOCELYN MAILY-->
+  <!-- Groupe 7 -->
   <div id="new-group7" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_G.html">
-        <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture de livre Loozana blues">
+        <img src="images/AuthorG/bookG-cover.webp" class="img-fluid" alt="Couverture de livre G">
         <div class="new-card-content">
-          <div class="new-card-author">Maily Jocelyn</div>
-          <div class="new-card-price">17,00 €</div>
+          <div class="new-card-author">Author G</div>
+          <div class="new-card-price">16,00 €</div>
         </div>
       </a>
     </div>
@@ -242,7 +242,7 @@
    <!-- Carte 7  -->
     <div class="L-card">
         <a href="link_to_book_F.html">
-            <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="couverture de livre lOOZANA BLUES">
+            <img src="images/j" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
             <div class="L-card-content">
                 <div class="L-card-author">Maily Jocelyn</div>
                 <div class="L-card-price">17,00 €</div>

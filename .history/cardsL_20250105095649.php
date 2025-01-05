@@ -78,14 +78,14 @@
     </div>
   </div>
 
-  <!-- Groupe 7 JOCELYN MAILY-->
+  <!-- Groupe 7 J-->
   <div id="new-group7" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_G.html">
-        <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture de livre Loozana blues">
+        <img src="images/AuthorG/bookG-cover.webp" class="img-fluid" alt="Couverture de livre G">
         <div class="new-card-content">
-          <div class="new-card-author">Maily Jocelyn</div>
-          <div class="new-card-price">17,00 €</div>
+          <div class="new-card-author">Author G</div>
+          <div class="new-card-price">16,00 €</div>
         </div>
       </a>
     </div>

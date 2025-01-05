@@ -82,7 +82,7 @@
   <div id="new-group7" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="link_to_book_G.html">
-        <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture de livre Loozana blues">
+        <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture de livre L">
         <div class="new-card-content">
           <div class="new-card-author">Maily Jocelyn</div>
           <div class="new-card-price">17,00 €</div>
