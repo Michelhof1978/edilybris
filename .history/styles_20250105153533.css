@@ -781,42 +781,56 @@ footer {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-.L-hidden {
-  display: none;
+<script>
+// Desktop Navigation
+// Récupération des groupes de cartes (desktop)
+const desktopGroups = document.querySelectorAll('.L-card-container');
+let currentDesktopIndex = 0;
+
+// Boutons de navigation
+const desktopBackButton = document.getElementById('L-backButton2');
+const desktopNextButton = document.getElementById('L-nextGroupButton2');
+
+// Gestionnaire pour le bouton "Suivant"
+desktopNextButton.addEventListener('click', () => {
+  if (currentDesktopIndex < desktopGroups.length - 1) {
+    // Masque le groupe actuel
+    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+    // Passe au groupe suivant
+    currentDesktopIndex++;
+    // Affiche le nouveau groupe
+    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+    // Met à jour l'état des boutons
+    updateDesktopButtons();
+  }
+});
+
+// Gestionnaire pour le bouton "Précédent"
+desktopBackButton.addEventListener('click', () => {
+  if (currentDesktopIndex > 0) {
+    // Masque le groupe actuel
+    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+    // Passe au groupe précédent
+    currentDesktopIndex--;
+    // Affiche le nouveau groupe
+    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+    // Met à jour l'état des boutons
+    updateDesktopButtons();
+  }
+});
+
+// Fonction pour activer/désactiver les boutons en fonction de l'index actuel
+function updateDesktopButtons() {
+  // Désactive le bouton "Précédent" si on est au premier groupe
+  desktopBackButton.disabled = currentDesktopIndex === 0;
+  // Désactive le bouton "Suivant" si on est au dernier groupe
+  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
 }
 
-.L-navigation {
-  text-align: center;
-  margin-top: 20px;
-}
+// Initialisation des boutons au chargement
+updateDesktopButtons();
+</script>
 
-.L-button {
-  background-color: #ffcc00;
-  border: none;
-  padding: 10px 20px;
-  margin: 0 10px;
-  cursor: pointer;
-  font-size: 16px;
-  border-radius: 5px;
-}
-
-.L-button:disabled {
-  background-color: #ddd;
-  cursor: not-allowed;
-}
-
-/* Désactiver la sélection de texte sur les cartes */
-.L-card, .L-card * {
-  user-select: none;  /* Désactive la sélection de texte */
-  -webkit-user-select: none; /* Pour Safari */
-  -moz-user-select: none; /* Pour Firefox */
-}
-
-/* Enlever les effets de surlignage sur les liens (s'il y en a) */
-.L-card a {
-  text-decoration: none;  /* Supprimer le soulignement des liens */
-  color: inherit;  /* Hériter de la couleur du texte */
-}
 /* FIN CARDS L*/
 
 /* CARD XL AUTEURS MOBILE */
@@ -945,8 +959,6 @@ footer {
     font-size: 13px;
   }
 }
-
-
 /* CARD XL AUTEURS MOBILE */
 
 /* CARDS XL AUTEURS DESKTOP*/

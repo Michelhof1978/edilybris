@@ -249,7 +249,26 @@
             </div>
         </a>
     </div>
-    
+     <!-- Carte 8 -->
+    <div class="L-card">
+        <a href="link_to_book_G.html">
+            <img src="images" class="img-fluid" alt="couverture de livre Lucioles Magiques">
+            <div class="L-card-content">
+                <div class="L-card-author">Brandao Pierre</div>
+                <div class="L-card-price">10,00 €</div>
+            </div>
+        </a>
+    </div>
+    <div class="L-card">
+       <!-- Carte 9-->
+        <a href="link_to_book_H.html">
+            <img src="images" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
+            <div class="L-card-content">
+                <div class="L-card-author">Brandao Pierre</div>
+                <div class="L-card-price">22,00 €</div>
+            </div>
+        </a>
+    </div>
     </div>
 
     

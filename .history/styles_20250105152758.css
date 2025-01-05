@@ -685,7 +685,7 @@ footer {
 
   /* FIN COOKIES */
 
-/* lIVRES PROMO SOUSCRIPTION*/
+/* lIVRES PROMO*/
 .book-price del {
     color: #ffcc00; /* Mettre le prix barré en blanc */
     text-decoration: line-through; /* S'assurer que le texte est barré */
@@ -711,7 +711,7 @@ footer {
         opacity: 1;
     }
 }
-/*FIN LIVRES PROMO SOUSCRIPTION*/
+/*FIN LIVRES PROMOSOUSCRIPTION*/
 
 /*CARD L*/
 .L-card-container {
@@ -945,8 +945,6 @@ footer {
     font-size: 13px;
   }
 }
-
-
 /* CARD XL AUTEURS MOBILE */
 
 /* CARDS XL AUTEURS DESKTOP*/

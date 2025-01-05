@@ -946,6 +946,14 @@ footer {
   }
 }
 
+/* Styles des boutons désactivés (pour mobile et desktop) */
+.new-button:disabled {
+  background-color: gray; /* Fond gris */
+  color: white; /* Couleur du texte */
+  cursor: not-allowed; /* Curseur "interdit" */
+  opacity: 0.6; /* Rendre visuellement désactivé */
+}
+
 
 /* CARD XL AUTEURS MOBILE */
 

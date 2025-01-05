@@ -206,89 +206,126 @@
 
 <!--  CARDS XL mobile et desktop AUTEUR-->
 <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            // Variables pour les boutons et les groupes de livres
-            const desktopBackBtn = document.getElementById('new-desktop-backButton');
-            const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
+document.addEventListener('DOMContentLoaded', function () {
+    // Variables pour les boutons et les groupes de livres
+    const mobileBackBtn = document.getElementById('mobile-back-btn');
+    const mobileNextBtn = document.getElementById('mobile-next-btn');
+    const desktopBackBtn = document.getElementById('new-desktop-backButton');
+    const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
 
-            // Ajout des groupes pour desktop
-            const desktopGroups = [
-                document.getElementById('desktop-group1'),
-                document.getElementById('desktop-group2'),
-                document.getElementById('desktop-group3'),
-                document.getElementById('desktop-group4'),
-                document.getElementById('desktop-group5'),
-                document.getElementById('desktop-group6'),
-                document.getElementById('desktop-group7'),
-                document.getElementById('desktop-group8'),
-                document.getElementById('desktop-group9'),
-                document.getElementById('desktop-group10'),
-            ];
+    // Ajout de 50 groupes pour mobile
+    const mobileGroups = Array.from({ length: 50 }, (_, i) =>
+        document.getElementById(`mobile-group${i + 1}`)
+    );
 
-            let currentDesktopGroup = 0;
+    // Ajout des groupes pour desktop
+    const desktopGroups = [
+        document.getElementById('desktop-group1'),
+        document.getElementById('desktop-group2'),
+        document.getElementById('desktop-group3'),
+        document.getElementById('desktop-group4'),
+        document.getElementById('desktop-group5'),
+        document.getElementById('desktop-group6'),
+        document.getElementById('desktop-group7'),
+        document.getElementById('desktop-group8'),
+        document.getElementById('desktop-group9'),
+        document.getElementById('desktop-group10'),
+    ];
 
-            // Fonction pour cacher tous les groupes
-            function hideAllGroups(groups) {
-                groups.forEach(group => {
-                    if (group) {
-                        group.classList.add('new-hidden');
-                    }
-                });
+    let currentMobileGroup = 0;
+    let currentDesktopGroup = 0;
+
+    // Fonction pour cacher tous les groupes
+    function hideAllGroups(groups) {
+        groups.forEach(group => {
+            if (group) {
+                group.classList.add('mobile-hidden'); // Pour mobile
+                group.classList.add('new-hidden'); // Pour desktop
             }
+        });
+    }
 
-            // Fonction pour afficher un groupe spécifique
-            function showGroup(groups, index) {
-                if (groups[index]) {
-                    groups[index].classList.remove('new-hidden');
-                }
-            }
+    // Fonction pour afficher un groupe spécifique
+    function showGroup(groups, index) {
+        if (groups[index]) {
+            groups[index].classList.remove('mobile-hidden'); // Pour mobile
+            groups[index].classList.remove('new-hidden'); // Pour desktop
+        }
+    }
 
-            // Mise à jour de l'état des boutons desktop
-            function updateDesktopButtons() {
-                // Bouton "Précédent"
-                if (currentDesktopGroup === 0) {
-                    desktopBackBtn.disabled = true;
-                    desktopBackBtn.classList.add('disabled-btn');
-                } else {
-                    desktopBackBtn.disabled = false;
-                    desktopBackBtn.classList.remove('disabled-btn');
-                }
+    // Mise à jour de l'état des boutons mobile
+    function updateMobileButtons() {
+        mobileBackBtn.disabled = currentMobileGroup === 0;
+        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
 
-                // Bouton "Suivant"
-                if (currentDesktopGroup === desktopGroups.length - 3) {
-                    desktopNextBtn.disabled = true;
-                    desktopNextBtn.classList.add('disabled-btn');  // Ajout de la classe pour le gris
-                } else {
-                    desktopNextBtn.disabled = false;
-                    desktopNextBtn.classList.remove('disabled-btn');  // Retirer la classe
-                }
-            }
+        // Empêcher complètement les clics sur un bouton désactivé
+        if (mobileNextBtn.disabled) {
+            mobileNextBtn.style.pointerEvents = "none";
+        } else {
+            mobileNextBtn.style.pointerEvents = "auto";
+        }
+    }
 
-            // Navigation desktop : précédent
-            desktopBackBtn.addEventListener('click', function () {
-                if (currentDesktopGroup > 0) {
-                    hideAllGroups(desktopGroups);
-                    currentDesktopGroup--;
-                    showGroup(desktopGroups, currentDesktopGroup);
-                    updateDesktopButtons();
-                }
-            });
+    // Mise à jour de l'état des boutons desktop
+    function updateDesktopButtons() {
+        desktopBackBtn.disabled = currentDesktopGroup === 0;
+        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
 
-            // Navigation desktop : suivant
-            desktopNextBtn.addEventListener('click', function () {
-                if (currentDesktopGroup < desktopGroups.length - 3) {
-                    hideAllGroups(desktopGroups);
-                    currentDesktopGroup++;
-                    showGroup(desktopGroups, currentDesktopGroup);
-                    updateDesktopButtons();
-                }
-            });
+        // Empêcher complètement les clics sur un bouton désactivé
+        if (desktopNextBtn.disabled) {
+            desktopNextBtn.style.pointerEvents = "none";
+        } else {
+            desktopNextBtn.style.pointerEvents = "auto";
+        }
+    }
 
-            // Initialisation de l'affichage (on affiche le premier groupe)
+    // Navigation mobile : précédent
+    mobileBackBtn.addEventListener('click', function () {
+        if (currentMobileGroup > 0) {
+            hideAllGroups(mobileGroups);
+            currentMobileGroup--;
+            showGroup(mobileGroups, currentMobileGroup);
+            updateMobileButtons();
+        }
+    });
+
+    // Navigation mobile : suivant
+    mobileNextBtn.addEventListener('click', function () {
+        if (currentMobileGroup < mobileGroups.length - 1) {
+            hideAllGroups(mobileGroups);
+            currentMobileGroup++;
+            showGroup(mobileGroups, currentMobileGroup);
+            updateMobileButtons();
+        }
+    });
+
+    // Navigation desktop : précédent
+    desktopBackBtn.addEventListener('click', function () {
+        if (currentDesktopGroup > 0) {
+            hideAllGroups(desktopGroups);
+            currentDesktopGroup--;
             showGroup(desktopGroups, currentDesktopGroup);
             updateDesktopButtons();
-        });
-    </script>
+        }
+    });
+
+    // Navigation desktop : suivant
+    desktopNextBtn.addEventListener('click', function () {
+        if (currentDesktopGroup < desktopGroups.length - 1) {
+            hideAllGroups(desktopGroups);
+            currentDesktopGroup++;
+            showGroup(desktopGroups, currentDesktopGroup);
+            updateDesktopButtons();
+        }
+    });
+
+    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
+    showGroup(mobileGroups, currentMobileGroup);
+    showGroup(desktopGroups, currentDesktopGroup);
+    updateMobileButtons();
+    updateDesktopButtons();
+});
+</script>
 
 
 <!--  FIN CARDS XL mobile et desktop AUTEUR-->

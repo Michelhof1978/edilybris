@@ -255,7 +255,7 @@
                 }
 
                 // Bouton "Suivant"
-                if (currentDesktopGroup === desktopGroups.length - 3) {
+                if (currentDesktopGroup === desktopGroups.length - 1) {
                     desktopNextBtn.disabled = true;
                     desktopNextBtn.classList.add('disabled-btn');  // Ajout de la classe pour le gris
                 } else {

@@ -471,7 +471,7 @@
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
         <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
-        <button id="mobile-next-btn" class="mobile-button" >Suivant</button>
+        <button id="mobile-next-btn" class="mobile-button" disabled>Suivant</button>
     </div>
 </div>
 

@@ -1007,7 +1007,7 @@
     <!-- Boutons de navigation -->
     <div class="new-navigation">
         <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
-        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
+        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white"disabled>Suivant</button>
     </div>
 </div>
 

@@ -1007,7 +1007,12 @@
     <!-- Boutons de navigation -->
     <div class="new-navigation">
         <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
-        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
+        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white"<!-- Boutons de navigation -->
+<div class="mobile-navigation">
+    <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
+    <button id="mobile-next-btn" class="mobile-button">Suivant</button>
+</div>
+>Suivant</button>
     </div>
 </div>
 
