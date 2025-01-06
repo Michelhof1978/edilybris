@@ -942,7 +942,7 @@ function updateDesktopButtons() {
 
 updateDesktopButtons();
 </script>
-<!-- FIN CARD L-->
+<!-- FIN TROMBINOSCOPE-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CITATIONS-->
 <script>

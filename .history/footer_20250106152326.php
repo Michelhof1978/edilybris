@@ -878,7 +878,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
-<script>
 // Mobile Navigation
 const mobileGroups = document.querySelectorAll('.new-card-container');
 let currentMobileIndex = 0;
@@ -936,12 +935,11 @@ desktopBackButton.addEventListener('click', () => {
 
 function updateDesktopButtons() {
   desktopBackButton.disabled = currentDesktopIndex === 0;
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2
-  ;
+  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
 }
 
 updateDesktopButtons();
-</script>
+<script
 <!-- FIN CARD L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CITATIONS-->

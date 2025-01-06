@@ -875,9 +875,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 </script>
-
+ <!--  FIN NOUVEAUTE CARDS L-->
+ <script>
 <!-- _____________________________________________________________________________________ -->
-<!-- CARDS  L AUTEUR-->
+<!-- CARDS  L AUTEUR -->
 <script>
 // Mobile Navigation
 const mobileGroups = document.querySelectorAll('.new-card-container');

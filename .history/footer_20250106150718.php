@@ -875,7 +875,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 </script>
-
+ <!--  FIN NOUVEAUTE CARDS L-->
+ <script>
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
 <script>
