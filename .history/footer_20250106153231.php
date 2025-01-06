@@ -830,121 +830,119 @@ var VanillaTilt = (function () {
    <!--  NOUVEAUTE CARDS L-->
    <script>
 document.addEventListener("DOMContentLoaded", function () {
-    // Vérifie si l'appareil est en mode mobile
-    const isMobile = window.matchMedia("(max-width: 768px)").matches;
-    if (isMobile) {
-        const nextButton = document.getElementById("new-nextGroupButton");
-        const backButton = document.getElementById("new-backButton");
-        const container = document.querySelector(".new-card-container-wrapper"); // Conteneur des cartes
-        const groups = Array.from(document.querySelectorAll(".new-card-container")); // Les cartes
-        const cardWidth = groups[0].offsetWidth; // Largeur d'une carte (supposée égale pour toutes)
+    // Vérifie si l'appareil est en mode desktop
+    const isDesktop = window.matchMedia("(min-width: 768px)").matches;
+
+    if (isDesktop) {
+        const nextButton = document.getElementById("L-nextGroupButton");
+        const backButton = document.getElementById("L-backButton");
+        const containers = Array.from(document.querySelectorAll(".L-card-container"));
         let currentGroupIndex = 0;
-        // Fonction pour ajuster le défilement du conteneur
-        function updateScrollPosition() {
-            container.scrollLeft = currentGroupIndex * cardWidth;
-            // Mettre à jour les boutons de navigation
+        
+        // Fonction pour afficher le groupe actuel et masquer les autres
+        function updateGroupVisibility() {
+            containers.forEach((container, index) => {
+                if (index === currentGroupIndex) {
+                    container.classList.remove("L-hidden");
+                } else {
+                    container.classList.add("L-hidden");
+                }
+            });
+            
+            // Mettre à jour l'état des boutons
             backButton.disabled = currentGroupIndex === 0;
-            nextButton.disabled = currentGroupIndex === groups.length - 1;
+            nextButton.disabled = currentGroupIndex === containers.length - 5;
         }
+
         // Gestionnaire de clic pour le bouton "Suivant"
         nextButton.addEventListener("click", function () {
-            if (currentGroupIndex < groups.length - 1) {
+            if (currentGroupIndex < containers.length - 5) {
                 currentGroupIndex++;
-                updateScrollPosition();
+                updateGroupVisibility();
             }
         });
+
         // Gestionnaire de clic pour le bouton "Précédent"
         backButton.addEventListener("click", function () {
             if (currentGroupIndex > 0) {
                 currentGroupIndex--;
-                updateScrollPosition();
+                updateGroupVisibility();
             }
         });
+
         // Initialisation
-        updateScrollPosition();
+        updateGroupVisibility();
     }
 });
 </script>
+
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
 <script>
+// Mobile Navigation
+const mobileGroups = document.querySelectorAll('.new-card-container');
+let currentMobileIndex = 0;
+const mobileBackButton = document.getElementById('new-backButton');
+const mobileNextButton = document.getElementById('new-nextGroupButton');
+
+mobileNextButton.addEventListener('click', () => {
+  if (currentMobileIndex < mobileGroups.length - 1) {
+    mobileGroups[currentMobileIndex].classList.add('new-hidden');
+    currentMobileIndex++;
+    mobileGroups[currentMobileIndex].classList.remove('new-hidden');
+    updateMobileButtons();
+  }
+});
+
+mobileBackButton.addEventListener('click', () => {
+  if (currentMobileIndex > 0) {
+    mobileGroups[currentMobileIndex].classList.add('new-hidden');
+    currentMobileIndex--;
+    mobileGroups[currentMobileIndex].classList.remove('new-hidden');
+    updateMobileButtons();
+  }
+});
+
+function updateMobileButtons() {
+  mobileBackButton.disabled = currentMobileIndex === 0;
+  mobileNextButton.disabled = currentMobileIndex === mobileGroups.length - 1;
+}
+
+updateMobileButtons();
+
 // Desktop Navigation
-// Récupération des groupes de cartes (desktop)
 const desktopGroups = document.querySelectorAll('.L-card-container');
 let currentDesktopIndex = 0;
-// Boutons de navigation
 const desktopBackButton = document.getElementById('L-backButton2');
 const desktopNextButton = document.getElementById('L-nextGroupButton2');
-// Gestionnaire pour le bouton "Suivant"
+
 desktopNextButton.addEventListener('click', () => {
   if (currentDesktopIndex < desktopGroups.length - 1) {
-    // Masque le groupe actuel
     desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe suivant
     currentDesktopIndex++;
-    // Affiche le nouveau groupe
     desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
     updateDesktopButtons();
   }
 });
-// Gestionnaire pour le bouton "Précédent"
+
 desktopBackButton.addEventListener('click', () => {
   if (currentDesktopIndex > 0) {
-    // Masque le groupe actuel
     desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe précédent
     currentDesktopIndex--;
-    // Affiche le nouveau groupe
     desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
     updateDesktopButtons();
   }
 });
-// Fonction pour activer/désactiver les boutons en fonction de l'index actuel
+
 function updateDesktopButtons() {
-  // Désactive le bouton "Précédent" si on est au premier groupe
   desktopBackButton.disabled = currentDesktopIndex === 0;
-  // Désactive le bouton "Suivant" si on est au dernier groupe
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
+  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2
+  ;
 }
-// Initialisation des boutons au chargement
+
 updateDesktopButtons();
 </script>
-<!-- _____________________________________________________________________________________ -->
-<!-- TROMBINOSCOPE-->
-<script>
-// Sélectionner les éléments nécessaires
-const box = document.querySelector(".box");
-const cards = document.querySelectorAll(".profile-card");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-let index = 0;  // L'index de la carte actuellement visible
-const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
-// Fonction pour mettre à jour la position du carrousel
-function updateCarouselPosition() {
-  box.style.transform = `translateX(-${index * cardWidth}px)`;
-  // Désactiver les flèches si nécessaire
-  prevBtn.disabled = index === 0;
-  nextBtn.disabled = index === cards.length - 1;
-}
-// Écouteurs d'événements pour les boutons de navigation
-nextBtn.addEventListener("click", function() {
-  if (index < cards.length - 1) {
-    index++;
-    updateCarouselPosition();
-  }
-});
-prevBtn.addEventListener("click", function() {
-  if (index > 0) {
-    index--;
-    updateCarouselPosition();
-  }
-});
-// Initialiser la position du carrousel
-updateCarouselPosition();
-</script>
-<!-- FIN TROMBINOSCOPE-->
+<!-- FIN CARD L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CITATIONS-->
 <script>
