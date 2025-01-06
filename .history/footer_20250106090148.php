@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('desktop-group5'),
         document.getElementById('desktop-group6'),
         document.getElementById('desktop-group7'),
-        document.getElementById('desktop-group8'),
+        document.getElementById('desktop-group7'),
     ];
     let currentMobileGroup = 0;
     let currentDesktopGroup = 0;
@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Mise à jour de l'état des boutons mobile
     function updateMobileButtons() {
         mobileBackBtn.disabled = currentMobileGroup === 0;
-        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 2;
+        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
     }
     // Mise à jour de l'état des boutons desktop
     function updateDesktopButtons() {

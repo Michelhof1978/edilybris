@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Mise à jour de l'état des boutons mobile
     function updateMobileButtons() {
         mobileBackBtn.disabled = currentMobileGroup === 0;
-        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 2;
+        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
     }
     // Mise à jour de l'état des boutons desktop
     function updateDesktopButtons() {

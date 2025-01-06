@@ -248,8 +248,8 @@
     </div>
 
     
-    <!-- Groupe 20 GUY LO PINTO -->
-    <div id="mobile-group20" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 2 GUY LO PINTO -->
+    <div id="mobile-group21" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delas de l'intime">
@@ -261,8 +261,8 @@
         </div>
     </div>
 
-    <!-- Groupe 21 ROXANE LOVAC-->
-    <div id="mobile-group21" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 22 ROXANE LOVAC-->
+    <div id="mobile-group22" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
@@ -274,8 +274,8 @@
         </div>
     </div>
 
-    <!-- Groupe 22 ROXANE LOVAC-->
-    <div id="mobile-group22" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 23 ROXANE LOVAC-->
+    <div id="mobile-group23" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
@@ -287,8 +287,8 @@
         </div>
     </div>
 
-        <!-- Groupe 23 PIERRE BRANDAO-->
-        <div id="mobile-group23" class="mobile-books-container mobile-hidden">
+        <!-- Groupe 24 PIERRE BRANDAO-->
+        <div id="mobile-group24" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicacitres">
@@ -300,8 +300,8 @@
         </div>
     </div>
 
-     <!-- Groupe 24 PIERRE BRANDAO-->
-     <div id="mobile-group24" class="mobile-books-container mobile-hidden">
+     <!-- Groupe 25 PIERRE BRANDAO-->
+     <div id="mobile-group25" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1 er mai">
@@ -313,8 +313,8 @@
         </div>
     </div>
 
-    <!-- Groupe 25 ARLETTE BESSEDE -->
-    <div id="mobile-group25" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 26 ARLETTE BESSEDE -->
+    <div id="mobile-group26" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/arletteBessede/couverture-recto-pour-site-6_11zon.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
@@ -326,8 +326,8 @@
         </div>
     </div>
 
-    <!-- Groupe 26 ARLETTE BESSEDE -->
-    <div id="mobile-group26" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 27 ARLETTE BESSEDE -->
+    <div id="mobile-group27" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
@@ -339,8 +339,8 @@
         </div>
     </div>
 
-    <!-- Groupe 27 DAVID BEAULIEU -->
-    <div id="mobile-group27" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 28 DAVID BEAULIEU -->
+    <div id="mobile-group28" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
@@ -352,8 +352,8 @@
         </div>
     </div>
 
-    <!-- Groupe 28 PIERRE BRANDAO -->
-    <div id="mobile-group28" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 29 PIERRE BRANDAO -->
+    <div id="mobile-group29" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour">
@@ -365,8 +365,8 @@
         </div>
     </div>
 
-    <!-- Groupe 29 PIERRE BRANDAO -->
-    <div id="mobile-group 29" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 30 PIERRE BRANDAO -->
+    <div id="mobile-group30" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
@@ -378,8 +378,8 @@
         </div>
     </div>
 
-    <!-- Groupe 30 JOCELYN MAILY -->
-    <div id="mobile-group30" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 31 JOCELYN MAILY -->
+    <div id="mobile-group31" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
@@ -391,8 +391,8 @@
         </div>
     </div>
 
-    <!-- Groupe 31 ABDEL FRANCOIS NADINI -->
-    <div id="mobile-group31" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 32 ABDEL FRANCOIS NADINI -->
+    <div id="mobile-group32" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs">
@@ -404,8 +404,8 @@
         </div>
     </div>
 
-    <!-- Groupe 32 ALAIN TAHET -->
-    <div id="mobile-group32" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 33 ALAIN TAHET -->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
@@ -430,8 +430,8 @@
         </div>
     </div>
 
-    <!-- Groupe 34 ALAIN TAHET -->
-    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 33 ALAIN TAHET -->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -443,8 +443,8 @@
         </div>
     </div>
 
-    <!-- Groupe 35 ANTOINE TEILLET-->
-    <div id="mobile-group35" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 34 ANTOINE TEILLET-->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">

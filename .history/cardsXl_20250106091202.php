@@ -365,8 +365,8 @@
         </div>
     </div>
 
-    <!-- Groupe 29 PIERRE BRANDAO -->
-    <div id="mobile-group 29" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 30 PIERRE BRANDAO -->
+    <div id="mobile-group3" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
@@ -378,8 +378,8 @@
         </div>
     </div>
 
-    <!-- Groupe 30 JOCELYN MAILY -->
-    <div id="mobile-group30" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 31 JOCELYN MAILY -->
+    <div id="mobile-group31" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
@@ -391,8 +391,8 @@
         </div>
     </div>
 
-    <!-- Groupe 31 ABDEL FRANCOIS NADINI -->
-    <div id="mobile-group31" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 32 ABDEL FRANCOIS NADINI -->
+    <div id="mobile-group32" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs">
@@ -404,8 +404,8 @@
         </div>
     </div>
 
-    <!-- Groupe 32 ALAIN TAHET -->
-    <div id="mobile-group32" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 33 ALAIN TAHET -->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
@@ -430,8 +430,8 @@
         </div>
     </div>
 
-    <!-- Groupe 34 ALAIN TAHET -->
-    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 33 ALAIN TAHET -->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -443,8 +443,8 @@
         </div>
     </div>
 
-    <!-- Groupe 35 ANTOINE TEILLET-->
-    <div id="mobile-group35" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 34 ANTOINE TEILLET-->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">

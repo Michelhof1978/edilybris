@@ -430,8 +430,8 @@
         </div>
     </div>
 
-    <!-- Groupe 34 ALAIN TAHET -->
-    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 33 ALAIN TAHET -->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -443,8 +443,8 @@
         </div>
     </div>
 
-    <!-- Groupe 35 ANTOINE TEILLET-->
-    <div id="mobile-group35" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 34 ANTOINE TEILLET-->
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">

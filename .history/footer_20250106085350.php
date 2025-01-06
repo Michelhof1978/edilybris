@@ -182,102 +182,105 @@
 <!-- Scripts -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <!-- _____________________________________________________________________________________ -->
+
 <!--  CARDS XL mobile et desktop AUTEUR-->
-<script>
 document.addEventListener('DOMContentLoaded', function () {
     // Variables pour les boutons et les groupes de livres
     const mobileBackBtn = document.getElementById('mobile-back-btn');
     const mobileNextBtn = document.getElementById('mobile-next-btn');
-    const desktopBackBtn = document.getElementById('new-desktop-backButton');
-    const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
-    // Ajout de 30 groupes pour mobile
-    const mobileGroups = Array.from({ length: 40 }, (_, i) =>
-        document.getElementById(`mobile-group${i + 1}`)
-    );
-    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
-    const desktopGroups = [
-        document.getElementById('desktop-group1'),
-        document.getElementById('desktop-group2'),
-        document.getElementById('desktop-group3'),
-        document.getElementById('desktop-group4'),
-        document.getElementById('desktop-group5'),
-        document.getElementById('desktop-group6'),
-        document.getElementById('desktop-group7'),
-        document.getElementById('desktop-group8'),
+    const desktopBackBtn = document.getElementById('desktop-back-btn');
+    const desktopNextBtn = document.getElementById('desktop-next-btn');
+
+    // Groupes de livres pour mobile et desktop
+    const mobileGroups = [
+        document.getElementById('mobile-group1')
     ];
+
+    const desktopGroups = [
+        document.getElementById('desktop-group1')
+    ];
+
     let currentMobileGroup = 0;
     let currentDesktopGroup = 0;
+
     // Fonction pour cacher tous les groupes
     function hideAllGroups(groups) {
         groups.forEach(group => {
             if (group) {
-                group.classList.add('mobile-hidden'); // Pour mobile
-                group.classList.add('new-hidden'); // Pour desktop
+                group.classList.add('new-hidden');
             }
         });
     }
+
     // Fonction pour afficher un groupe spécifique
     function showGroup(groups, index) {
         if (groups[index]) {
-            groups[index].classList.remove('mobile-hidden'); // Pour mobile
-            groups[index].classList.remove('new-hidden'); // Pour desktop
+            groups[index].classList.remove('new-hidden');
         }
     }
-    // Mise à jour de l'état des boutons mobile
-    function updateMobileButtons() {
-        mobileBackBtn.disabled = currentMobileGroup === 0;
-        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 2;
+
+    // Mise à jour de l'état des boutons
+    function updateButtons(isMobile) {
+        if (isMobile) {
+            // Mobile Navigation
+            mobileBackBtn.disabled = currentMobileGroup === 0;
+            mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
+        } else {
+            // Desktop Navigation
+            desktopBackBtn.disabled = currentDesktopGroup === 0;
+            desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
+        }
     }
-    // Mise à jour de l'état des boutons desktop
-    function updateDesktopButtons() {
-        desktopBackBtn.disabled = currentDesktopGroup === 0;
-        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
-    }
+
     // Navigation mobile : précédent
     mobileBackBtn.addEventListener('click', function () {
         if (currentMobileGroup > 0) {
             hideAllGroups(mobileGroups);
             currentMobileGroup--;
             showGroup(mobileGroups, currentMobileGroup);
-            updateMobileButtons();
+            updateButtons(true);
         }
     });
+
     // Navigation mobile : suivant
     mobileNextBtn.addEventListener('click', function () {
         if (currentMobileGroup < mobileGroups.length - 1) {
             hideAllGroups(mobileGroups);
             currentMobileGroup++;
             showGroup(mobileGroups, currentMobileGroup);
-            updateMobileButtons();
+            updateButtons(true);
         }
     });
+
     // Navigation desktop : précédent
     desktopBackBtn.addEventListener('click', function () {
         if (currentDesktopGroup > 0) {
             hideAllGroups(desktopGroups);
             currentDesktopGroup--;
             showGroup(desktopGroups, currentDesktopGroup);
-            updateDesktopButtons();
+            updateButtons(false);
         }
     });
+
     // Navigation desktop : suivant
     desktopNextBtn.addEventListener('click', function () {
         if (currentDesktopGroup < desktopGroups.length - 1) {
             hideAllGroups(desktopGroups);
             currentDesktopGroup++;
             showGroup(desktopGroups, currentDesktopGroup);
-            updateDesktopButtons();
+            updateButtons(false);
         }
     });
-    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
+
+    // Initialisation de l'affichage pour mobile et desktop
     showGroup(mobileGroups, currentMobileGroup);
     showGroup(desktopGroups, currentDesktopGroup);
-    updateMobileButtons();
-    updateDesktopButtons();
+    updateButtons(true); // Mobile
+    updateButtons(false); // Desktop
 });
-</script>
-<!--  FIN CARDS XL mobile et desktop AUTEUR-->
-  
+
+
+
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
   <script>
     var slider = tns({
