@@ -856,7 +856,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Gestionnaire de clic pour le bouton "Suivant"
         nextButton.addEventListener("click", function () {
-            if (currentGroupIndex < containers.length - 5) {
+            if (currentGroupIndex < containers.length - 3) {
                 currentGroupIndex++;
                 updateGroupVisibility();
             }

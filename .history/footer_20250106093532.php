@@ -830,38 +830,33 @@ var VanillaTilt = (function () {
    <!--  NOUVEAUTE CARDS L-->
    <script>
 document.addEventListener("DOMContentLoaded", function () {
-    // Vérifie si l'appareil est en mode desktop
-    const isDesktop = window.matchMedia("(min-width: 768px)").matches;
-
-    if (isDesktop) {
-        const nextButton = document.getElementById("L-nextGroupButton");
-        const backButton = document.getElementById("L-backButton");
-        const containers = Array.from(document.querySelectorAll(".L-card-container"));
+    // Vérifie si l'appareil est en mode mobile
+    const isMobile = window.matchMedia("(max-width: 768px)").matches;
+    if (isMobile) {
+        const nextButton = document.getElementById("new-nextGroupButton");
+        const backButton = document.getElementById("new-backButton");
+        const groups = Array.from(document.querySelectorAll(".new-card-container"));
         let currentGroupIndex = 0;
-        
         // Fonction pour afficher le groupe actuel et masquer les autres
         function updateGroupVisibility() {
-            containers.forEach((container, index) => {
+            groups.forEach((group, index) => {
                 if (index === currentGroupIndex) {
-                    container.classList.remove("L-hidden");
+                    group.classList.remove("new-hidden");
                 } else {
-                    container.classList.add("L-hidden");
+                    group.classList.add("new-hidden");
                 }
             });
-            
-            // Mettre à jour l'état des boutons
+            // Mettre à jour les boutons
             backButton.disabled = currentGroupIndex === 0;
-            nextButton.disabled = currentGroupIndex === containers.length - 5;
+            nextButton.disabled = currentGroupIndex === groups.length - 1;
         }
-
         // Gestionnaire de clic pour le bouton "Suivant"
         nextButton.addEventListener("click", function () {
-            if (currentGroupIndex < containers.length - 5) {
+            if (currentGroupIndex < groups.length - 1) {
                 currentGroupIndex++;
                 updateGroupVisibility();
             }
         });
-
         // Gestionnaire de clic pour le bouton "Précédent"
         backButton.addEventListener("click", function () {
             if (currentGroupIndex > 0) {
@@ -869,13 +864,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 updateGroupVisibility();
             }
         });
-
         // Initialisation
         updateGroupVisibility();
     }
 });
 </script>
-
+<!-- FIN CARDS NOUVEAUTE L-->
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
 <script>

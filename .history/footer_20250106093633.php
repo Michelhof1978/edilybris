@@ -851,12 +851,12 @@ document.addEventListener("DOMContentLoaded", function () {
             
             // Mettre à jour l'état des boutons
             backButton.disabled = currentGroupIndex === 0;
-            nextButton.disabled = currentGroupIndex === containers.length - 5;
+            nextButton.disabled = currentGroupIndex === containers.length - 1;
         }
 
         // Gestionnaire de clic pour le bouton "Suivant"
         nextButton.addEventListener("click", function () {
-            if (currentGroupIndex < containers.length - 5) {
+            if (currentGroupIndex < containers.length - 3) {
                 currentGroupIndex++;
                 updateGroupVisibility();
             }
