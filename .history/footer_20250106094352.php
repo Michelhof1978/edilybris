@@ -879,68 +879,81 @@ document.addEventListener("DOMContentLoaded", function () {
 <!-- _____________________________________________________________________________________ -->
 <!-- CARDS  L AUTEUR-->
 <script>
-// Mobile Navigation
-const mobileGroups = document.querySelectorAll('.new-card-container');
-let currentMobileIndex = 0;
-const mobileBackButton = document.getElementById('new-backButton');
-const mobileNextButton = document.getElementById('new-nextGroupButton');
-
-mobileNextButton.addEventListener('click', () => {
-  if (currentMobileIndex < mobileGroups.length - 1) {
-    mobileGroups[currentMobileIndex].classList.add('new-hidden');
-    currentMobileIndex++;
-    mobileGroups[currentMobileIndex].classList.remove('new-hidden');
-    updateMobileButtons();
-  }
-});
-
-mobileBackButton.addEventListener('click', () => {
-  if (currentMobileIndex > 0) {
-    mobileGroups[currentMobileIndex].classList.add('new-hidden');
-    currentMobileIndex--;
-    mobileGroups[currentMobileIndex].classList.remove('new-hidden');
-    updateMobileButtons();
-  }
-});
-
-function updateMobileButtons() {
-  mobileBackButton.disabled = currentMobileIndex === 0;
-  mobileNextButton.disabled = currentMobileIndex === mobileGroups.length - 1;
-}
-
-updateMobileButtons();
-
 // Desktop Navigation
+// Récupération des groupes de cartes (desktop)
 const desktopGroups = document.querySelectorAll('.L-card-container');
 let currentDesktopIndex = 0;
+// Boutons de navigation
 const desktopBackButton = document.getElementById('L-backButton2');
 const desktopNextButton = document.getElementById('L-nextGroupButton2');
-
+// Gestionnaire pour le bouton "Suivant"
 desktopNextButton.addEventListener('click', () => {
   if (currentDesktopIndex < desktopGroups.length - 1) {
+    // Masque le groupe actuel
     desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+    // Passe au groupe suivant
     currentDesktopIndex++;
+    // Affiche le nouveau groupe
     desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+    // Met à jour l'état des boutons
     updateDesktopButtons();
   }
 });
-
+// Gestionnaire pour le bouton "Précédent"
 desktopBackButton.addEventListener('click', () => {
   if (currentDesktopIndex > 0) {
+    // Masque le groupe actuel
     desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+    // Passe au groupe précédent
     currentDesktopIndex--;
+    // Affiche le nouveau groupe
     desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+    // Met à jour l'état des boutons
     updateDesktopButtons();
   }
 });
-
+// Fonction pour activer/désactiver les boutons en fonction de l'index actuel
 function updateDesktopButtons() {
+  // Désactive le bouton "Précédent" si on est au premier groupe
   desktopBackButton.disabled = currentDesktopIndex === 0;
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2
-  ;
+  // Désactive le bouton "Suivant" si on est au dernier groupe
+  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
 }
-
+// Initialisation des boutons au chargement
 updateDesktopButtons();
+</script>
+<!-- _____________________________________________________________________________________ -->
+<!-- TROMBINOSCOPE-->
+<script>
+// Sélectionner les éléments nécessaires
+const box = document.querySelector(".box");
+const cards = document.querySelectorAll(".profile-card");
+const prevBtn = document.getElementById("prevBtn");
+const nextBtn = document.getElementById("nextBtn");
+let index = 0;  // L'index de la carte actuellement visible
+const cardWidth = cards[0].offsetWidth + 20; // Largeur d'une carte + marge
+// Fonction pour mettre à jour la position du carrousel
+function updateCarouselPosition() {
+  box.style.transform = `translateX(-${index * cardWidth}px)`;
+  // Désactiver les flèches si nécessaire
+  prevBtn.disabled = index === 0;
+  nextBtn.disabled = index === cards.length - 1;
+}
+// Écouteurs d'événements pour les boutons de navigation
+nextBtn.addEventListener("click", function() {
+  if (index < cards.length - 1) {
+    index++;
+    updateCarouselPosition();
+  }
+});
+prevBtn.addEventListener("click", function() {
+  if (index > 0) {
+    index--;
+    updateCarouselPosition();
+  }
+});
+// Initialiser la position du carrousel
+updateCarouselPosition();
 </script>
 <!-- FIN TROMBINOSCOPE-->
 <!-- _____________________________________________________________________________________ -->

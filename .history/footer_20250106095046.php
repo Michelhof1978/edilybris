@@ -936,8 +936,7 @@ desktopBackButton.addEventListener('click', () => {
 
 function updateDesktopButtons() {
   desktopBackButton.disabled = currentDesktopIndex === 0;
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2
-  ;
+  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2;
 }
 
 updateDesktopButtons();

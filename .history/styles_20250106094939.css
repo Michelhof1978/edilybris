@@ -817,11 +817,6 @@ footer {
   text-decoration: none;  /* Supprimer le soulignement des liens */
   color: inherit;  /* Hériter de la couleur du texte */
 }
-
-.new-hidden, .L-hidden {
-  display: none;
-}
-
 /* FIN CARDS L*/
 
 /* CARD XL AUTEURS MOBILE */
