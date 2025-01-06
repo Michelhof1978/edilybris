@@ -828,33 +828,58 @@ var VanillaTilt = (function () {
   <!--  FIN PRESENTATION AUTEUR TROMBINOSCOPE-->
 <!-- _____________________________________________________________________________________ -->
    <!--  NOUVEAUTE CARDS -->
-   <script>
-// JavaScript for card scrolling
+     <script>
+   document.addEventListener("DOMContentLoaded", function () {
+    // Version Mobile
+    const carousel = document.getElementById("book-carousel");
+    if (carousel) {
+        // Le carousel Bootstrap s'occupe déjà de la navigation
+        return;
+    }
 
-// Mobile carousel initialization
-const bookCarousel = new bootstrap.Carousel(document.getElementById('book-carousel'));
+    // Version Desktop
+    const nextButton = document.getElementById("L-nextGroupButton");
+    const backButton = document.getElementById("L-backButton");
+    const group1 = document.getElementById("L-group1");
+    const group2 = document.getElementById("L-group2");
 
-// Desktop card scrolling
-const LGroup1 = document.getElementById('L-group1');
-const LGroup2 = document.getElementById('L-group2');
-const LBackButton = document.getElementById('L-backButton');
-const LNextGroupButton = document.getElementById('L-nextGroupButton');
+    if (!nextButton || !backButton || !group1 || !group2) {
+        return;
+    }
 
-LNextGroupButton.addEventListener('click', () => {
-  LGroup1.classList.add('L-hidden');
-  LGroup2.classList.remove('L-hidden');
-  LBackButton.disabled = false;
-  LNextGroupButton.disabled = true;
+    let currentGroup = 1;
+
+    function updateNavigation() {
+        if (currentGroup === 1) {
+            group1.classList.remove("L-hidden");
+            group2.classList.add("L-hidden");
+            backButton.disabled = true;
+            nextButton.disabled = false;
+        } else {
+            group1.classList.add("L-hidden");
+            group2.classList.remove("L-hidden");
+            backButton.disabled = false;
+            nextButton.disabled = true;
+        }
+    }
+
+    nextButton.addEventListener("click", function() {
+        if (currentGroup === 1) {
+            currentGroup = 2;
+            updateNavigation();
+        }
+    });
+
+    backButton.addEventListener("click", function() {
+        if (currentGroup === 2) {
+            currentGroup = 1;
+            updateNavigation();
+        }
+    });
+
+    // Initialisation
+    updateNavigation();
 });
-
-LBackButton.addEventListener('click', () => {
-  LGroup1.classList.remove('L-hidden');
-  LGroup2.classList.add('L-hidden');
-  LBackButton.disabled = true;
-  LNextGroupButton.disabled = false;
-});
-</script>
-<!-- FIN NOUVEAUTE CARDS  -->
 
 <!-- _____________________________________________________________________________________ -->
 

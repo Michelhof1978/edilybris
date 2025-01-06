@@ -829,30 +829,56 @@ var VanillaTilt = (function () {
 <!-- _____________________________________________________________________________________ -->
    <!--  NOUVEAUTE CARDS -->
    <script>
-// JavaScript for card scrolling
+document.addEventListener("DOMContentLoaded", function () {
+    // Vérifie si l'appareil est en mode mobile
+    const isMobile = window.matchMedia("(max-width: 768px)").matches;
 
-// Mobile carousel initialization
-const bookCarousel = new bootstrap.Carousel(document.getElementById('book-carousel'));
+    if (isMobile) {
+        const nextButton = document.getElementById("L-nextGroupButton");
+        const backButton = document.getElementById("L-backButton");
+        const container = document.querySelector(".L-card-container-wrapper"); // Conteneur des cartes
+        const groups = Array.from(document.querySelectorAll(".L-card-container")); // Les groupes de cartes (L-card-container)
 
-// Desktop card scrolling
-const LGroup1 = document.getElementById('L-group1');
-const LGroup2 = document.getElementById('L-group2');
-const LBackButton = document.getElementById('L-backButton');
-const LNextGroupButton = document.getElementById('L-nextGroupButton');
+        if (groups.length === 0) {
+            return; // Sortir si aucun groupe de cartes trouvé
+        }
 
-LNextGroupButton.addEventListener('click', () => {
-  LGroup1.classList.add('L-hidden');
-  LGroup2.classList.remove('L-hidden');
-  LBackButton.disabled = false;
-  LNextGroupButton.disabled = true;
+        const cardWidth = groups[0].getBoundingClientRect().width; // Utilisation de getBoundingClientRect() pour une meilleure précision
+        let currentGroupIndex = 0;
+
+        // Ajouter une transition pour un défilement plus fluide
+        container.style.transition = "scroll-left 0.3s ease";
+
+        // Fonction pour ajuster le défilement du conteneur
+        function updateScrollPosition() {
+            container.scrollLeft = currentGroupIndex * cardWidth;
+            // Mettre à jour les boutons de navigation
+            backButton.disabled = currentGroupIndex === 0;
+            nextButton.disabled = currentGroupIndex === groups.length - 1;
+        }
+
+        // Gestionnaire de clic pour le bouton "Suivant"
+        nextButton.addEventListener("click", function () {
+            if (currentGroupIndex < groups.length - 1) {
+                currentGroupIndex++;
+                updateScrollPosition();
+            }
+        });
+
+        // Gestionnaire de clic pour le bouton "Précédent"
+        backButton.addEventListener("click", function () {
+            if (currentGroupIndex > 0) {
+                currentGroupIndex--;
+                updateScrollPosition();
+            }
+        });
+
+        // Initialisation
+        updateScrollPosition();
+    }
 });
 
-LBackButton.addEventListener('click', () => {
-  LGroup1.classList.remove('L-hidden');
-  LGroup2.classList.add('L-hidden');
-  LBackButton.disabled = true;
-  LNextGroupButton.disabled = false;
-});
+
 </script>
 <!-- FIN NOUVEAUTE CARDS  -->
 

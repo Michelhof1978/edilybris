@@ -828,8 +828,7 @@ var VanillaTilt = (function () {
   <!--  FIN PRESENTATION AUTEUR TROMBINOSCOPE-->
 <!-- _____________________________________________________________________________________ -->
    <!--  NOUVEAUTE CARDS -->
-   <script>
-// JavaScript for card scrolling
+   // JavaScript for card scrolling
 
 // Mobile carousel initialization
 const bookCarousel = new bootstrap.Carousel(document.getElementById('book-carousel'));
@@ -853,8 +852,6 @@ LBackButton.addEventListener('click', () => {
   LBackButton.disabled = true;
   LNextGroupButton.disabled = false;
 });
-</script>
-<!-- FIN NOUVEAUTE CARDS  -->
 
 <!-- _____________________________________________________________________________________ -->
 

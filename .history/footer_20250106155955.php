@@ -827,55 +827,63 @@ var VanillaTilt = (function () {
   </script>
   <!--  FIN PRESENTATION AUTEUR TROMBINOSCOPE-->
 <!-- _____________________________________________________________________________________ -->
-   <!--  NOUVEAUTE CARDS -->
+   <!--  NOUVEAUTE CARDS L-->
    <script>
-// JavaScript for card scrolling
-
-// Mobile carousel initialization
-const bookCarousel = new bootstrap.Carousel(document.getElementById('book-carousel'));
-
-// Desktop card scrolling
-const LGroup1 = document.getElementById('L-group1');
-const LGroup2 = document.getElementById('L-group2');
-const LBackButton = document.getElementById('L-backButton');
-const LNextGroupButton = document.getElementById('L-nextGroupButton');
-
-LNextGroupButton.addEventListener('click', () => {
-  LGroup1.classList.add('L-hidden');
-  LGroup2.classList.remove('L-hidden');
-  LBackButton.disabled = false;
-  LNextGroupButton.disabled = true;
-});
-
-LBackButton.addEventListener('click', () => {
-  LGroup1.classList.remove('L-hidden');
-  LGroup2.classList.add('L-hidden');
-  LBackButton.disabled = true;
-  LNextGroupButton.disabled = false;
+document.addEventListener("DOMContentLoaded", function () {
+    // Vérifie si l'appareil est en mode mobile
+    const isMobile = window.matchMedia("(max-width: 768px)").matches;
+    if (isMobile) {
+        const nextButton = document.getElementById("new-nextGroupButton");
+        const backButton = document.getElementById("new-backButton");
+        const container = document.querySelector(".new-card-container-wrapper"); // Conteneur des cartes
+        const groups = Array.from(document.querySelectorAll(".new-card-container")); // Les cartes
+        const cardWidth = groups[0].offsetWidth; // Largeur d'une carte (supposée égale pour toutes)
+        let currentGroupIndex = 0;
+        // Fonction pour ajuster le défilement du conteneur
+        function updateScrollPosition() {
+            container.scrollLeft = currentGroupIndex * cardWidth;
+            // Mettre à jour les boutons de navigation
+            backButton.disabled = currentGroupIndex === 0;
+            nextButton.disabled = currentGroupIndex === groups.length - 1;
+        }
+        // Gestionnaire de clic pour le bouton "Suivant"
+        nextButton.addEventListener("click", function () {
+            if (currentGroupIndex < groups.length - 1) {
+                currentGroupIndex++;
+                updateScrollPosition();
+            }
+        });
+        // Gestionnaire de clic pour le bouton "Précédent"
+        backButton.addEventListener("click", function () {
+            if (currentGroupIndex > 0) {
+                currentGroupIndex--;
+                updateScrollPosition();
+            }
+        });
+        // Initialisation
+        updateScrollPosition();
+    }
 });
 </script>
-<!-- FIN NOUVEAUTE CARDS  -->
-
 <!-- _____________________________________________________________________________________ -->
-
 <!-- CARDS  L AUTEUR-->
 <script>
 // Desktop Navigation
 // Récupération des groupes de cartes (desktop)
-const desktopGroups = document.querySelectorAll('.L-card-container');
+const desktopGroups = document.querySelectorAll('.desktop-card-container');
 let currentDesktopIndex = 0;
 // Boutons de navigation
-const desktopBackButton = document.getElementById('L-backButton2');
-const desktopNextButton = document.getElementById('L-nextGroupButton2');
+const desktopBackButton = document.getElementById('desktop-backButton');
+const desktopNextButton = document.getElementById('desktop-nextGroupButton');
 // Gestionnaire pour le bouton "Suivant"
 desktopNextButton.addEventListener('click', () => {
   if (currentDesktopIndex < desktopGroups.length - 1) {
     // Masque le groupe actuel
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+    desktopGroups[currentDesktopIndex].classList.add('desktop-hidden');
     // Passe au groupe suivant
     currentDesktopIndex++;
     // Affiche le nouveau groupe
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+    desktopGroups[currentDesktopIndex].classList.remove('desktop-hidden');
     // Met à jour l'état des boutons
     updateDesktopButtons();
   }
@@ -884,11 +892,11 @@ desktopNextButton.addEventListener('click', () => {
 desktopBackButton.addEventListener('click', () => {
   if (currentDesktopIndex > 0) {
     // Masque le groupe actuel
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
+    desktopGroups[currentDesktopIndex].classList.add('desktop-hidden');
     // Passe au groupe précédent
     currentDesktopIndex--;
     // Affiche le nouveau groupe
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
+    desktopGroups[currentDesktopIndex].classList.remove('desktop-hidden');
     // Met à jour l'état des boutons
     updateDesktopButtons();
   }
