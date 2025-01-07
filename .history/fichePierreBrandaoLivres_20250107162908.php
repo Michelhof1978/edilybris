@@ -266,7 +266,7 @@ Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines co
 
 <div class="text-center">
   <h4><strong class="h2Jaune mb-5">APPEL PLOMBÉ</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/portrait-pierre-dessin-seul.webp" alt="Image centrée">
+        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/corg.webp" alt="Image centrée">
     </div>
 
 <p class="text-white m-5">Allo, qui c’est ? C’n’est pas l’plombier !
@@ -282,8 +282,6 @@ Le 17 est un numéro d’appel d’urgence... pour les urgences.
 Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharmacie de garde ? Internet est votre ami.
 
 </p>
-
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold ms-5" download>Télécharger le bon de commande</a>
 
 <!------------------------------------------------------------------------- -->
 

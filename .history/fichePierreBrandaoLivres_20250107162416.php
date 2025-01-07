@@ -247,18 +247,17 @@ Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines co
 <!------------------------------------------------------------------------- -->
 
 <div class="text-center">
-  <h4><strong class="h2Jaune mb-5">LA MINUTE CRUCHOT</strong></h4> 
+  <h4><strong class="h2Jaune mb-5">ANGRY BOB - 2</strong></h4> 
         <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/angry-bob-2.webp" alt="Image centrée">
     </div>
 
-<p class="text-white m-5">— Je répète. Vous me dites que votre père est votre maire et que votre tante est aussi votre mère. Votre autre tante est votre sœur et votre frère est masseur. Votre cousin est votre frère et votre cousine une fille au pair ?
-— C’est bien cela, monsieur le Gendarme.
-— Je n’ai rien compris !! Vous allez bientôt me dire que vous êtes le grand-père de votre mère ?
-— Euh non.
-— Are you sure ? Parce moi je ne suis pas your mother, I am not your père but je peux m’occuper de vous.
-— Non, monsieur le Gendarme, I am tout a fait sure.
-— Dites, you are very sympathique but aujourd’hui, c’est Mondaymotivation et I prefer vous savoir ailleurs vous et toute votre family. Alors vous allez souhaiter une bonne semaine à tous nos followers et filer loin, très loin d’ici... Are you understand ?
-— Yes I do et bonne semaine à tous les followers !
+<p class="text-white m-5">Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.
+
+L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les gendarmes présents, allant même jusqu’à proférer des menaces de mort à leur endroit.
+
+Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller. À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.
+
+Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
 
 </p>
 
@@ -266,7 +265,7 @@ Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines co
 
 <div class="text-center">
   <h4><strong class="h2Jaune mb-5">APPEL PLOMBÉ</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/portrait-pierre-dessin-seul.webp" alt="Image centrée">
+        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/corg.webp" alt="Image centrée">
     </div>
 
 <p class="text-white m-5">Allo, qui c’est ? C’n’est pas l’plombier !
@@ -282,8 +281,6 @@ Le 17 est un numéro d’appel d’urgence... pour les urgences.
 Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharmacie de garde ? Internet est votre ami.
 
 </p>
-
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold ms-5" download>Télécharger le bon de commande</a>
 
 <!------------------------------------------------------------------------- -->
 

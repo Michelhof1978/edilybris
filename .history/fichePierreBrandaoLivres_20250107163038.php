@@ -283,7 +283,7 @@ Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharma
 
 </p>
 
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold ms-5" download>Télécharger le bon de commande</a>
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
 
 <!------------------------------------------------------------------------- -->
 
