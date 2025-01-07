@@ -143,8 +143,7 @@ Mais lorsque l’un des plus hauts ténors de l’institution l’invite à acce
 Et quand s’ajoute à ce challenge une affaire d’enlèvement qui la touchera en plein coeur, ses convictions s’opposeront au principe même qui régit toute personne sur Terre : l’Amour !
 
 De Charente-Maritime en Bretagne, suivez cette héroïne et tentez de percer l’obscurantisme qui confronte toujours les éléments du bien à ceux du mal !</p>
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-<h3 class="h2Jaune mt-5">Extrait chapitre 1</h3>
+<h3 class="h2Jaune">Extrait chapitre 1</h3>
 <p>Un frisson secoue la jeune femme… De froid ? Elle ne sait pas trop, mais il est tellement désagréable qu’elle sort de sa torpeur. Elle se retrouve en position fœtale, coincée entre plusieurs parois recouvertes de moquette. Ses jambes pliées ne peuvent se détendre, ses genoux lui font mal. Ses bras ankylosés semblent avoir figé ses articulations. Qu’est-ce que c’est que ça ? Des lanières noires, des… – comment appelle-t-on cela déjà ? Des Serflex ? Oui, c’est le mot... – lui entravent les poignets. Ses yeux, à demi-fermés, percent avec peine son environnement. L’endroit, exigu, ressemble à une grosse malle. Sombre. Aucune lumière. Comme dans un cachot. Serait-elle… prisonnière ? Face à elle, son sac de voyage traîne, inutile.
 
 Elle tente d’humecter ses lèvres, sans succès. Elles ont un goût infect, un goût de médicament qui lui colle aux voies respiratoires, descend dans sa gorge… Elle ne comprend pas, ou plutôt si, trop bien même. Son cœur bat plus fort, surtout lorsqu’elle s’aperçoit qu’un scotch recouvre sa bouche, lui interdisant d’émettre le moindre son. Le produit douceâtre, du chloroforme ? Pourquoi l’a-t-on enlevée ?
