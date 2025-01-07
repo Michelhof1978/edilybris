@@ -226,9 +226,6 @@ Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gend
 Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
 
 Un comble pour ce Bob qui se croyait à l’abri des vues...</p>
-
-<!------------------------------------------------------------------------- -->
-
 </div>
             </div>
         </div>

@@ -164,72 +164,36 @@ Depuis combien de minutes s’est-elle réveillée ? Combien de kilomètres on
             <div class="livre-content">
                 <div class="livre-image">
                     <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture du livre SAV GENDARMERIE BONJOUR 2">
+                <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
 
         </div>
                 <div class="livre-details">
                     <h3 class="h2Jaune">Sav gendarmerie bonjour 2</h3>
                     <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                    <p class="annee text-white"><strong class="h2Jaune">Genre:</strong> Anectoctes</p>
-                    <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 154</p>
-
-                    <p><strong class="h2Jaune">Résumé :</strong> La première édition de S.A.V. Gendarmerie Bonjour est un succès incontestable ! Les retours élogieux et la demande croissante des premiers lecteurs pour un second volume ne se sont pas fait attendre. Aussi, nous avons le plaisir, « Gendy la Fontaine » et moi-même, de vous proposer ces nouvelles anecdotes issues soit du terrain, soit du Centre opérationnel de la gendarmerie.
-
-Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
-
-Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !</p>
-
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-
-    <h3 class="h2Jaune text-center mb-4 mt-5">Extraits</h3>
-<!------------------------------------------------------------------------- -->
-
-  <div class="text-center">
-  <h4><strong class="h2Jaune mb-5">RIDE LIKE THE WINE</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/ride-like-the-wine-2.webp" alt="Image centrée">
+                    
+                    <p><strong class="h2Jaune">Résumé :</strong> Il en va du temps comme des sentiments... Les pupilles s’ouvrent au printemps, les yeux brillent en été, l’ombre des paupières secoue l’automne et l’humidité du regard regrette l’hiver... et tout recommence... Ainsi, Pierre, par ses textes, et Michel, par ses clichés, révèlent un cycle dans lequel la féminité est omniprésente. Beauté des mots et de l’image, le temps est une femme aux multiples tempéraments : c’est aux deux que cet hommage est rendu !</p>
+                    <div class="text-center">
+        <img class="img-fluid w-50 mb-3" src="images/pierreBrandao/michel-bourriau-et-pierre-brandao.jpg" alt="Image centrée">
     </div>
+    <h3 class="h2Jaune">Présentation Michel Bourriau et Pierre Brandao</h3>
+    <p class="lead text-white">Le rochelais <span><strong class="h2Jaune">Michel Bourriau</strong></span> n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
 
-<p class="text-white m-5">Samedi 14 mai 2022 vers 23 heures 15, alors qu’ils patrouillent sur la RD 725 du côté de Faye-l’Abbesse, les gendarmes de Bressuire sont les témoins d’un « spectacle » routier plutôt insolite.
+Ses clichés, s’ils déshabillent parfois ses modèles, se drapent de charme, de douceur et d’un zeste de sensualité. Jamais de provocation inutile, il faut que la femme retrouve ce qu’il y a de beau en elle, ce qu’il y a d’intemporel dans ses formes, ce qu’il y a d’exceptionnel dans ses regards, gais, tristes, coquins, mystérieux.
 
-Devant eux, une voiture roulant bord sur bord telle la vergue d’un bateau sur une mer agitée. Les militaires intrigués prennent soin de l’arrêter.
+C’est dans son travail que les textes de Pierre ont trouvé un reflet idéal. Au lecteur d’y trouver une part d’âme... et de sa propre existence...
 
-Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer. Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler. 2, 92 gr/l, les gendarmes sont éberlués !
+Un an à peine après la sortie du livre, Michel Bourriau est tragiquement décédé à l'occasion d'une plongée dans l'océan Pacifique, près de Cuba.<br>
 
-Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...</p>
+ 
 
-<!------------------------------------------------------------------------- -->
-       
-<div class="text-center">
-  <h4><strong class="h2Jaune mb-5">BOB LE MOLDU</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/bob-le-moldu.webp" alt="Image centrée">
-    </div>
+<span><strong class="h2Jaune">Pierre Brandao</strong></span>, s’il est connu du monde littéraire pour ses romans policiers, revient, avec «Le coeur a ses saisons...», à la poésie.
 
-<p class="text-white m-5">Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.
+Ainsi, se jouant de la célèbre pensée de Pascal, il évoque les différents sentiments qui conduisent la destinée humaine. Coquins, subtils, tristes, profonds, moqueurs ou sincères, les poèmes se veulent le reflet des instants joyeux et pénibles de l’existence, à travers la symbolique des saisons.
 
-Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.
-
-Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.</p>
-
-<!------------------------------------------------------------------------- -->
-
-<div class="text-center">
-  <h4><strong class="h2Jaune mb-5">PÉCHEUR PÊCHEUR</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/pecheur-pecheur.webp" alt="Image centrée">
-    </div>
-
-<p class="text-white m-5">Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
-
-Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
-
-Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
-
-Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
-
-Un comble pour ce Bob qui se croyait à l’abri des vues...</p>
-
-<!------------------------------------------------------------------------- -->
-
-</div>
+Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du ravissement féminin : un beau mariage et une belle complicité que les deux artistes ont plaisir à vous offrir ! </p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                </div>
             </div>
         </div>
 

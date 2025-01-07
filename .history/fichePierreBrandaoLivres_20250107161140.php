@@ -213,7 +213,7 @@ Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin 
 <!------------------------------------------------------------------------- -->
 
 <div class="text-center">
-  <h4><strong class="h2Jaune mb-5">PÉCHEUR PÊCHEUR</strong></h4> 
+  <h4><strong class="h2Jaune mb-5">BOB LE MOLDU</strong></h4> 
         <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/pecheur-pecheur.webp" alt="Image centrée">
     </div>
 
@@ -226,9 +226,6 @@ Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gend
 Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
 
 Un comble pour ce Bob qui se croyait à l’abri des vues...</p>
-
-<!------------------------------------------------------------------------- -->
-
 </div>
             </div>
         </div>

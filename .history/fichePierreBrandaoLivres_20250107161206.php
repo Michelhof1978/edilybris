@@ -227,7 +227,6 @@ Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer,
 
 Un comble pour ce Bob qui se croyait à l’abri des vues...</p>
 
-<!------------------------------------------------------------------------- -->
 
 </div>
             </div>

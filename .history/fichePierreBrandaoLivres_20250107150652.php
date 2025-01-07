@@ -60,49 +60,53 @@
                         <strong class="h2Jaune">Genre :</strong> Policier
                     </p>
                     <p class="lead">
-                    <strong class="h2Jaune">Résumé :</strong> Après Meurtres à la micro-carte, la gendarme Isabelle Loubry doit beaucoup prendre sur elle pour accepter de pardonner au genre humain. Cependant, elle aussi doit rendre des comptes auprès d’une hiérarchie fidèle à ses principes de transparence et d’honnêteté. Mais lorsque l’un des plus hauts ténors de l’institution l’invite à accepter une mission particulièrement sensible, elle est loin de s’imaginer dans quel monde elle allait plonger. Et quand s’ajoute à ce challenge une affaire d’enlèvement qui la touchera en plein coeur, ses convictions s’opposeront au principe même qui régit toute personne sur Terre : l’Amour ! De Charente-Maritime en Bretagne, suivez cette héroïne et tentez de percer l’obscurantisme qui confronte toujours les éléments du bien à ceux du mal !
+                    <strong class="h2Jaune">Résumé :</strong> PolicierCe septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions...
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>                    
-                    <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
-<p>Un frisson secoue la jeune femme… De froid ? Elle ne sait pas trop, mais il est tellement désagréable qu’elle sort de sa torpeur. Elle se retrouve en position fœtale, coincée entre plusieurs parois recouvertes de moquette. Ses jambes pliées ne peuvent se détendre, ses genoux lui font mal. Ses bras ankylosés semblent avoir figé ses articulations. Qu’est-ce que c’est que ça ? Des lanières noires, des… – comment appelle-t-on cela déjà ? Des Serflex ? Oui, c’est le mot... – lui entravent les poignets. Ses yeux, à demi-fermés, percent avec peine son environnement. L’endroit, exigu, ressemble à une grosse malle. Sombre. Aucune lumière. Comme dans un cachot. Serait-elle… prisonnière ? Face à elle, son sac de voyage traîne, inutile. Elle tente d’humecter ses lèvres, sans succès. Elles ont un goût infect, un goût de médicament qui lui colle aux voies respiratoires, descend dans sa gorge… Elle ne comprend pas, ou plutôt si, trop bien même. Son cœur bat plus fort, surtout lorsqu’elle s’aperçoit qu’un scotch recouvre sa bouche, lui interdisant d’émettre le moindre son. Le produit douceâtre, du chloroforme ? Pourquoi l’a-t-on enlevée ? À ce moment, un violent soubresaut lui arrache un cri, étouffé par son bâillon. La recluse se réveille complètement. Une crampe horrible s’empare de ses deux jambes, elle panique. Un deuxième cahot intervient, fait sauter son corps, lui cogne la tête. Alors, elle comprend : quelqu’un la transporte dans le coffre d’une voiture ! Les souvenirs affluent… l’agression sur la route, à trois quarts d’heure de sa destination. L’intrusion, la violence, la rapidité de l’attaque, l’évanouissement… Tout cela lui revient peu à peu… L’horreur : qu’y a-t-il de pire que d’être la victime d’un enlèvement, quand bien même on en ignore les causes et on en craint les conséquences ? Il faut se concentrer, rester calme, appliquer les conseils prodigués par ses parents : en cas de situation extrême, maîtriser sa respiration, oxygéner son cerveau et la solution s’imposera d’elle-même. Ah ! Facile à dire ! Tenter de s’échapper ? Mais pour aller où ? Elle ne connaît pas la direction empruntée par ses kidnappeurs. Attachée et bâillonnée, comment pourrait-elle sortir d’une voiture en plein mouvement, sans risquer de se tuer ? Depuis combien de minutes s’est-elle réveillée ? Combien de kilomètres ont été parcourus durant son inconscience ? L’engin roule sans saccades désormais, signe que le chauffeur a pris une voie rapide, peut-être l’autoroute ? La jeune femme n’a aucune idée de l’heure ni du temps qu’il fait dehors, s’il fait jour, s’il fait nuit… Elle ne comprend pas… Elle reste immobile, prostrée, l’inquiétude annihile toutes ses facultés. Elle est paralysée de peur, se sait à la merci du conducteur… Est-il seul ? Non… ils étaient deux… Bien silencieux d’ailleurs, elle n’entend aucune voix devant. Des maniaques ? Des pervers sexuels qui, une fois leurs fantasmes assouvis, se débarrasseront d’elle comme on jette un résidu à la poubelle ? Des larmes coulent, le cœur bat trop fort, ses mains tremblent sans discontinuer… Bon sang, où se trouve sa planche de salut, s’il y en a une ?</p>
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>   
-</div>
+                    </div>
+                </div>
             </div>
 
-       <!-- Livre 2-->
-       <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
+            <!-- Livre 2 -->
+            <div id="livre-2-mobile" class="livre-mobile row align-items-center my-4 d-none">
                 <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <img src="images/pierreBrandao/" class="img-fluid w-75 mb-3 text-white" alt="Couverture du livre L'enlèvement">
                     <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">L'enlèvement</h3>
+                    <h3 class="h2Jaune text-center">LE COEUR À SES SAISONS</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
-                    </p>
-                    <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 338
-                    </p>
-                    <p>
-                        <strong class="h2Jaune">Genre :</strong> Policier
+                        <strong>Année de publication :</strong> 2010
                     </p>
                     <p class="lead">
-                    <strong class="h2Jaune">Résumé :</strong> Après Meurtres à la micro-carte, la gendarme Isabelle Loubry doit beaucoup prendre sur elle pour accepter de pardonner au genre humain. Cependant, elle aussi doit rendre des comptes auprès d’une hiérarchie fidèle à ses principes de transparence et d’honnêteté. Mais lorsque l’un des plus hauts ténors de l’institution l’invite à accepter une mission particulièrement sensible, elle est loin de s’imaginer dans quel monde elle allait plonger. Et quand s’ajoute à ce challenge une affaire d’enlèvement qui la touchera en plein coeur, ses convictions s’opposeront au principe même qui régit toute personne sur Terre : l’Amour ! De Charente-Maritime en Bretagne, suivez cette héroïne et tentez de percer l’obscurantisme qui confronte toujours les éléments du bien à ceux du mal !
+                        Il en va du temps comme des sentiments... 
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>                    
-                    <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
-<p>Un frisson secoue la jeune femme… De froid ? Elle ne sait pas trop, mais il est tellement désagréable qu’elle sort de sa torpeur. Elle se retrouve en position fœtale, coincée entre plusieurs parois recouvertes de moquette. Ses jambes pliées ne peuvent se détendre, ses genoux lui font mal. Ses bras ankylosés semblent avoir figé ses articulations. Qu’est-ce que c’est que ça ? Des lanières noires, des… – comment appelle-t-on cela déjà ? Des Serflex ? Oui, c’est le mot... – lui entravent les poignets. Ses yeux, à demi-fermés, percent avec peine son environnement. L’endroit, exigu, ressemble à une grosse malle. Sombre. Aucune lumière. Comme dans un cachot. Serait-elle… prisonnière ? Face à elle, son sac de voyage traîne, inutile. Elle tente d’humecter ses lèvres, sans succès. Elles ont un goût infect, un goût de médicament qui lui colle aux voies respiratoires, descend dans sa gorge… Elle ne comprend pas, ou plutôt si, trop bien même. Son cœur bat plus fort, surtout lorsqu’elle s’aperçoit qu’un scotch recouvre sa bouche, lui interdisant d’émettre le moindre son. Le produit douceâtre, du chloroforme ? Pourquoi l’a-t-on enlevée ? À ce moment, un violent soubresaut lui arrache un cri, étouffé par son bâillon. La recluse se réveille complètement. Une crampe horrible s’empare de ses deux jambes, elle panique. Un deuxième cahot intervient, fait sauter son corps, lui cogne la tête. Alors, elle comprend : quelqu’un la transporte dans le coffre d’une voiture ! Les souvenirs affluent… l’agression sur la route, à trois quarts d’heure de sa destination. L’intrusion, la violence, la rapidité de l’attaque, l’évanouissement… Tout cela lui revient peu à peu… L’horreur : qu’y a-t-il de pire que d’être la victime d’un enlèvement, quand bien même on en ignore les causes et on en craint les conséquences ? Il faut se concentrer, rester calme, appliquer les conseils prodigués par ses parents : en cas de situation extrême, maîtriser sa respiration, oxygéner son cerveau et la solution s’imposera d’elle-même. Ah ! Facile à dire ! Tenter de s’échapper ? Mais pour aller où ? Elle ne connaît pas la direction empruntée par ses kidnappeurs. Attachée et bâillonnée, comment pourrait-elle sortir d’une voiture en plein mouvement, sans risquer de se tuer ? Depuis combien de minutes s’est-elle réveillée ? Combien de kilomètres ont été parcourus durant son inconscience ? L’engin roule sans saccades désormais, signe que le chauffeur a pris une voie rapide, peut-être l’autoroute ? La jeune femme n’a aucune idée de l’heure ni du temps qu’il fait dehors, s’il fait jour, s’il fait nuit… Elle ne comprend pas… Elle reste immobile, prostrée, l’inquiétude annihile toutes ses facultés. Elle est paralysée de peur, se sait à la merci du conducteur… Est-il seul ? Non… ils étaient deux… Bien silencieux d’ailleurs, elle n’entend aucune voix devant. Des maniaques ? Des pervers sexuels qui, une fois leurs fantasmes assouvis, se débarrasseront d’elle comme on jette un résidu à la poubelle ? Des larmes coulent, le cœur bat trop fort, ses mains tremblent sans discontinuer… Bon sang, où se trouve sa planche de salut, s’il y en a une ?</p>
-<div class="text-center mt-3">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Livre 3 -->
+            <div id="livre-3-mobile" class="livre-mobile row align-items-center my-4 d-none">
+                <div class="col-12 text-center">
+                    <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid w-75 mb-3" alt="Couverture du livre Lucioles Magiques">
+                    <p class="fw-bold coloryellow fs-5">15,00 €</p>
+                </div>
+                <div class="col-12 text-white">
+                    <h3 class="h2Jaune text-center">LUCIOLES MAGIQUES</h3>
+                    <p>
+                        <strong>Année de publication :</strong> 2015
+                    </p>
+                    <p class="lead">
+                        LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie...
+                    </p>
+                    <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>   
-</div>
-            </div>    
+                    </div>
+                </div>
+            </div>
 
             <!-- Boutons de navigation -->
             <div class="d-flex justify-content-center mt-4">
@@ -117,11 +121,11 @@
     <div class="containerAuteur">
         <h2>Les livres de Pierre Brandao</h2>
 
-       <!-- Carte 1 L'ENLEVEMENT--> 
+       <!-- Carte 1 --> 
 <div id="livre-1" class="livre">
     <div class="livre-content">
         <div class="livre-image">
-            <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid " alt="Couverture du livre Le Voyage Intérieur">
+            <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75" alt="Couverture du livre Le Voyage Intérieur">
             <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4 lead ">22,00 €</p>
         </div>
@@ -159,77 +163,42 @@ Depuis combien de minutes s’est-elle réveillée ? Combien de kilomètres on
     </div>
 </div>
 
-        <!-- Carte 2 SAV GENDARMERIE BONJOUR 2 -->
+        <!-- Carte 2 -->
         <div id="livre-2" class="livre livre-hidden">
             <div class="livre-content">
                 <div class="livre-image">
-                    <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture du livre SAV GENDARMERIE BONJOUR 2">
+                    <img src="images/pierreBrandao/leCoeurAsesSaisons.png" class="img-fluid" alt="Couverture du livre 2">
+                <!-- Ajout du prix sous l'image -->
             <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
+            <img src="images/ficheAuteurlivres.png" class="img-fluid mt-5" alt="Couverture du livre 6">
+            <img src="images/ficheAuteurlivres2.png" class="img-fluid mt-5" alt="Couverture du livre 6">
 
         </div>
                 <div class="livre-details">
-                    <h3 class="h2Jaune">Sav gendarmerie bonjour 2</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                    <p class="annee text-white"><strong class="h2Jaune">Genre:</strong> Anectoctes</p>
-                    <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 154</p>
-
-                    <p><strong class="h2Jaune">Résumé :</strong> La première édition de S.A.V. Gendarmerie Bonjour est un succès incontestable ! Les retours élogieux et la demande croissante des premiers lecteurs pour un second volume ne se sont pas fait attendre. Aussi, nous avons le plaisir, « Gendy la Fontaine » et moi-même, de vous proposer ces nouvelles anecdotes issues soit du terrain, soit du Centre opérationnel de la gendarmerie.
-
-Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
-
-Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !</p>
-
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-
-    <h3 class="h2Jaune text-center mb-4 mt-5">Extraits</h3>
-<!------------------------------------------------------------------------- -->
-
-  <div class="text-center">
-  <h4><strong class="h2Jaune mb-5">RIDE LIKE THE WINE</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/ride-like-the-wine-2.webp" alt="Image centrée">
+                    <h3 class="h2Jaune">LE COEUR A SES SAISONS</h3>
+                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2010</p>
+                    <p><strong class="h2Jaune">Résumé :</strong> Il en va du temps comme des sentiments... Les pupilles s’ouvrent au printemps, les yeux brillent en été, l’ombre des paupières secoue l’automne et l’humidité du regard regrette l’hiver... et tout recommence... Ainsi, Pierre, par ses textes, et Michel, par ses clichés, révèlent un cycle dans lequel la féminité est omniprésente. Beauté des mots et de l’image, le temps est une femme aux multiples tempéraments : c’est aux deux que cet hommage est rendu !</p>
+                    <div class="text-center">
+        <img class="img-fluid w-50 mb-3" src="images/pierreBrandao/michel-bourriau-et-pierre-brandao.jpg" alt="Image centrée">
     </div>
+    <h3 class="h2Jaune">Présentation Michel Bourriau et Pierre Brandao</h3>
+    <p class="lead text-white">Le rochelais <span><strong class="h2Jaune">Michel Bourriau</strong></span> n’a pas attendu la retraite pour se consacrer à la photographie. Sa thématique préférée depuis de nombreuses années : la féminité. 
 
-<p class="text-white m-5">Samedi 14 mai 2022 vers 23 heures 15, alors qu’ils patrouillent sur la RD 725 du côté de Faye-l’Abbesse, les gendarmes de Bressuire sont les témoins d’un « spectacle » routier plutôt insolite.
+Ses clichés, s’ils déshabillent parfois ses modèles, se drapent de charme, de douceur et d’un zeste de sensualité. Jamais de provocation inutile, il faut que la femme retrouve ce qu’il y a de beau en elle, ce qu’il y a d’intemporel dans ses formes, ce qu’il y a d’exceptionnel dans ses regards, gais, tristes, coquins, mystérieux.
 
-Devant eux, une voiture roulant bord sur bord telle la vergue d’un bateau sur une mer agitée. Les militaires intrigués prennent soin de l’arrêter.
+C’est dans son travail que les textes de Pierre ont trouvé un reflet idéal. Au lecteur d’y trouver une part d’âme... et de sa propre existence...
 
-Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer. Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler. 2, 92 gr/l, les gendarmes sont éberlués !
+Un an à peine après la sortie du livre, Michel Bourriau est tragiquement décédé à l'occasion d'une plongée dans l'océan Pacifique, près de Cuba.<br>
 
-Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...</p>
+ 
 
-<!------------------------------------------------------------------------- -->
-       
-<div class="text-center">
-  <h4><strong class="h2Jaune mb-5">BOB LE MOLDU</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/bob-le-moldu.webp" alt="Image centrée">
-    </div>
+<span><strong class="h2Jaune">Pierre Brandao</strong></span>, s’il est connu du monde littéraire pour ses romans policiers, revient, avec «Le coeur a ses saisons...», à la poésie.
 
-<p class="text-white m-5">Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.
+Ainsi, se jouant de la célèbre pensée de Pascal, il évoque les différents sentiments qui conduisent la destinée humaine. Coquins, subtils, tristes, profonds, moqueurs ou sincères, les poèmes se veulent le reflet des instants joyeux et pénibles de l’existence, à travers la symbolique des saisons.
 
-Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.
-
-Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.</p>
-
-<!------------------------------------------------------------------------- -->
-
-<div class="text-center">
-  <h4><strong class="h2Jaune mb-5">PÉCHEUR PÊCHEUR</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/pecheur-pecheur.webp" alt="Image centrée">
-    </div>
-
-<p class="text-white m-5">Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
-
-Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
-
-Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
-
-Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
-
-Un comble pour ce Bob qui se croyait à l’abri des vues...</p>
-
-<!------------------------------------------------------------------------- -->
-
-</div>
+Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du ravissement féminin : un beau mariage et une belle complicité que les deux artistes ont plaisir à vous offrir ! </p>
+                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                </div>
             </div>
         </div>
 

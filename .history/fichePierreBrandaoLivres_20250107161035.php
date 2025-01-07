@@ -212,22 +212,6 @@ Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin 
 
 <!------------------------------------------------------------------------- -->
 
-<div class="text-center">
-  <h4><strong class="h2Jaune mb-5">PÉCHEUR PÊCHEUR</strong></h4> 
-        <img class="img-fluid w-50 mb-1 mt-4" src="images/pierreBrandao/pecheur-pecheur.webp" alt="Image centrée">
-    </div>
-
-<p class="text-white m-5">Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
-
-Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
-
-Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
-
-Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
-
-Un comble pour ce Bob qui se croyait à l’abri des vues...</p>
-
-<!------------------------------------------------------------------------- -->
 
 </div>
             </div>
