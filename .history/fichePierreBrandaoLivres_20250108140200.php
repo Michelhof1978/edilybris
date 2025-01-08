@@ -45,7 +45,7 @@
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE 2">
+                <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE 2">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Brandao Pierre</div>
                     <div class="mobile-book-price">22,00 €</div>
@@ -333,7 +333,7 @@
         <!-- carte 12 -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
+                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">15,00 €</div>
@@ -341,12 +341,12 @@
             </a>
         </div>
 
-        <!-- carte 13 -->
+        <!-- carte 13 PATRICE BACHEREAU-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre La grande prophetie">
+                <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre/div>
+                    <div class="new-card-author">Bachereau Patrice </div>
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>

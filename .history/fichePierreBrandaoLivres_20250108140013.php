@@ -45,7 +45,7 @@
     <div id="mobile-group2" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE 2">
+                <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE 2">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Brandao Pierre</div>
                     <div class="mobile-book-price">22,00 €</div>
@@ -276,42 +276,42 @@
         <!-- carte 7 -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
                     <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
 
-        <!-- carte 8 -->
+        <!-- carte 8 jean Michel Delaneau-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
+                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-author">Delaneau Jean Michel </div>
                     <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>
         
-        <!-- carte 9 -->
+        <!-- carte 9 WEBER DENECHAUD JANNICK-->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-author">Jannick Weber Denechaud</div>
                     <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
         </div>
 
-         <!-- carte 10 -->
+         <!-- carte 10 WEBER DENECHAUD JANNICK-->
          <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
+                <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-author">Jannick Weber Denechaud</div>
                     <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
@@ -320,33 +320,33 @@
 
      <!-- Groupe 3 -->
      <div id="desktop-group3" class="new-card-container new-hidden">
-        <!-- carte 11  -->
+        <!-- carte 11 PATRICIA SCHARFF -->
         <div class="new-card">
             <a href="link_to_book_F.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre La pleine des jeux">
+                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre La pleine des jeux">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-author">Scharff Patricia </div>
                     <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 12 -->
+        <!-- carte 12 PATRICIA SCHARFF -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
+                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-author">Scharff Patricia </div>
                     <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>
 
-        <!-- carte 13 -->
+        <!-- carte 13 PATRICE BACHEREAU-->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images" class="img-fluid" alt="Couverture de livre La grande prophetie">
+                <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre/div>
+                    <div class="new-card-author">Bachereau Patrice </div>
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
