@@ -165,7 +165,7 @@
     </div>
      <!-- Carte 5 Brandao Pierre-->
     <div class="L-card">
-        <a href="fichePierreBrandaoSavGendarmerieBonjour2.php">
+        <a href="fichePierreBrandaoSavGendarmerie">
             <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour 2">
             <div class="L-card-content">
                 <div class="L-card-author">Brandao Pierre</div>
