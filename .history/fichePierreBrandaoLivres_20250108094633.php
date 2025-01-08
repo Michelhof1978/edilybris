@@ -76,8 +76,8 @@
        <!-- Livre 2 SAV GENDARMERIE BONOUR 2 -->
        <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
-                    <p class="fw-bold coloryellow fs-5">15,00 €</p>
+                    <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">L'enlèvement</h3>
@@ -85,18 +85,14 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 154
+                        <strong class="h2Jaune">Nombre de pages :</strong> 338
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Anectoctes
+                        <strong class="h2Jaune">Genre :</strong> Policier
                     </p>
-
                     <p class="lead">
-                    <strong class="h2Jaune">Résumé :</strong> La première édition de S.A.V. Gendarmerie Bonjour est un succès incontestable ! Les retours élogieux et la demande croissante des premiers lecteurs pour un second volume ne se sont pas fait attendre. Aussi, nous avons le plaisir, « Gendy la Fontaine » et moi-même, de vous proposer ces nouvelles anecdotes issues soit du terrain, soit du Centre opérationnel de la gendarmerie.
-Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
-Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !
+                    <strong class="h2Jaune">Résumé :</strong> Après Meurtres à la micro-carte, la gendarme Isabelle Loubry doit beaucoup prendre sur elle pour accepter de pardonner au genre humain. Cependant, elle aussi doit rendre des comptes auprès d’une hiérarchie fidèle à ses principes de transparence et d’honnêteté. Mais lorsque l’un des plus hauts ténors de l’institution l’invite à accepter une mission particulièrement sensible, elle est loin de s’imaginer dans quel monde elle allait plonger. Et quand s’ajoute à ce challenge une affaire d’enlèvement qui la touchera en plein coeur, ses convictions s’opposeront au principe même qui régit toute personne sur Terre : l’Amour ! De Charente-Maritime en Bretagne, suivez cette héroïne et tentez de percer l’obscurantisme qui confronte toujours les éléments du bien à ceux du mal !
                     </p>
-                    
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>                    
@@ -120,7 +116,7 @@ Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu�
     <section class="livres d-none d-md-block">
     <div class="containerAuteur">
         <h2>Les livres de Pierre Brandao</h2>
- <!-- ___________________________________________________________________________________-->
+
        <!-- Carte 1 L'ENLEVEMENT--> 
 <div id="livre-1" class="livre">
     <div class="livre-content">
@@ -162,7 +158,6 @@ Depuis combien de minutes s’est-elle réveillée ? Combien de kilomètres on
         </div>
     </div>
 </div>
- <!-- ___________________________________________________________________________________-->
 
         <!-- Carte 2 SAV GENDARMERIE BONJOUR 2 -->
         <div id="livre-2" class="livre livre-hidden">
@@ -290,7 +285,7 @@ Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharma
 
 <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold ms-5" download>Télécharger le bon de commande</a>
 
- <!-- ___________________________________________________________________________________-->
+<!------------------------------------------------------------------------- -->
 
 </div>
             </div>

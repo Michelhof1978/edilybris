@@ -3,7 +3,6 @@
     <div class="containerAuteur">
         <h1>Pierre Brandao</h1>
         <img src="images/pierreBrandao/pierreBrandao.webp" alt="Pierre Brandao" class="img-fluid bio-image">
-        <!-- <p class="intro">Un écrivain au cœur de l'âme humaine</p> -->
     </div>
 </div>
 

@@ -90,13 +90,9 @@
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Anectoctes
                     </p>
-
                     <p class="lead">
-                    <strong class="h2Jaune">Résumé :</strong> La première édition de S.A.V. Gendarmerie Bonjour est un succès incontestable ! Les retours élogieux et la demande croissante des premiers lecteurs pour un second volume ne se sont pas fait attendre. Aussi, nous avons le plaisir, « Gendy la Fontaine » et moi-même, de vous proposer ces nouvelles anecdotes issues soit du terrain, soit du Centre opérationnel de la gendarmerie.
-Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
-Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !
+                    <strong class="h2Jaune">Résumé :</strong> uivez cette héroïne et tentez de percer l’obscurantisme qui confronte toujours les éléments du bien à ceux du mal !
                     </p>
-                    
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>                    

@@ -96,7 +96,7 @@
 Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
 Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !
                     </p>
-                    
+
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>                    
@@ -109,10 +109,10 @@ Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu�
             </div>    
 
             <!-- Boutons de navigation -->
-            <div class="d-flex justify-content-center mt-4">
+            <!-- <div class="d-flex justify-content-center mt-4">
                 <button id="livre-backButton-mobile" class="btn btn-secondary me-2" disabled>Précédent</button>
                 <button id="livre-nextButton-mobile" class="btn btn-primary">Suivant</button>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -296,182 +296,5 @@ Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharma
             </div>
         </div>
 
-        <!-- Carte 3 -->
-        <div id="livre-3" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/luciolesMagiques.png" class="img-fluid" alt="Couverture du livre 3">
-                <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">LUCIOLES MAGIQUES</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net. De la passion des mots et des images ce recueil emporte le lecteur dans les sentiments troubles de la vie ; plutôt d'écriture libre, les thèmes évoqués ne pourront pas laisser indifférent. 
-
-Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques. </p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- Carte 4 -->
-        <div id="livre-4" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLquesavonsnousdumonde.png" class="img-fluid" alt="Couverture du livre 4">
-                <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Pierre BRANDAO, SES RECUEILS DE POÉSIES</h3>
-                    <h3 class="h2Jaune">QUE SAVONS-NOUS DU MONDE ?</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
-                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Ce recueil de poésies est le premier fruit d'une collaboration avec Marie, poète rencontrée sur le Net. Les interrogations posées interpellent chacun d'entre nous, et les réponses sont motivées par nos expériences personnelles mais aussi par l'espoir.
-
-Bonne lecture des extraits ci-dessous !
-
-Attention : ce recueil n'est plus disponible en version papier, uniquement en numérique.</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
-        </div>
-
-       <!-- Carte 5 -->
-<div id="livre-5" class="livre livre-hidden">
-    <div class="livre-content">
-        <div class="livre-image">
-            <img src="images/pierreBrandao/XLlamourafleurdame.png" class="img-fluid" alt="Couverture du livre 5">
-            <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
-        </div>
-        <div class="livre-details">
-            <h3 class="h2Jaune">L'AMOUR À FLEUR D'ÂME</h3>
-            <p><strong>ATTENTION : OUVRAGE ÉPUISÉ EN VERSION PAPIER <br>IL EXISTE UNE VERSION NUMÉRIQUE DES TEXTES SEULS ( PAS DE PARTITION NI DE CD)</strong></p>
-            <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
-            <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Cet ouvrage a été publié en 2001, par les éditions Cléa à Dijon. Une cinquantaine de textes a fait l'objet d'une interprétation musicale à l'occasion d'un spectacle donné à Surgères, par Music Art Diffusion (association présidée par Christian Méchin, directeur de l'école de musique de Surgères).<br><br>Bonne découverte !</p>
-
-            <!-- Colonnes de texte -->
-            <div class="row mt-3">
-                <div class="col-md-6">
-                    <h2>L'AMOUR A FLEUR D'AME : EXTRAITS</h2>
-                    <h4 class="h2Jaune">MARIN</h4>
-                    <p class="text-white">Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette ;
-Je suis le matelot qui s'enivre et se plie
-Criant à travers flots le dégoût ramolli,
-Dégoût à pâle écume où l'ombre se répète ...
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je voudrai contracter la poudre d'escampette !
-L’orage est violeur du plaisir de la fête,
-Je ne suis qu'un pauvre hère au hasard de folie,
-Trimballant la douleur d’un cœur trop démuni
-Sur la vague perfide à couleur de défaite !
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Il faudra bien qu'un jour je redresse la tête,
-Fièrement capitaine à bord de ma corvette !
-La mer m'entourera de ses bras si jolis,
-Je m'y noierai de grâce en buvant dans son lit,
-Et n'oublierai jamais qu'avant d'être poète,
-Je ne suis qu'un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je rentrerai au port pour montrer mes conquêtes,
-Acclamé par les gars et de belles soubrettes ;
-Je me saoulerai d’aise en pensant que l’oubli
-Soit le plus odieux de mes flagrants délits !
-Faible je deviendrais attendant qu’on m’arrête…
-Je ne suis qu’un marin perdu dans la tempête,
-Soufflant à cœur blessé le pleur de ma trompette…
-
-Je ne suis qu’un marin perdu dans la tempête,
-​Soufflant à cœur blessé le pleur de ma trompette…</p>
-                </div>
-                <div class="col-md-6">
-                    <h4 class="h2Jaune">CROIRE EN QUI ? </h4>
-                    <p class="text-white">Je ne suis qu’un enfant, ô mon Dieu,
-Pourtant je ne sais ce qu’on me veut :
-Ma mère me bat, mon père boit,
-Et il me faut croire en votre foi ?
-Dimanche jour sacré de l’église,
-Je pleure à la vie, à votre emprise !
-Tous les autres jours de la semaine
-Je pleure à votre éducation saine !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Enfin adolescent ô mon Dieu,
-Mon cœur se froisse de mieux en mieux :
-J’entends crier la voix d’un ami
-Qui ne veut penser perdre la vie !
-Et qui maudit tout bas ce visage
-Grave : c’est le curé du village !
-Je pleurerai toute ma pensée
-À ceux que la croyance offensait !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Quand je serai adulte, ô mon Dieu,
-Prêt à suivre le chemin radieux
-Que vous nous avez promis prochain,
-Que penserai-je de ces humains
-Cachés dans de profondes cellules ?
-Est-ce votre foi qui les stimule ?
-Je veux pleurer cette bannière
-Qu’est la liberté prisonnière !
-
-Il me faut croire en qui, croire en quoi,
-Pour que je ne dises plus : pourquoi ?
-
-Ridé c’est mon futur ô mon Dieu,
-À souffrir mon corps trop douloureux !
-À souffrir chaque jour d’une messe
-La voix de l’hypocrite promesse.
-À souffrir dans chaque partition
-La note aiguë de la confession ;
-Et à souffrir le dernier voyage
-D’un compagnon mort de son vieil âge !
-
-Il me faut croire en quoi, croire en qui,
-Pour que je ne dises plus : pour Qui ?</p>
-                </div>
-            </div>
-
-            <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-        </div>
-    </div>
-</div>
-
-
-        <!-- Carte 6 -->
-        <div id="livre-6" class="livre livre-hidden">
-            <div class="livre-content">
-                <div class="livre-image">
-                    <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-                <!-- Ajout du prix sous l'image -->
-            <p class=" fw-bold coloryellow mt-3 fs-4 lead ">15,00 €</p>
-            <img src="images/pierreBrandao/XLlivre6.png" class="img-fluid" alt="Couverture du livre 6">
-
-                </div>
-                <div class="livre-details">
-                    <h3 class="h2Jaune">Titre du Livre 6</h3>
-                    <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                    <p class="lead text-white"><strong class="h2Jaune">Résumé :</strong> Résumé du livre 6...</p>
-                    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- Boutons de navigation -->
-        <div class="livre-navigation d-flex justify-content-center mt-4">
-            <button id="livre-backButton" class="livre-button" disabled>Précédent</button>
-            <button id="livre-nextButton" class="livre-button">Suivant</button>
-        </div>
-    </div>
-</section>
+       
 <!-- FIN MODE DESKTOP--> 

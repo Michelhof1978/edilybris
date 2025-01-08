@@ -96,7 +96,7 @@
 Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
 Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !
                     </p>
-                    
+
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>                    
@@ -109,10 +109,10 @@ Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu�
             </div>    
 
             <!-- Boutons de navigation -->
-            <div class="d-flex justify-content-center mt-4">
+            <!-- <div class="d-flex justify-content-center mt-4">
                 <button id="livre-backButton-mobile" class="btn btn-secondary me-2" disabled>Précédent</button>
                 <button id="livre-nextButton-mobile" class="btn btn-primary">Suivant</button>
-            </div>
+            </div> -->
         </div>
     </section>
 
