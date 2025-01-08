@@ -40,9 +40,6 @@ Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu�
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-
-<!-------------------------------------------------------------------------------------->
-
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
                     <h3 class="h2Jaune text-center m-3">RIDE LIKE THE WINE</h3>
                     <div class="col-12 text-center">
@@ -58,38 +55,6 @@ Le conducteur qui circule malgré la suspension de son permis et sous le fardeau
 
 Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...
                     </p>
-
-<!-------------------------------------------------------------------------------------->
-
-<h3 class="h2Jaune text-center m-3">BOB LE MOLDU</h3>
-                    <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/bob-le-moldu.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                    <p>
-                    Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.
-
-Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.
-
-Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.
-                    </p>
-<!-------------------------------------------------------------------------------------->
-
-                    <h3 class="h2Jaune text-center m-3">PÉCHEUR PÊCHEUR</h3>
-                    <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/pecheur-pecheur.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                    <p>
-                    Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
-
-Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
-
-Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
-
-Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
-
-Un comble pour ce Bob qui se croyait à l’abri des vues...
-                    </p>
-<!-------------------------------------------------------------------------------------->
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -123,7 +88,6 @@ Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu�
                         </p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                         <h3 class="h2Jaune mt-5 text-center">Extrait</h3>
-<!-------------------------------------------------------------------------------------->
                         <h4 class="h2Jaune mt-2 mb-3 text-center">RIDE LIKE THE WINE</h4>
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/ride-like-the-wine-2.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
@@ -136,40 +100,18 @@ Le conducteur qui circule malgré la suspension de son permis et sous le fardeau
 
 Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...</p>
                         
-<!-------------------------------------------------------------------------------------->
-
 <h4 class="h2Jaune mt-2 mb-3 text-center">BOB LE MOLDU</h4>
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/bob-le-moldu.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                        <p>Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.
+                        <p>Samedi 14 mai 2022 vers 23 heures 15, alors qu’ils patrouillent sur la RD 725 du côté de Faye-l’Abbesse, les gendarmes de Bressuire sont les témoins d’un « spectacle » routier plutôt insolite.
 
-Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.
+Devant eux, une voiture roulant bord sur bord telle la vergue d’un bateau sur une mer agitée. Les militaires intrigués prennent soin de l’arrêter.
 
-Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.</p>                       
-                      
-<!-------------------------------------------------------------------------------------->
+Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer. Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler. 2, 92 gr/l, les gendarmes sont éberlués !
 
-<h4 class="h2Jaune mt-2 mb-3 text-center">PÉCHEUR PÊCHEUR</h4>
-                        <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/pecheur-pecheur.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                        <p>Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
-
-Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
-
-Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
-
-Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
-
-Un comble pour ce Bob qui se croyait à l’abri des vues...
-
-</p>                       
-                      
-<!-------------------------------------------------------------------------------------->
-
-
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...</p>                       
+                        <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

@@ -63,14 +63,18 @@ Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les ge
 
 <h3 class="h2Jaune text-center m-3">BOB LE MOLDU</h3>
                     <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/bob-le-moldu.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/pierreBrandao/b class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
                     <p>
-                    Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.
+                    Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
 
-Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.
+Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
 
-Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.
+Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
+
+Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
+
+Un comble pour ce Bob qui se croyait à l’abri des vues...
                     </p>
 <!-------------------------------------------------------------------------------------->
 
