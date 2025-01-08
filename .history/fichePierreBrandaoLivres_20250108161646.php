@@ -380,7 +380,76 @@
          
 
     
-          
+            </a>
+        </div>
+
+         <!-- carte 30 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">??? €</div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <!-- Groupe 7 -->
+     <div id="desktop-group7" class="new-card-container new-hidden">
+        <!-- carte 31 JOCELYN MAILY -->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
+                <div class="new-card-content">
+                    <div class="new-card-author">Maily Jocelyn</div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 32 ABDEL FRANCOIS NADINI-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Nadini Abdel François </div>
+                    <div class="new-card-price">16,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 33 ALAIN TAHET-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+          <!-- carte 33 ALAIN TAHET-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 34 ALAIN TAHET-->
+         <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">16,00 €</div>
+                </div>
+            </a>
+        </div>
       </div>
 
        <!-- Groupe 8-->

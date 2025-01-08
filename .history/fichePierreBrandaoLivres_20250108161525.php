@@ -366,7 +366,7 @@
             </a>
         </div>
         
-        <!-- carte 14 -->
+        <!-- carte 14 Pierre Brandao-->
         <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile !">
@@ -377,10 +377,360 @@
             </a>
         </div>
 
-         
+         <!-- carte 15 Pierre Brandao-->
+         <div class="new-card">
+            <a href="link_to_book_J.html">
+                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">22,00 €</div>
+                </div>
+            </a>
+        </div> 
+    </div>
+   
 
-    
-          
+    <!-- Groupe 4 -->
+    <div id="desktop-group4" class="new-card-container new-hidden">
+        <!-- carte 16 Pierre Brandao-->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre Les ronds points de la colère">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">20,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 17 Pierre Brandao-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 18 VERONOIQUE ASH-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
+                <div class="new-card-content">
+                    <div class="new-card-author">Ash Véronique </div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+        <!-- carte 19 VERONOIQUE ASH-->
+        <div class="new-card">
+            <a href="link_to_book_J.html">
+                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
+                <div class="new-card-content">
+                    <div class="new-card-author">Ash Véronique </div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 20 LUC LE GUENNEC-->
+         <div class="new-card">
+            <a href="link_to_book_J.html">
+                <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture de livre Retour à l'essentiel">
+                <div class="new-card-content">
+                    <div class="new-card-author">Le Guennec Luc</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div> 
+    </div>
+
+        <!-- Groupe 5 -->
+        <div id="desktop-group5" class="new-card-container new-hidden">
+        <!-- carte 21 PIERRE BRANDAO-->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
+                <div class="new-card-content">
+                    <div class="new-card-author">Lo Pinto Guy </div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 22 ROXANE LOVAC-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
+                <div class="new-card-content">
+                    <div class="new-card-author">Lovac Roxane </div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 23 ROXANE LOVAC-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
+                <div class="new-card-content">
+                    <div class="new-card-author">Lovac Roxane </div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+         <!-- carte 24 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
+                <div class="new-card-content">
+                    <div class="new-card-author">Pierre Brandao </div>
+                    <div class="new-card-price">20,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 25 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_J.html">
+                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassinn du 1 er mai">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">20,00 €</div>
+                </div>
+            </a>
+        </div> 
+    </div>
+
+     
+     <!-- Groupe 6 -->
+     <div id="desktop-group6" class="new-card-container new-hidden">
+        <!-- carte 26 ARLETTE BESSEDE-->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
+                <div class="new-card-content">
+                    <div class="new-card-author">Bessède Arlette </div>
+                    <div class="new-card-price">10,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 27 ARLETTE BESSEDE-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <div class="new-card-content">
+                    <div class="new-card-author">Bessède Arlette </div>
+                    <div class="new-card-price">12,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 28 DAVID BEAULIEU-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
+                <div class="new-card-content">
+                    <div class="new-card-author">Beaulieu David </div>
+                    <div class="new-card-price">18,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+         <!-- carte 29 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 30 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">??? €</div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <!-- Groupe 7 -->
+     <div id="desktop-group7" class="new-card-container new-hidden">
+        <!-- carte 31 JOCELYN MAILY -->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
+                <div class="new-card-content">
+                    <div class="new-card-author">Maily Jocelyn</div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 32 ABDEL FRANCOIS NADINI-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Nadini Abdel François </div>
+                    <div class="new-card-price">16,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 33 ALAIN TAHET-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+          <!-- carte 33 ALAIN TAHET-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 34 ALAIN TAHET-->
+         <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">16,00 €</div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <!-- Groupe 6 -->
+     <div id="desktop-group6" class="new-card-container new-hidden">
+        <!-- carte 26 ARLETTE BESSEDE-->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
+                <div class="new-card-content">
+                    <div class="new-card-author">Bessède Arlette </div>
+                    <div class="new-card-price">10,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 27 ARLETTE BESSEDE-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <div class="new-card-content">
+                    <div class="new-card-author">Bessède Arlette </div>
+                    <div class="new-card-price">12,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 28 DAVID BEAULIEU-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
+                <div class="new-card-content">
+                    <div class="new-card-author">Beaulieu David </div>
+                    <div class="new-card-price">18,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+         <!-- carte 29 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 30 PIERRE BRANDAO-->
+         <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre </div>
+                    <div class="new-card-price">??? €</div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <!-- Groupe 7 -->
+     <div id="desktop-group7" class="new-card-container new-hidden">
+        <!-- carte 31 JOCELYN MAILY -->
+        <div class="new-card">
+            <a href="link_to_book_F.html">
+                <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
+                <div class="new-card-content">
+                    <div class="new-card-author">Maily Jocelyn</div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 32 ABDEL FRANCOIS NADINI-->
+        <div class="new-card">
+            <a href="link_to_book_G.html">
+                <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Nadini Abdel François </div>
+                    <div class="new-card-price">16,00 €</div>
+                </div>
+            </a>
+        </div>
+
+        <!-- carte 33 ALAIN TAHET-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">17,00 €</div>
+                </div>
+            </a>
+        </div>
+        
+          <!-- carte 33 ALAIN TAHET-->
+        <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
+
+         <!-- carte 34 ALAIN TAHET-->
+         <div class="new-card">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
+                <div class="new-card-content">
+                    <div class="new-card-author">Tahet Alain </div>
+                    <div class="new-card-price">16,00 €</div>
+                </div>
+            </a>
+        </div>
       </div>
 
        <!-- Groupe 8-->
