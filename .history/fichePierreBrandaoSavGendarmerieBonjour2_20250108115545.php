@@ -222,17 +222,19 @@ Un comble pour ce Bob qui se croyait à l’abri des vues...
                       
 <!-------------------------------------------------------------------------------------->
 
-<h4 class="h2Jaune mt-2 mb-3 text-center">ANGRY BOB - 2</h4>
+<h4 class="h2Jaune mt-2 mb-3 text-center">PÉCHEUR PÊCHEUR</h4>
                         <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/angry-bob-2.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/pierreBrandao/pecheur-pecheur.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                        <p>Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.
+                        <p>Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
 
-L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les gendarmes présents, allant même jusqu’à proférer des menaces de mort à leur endroit.
+Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
 
-Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller. À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.
+Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
 
-Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
+Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
+
+Un comble pour ce Bob qui se croyait à l’abri des vues...
 
 </p>                       
                       

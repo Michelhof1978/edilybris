@@ -222,22 +222,6 @@ Un comble pour ce Bob qui se croyait à l’abri des vues...
                       
 <!-------------------------------------------------------------------------------------->
 
-<h4 class="h2Jaune mt-2 mb-3 text-center">ANGRY BOB - 2</h4>
-                        <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/angry-bob-2.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                        <p>Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.
-
-L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les gendarmes présents, allant même jusqu’à proférer des menaces de mort à leur endroit.
-
-Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller. À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.
-
-Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
-
-</p>                       
-                      
-<!-------------------------------------------------------------------------------------->
-
 <h4 class="h2Jaune mt-2 mb-3 text-center">APPEL PLOMBÉ</h4>
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/corg.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
@@ -260,9 +244,9 @@ Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharma
                       
 <!-------------------------------------------------------------------------------------->
 
-<h4 class="h2Jaune mt-2 mb-3 text-center">LA MINUTE CRUCHOT</h4>
+<h4 class="h2Jaune mt-2 mb-3 text-center">APPEL PLOMBÉ</h4>
                         <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/portrait-pierre-dessin-seul.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/pierreBrandao/corg.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
                         <p>— Je répète. Vous me dites que votre père est votre maire et que votre tante est aussi votre mère. Votre autre tante est votre sœur et votre frère est masseur. Votre cousin est votre frère et votre cousine une fille au pair ?
 — C’est bien cela, monsieur le Gendarme.

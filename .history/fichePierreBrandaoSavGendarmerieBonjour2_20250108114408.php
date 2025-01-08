@@ -13,6 +13,7 @@
         <div class="container">
             <h2 class="text-center text-white">Les livres de Pierre Brandao</h2>
 
+            <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
@@ -92,7 +93,7 @@ Un comble pour ce Bob qui se croyait à l’abri des vues...
 
 <h3 class="h2Jaune text-center m-3">ANGRY BOB - 2</h3>
                     <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/angry-bob-2.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/pierreBrandao/pecheur-pecheur.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
                     <p>
                     Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.
@@ -102,48 +103,10 @@ L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les g
 Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller. À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.
 
 Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
-                    </p>
-<!-------------------------------------------------------------------------------------->
-
-<h3 class="h2Jaune text-center m-3">APPEL PLOMBÉ</h3>
-                    <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/corg.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                    <p>
-                    Allo, qui c’est ? C’n’est pas l’plombier !
-
-— Gendarmerie de Niort, bonjour.
-— Bonjour, Monsieur. Je vous appelle parce que mon radiateur fuit.
-— Le radiateur de votre voiture ?
-— Non, celui de mon salon.
-— Mais, Monsieur, nous ne faisons pas dans la plomberie...
-
-Le 17 est un numéro d’appel d’urgence... pour les urgences.
-
-Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharmacie de garde ? Internet est votre ami.
 
 
                     </p>
 <!-------------------------------------------------------------------------------------->
-
-<h3 class="h2Jaune text-center m-3">LA MINUTE CRUCHOT</h3>
-                    <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/portrait-pierre-dessin-seul.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                    <p>
-                    — Je répète. Vous me dites que votre père est votre maire et que votre tante est aussi votre mère. Votre autre tante est votre sœur et votre frère est masseur. Votre cousin est votre frère et votre cousine une fille au pair ?
-— C’est bien cela, monsieur le Gendarme.
-— Je n’ai rien compris !! Vous allez bientôt me dire que vous êtes le grand-père de votre mère ?
-— Euh non.
-— Are you sure ? Parce moi je ne suis pas your mother, I am not your père but je peux m’occuper de vous.
-— Non, monsieur le Gendarme, I am tout a fait sure.
-— Dites, you are very sympathique but aujourd’hui, c’est Mondaymotivation et I prefer vous savoir ailleurs vous et toute votre family. Alors vous allez souhaiter une bonne semaine à tous nos followers et filer loin, très loin d’ici... Are you understand ?
-— Yes I do et bonne semaine à tous les followers !
-
-Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
-                    </p>
-<!-------------------------------------------------------------------------------------->
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -217,62 +180,6 @@ Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gend
 Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
 
 Un comble pour ce Bob qui se croyait à l’abri des vues...
-
-</p>                       
-                      
-<!-------------------------------------------------------------------------------------->
-
-<h4 class="h2Jaune mt-2 mb-3 text-center">ANGRY BOB - 2</h4>
-                        <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/angry-bob-2.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                        <p>Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.
-
-L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les gendarmes présents, allant même jusqu’à proférer des menaces de mort à leur endroit.
-
-Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller. À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.
-
-Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
-
-</p>                       
-                      
-<!-------------------------------------------------------------------------------------->
-
-<h4 class="h2Jaune mt-2 mb-3 text-center">APPEL PLOMBÉ</h4>
-                        <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/corg.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                        <p>Allo, qui c’est ? C’n’est pas l’plombier !
-
-— Gendarmerie de Niort, bonjour.
-— Bonjour, Monsieur. Je vous appelle parce que mon radiateur fuit.
-— Le radiateur de votre voiture ?
-— Non, celui de mon salon.
-— Mais, Monsieur, nous ne faisons pas dans la plomberie...
-
-Le 17 est un numéro d’appel d’urgence... pour les urgences.
-
-Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharmacie de garde ? Internet est votre ami.
-
-
-
-</p>                       
-                      
-<!-------------------------------------------------------------------------------------->
-
-<h4 class="h2Jaune mt-2 mb-3 text-center">LA MINUTE CRUCHOT</h4>
-                        <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/portrait-pierre-dessin-seul.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
-                </div>
-                        <p>— Je répète. Vous me dites que votre père est votre maire et que votre tante est aussi votre mère. Votre autre tante est votre sœur et votre frère est masseur. Votre cousin est votre frère et votre cousine une fille au pair ?
-— C’est bien cela, monsieur le Gendarme.
-— Je n’ai rien compris !! Vous allez bientôt me dire que vous êtes le grand-père de votre mère ?
-— Euh non.
-— Are you sure ? Parce moi je ne suis pas your mother, I am not your père but je peux m’occuper de vous.
-— Non, monsieur le Gendarme, I am tout a fait sure.
-— Dites, you are very sympathique but aujourd’hui, c’est Mondaymotivation et I prefer vous savoir ailleurs vous et toute votre family. Alors vous allez souhaiter une bonne semaine à tous nos followers et filer loin, très loin d’ici... Are you understand ?
-— Yes I do et bonne semaine à tous les followers !
-
 
 </p>                       
                       
