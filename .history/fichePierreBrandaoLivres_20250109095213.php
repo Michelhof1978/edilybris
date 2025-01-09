@@ -97,7 +97,7 @@
     <div id="mobile-group6" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 1">
+                <img src="images/pierreBrandao/S" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 1">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
                     <div class="mobile-book-price">22,00 €</div>
@@ -106,40 +106,40 @@
         </div>
     </div>
 
-    <!-- Groupe 7 VENGEANCE SECULAIRE-->
+    <!-- Groupe 7-->
     <div id="mobile-group7" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">???? €</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 8 QUAI DES CICATRICES-->
+    <!-- Groupe 8-->
     <div id="mobile-group8" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre QUAI DES CICATRICES">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">20,00 €</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 9 L'ASSASSIN DU 1 ER MAI-->
+    <!-- Groupe 9-->
     <div id="mobile-group9" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">20,00 €</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
@@ -287,35 +287,35 @@
                 </div>
             </a>
         </div>
-        <!-- carte 7  VENGEANCE SECULAIRE-->
+        <!-- carte 7  -->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre la tête dans les nuages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">???? €</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
 
-        <!-- carte 8 QUAI DES CICATRICES-->
+        <!-- carte 8 -->
         <div class="new-card">
             <a href="link_to_book_H.html">
-                <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre QUAI DES CICATRICES">
+                <img src="images/jeanMichelDelaneau/Couv-Recto-Nouvelles-d-ici.webp" class="img-fluid" alt="Couverture de livre Nouvelles d'ici et nulle part">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">20,00 €</div>
+                    <div class="new-card-author">Delaneau Jean Michel </div>
+                    <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>
         
-        <!-- carte 9 L'ASSASSIN DU 1 ER MAI-->
+        <!-- carte 9 -->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">20,00 €</div>
+                    <div class="new-card-author">Jannick Weber Denechaud</div>
+                    <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
         </div>

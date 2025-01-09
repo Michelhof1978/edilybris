@@ -290,7 +290,7 @@
         <!-- carte 7  VENGEANCE SECULAIRE-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">???? €</div>
@@ -312,7 +312,7 @@
         <!-- carte 9 L'ASSASSIN DU 1 ER MAI-->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
+                <img src="images/pierreBrandao/" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">20,00 €</div>

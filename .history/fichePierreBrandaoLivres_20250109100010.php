@@ -132,14 +132,14 @@
         </div>
     </div>
 
-    <!-- Groupe 9 L'ASSASSIN DU 1 ER MAI-->
+    <!-- Groupe 9 L'a-->
     <div id="mobile-group9" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">20,00 €</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
@@ -290,7 +290,7 @@
         <!-- carte 7  VENGEANCE SECULAIRE-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">???? €</div>
@@ -309,13 +309,13 @@
             </a>
         </div>
         
-        <!-- carte 9 L'ASSASSIN DU 1 ER MAI-->
+        <!-- carte 9 -->
         <div class="new-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
+                <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture de livre WEBER DENECHAUD JANNICK">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">20,00 €</div>
+                    <div class="new-card-author">Jannick Weber Denechaud</div>
+                    <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
         </div>

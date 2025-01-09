@@ -290,7 +290,7 @@
         <!-- carte 7  VENGEANCE SECULAIRE-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
+                <img src="images/pierreBrandao/" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">???? €</div>
