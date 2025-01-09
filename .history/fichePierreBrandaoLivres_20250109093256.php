@@ -67,11 +67,11 @@
         </div>
     </div>
 
-    <!-- Groupe 4 Quelle tuile-->
+    <!-- Groupe 4-->
     <div id="mobile-group4" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
                     <div class="mobile-book-price">22,00 €</div>
@@ -80,11 +80,11 @@
         </div>
     </div>
 
-    <!-- Groupe 5 meurtre à la micro carte-->
+    <!-- Groupe 5-->
     <div id="mobile-group5" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre meurtre à la micro carte">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
                     <div class="mobile-book-price">22,00 €</div>
@@ -256,20 +256,20 @@
         <!-- carte 4 Quelle tuiles-->
         <div class="new-card">
             <a href="link_to_book_D.html">
-                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
+                <img src="images/pierreBrandao/q" class="img-fluid" alt="Couverture de livre Quelle tuiles">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
+                    <div class="new-card-price">12,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 5 Meurtre à la micro carte-->
+        <!-- carte 5 -->
         <div class="new-card">
             <a href="link_to_book_E.html">
-                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
+                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Parfois les vagues">
                 <div class="new-card-content">
-                    <div class="new-card-author">brandao Pierre</div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
+                    <div class="new-card-price">13,00 €</div>
                 </div>
             </a>
         </div>

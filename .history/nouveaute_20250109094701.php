@@ -47,7 +47,7 @@
     <div class="carousel-item">
       <div class="book-card">
         <a href="link_to_book_B.html">
-          <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
+          <img src="images/pierreBrandao/couvlenlevement-pierre-brandaobr-pour-site.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
           <div class="book-card-content">
             <div class="book-card-author">Brandao Pierre</div>
             <div class="book-card-price">22,00 €</div>
@@ -131,7 +131,7 @@
      <!-- Carte 2 Brandao Pierre-->
     <div class="L-card">
         <a href="fichePierreBrandaolenlevement.php">
-            <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
+            <img src="images/pierreBrandao/" class="img-fluid" alt="Couverture de livre L'enlèvement">
             <div class="L-card-content">
                 <div class="L-card-author">Brandao Pierre</div>
                 <div class="L-card-price">22,00 €</div>

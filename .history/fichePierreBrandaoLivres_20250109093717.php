@@ -266,10 +266,10 @@
         <!-- carte 5 Meurtre à la micro carte-->
         <div class="new-card">
             <a href="link_to_book_E.html">
-                <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
+                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="new-card-content">
-                    <div class="new-card-author">brandao Pierre</div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">Cretel Jean-Pierre</div>
+                    <div class="new-card-price">13,00 €</div>
                 </div>
             </a>
         </div>
