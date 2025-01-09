@@ -347,16 +347,16 @@
         <!-- carte 12 LE COEUR A SES SAISONS-->
         <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES">
+                <img src="images:" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">Scharff Patricia </div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>
 
         <!-- carte 13 -->
-        <!-- <div class="new-card">
+        <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
                 <div class="new-card-content">
@@ -364,10 +364,10 @@
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
-        </div> -->
+        </div>
         
         <!-- carte 14 -->
-        <!-- <div class="new-card">
+        <div class="new-card">
             <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile !">
                 <div class="new-card-content">
@@ -375,7 +375,7 @@
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
-        </div> -->
+        </div>
 
          
 
@@ -386,7 +386,7 @@
        <!-- Groupe 8-->
      <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 35 ANTOINE TEILLET -->
-        <!-- <div class="new-card">
+        <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
                 <div class="new-card-content">
@@ -394,7 +394,7 @@
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
-        </div> -->
+        </div>
       
       </div>
 

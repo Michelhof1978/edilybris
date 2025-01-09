@@ -332,9 +332,9 @@
         </div> 
     </div>
 
-     <!-- Groupe 3 -->
+     <!-- Groupe 3 LUCIOLES MAGIQUES-->
      <div id="desktop-group3" class="new-card-container new-hidden">
-        <!-- carte 11 LUCIOLES MAGIQUES -->
+        <!-- carte 11 LE COEUR A SES SAISONS -->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES">
@@ -344,16 +344,16 @@
                 </div>
             </a>
         </div>
-        <!-- carte 12 LE COEUR A SES SAISONS-->
-        <div class="new-card">
+        <!-- carte 12 -->
+        <!-- <div class="new-card">
             <a href="link_to_book_G.html">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES">
+                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre lES AVENTURES DE MAEL , Clémentines, Brann et julia">
                 <div class="new-card-content">
-                    <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-author">Scharff Patricia </div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
-        </div>
+        </div> -->
 
         <!-- carte 13 -->
         <!-- <div class="new-card">
@@ -364,8 +364,8 @@
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
-        </div> -->
-        
+        </div>
+         -->
         <!-- carte 14 -->
         <!-- <div class="new-card">
             <a href="link_to_book_J.html">
@@ -375,16 +375,11 @@
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
-        </div> -->
-
-         
-
-    
-          
-      </div>
+        </div>   
+      </div> -->
 
        <!-- Groupe 8-->
-     <div id="desktop-group8" class="new-card-container new-hidden">
+     <!-- <div id="desktop-group8" class="new-card-container new-hidden"> -->
         <!-- carte 35 ANTOINE TEILLET -->
         <!-- <div class="new-card">
             <a href="link_to_book_F.html">
@@ -394,9 +389,9 @@
                     <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
-        </div> -->
+        </div>
       
-      </div>
+      </div> -->
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">
