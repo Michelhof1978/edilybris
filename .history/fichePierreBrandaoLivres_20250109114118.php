@@ -384,7 +384,7 @@
       </div>
 
        <!-- Groupe 8-->
-     <!-- <div id="desktop-group8" class="new-card-container new-hidden"> -->
+     <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 35 ANTOINE TEILLET -->
         <!-- <div class="new-card">
             <a href="link_to_book_F.html">

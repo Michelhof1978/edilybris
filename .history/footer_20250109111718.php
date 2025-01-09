@@ -1048,6 +1048,99 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE AUTEUR MOBILE-->
 
+<!-- BRANDAO PIERRE CARTES-->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Variables pour les boutons et les groupes de livres
+    const mobileBackBtnPierreBrandao = document.getElementById('mobile-back-btnPierreBrandao');
+    const mobileNextBtnPierreBrandao = document.getElementById('mobile-next-btnPierreBrandao');
+    const desktopBackBtnPierreBrandao = document.getElementById('new-desktop-backButtonPierreBrandao');
+    const desktopNextBtnPierreBrandao = document.getElementById('new-desktop-nextGroupButtonPierreBrandao');
+    // Ajout de 30 groupes pour mobile
+    const mobileGroups = Array.from({ length: 40 }, (_, i) =>
+        document.getElementById(`mobile-group${i + 1}`)
+    );
+    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
+    const desktopGroupsPierreBrandao = [
+        document.getElementById('desktop-group1PierreBrandao'),
+        document.getElementById('desktop-group2PierreBrandao'),
+        document.getElementById('desktop-group3PierreBrandao'),
+      
+    ];
+    let currentMobileGroupPierreBrandao = 0;
+    let currentDesktopGroupPierreBrandao = 0;
+    // Fonction pour cacher tous les groupes
+    function hideAllGroupsPierreBrandao(groupsPierreBrandao) {
+        groupsPierreBrandao.forEach(groupPierreBrandao => {
+            if (groupPierreBrandao) {
+                groupPierreBrandao.classList.add('mobile-hiddenPierreBrandao'); // Pour mobile
+                groupPierreBrandao.classList.add('new-hiddenPierreBrandao'); // Pour desktop
+            }
+        });
+    }
+    // Fonction pour afficher un groupe spécifique
+    function showGroupPierreBrandao(groupsPierreBrandao, indexPierreBrandao) {
+        if (groupsPierreBrandao[indexPierreBrandao]) {
+            groupsPierreBrandao[indexPierreBrandao].classList.remove('mobile-hidden'); // Pour mobile
+            groupsPierreBrandao[indexPierreBrandao].classList.remove('new-hidden'); // Pour desktop
+        }
+    }
+    // Mise à jour de l'état des boutons mobile
+    function updateMobileButtonsPierreBrandao() {
+        mobileBackBtnPierreBrandao.disabled = currentMobileGroupPierreBrandao === 0;
+        mobileNextBtnPierreBrandao.disabled = currentMobileGroup === mobileGroups.length - 2;
+    }
+    // Mise à jour de l'état des boutons desktop
+    function updateDesktopButtons() {
+        desktopBackBtn.disabled = currentDesktopGroup === 0;
+        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
+    }
+    // Navigation mobile : précédent
+    mobileBackBtn.addEventListener('click', function () {
+        if (currentMobileGroup > 0) {
+            hideAllGroups(mobileGroups);
+            currentMobileGroup--;
+            showGroup(mobileGroups, currentMobileGroup);
+            updateMobileButtons();
+        }
+    });
+    // Navigation mobile : suivant
+    mobileNextBtn.addEventListener('click', function () {
+        if (currentMobileGroup < mobileGroups.length - 1) {
+            hideAllGroups(mobileGroups);
+            currentMobileGroup++;
+            showGroup(mobileGroups, currentMobileGroup);
+            updateMobileButtons();
+        }
+    });
+    // Navigation desktop : précédent
+    desktopBackBtn.addEventListener('click', function () {
+        if (currentDesktopGroup > 0) {
+            hideAllGroups(desktopGroups);
+            currentDesktopGroup--;
+            showGroup(desktopGroups, currentDesktopGroup);
+            updateDesktopButtons();
+        }
+    });
+    // Navigation desktop : suivant
+    desktopNextBtn.addEventListener('click', function () {
+        if (currentDesktopGroup < desktopGroups.length - 1) {
+            hideAllGroups(desktopGroups);
+            currentDesktopGroup++;
+            showGroup(desktopGroups, currentDesktopGroup);
+            updateDesktopButtons();
+        }
+    });
+    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
+    showGroup(mobileGroups, currentMobileGroup);
+    showGroup(desktopGroups, currentDesktopGroup);
+    updateMobileButtons();
+    updateDesktopButtons();
+});
+</script>
+
+<!-- FIN BRANDAO PIERRE CARTES-->
+
 <!-- _____________________________________________________________________________________ -->
 <!--SEO -->
 <!-- _____________________________________________________________________________________ -->

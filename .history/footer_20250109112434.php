@@ -1048,6 +1048,98 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE AUTEUR MOBILE-->
 
+<!-- BRANDAO PIERRE CARTES-->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Variables pour les boutons et les groupes de livres
+    const mobileBackBtnPierreBrandao = document.getElementById('mobile-back-btnPierreBrandao');
+    const mobileNextBtnPierreBrandao = document.getElementById('mobile-next-btnPierreBrandao');
+    const desktopBackBtnPierreBrandao = document.getElementById('new-desktop-backButtonPierreBrandao');
+    const desktopNextBtnPierreBrandao = document.getElementById('new-desktop-nextGroupButtonPierreBrandao');
+    // Ajout de 30 groupes pour mobile
+    const mobileGroupsPierreBrandao = Array.from({ length: 40 }, (_, i) =>
+        document.getElementById(`mobile-group${i + 1}PierreBrandao`)
+    );
+    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
+    const desktopGroupsPierreBrandao = [
+        document.getElementById('desktop-group1PierreBrandao'),
+        document.getElementById('desktop-group2PierreBrandao'),
+        document.getElementById('desktop-group3PierreBrandao'),
+    ];
+    let currentMobileGroupPierreBrandao = 0;
+    let currentDesktopGroupPierreBrandao = 0;
+    // Fonction pour cacher tous les groupes
+    function hideAllGroupsPierreBrandao(groupsPierreBrandao) {
+        groupsPierreBrandao.forEach(groupPierreBrandao => {
+            if (groupPierreBrandao) {
+                groupPierreBrandao.classList.add('mobile-hiddenPierreBrandao'); // Pour mobile
+                groupPierreBrandao.classList.add('new-hiddenPierreBrandao'); // Pour desktop
+            }
+        });
+    }
+    // Fonction pour afficher un groupe spécifique
+    function showGroupPierreBrandao(groupsPierreBrandao, indexPierreBrandao) {
+        if (groupsPierreBrandao[indexPierreBrandao]) {
+            groupsPierreBrandao[indexPierreBrandao].classList.remove('mobile-hiddenPierreBrandao'); // Pour mobile
+            groupsPierreBrandao[indexPierreBrandao].classList.remove('new-hiddenPierreBrandao'); // Pour desktop
+        }
+    }
+    // Mise à jour de l'état des boutons mobile
+    function updateMobileButtonsPierreBrandao() {
+        mobileBackBtnPierreBrandao.disabled = currentMobileGroupPierreBrandao === 0;
+        mobileNextBtnPierreBrandao.disabled = currentMobileGroupPierreBrandao === mobileGroupsPierreBrandao.length - 1;
+    }
+    // Mise à jour de l'état des boutons desktop
+    function updateDesktopButtonsPierreBrandao() {
+        desktopBackBtnPierreBrandao.disabled = currentDesktopGroupPierreBrandao === 0;
+        desktopNextBtnPierreBrandao.disabled = currentDesktopGroupPierreBrandao === desktopGroupsPierreBrandao.length - 1;
+    }
+    // Navigation mobile : précédent
+    mobileBackBtnPierreBrandao.addEventListener('click', function () {
+        if (currentMobileGroupPierreBrandao > 0) {
+            hideAllGroupsPierreBrandao(mobileGroupsPierreBrandao);
+            currentMobileGroupPierreBrandao--;
+            showGroupPierreBrandao(mobileGroupsPierreBrandao, currentMobileGroupPierreBrandao);
+            updateMobileButtonsPierreBrandao();
+        }
+    });
+    // Navigation mobile : suivant
+    mobileNextBtnPierreBrandao.addEventListener('click', function () {
+        if (currentMobileGroupPierreBrandao < mobileGroupsPierreBrandao.length - 1) {
+            hideAllGroupsPierreBrandao(mobileGroupsPierreBrandao);
+            currentMobileGroupPierreBrandao++;
+            showGroupPierreBrandao(mobileGroupsPierreBrandao, currentMobileGroupPierreBrandao);
+            updateMobileButtonsPierreBrandao();
+        }
+    });
+    // Navigation desktop : précédent
+    desktopBackBtnPierreBrandao.addEventListener('click', function () {
+        if (currentDesktopGroupPierreBrandao > 0) {
+            hideAllGroupsPierreBrandao(desktopGroupsPierreBrandao);
+            currentDesktopGroupPierreBrandao--;
+            showGroupPierreBrandao(desktopGroupsPierreBrandao, currentDesktopGroupPierreBrandao);
+            updateDesktopButtonsPierreBrandao();
+        }
+    });
+    // Navigation desktop : suivant
+    desktopNextBtnPierreBrandao.addEventListener('click', function () {
+        if (currentDesktopGroupPierreBrandao < desktopGroupsPierreBrandao.length - 1) {
+            hideAllGroupsPierreBrandao(desktopGroupsPierreBrandao);
+            currentDesktopGroupPierreBrandao++;
+            showGroupPierreBrandao(desktopGroupsPierreBrandao, currentDesktopGroupPierreBrandao);
+            updateDesktopButtonsPierreBrandao();
+        }
+    });
+    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
+    showGroupPierreBrandao(mobileGroupsPierreBrandao, currentMobileGroupPierreBrandao);
+    showGroupPierreBrandao(desktopGroupsPierreBrandao, currentDesktopGroupPierreBrandao);
+    updateMobileButtonsPierreBrandao();
+    updateDesktopButtonsPierreBrandao();
+});
+</script>
+
+<!-- FIN BRANDAO PIERRE CARTES-->
+
 <!-- _____________________________________________________________________________________ -->
 <!--SEO -->
 <!-- _____________________________________________________________________________________ -->

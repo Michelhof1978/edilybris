@@ -333,7 +333,7 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
+     <div id="desktop-group3-pierre-brandao" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -384,7 +384,7 @@
       </div>
 
        <!-- Groupe 8-->
-     <!-- <div id="desktop-group8" class="new-card-container new-hidden"> -->
+     <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 35 ANTOINE TEILLET -->
         <!-- <div class="new-card">
             <a href="link_to_book_F.html">

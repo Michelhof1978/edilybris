@@ -29,7 +29,7 @@
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
     <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
-    <div id="mobile-group1" class="mobile-books-container">
+    <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
@@ -42,7 +42,7 @@
     </div>
 
     <!-- Groupe 2 SAV GENDARMERIE BONJOUR 2-->
-    <div id="mobile-group2" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
@@ -55,7 +55,7 @@
     </div>
 
     <!-- Groupe 3 L'enlèvement-->
-    <div id="mobile-group3" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group3PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
@@ -68,7 +68,7 @@
     </div>
 
     <!-- Groupe 4 Quelle tuile-->
-    <div id="mobile-group4" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group4PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
@@ -81,7 +81,7 @@
     </div>
 
     <!-- Groupe 5 meurtre à la micro carte-->
-    <div id="mobile-group5" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group5PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre meurtre à la micro carte">
@@ -94,7 +94,7 @@
     </div>
 
     <!-- Groupe 6 SAV GENDARMERIE BONJOUR 1-->
-    <div id="mobile-group6" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group6PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 1">
@@ -276,7 +276,7 @@
     </div>
 
     <!-- Groupe 2 -->
-    <div id="desktop-group2" class="new-card-container new-hidden">
+    <div id="desktop-group2-pierre-brandao" class="new-card-container new-hidden">
         <!-- carte 6  SAV GENDARMERIE BONJOUR 1-->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -333,7 +333,7 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
+     <div id="desktop-group3-pierre-brandao" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -384,7 +384,7 @@
       </div>
 
        <!-- Groupe 8-->
-     <!-- <div id="desktop-group8" class="new-card-container new-hidden"> -->
+     <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 35 ANTOINE TEILLET -->
         <!-- <div class="new-card">
             <a href="link_to_book_F.html">

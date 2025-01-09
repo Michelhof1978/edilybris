@@ -1048,6 +1048,10 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <!-- FIN FICHE AUTEUR MOBILE-->
 
+<!-- BRANDAO PIERRE CARTES-->
+
+<!-- FIN BRANDAO PIERRE CARTES-->
+
 <!-- _____________________________________________________________________________________ -->
 <!--SEO -->
 <!-- _____________________________________________________________________________________ -->

@@ -190,92 +190,82 @@ document.addEventListener('DOMContentLoaded', function () {
     const mobileNextBtn = document.getElementById('mobile-next-btn');
     const desktopBackBtn = document.getElementById('new-desktop-backButton');
     const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
-    // Ajout de 30 groupes pour mobile
-    const mobileGroups = Array.from({ length: 40 }, (_, i) =>
-        document.getElementById(`mobile-group${i + 1}`)
-    );
-    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
-    const desktopGroups = [
-        document.getElementById('desktop-group1'),
-        document.getElementById('desktop-group2'),
-        document.getElementById('desktop-group3'),
-        document.getElementById('desktop-group4'),
-        document.getElementById('desktop-group5'),
-        document.getElementById('desktop-group6'),
-        document.getElementById('desktop-group7'),
-        document.getElementById('desktop-group8'),
-    ];
+
+    // Conteneurs des groupes
+    const mobileContainer = document.getElementById('mobile-container');
+    const desktopContainer = document.getElementById('desktop-container');
+
+    // Variables pour suivre les groupes affichés
     let currentMobileGroup = 0;
     let currentDesktopGroup = 0;
+
+    // Fonction pour créer un nouveau groupe
+    function createGroup(container, index, isMobile = true) {
+        const group = document.createElement('div');
+        group.id = `${isMobile ? 'mobile' : 'desktop'}-group${index}`;
+        group.className = `${isMobile ? 'mobile-group' : 'desktop-group'} hidden`;
+        group.textContent = `Groupe ${index}`; // Contenu par défaut (ajustez selon vos besoins)
+        container.appendChild(group);
+        return group;
+    }
+
     // Fonction pour cacher tous les groupes
-    function hideAllGroups(groups) {
-        groups.forEach(group => {
-            if (group) {
-                group.classList.add('mobile-hidden'); // Pour mobile
-                group.classList.add('new-hidden'); // Pour desktop
-            }
-        });
+    function hideAllGroups(container) {
+        const groups = container.querySelectorAll('.mobile-group, .desktop-group');
+        groups.forEach(group => group.classList.add('hidden'));
     }
+
     // Fonction pour afficher un groupe spécifique
-    function showGroup(groups, index) {
-        if (groups[index]) {
-            groups[index].classList.remove('mobile-hidden'); // Pour mobile
-            groups[index].classList.remove('new-hidden'); // Pour desktop
+    function showGroup(container, index, isMobile = true) {
+        const groupId = `${isMobile ? 'mobile' : 'desktop'}-group${index}`;
+        let group = document.getElementById(groupId);
+
+        // Si le groupe n'existe pas, on le crée
+        if (!group) {
+            group = createGroup(container, index, isMobile);
         }
+
+        group.classList.remove('hidden');
     }
-    // Mise à jour de l'état des boutons mobile
-    function updateMobileButtons() {
-        mobileBackBtn.disabled = currentMobileGroup === 0;
-        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 2;
-    }
-    // Mise à jour de l'état des boutons desktop
-    function updateDesktopButtons() {
-        desktopBackBtn.disabled = currentDesktopGroup === 0;
-        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
-    }
+
     // Navigation mobile : précédent
     mobileBackBtn.addEventListener('click', function () {
         if (currentMobileGroup > 0) {
-            hideAllGroups(mobileGroups);
             currentMobileGroup--;
-            showGroup(mobileGroups, currentMobileGroup);
-            updateMobileButtons();
+            hideAllGroups(mobileContainer);
+            showGroup(mobileContainer, currentMobileGroup);
         }
     });
+
     // Navigation mobile : suivant
     mobileNextBtn.addEventListener('click', function () {
-        if (currentMobileGroup < mobileGroups.length - 1) {
-            hideAllGroups(mobileGroups);
-            currentMobileGroup++;
-            showGroup(mobileGroups, currentMobileGroup);
-            updateMobileButtons();
-        }
+        currentMobileGroup++;
+        hideAllGroups(mobileContainer);
+        showGroup(mobileContainer, currentMobileGroup);
     });
+
     // Navigation desktop : précédent
     desktopBackBtn.addEventListener('click', function () {
         if (currentDesktopGroup > 0) {
-            hideAllGroups(desktopGroups);
             currentDesktopGroup--;
-            showGroup(desktopGroups, currentDesktopGroup);
-            updateDesktopButtons();
+            hideAllGroups(desktopContainer);
+            showGroup(desktopContainer, currentDesktopGroup, false);
         }
     });
+
     // Navigation desktop : suivant
     desktopNextBtn.addEventListener('click', function () {
-        if (currentDesktopGroup < desktopGroups.length - 1) {
-            hideAllGroups(desktopGroups);
-            currentDesktopGroup++;
-            showGroup(desktopGroups, currentDesktopGroup);
-            updateDesktopButtons();
-        }
+        currentDesktopGroup++;
+        hideAllGroups(desktopContainer);
+        showGroup(desktopContainer, currentDesktopGroup, false);
     });
+
     // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
-    showGroup(mobileGroups, currentMobileGroup);
-    showGroup(desktopGroups, currentDesktopGroup);
-    updateMobileButtons();
-    updateDesktopButtons();
+    showGroup(mobileContainer, currentMobileGroup);
+    showGroup(desktopContainer, currentDesktopGroup, false);
 });
 </script>
+
 <!--  FIN CARDS XL mobile et desktop AUTEUR-->
   
 <!--  PRESENTATION AUTEUR TROMBINOSCOPE INDEX-->
@@ -1047,7 +1037,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 </script>
 <!-- FIN FICHE AUTEUR MOBILE-->
-
 <!-- _____________________________________________________________________________________ -->
 <!--SEO -->
 <!-- _____________________________________________________________________________________ -->

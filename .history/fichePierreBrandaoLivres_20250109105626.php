@@ -222,7 +222,7 @@
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
-    <div id="desktop-group1" class="new-card-container">
+    <div id="desktop-group1-pierre-brandao" class="new-card-container">
         <!-- carte 1  L'enlèvement-->
         <div class="new-card">
             <a href="link_to_book_A.html">
@@ -276,7 +276,7 @@
     </div>
 
     <!-- Groupe 2 -->
-    <div id="desktop-group2" class="new-card-container new-hidden">
+    <div id="desktop-group2-pierre-brandao" class="new-card-container new-hidden">
         <!-- carte 6  SAV GENDARMERIE BONJOUR 1-->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -333,7 +333,7 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3" class="new-card-container new-hidden">
+     <div id="desktop-group3-pierre-brandao" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -384,7 +384,7 @@
       </div>
 
        <!-- Groupe 8-->
-     <!-- <div id="desktop-group8" class="new-card-container new-hidden"> -->
+     <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 35 ANTOINE TEILLET -->
         <!-- <div class="new-card">
             <a href="link_to_book_F.html">
@@ -400,8 +400,8 @@
 
     <!-- Boutons de navigation -->
     <div class="new-navigation">
-        <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
-        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
+        <button id="new-desktop-backButton-pierre-brandao" class="new-button xl-button text-white" disabled>Précédent</button>
+        <button id="new-desktop-nextGroupButton-pierre-brandao" class="new-button xl-button text-white">Suivant</button>
     </div>
 </div>
 
