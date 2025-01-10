@@ -741,7 +741,7 @@
         
          <!-- carte 24 PIERRE BRANDAO-->
          <div class="new-card">
-            <a href="fichePierreBrandaoQuaiDesCicatrices.php">
+            <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
                 <div class="new-card-content">
                     <div class="new-card-author">Pierre Brandao </div>
