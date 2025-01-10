@@ -457,18 +457,7 @@
         </div>
     </div>
 
-    <!-- Groupe 35 PIERRE BRANDAO -->
-    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre </div>
-                    <div class="mobile-book-price">18,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
+    
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">

@@ -461,10 +461,10 @@
     <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
-                <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
+                <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Brandao Pierre </div>
-                    <div class="mobile-book-price">18,00 €</div>
+                    <div class="mobile-book-author">  </div>
+                    <div class="mobile-book-price">16,00 €</div>
                 </div>
             </a>
         </div>

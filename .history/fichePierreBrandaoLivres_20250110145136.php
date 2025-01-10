@@ -188,10 +188,10 @@
     <div id="mobile-group13" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
-                <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre ECART DE MEMOIRE">
+                <img src="images/pierreBrandao/e" class="img-fluid" alt="Couverture de livre ECART DE MEMOIRE">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">18,00 €</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
