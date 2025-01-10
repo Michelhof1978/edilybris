@@ -255,7 +255,7 @@
         </div>
         <!-- carte 4 Quelle tuiles-->
         <div class="new-card">
-            <a href="fichePierreBrandaoQuelleTuile.php">
+            <a href="link_to_book_D.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
