@@ -398,6 +398,11 @@
       
       </div>
 
+    <!-- Boutons de navigation -->
+    <!-- <div class="new-navigation">
+        <button id="new-desktop-backButtonPierreBrandao" class="new-button xl-button text-white" disabled>Précédent</button>
+        <button id="new-desktop-nextGroupButtonPierreBrandao" class="new-button xl-button text-white">Suivant</button>
+    </div> -->
 </div>
 
 

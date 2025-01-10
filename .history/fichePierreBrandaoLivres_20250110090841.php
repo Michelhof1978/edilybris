@@ -113,7 +113,7 @@
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">18,00 €</div>
+                    <div class="mobile-book-price">18 €</div>
                 </div>
             </a>
         </div>
@@ -398,6 +398,11 @@
       
       </div>
 
+    <!-- Boutons de navigation -->
+    <div class="new-navigation">
+        <button id="new-desktop-backButtonPierreBrandao" class="new-button xl-button text-white" disabled>Précédent</button>
+        <button id="new-desktop-nextGroupButtonPierreBrandao" class="new-button xl-button text-white">Suivant</button>
+    </div>
 </div>
 
 

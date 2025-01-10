@@ -113,7 +113,7 @@
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">18,00 €</div>
+                    <div class="mobile-book-price">???? €</div>
                 </div>
             </a>
         </div>
@@ -214,8 +214,8 @@
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
-        <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
-        <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
+        <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
+        <button id="mobile-next-btn" class="mobile-button">Suivant</button>
     </div>
 </div>
 
@@ -293,7 +293,7 @@
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">18,00 €</div>
+                    <div class="new-card-price">???? €</div>
                 </div>
             </a>
         </div>
@@ -333,7 +333,7 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3PierreBrandao" class="new-card-container new-hidden">
+     <div id="desktop-group3" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -398,6 +398,11 @@
       
       </div>
 
+    <!-- Boutons de navigation -->
+    <div class="new-navigation">
+        <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
+        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
+    </div>
 </div>
 
 

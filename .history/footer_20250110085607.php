@@ -1058,80 +1058,107 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- Google Analytics -->
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-    // Mobile Navigation
-    const mobileGroups = document.querySelectorAll(".mobile-books-container");
-    const mobileBackBtn = document.getElementById("mobile-back-btnPierreBrandao");
-    const mobileNextBtn = document.getElementById("mobile-next-btnPierreBrandao");
-
-    let currentMobileGroup = 0;
-
-    const updateMobileNavigation = () => {
-        mobileGroups.forEach((group, index) => {
-            group.classList.toggle("mobile-hidden", index !== currentMobileGroup);
+document.addEventListener('DOMContentLoaded', function () {
+    // Variables pour les boutons et les groupes de livres
+    const pierreBrandaoMobileBackBtn = document.getElementById('mobile-back-btn');
+    const pierreBrandaoMobileNextBtn = document.getElementById('mobile-next-btn');
+    const pierreBrandaoDesktopBackBtn = document.getElementById('new-desktop-backButton');
+    const pierreBrandaoDesktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
+    
+    // Ajout de 30 groupes pour mobile
+    const pierreBrandaoMobileGroups = Array.from({ length: 40 }, (_, i) =>
+        document.getElementById(`mobile-group${i + 1}`)
+    );
+    
+    // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
+    const pierreBrandaoDesktopGroups = [
+        document.getElementById('desktop-group1PierreBrandao'),
+        document.getElementById('desktop-group2PierreBrandao'),
+        document.getElementById('desktop-group3PierreBrandao'),
+        document.getElementById('desktop-group4PierreBrandao'),
+        document.getElementById('desktop-group5PierreBrandao'),
+        document.getElementById('desktop-group6'),
+        document.getElementById('desktop-group7'),
+        document.getElementById('desktop-group8'),
+    ];
+    
+    let pierreBrandaoCurrentMobileGroup = 0;
+    let pierreBrandaoCurrentDesktopGroup = 0;
+    
+    // Fonction pour cacher tous les groupes
+    function pierreBrandaoHideAllGroups(groups) {
+        groups.forEach(group => {
+            if (group) {
+                group.classList.add('mobile-hidden'); // Pour mobile
+                group.classList.add('new-hidden'); // Pour desktop
+            }
         });
-        mobileBackBtn.disabled = currentMobileGroup === 0;
-        mobileNextBtn.disabled = currentMobileGroup === mobileGroups.length - 1;
-    };
-
-    mobileBackBtn.addEventListener("click", () => {
-        if (currentMobileGroup > 0) {
-            currentMobileGroup--;
-            updateMobileNavigation();
+    }
+    
+    // Fonction pour afficher un groupe spécifique
+    function pierreBrandaoShowGroup(groups, index) {
+        if (groups[index]) {
+            groups[index].classList.remove('mobile-hidden'); // Pour mobile
+            groups[index].classList.remove('new-hidden'); // Pour desktop
+        }
+    }
+    
+    // Mise à jour de l'état des boutons mobile
+    function pierreBrandaoUpdateMobileButtons() {
+        pierreBrandaoMobileBackBtn.disabled = pierreBrandaoCurrentMobileGroup === 0;
+        pierreBrandaoMobileNextBtn.disabled = pierreBrandaoCurrentMobileGroup === pierreBrandaoMobileGroups.length - 2;
+    }
+    
+    // Mise à jour de l'état des boutons desktop
+    function pierreBrandaoUpdateDesktopButtons() {
+        pierreBrandaoDesktopBackBtn.disabled = pierreBrandaoCurrentDesktopGroup === 0;
+        pierreBrandaoDesktopNextBtn.disabled = pierreBrandaoCurrentDesktopGroup === pierreBrandaoDesktopGroups.length - 1;
+    }
+    
+    // Navigation mobile : précédent
+    pierreBrandaoMobileBackBtn.addEventListener('click', function () {
+        if (pierreBrandaoCurrentMobileGroup > 0) {
+            pierreBrandaoHideAllGroups(pierreBrandaoMobileGroups);
+            pierreBrandaoCurrentMobileGroup--;
+            pierreBrandaoShowGroup(pierreBrandaoMobileGroups, pierreBrandaoCurrentMobileGroup);
+            pierreBrandaoUpdateMobileButtons();
         }
     });
-
-    mobileNextBtn.addEventListener("click", () => {
-        if (currentMobileGroup < mobileGroups.length - 1) {
-            currentMobileGroup++;
-            updateMobileNavigation();
+    
+    // Navigation mobile : suivant
+    pierreBrandaoMobileNextBtn.addEventListener('click', function () {
+        if (pierreBrandaoCurrentMobileGroup < pierreBrandaoMobileGroups.length - 1) {
+            pierreBrandaoHideAllGroups(pierreBrandaoMobileGroups);
+            pierreBrandaoCurrentMobileGroup++;
+            pierreBrandaoShowGroup(pierreBrandaoMobileGroups, pierreBrandaoCurrentMobileGroup);
+            pierreBrandaoUpdateMobileButtons();
         }
     });
-
-    updateMobileNavigation();
-
-    // Desktop Navigation
-    const desktopGroups = document.querySelectorAll(".new-card-container");
-    const desktopBackBtn = document.createElement("button");
-    const desktopNextBtn = document.createElement("button");
-    let currentDesktopGroup = 0;
-
-    // Create Desktop Navigation Buttons
-    desktopBackBtn.textContent = "Précédent";
-    desktopNextBtn.textContent = "Suivant";
-    desktopBackBtn.className = "desktop-button";
-    desktopNextBtn.className = "desktop-button";
-
-    // Append to the DOM
-    const desktopNavContainer = document.createElement("div");
-    desktopNavContainer.className = "desktop-navigation";
-    desktopNavContainer.appendChild(desktopBackBtn);
-    desktopNavContainer.appendChild(desktopNextBtn);
-    document.querySelector(".d-none.d-md-block").appendChild(desktopNavContainer);
-
-    const updateDesktopNavigation = () => {
-        desktopGroups.forEach((group, index) => {
-            group.classList.toggle("new-hidden", index !== currentDesktopGroup);
-        });
-        desktopBackBtn.disabled = currentDesktopGroup === 0;
-        desktopNextBtn.disabled = currentDesktopGroup === desktopGroups.length - 1;
-    };
-
-    desktopBackBtn.addEventListener("click", () => {
-        if (currentDesktopGroup > 0) {
-            currentDesktopGroup--;
-            updateDesktopNavigation();
+    
+    // Navigation desktop : précédent
+    pierreBrandaoDesktopBackBtn.addEventListener('click', function () {
+        if (pierreBrandaoCurrentDesktopGroup > 0) {
+            pierreBrandaoHideAllGroups(pierreBrandaoDesktopGroups);
+            pierreBrandaoCurrentDesktopGroup--;
+            pierreBrandaoShowGroup(pierreBrandaoDesktopGroups, pierreBrandaoCurrentDesktopGroup);
+            pierreBrandaoUpdateDesktopButtons();
         }
     });
-
-    desktopNextBtn.addEventListener("click", () => {
-        if (currentDesktopGroup < desktopGroups.length - 1) {
-            currentDesktopGroup++;
-            updateDesktopNavigation();
+    
+    // Navigation desktop : suivant
+    pierreBrandaoDesktopNextBtn.addEventListener('click', function () {
+        if (pierreBrandaoCurrentDesktopGroup < pierreBrandaoDesktopGroups.length - 1) {
+            pierreBrandaoHideAllGroups(pierreBrandaoDesktopGroups);
+            pierreBrandaoCurrentDesktopGroup++;
+            pierreBrandaoShowGroup(pierreBrandaoDesktopGroups, pierreBrandaoCurrentDesktopGroup);
+            pierreBrandaoUpdateDesktopButtons();
         }
     });
-
-    updateDesktopNavigation();
+    
+    // Initialisation de l'affichage (on affiche le premier groupe de chaque mode)
+    pierreBrandaoShowGroup(pierreBrandaoMobileGroups, pierreBrandaoCurrentMobileGroup);
+    pierreBrandaoShowGroup(pierreBrandaoDesktopGroups, pierreBrandaoCurrentDesktopGroup);
+    pierreBrandaoUpdateMobileButtons();
+    pierreBrandaoUpdateDesktopButtons();
 });
-
 </script>

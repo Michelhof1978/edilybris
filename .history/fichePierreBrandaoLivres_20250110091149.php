@@ -398,6 +398,8 @@
       
       </div>
 
+    <!-- Boutons de navigation -->
+
 </div>
 
 

@@ -68,7 +68,7 @@
     </div>
 
     <!-- Groupe 4 Quelle tuile-->
-    <div id="mobile-group4PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group4" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
@@ -81,7 +81,7 @@
     </div>
 
     <!-- Groupe 5 meurtre à la micro carte-->
-    <div id="mobile-group5PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group5" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre meurtre à la micro carte">
@@ -94,7 +94,7 @@
     </div>
 
     <!-- Groupe 6 SAV GENDARMERIE BONJOUR 1-->
-    <div id="mobile-group6PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group6" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 1">
@@ -107,20 +107,20 @@
     </div>
 
     <!-- Groupe 7 VENGEANCE SECULAIRE-->
-    <div id="mobile-group7PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group7" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
-                    <div class="mobile-book-price">18,00 €</div>
+                    <div class="mobile-book-price">???? €</div>
                 </div>
             </a>
         </div>
     </div>
 
     <!-- Groupe 8 QUAI DES CICATRICES-->
-    <div id="mobile-group8PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group8" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre QUAI DES CICATRICES">
@@ -133,7 +133,7 @@
     </div>
 
     <!-- Groupe 9 L'ASSASSIN DU 1 ER MAI-->
-    <div id="mobile-group9PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group9" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
@@ -146,7 +146,7 @@
     </div>
 
     <!-- Groupe 10 LES RONDS POINTS DE LA COLERE-->
-    <div id="mobile-group10PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group10" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre LES RONDS POINTS DE LA COLERE ">
@@ -159,7 +159,7 @@
     </div>
 
      <!-- Groupe 11 LE COEUR A SES SAISONS-->
-    <div id="mobile-group11PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group11" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture de livre LE COEUR A SES SAISONS">
@@ -172,7 +172,7 @@
     </div>
 
     <!-- Groupe 12 LUCIOLES MAGIQUES-->
-    <div id="mobile-group12PierreBrandao" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group12" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES ">
@@ -214,15 +214,15 @@
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
-        <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
-        <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
+        <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
+        <button id="mobile-next-btn" class="mobile-button">Suivant</button>
     </div>
 </div>
 
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
-    <div id="desktop-group1PierreBrandao" class="new-card-container">
+    <div id="desktop-group1" class="new-card-container">
         <!-- carte 1  L'enlèvement-->
         <div class="new-card">
             <a href="link_to_book_A.html">
@@ -276,7 +276,7 @@
     </div>
 
     <!-- Groupe 2 -->
-    <div id="desktop-group2PierreBrandao" class="new-card-container new-hidden">
+    <div id="desktop-group2" class="new-card-container new-hidden">
         <!-- carte 6  SAV GENDARMERIE BONJOUR 1-->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -293,7 +293,7 @@
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
-                    <div class="new-card-price">18,00 €</div>
+                    <div class="new-card-price">???? €</div>
                 </div>
             </a>
         </div>
@@ -333,7 +333,7 @@
     </div>
 
      <!-- Groupe 3 -->
-     <div id="desktop-group3PierreBrandao" class="new-card-container new-hidden">
+     <div id="desktop-group3" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
             <a href="link_to_book_F.html">
@@ -398,6 +398,11 @@
       
       </div>
 
+    <!-- Boutons de navigation -->
+    <div class="new-navigation">
+        <button id="new-desktop-backButton" class="new-button xl-button text-white" disabled>Précédent</button>
+        <button id="new-desktop-nextGroupButton" class="new-button xl-button text-white">Suivant</button>
+    </div>
 </div>
 
 
