@@ -31,7 +31,7 @@
     <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLamuserie.php">
+            <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>

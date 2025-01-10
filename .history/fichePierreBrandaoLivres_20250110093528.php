@@ -31,7 +31,7 @@
     <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLamuserie.php">
+            <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
@@ -57,7 +57,7 @@
     <!-- Groupe 3 L'enlèvement-->
     <div id="mobile-group3PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLenlevement.php">
+            <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
@@ -225,7 +225,7 @@
     <div id="desktop-group1PierreBrandao" class="new-card-container">
         <!-- carte 1  L'enlèvement-->
         <div class="new-card">
-            <a href="fichePierreBrandaoLamuserie.php">
+            <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre  L'enlèvement">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
@@ -245,7 +245,7 @@
         </div>
         <!-- carte 3 L'enlèvement-->
         <div class="new-card">
-            <a href="fichePierreBrandaoLenlevement.php">
+            <a href="link_to_book_C.html">
                 <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
