@@ -223,7 +223,9 @@ $citations = [
                              Au firmament des étincelles...",
 
     'Souffle d\'une plume' => "
-   
+    <div class='poeme-image'>
+                            <img src='images/pierreBrandao/souffleDePlume.webp' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                         Plus belle qu'une aurore,
                                Plus tendre qu'un baiser
                                Je chanterai ton corps
@@ -379,7 +381,9 @@ Les pas collés au sol… l’heure veut se figer
 
 Je nourris une larme au pupitre d’un cœur",
 
-'Miroir de mes saisons ' => "
+'Miroir de mes saisons ' => "<div class='poeme-image'>
+                            <img src='images/pierreBrandao/miroirDeMesSaisons.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                        Je nourris une larme…
 
 Je nourris une larme au pupitre d’un cœur

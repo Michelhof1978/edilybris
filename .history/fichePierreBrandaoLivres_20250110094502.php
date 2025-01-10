@@ -223,7 +223,7 @@
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
     <div id="desktop-group1PierreBrandao" class="new-card-container">
-        <!-- carte 1  L'amuserie-->
+        <!-- carte 1  L'enlèv-->
         <div class="new-card">
             <a href="fichePierreBrandaoLamuserie.php">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre  L'enlèvement">
@@ -399,6 +399,13 @@
       </div>
 
 </div>
+
+
+
+                <!-- Bouton centré et plus grand -->
+                <!-- <div class="text-center">
+                    <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
+                </div> -->
             </div>
         </div>
     </div>

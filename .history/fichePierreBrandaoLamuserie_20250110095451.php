@@ -83,7 +83,7 @@ Pour vous plaire, l’Amuse-rit (et pleure parfois) évoque les joies des passio
 L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !
                         </p>
    <!-- Bouton citations -->
-   <div class="text-center mb-5">
+   <div class="text-center mb-">
                     <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
                 </div>                     
                         </p>

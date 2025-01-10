@@ -3,7 +3,7 @@
     <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
     <div id="mobile-group1" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLamuserie.php">
+            <a href="fichePierreBrandaoLamuserie.">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
@@ -469,7 +469,7 @@
     <div id="desktop-group1" class="new-card-container">
         <!-- carte 1 Pierre Brandao-->
         <div class="new-card">
-            <a href="fichePierreBrandaoLamuserie.php">
+            <a href="link_to_book_A.html">
                 <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>

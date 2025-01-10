@@ -223,7 +223,9 @@ $citations = [
                              Au firmament des étincelles...",
 
     'Souffle d\'une plume' => "
-   
+    <div class='poeme-image'>
+                            <img src='images/pierreBrandao/souffleDePlume.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                         Plus belle qu'une aurore,
                                Plus tendre qu'un baiser
                                Je chanterai ton corps
@@ -269,7 +271,9 @@ $citations = [
                                Au pistil de tes lèvres
                                Fleur du plus beau rêve...",
                                
-    'FLEUR D\'AUTOMNE' => "
+    'FLEUR D\'AUTOMNE' => "<div class='poeme-image'>
+                            <img src='images/pierreBrandao/fleurAutomne.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                         Moi, j’ai saisi sur son dos dénudé
                             Une coque de gland tombée du chêne
                             Un vent plus froid qu’une brise d’été
@@ -298,7 +302,9 @@ $citations = [
                             J’aime ces départs en contraste fort
                             Ils respirent la vie plutôt que la mort !",
 'Souffle d\'une plume' => "
-
+    <div class='poeme-image'>
+                            <img src='images/pierreBrandao/souffleDePlume.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                         Plus belle qu'une aurore,
                                Plus tendre qu'un baiser
                                Je chanterai ton corps
@@ -344,7 +350,9 @@ $citations = [
                                Au pistil de tes lèvres
                                Fleur du plus beau rêve...",
                                
-    'Je nourris une larme…' => "
+    'Je nourris une larme…' => "<div class='poeme-image'>
+                            <img src='images/pierreBrandao/jeNourrisUneLarme.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                        Je nourris une larme…
 
 Je nourris une larme au pupitre d’un cœur
@@ -379,7 +387,9 @@ Les pas collés au sol… l’heure veut se figer
 
 Je nourris une larme au pupitre d’un cœur",
 
-'Miroir de mes saisons ' => "
+'Miroir de mes saisons ' => "<div class='poeme-image'>
+                            <img src='images/pierreBrandao/miroirDeMesSaisons.jpg' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                        Je nourris une larme…
 
 Je nourris une larme au pupitre d’un cœur
@@ -481,7 +491,7 @@ $totalPages = ceil($totalCitations / $citationsParLigne);
     <div class="container">
         <h2 class="h2Jaune text-center mt-4 mb-4">MAGASIN DE POÈMES À CHANTER</h2>
         <div class="text-center">
-            <img class="img-fluid w-25" src="images/poeme.webp" alt="Image centrée">
+            <img class="img-fluid w-25" src="images/" alt="Image centrée">
         </div>
         <div class="row" id="citations-container">
             <?php foreach ($citationsPage as $titre => $citation) : ?>

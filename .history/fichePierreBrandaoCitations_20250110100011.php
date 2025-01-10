@@ -223,7 +223,9 @@ $citations = [
                              Au firmament des étincelles...",
 
     'Souffle d\'une plume' => "
-   
+    <div class='poeme-image'>
+                            <img src='images/pierreBrandao/souffleDePlume.webp' alt='Fleur d\'automne' class=' w-50 rounded img-fluid'>
+                        </div>
                         Plus belle qu'une aurore,
                                Plus tendre qu'un baiser
                                Je chanterai ton corps
