@@ -83,7 +83,7 @@
     <!-- Groupe 5 meurtre à la micro carte-->
     <div id="mobile-group5PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoMeurtreALaMicroCarte.php">
+            <a href="fichePierreBrandaoMeurtreALaMicroCartel">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre meurtre à la micro carte">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
@@ -265,7 +265,7 @@
         </div>
         <!-- carte 5 Meurtre à la micro carte-->
         <div class="new-card">
-            <a href="fichePierreBrandaoMeurtreALaMicroCarte.php">
+            <a href="link_to_book_E.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="new-card-content">
                     <div class="new-card-author">brandao Pierre</div>

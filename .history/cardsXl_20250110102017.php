@@ -623,7 +623,7 @@
 
          <!-- carte 15 Pierre Brandao-->
          <div class="new-card">
-            <a href="fichePierreBrandaoMeurtreALaMicroCarte.php">
+            <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
