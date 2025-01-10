@@ -1057,7 +1057,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- _____________________________________________________________________________________ -->
 <!-- Google Analytics -->
 
-<!-- CARDS PIERRE BRANDAO-->
+<!-- -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
     // Mobile Navigation
@@ -1136,4 +1136,3 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 </script>
-<!-- FIN CARDS PIERRE BRANDAO-->

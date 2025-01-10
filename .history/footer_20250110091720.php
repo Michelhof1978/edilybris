@@ -1136,4 +1136,3 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 </script>
-<!-- FIN CARDS PIERRE BRANDAO-->

@@ -800,7 +800,7 @@
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">18,00 €</div>
+                    <div class="new-card-price">??? €</div>
                 </div>
             </a>
         </div>
