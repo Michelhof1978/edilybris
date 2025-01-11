@@ -174,8 +174,8 @@
     <!-- Groupe 12 LUCIOLES MAGIQUES-->
     <div id="mobile-group12PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLuciloesMagiques.php">
-                <img src="fichePierreBrandaoLuciolesMagiques.php" class="img-fluid w-75" alt="Couverture de livre LUCIOLES MAGIQUES ">
+            <a href="link_to_book_B.html">
+                <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
                     <div class="mobile-book-price">10,00 €</div>
@@ -336,18 +336,18 @@
      <div id="desktop-group3PierreBrandao" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
-            <a href="fichePierreBrandaoLuciloesMagiques.php">
+            <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>
         <!-- carte 12 LE COEUR A SES SAISONS-->
         <div class="new-card">
             <a href="fichePierreBrandaoLeCoeurASesSaisons.php">
-                <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture de livre LE COEUR A SES SAISONS">
+                <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture de livre Le ">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
                     <div class="new-card-price">22,00 €</div>

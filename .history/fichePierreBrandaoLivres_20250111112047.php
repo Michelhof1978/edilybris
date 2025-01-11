@@ -175,7 +175,7 @@
     <div id="mobile-group12PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="fichePierreBrandaoLuciloesMagiques.php">
-                <img src="fichePierreBrandaoLuciolesMagiques.php" class="img-fluid w-75" alt="Couverture de livre LUCIOLES MAGIQUES ">
+                <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid w-75" alt="Couverture de livre LUCIOLES MAGIQUES "><br>
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
                     <div class="mobile-book-price">10,00 €</div>

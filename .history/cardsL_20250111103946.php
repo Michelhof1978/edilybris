@@ -55,7 +55,7 @@
   <!-- Groupe 5 PIERRE BRANDAO-->
   <div id="new-group5" class="new-card-container new-hidden">
     <div class="new-card">
-      <a href="<strong>Miroir de mes saisons </strong>">
+      <a href="link_to_book_D.html">
         <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre Lucioles Magiques">
         <div class="new-card-content">
           <div class="new-card-author">Brandao Pierre</div>
@@ -217,7 +217,7 @@
     </div>
      <!-- Carte 5 PIERRE BRANDAO-->
     <div class="L-card">
-        <a href="<strong>Miroir de mes saisons </strong>">
+        <a href="link_to_book_D.html">
             <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="couverture de livre Lucioles Magiques">
             <div class="L-card-content">
                 <div class="L-card-author">Brandao Pierre</div>
