@@ -148,7 +148,7 @@
     <!-- Groupe 10 LES RONDS POINTS DE LA COLERE-->
     <div id="mobile-group10PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoRondsPointsDeLaColere.php">
+            <a href="link_to_book_B.html">
                 <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre LES RONDS POINTS DE LA COLERE ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>

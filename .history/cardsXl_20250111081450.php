@@ -652,7 +652,7 @@
     <div id="desktop-group4" class="new-card-container new-hidden">
         <!-- carte 16 Pierre Brandao-->
         <div class="new-card">
-            <a href="fichePierreBrandaoRondsPointsDeLaColere.php">
+            <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/img010 (1)-min.webp" class="img-fluid" alt="Couverture de livre Les ronds points de la colère">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>

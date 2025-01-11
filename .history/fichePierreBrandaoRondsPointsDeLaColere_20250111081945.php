@@ -13,43 +13,40 @@
         <div class="container">
             <h2 class="text-center text-white">Les livres de Pierre Brandao</h2>
 
-            <!-- Livre 1 : L'ASSASSIN DU 1 ER MAI -->
+            <!-- Livre 1 : Les ronds-points de la colère-->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'ASSASSIN DU 1 ER MAI ">
+                    <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Les ronds-points de la colère">
                     <p class="fw-bold coloryellow fs-5">20,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">L'assassin du 1er mai</h3>
+                    <h3 class="h2Jaune text-center">Les ronds-points de la colère</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2025
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 300
+                        <strong class="h2Jaune">Nombre de pages :</strong> 344
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Policier
                     </p>
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong>1er mai 1997. Isabelle Loubry, notre héroïne gendarme, est chargée d’enquêter sur le meurtre d’une religieuse tuée durant la nuit près de la basilique de Vézelay.
+                        <strong class="h2Jaune">Résumé :</strong>Au hasard des routes, le regard se pose négligemment sur les aménagements de certains ronds-points… En Charente-Maritime, plusieurs d’entre eux aiguisent notre curiosité… Ainsi, deux impressionnantes mains s’apprêtent à ouvrir une huître à l’Éguille-sur-Seudre, un groupe de
+pèlerins en composite se dirige vers l’hospice de Pons, une phénoménale statue de fer répondant au nom d’Hermès accueille les voyageurs en provenance de Marans, un gigantesque terre-plein central accueille une baraque ostréicole près de Chaillevette… Et bien d’autres encore valent le détour.  
 
-Un crime crapuleux ? Pourtant, d’autres événements commis dans les mêmes circonstances la conduiront dans plusieurs villes de France (Poitiers, Bégard, Périgueux, La Rochelle, Marsilly, Paris…) et en Inde. De villes en villages, elle suivra le fil poétique -mais oh combien machiavélique !- d’un serial killer qui sévit chaque 1er mai et qui, une fois son forfait accompli, dépose sur le corps des victimes des phrases étranges et un brin de muguet. Isabelle, humaine et révoltée, se sent proche de ces pauvres femmes assassinées… Sait-elle déjà jusqu’à quel point ?
+Mais, lorsque ces ornements cachent de lourds secrets, conduisant notre héroïne gendarme Isabelle Loubry à solliciter un détective outre-Atlantique, notre compassion dépassera-t-elle le seuil de l’étonnement et de l’admiration ?
+Qui a intérêt à cacher ces fardeaux plutôt morbides ? 
+De giratoires en giratoires, les enquêteurs vont connaître le summum de l’horreur, tout en se mettant en quête de motards au présent particulièrement douteux…           
 
-Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, violence, suspense, poésie et spirituel se côtoient au fil des pages. Peut-être vous poserez-vous cette question au moment où vous fermerez l’ouvrage : mon passé est-il sans tache ?
-
-
-à noter : 
-
-« L'Assassin du premier mai » a été présenté en 2005 au concours littéraire de la gendarmerie et a terminé en sélection finale. L'originalité de l'intrigue, la force des personnages, l'humilité de l'enquêtrice et l'humanisme qui s'en dégagent séduisent le lecteur accroché au récit dès la première page.  
-«L'Assassin du premier mai » est le deuxième voelt de la saga Loubry. Il est paru initialement sous le titre « Rancune meurtrière ». Depuis, d'autres aventures mettent en scène cette enquêtrice hors du commun. N'hésitez pas à les découvrir sur le site de l'association ou sur celui de l'auteur.
+Entrez dans la ronde, brave gens, et que la tête ne vous tourne pas trop, car cette enquête vous mettra sens dessus-dessous !
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                    <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
+                    <h3 class="h2Jaune text-center m-3">Extrait chapitre 2</h3>
 
                     <p>
-                    Soirée du mercredi 30 avril au jeudi 1er mai 1997
+                    oirée du mercredi 30 avril au jeudi 1er mai 1997
 Vézelay – Bourgogne
 
 Les coteaux bourguignons acceptaient, soumis, l’emprise de la pénombre envahissante. Un soleil rougeoyant clignait de l’œil, désireux de se reposer après une journée où le labeur de l’homme l’exténuait. Quelques flocons de nuages ensanglantés cotonnaient le ciel de mai naissant. Sur la colline vouée au culte du vin, la basilique Sainte-Marie-Madeleine se dressait, hautaine, souveraine. Les gens superstitieux affirmaient qu’ici, l’air soufflait la foi des croyants en route pour Saint-Jacques-de-Compostelle. Une sorte d’élévation de l’âme, forte, intime, perpétuelle, assurait aux sédentaires d’accéder au Paradis, à la droite du Père. Tant de siècles passés à préserver la magnificence de l’endroit inspiraient respect et silence. Vézelay vivait, au rythme de la congrégation religieuse, sa réputation de petite ville de province tranquille.
@@ -98,7 +95,7 @@ Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, viole
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
 
                     <p>
-                    Soirée du mercredi 30 avril au jeudi 1er mai 1997
+                    oirée du mercredi 30 avril au jeudi 1er mai 1997
 Vézelay – Bourgogne
 
 Les coteaux bourguignons acceptaient, soumis, l’emprise de la pénombre envahissante. Un soleil rougeoyant clignait de l’œil, désireux de se reposer après une journée où le labeur de l’homme l’exténuait. Quelques flocons de nuages ensanglantés cotonnaient le ciel de mai naissant. Sur la colline vouée au culte du vin, la basilique Sainte-Marie-Madeleine se dressait, hautaine, souveraine. Les gens superstitieux affirmaient qu’ici, l’air soufflait la foi des croyants en route pour Saint-Jacques-de-Compostelle. Une sorte d’élévation de l’âme, forte, intime, perpétuelle, assurait aux sédentaires d’accéder au Paradis, à la droite du Père. Tant de siècles passés à préserver la magnificence de l’endroit inspiraient respect et silence. Vézelay vivait, au rythme de la congrégation religieuse, sa réputation de petite ville de province tranquille.

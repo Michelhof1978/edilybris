@@ -20,12 +20,12 @@
                     <p class="fw-bold coloryellow fs-5">20,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">L'assassin du 1er mai</h3>
+                    <h3 class="h2Jaune text-center">Les </h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2025
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 300
+                        <strong class="h2Jaune">Nombre de pages :</strong> 344
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Policier
@@ -49,7 +49,7 @@ Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, viole
                     <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
 
                     <p>
-                    Soirée du mercredi 30 avril au jeudi 1er mai 1997
+                    oirée du mercredi 30 avril au jeudi 1er mai 1997
 Vézelay – Bourgogne
 
 Les coteaux bourguignons acceptaient, soumis, l’emprise de la pénombre envahissante. Un soleil rougeoyant clignait de l’œil, désireux de se reposer après une journée où le labeur de l’homme l’exténuait. Quelques flocons de nuages ensanglantés cotonnaient le ciel de mai naissant. Sur la colline vouée au culte du vin, la basilique Sainte-Marie-Madeleine se dressait, hautaine, souveraine. Les gens superstitieux affirmaient qu’ici, l’air soufflait la foi des croyants en route pour Saint-Jacques-de-Compostelle. Une sorte d’élévation de l’âme, forte, intime, perpétuelle, assurait aux sédentaires d’accéder au Paradis, à la droite du Père. Tant de siècles passés à préserver la magnificence de l’endroit inspiraient respect et silence. Vézelay vivait, au rythme de la congrégation religieuse, sa réputation de petite ville de province tranquille.
@@ -98,7 +98,7 @@ Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, viole
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
 
                     <p>
-                    Soirée du mercredi 30 avril au jeudi 1er mai 1997
+                    oirée du mercredi 30 avril au jeudi 1er mai 1997
 Vézelay – Bourgogne
 
 Les coteaux bourguignons acceptaient, soumis, l’emprise de la pénombre envahissante. Un soleil rougeoyant clignait de l’œil, désireux de se reposer après une journée où le labeur de l’homme l’exténuait. Quelques flocons de nuages ensanglantés cotonnaient le ciel de mai naissant. Sur la colline vouée au culte du vin, la basilique Sainte-Marie-Madeleine se dressait, hautaine, souveraine. Les gens superstitieux affirmaient qu’ici, l’air soufflait la foi des croyants en route pour Saint-Jacques-de-Compostelle. Une sorte d’élévation de l’âme, forte, intime, perpétuelle, assurait aux sédentaires d’accéder au Paradis, à la droite du Père. Tant de siècles passés à préserver la magnificence de l’endroit inspiraient respect et silence. Vézelay vivait, au rythme de la congrégation religieuse, sa réputation de petite ville de province tranquille.
