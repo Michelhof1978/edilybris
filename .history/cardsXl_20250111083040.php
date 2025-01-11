@@ -460,7 +460,7 @@
     <!-- Groupe 35 PIERRE BRANDAO -->
     <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoEcartDeMemoire.php">
+            <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Brandao Pierre </div>
@@ -1006,7 +1006,7 @@
 
          <!-- carte 37 Brandao Pierre -->
          <div class="new-card">
-            <a href="fichePierreBrandaoEcartDeMemoire.php">
+            <a href="fichePierreBrandaoEcartDeMémoire.php">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Ecart de mémoire">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>

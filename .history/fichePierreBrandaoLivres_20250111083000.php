@@ -357,7 +357,7 @@
 
         <!-- carte 13 ECART DE MEMOIRE-->
         <div class="new-card">
-            <a href="fichePierreBrandaoEcartDeMemoire.php">
+            <a href="link_to_book_H.html">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre ECART DE MEMOIRE">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
