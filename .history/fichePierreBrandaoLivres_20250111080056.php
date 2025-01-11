@@ -311,7 +311,7 @@
         
         <!-- carte 9 L'ASSASSIN DU 1 ER MAI-->
         <div class="new-card">
-            <a href="fichePierreBrandaoAssassin1erMai.php">
+            <a href="link_to_book_J.html">
                 <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
