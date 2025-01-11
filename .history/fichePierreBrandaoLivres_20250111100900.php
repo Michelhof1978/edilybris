@@ -346,7 +346,7 @@
         </div>
         <!-- carte 12 LE COEUR A SES SAISONS-->
         <div class="new-card">
-            <a href="fichePierreBrandaoLeCoeurASesSaisons.php">
+            <a href="link_to_book_G.html">
                 <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>

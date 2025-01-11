@@ -227,7 +227,7 @@
     </div>
     <div class="L-card">
        <!-- Carte 6 PIERRE BRANDAO-->
-        <a href="fichePierreBrandaoLeCoeurASesSaisons.php">
+        <a href="link_to_book_H.html">
             <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="couverture de livre Le coeur a ses saisons">
             <div class="L-card-content">
                 <div class="L-card-author">Brandao Pierre</div>
