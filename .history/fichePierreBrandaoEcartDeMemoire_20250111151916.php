@@ -77,8 +77,7 @@ Alors, je me rends compte qu'il fait bon à l'intérieur de l'engin, bien meille
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
+                       
                        
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
                     </div>

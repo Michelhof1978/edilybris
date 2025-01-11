@@ -76,9 +76,8 @@ La Basilique, dont l’ombre se dessinait dans la nuit, ne se dressa plus fière
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
+                        <img src="images/l" class="img-fluid" alt="Illustration">
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">20,00 €</p>
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">L'assassin du 1 er mai</h3>

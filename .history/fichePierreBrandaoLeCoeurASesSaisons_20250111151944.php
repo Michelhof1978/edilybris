@@ -73,8 +73,7 @@ Avec l’oeil averti de Michel, doublons le plaisir de la lecture avec celui du 
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/pierreBrandao/leCoeurAsesSaisons.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
+                        
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                     </div>
                     <div class="livre-details">

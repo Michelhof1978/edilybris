@@ -16,8 +16,7 @@
             <!-- Livre 1 : Lucioles magiques -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-  
+                    
                 <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Lucioles magiques">
                     <p class="fw-bold coloryellow fs-5">10,00 €</p>
                 </div>

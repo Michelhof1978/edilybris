@@ -83,8 +83,7 @@ Il s’approche, retourne le visage du noyé et s’exclame :
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
+                       
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                     </div>
                     <div class="livre-details">

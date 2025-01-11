@@ -103,8 +103,7 @@ La flamme de la vérité qui l’animait a fini par l’éteindre.
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
+                        
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                     </div>
                     <div class="livre-details">
