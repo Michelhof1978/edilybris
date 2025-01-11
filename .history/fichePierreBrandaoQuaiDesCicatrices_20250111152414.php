@@ -70,8 +70,6 @@ Il se plaisait dans son monde imaginaire, habité de peuplades sauvages dont il 
                         <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Quai des cicacitres</h3>

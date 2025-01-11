@@ -68,8 +68,6 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
                         <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
-
-
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">L'enlèvement</h3>

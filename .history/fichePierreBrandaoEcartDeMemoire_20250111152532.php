@@ -80,8 +80,7 @@ Alors, je me rends compte qu'il fait bon à l'intérieur de l'engin, bien meille
 
                        
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
+                        
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Le rond-point de la colère</h3>

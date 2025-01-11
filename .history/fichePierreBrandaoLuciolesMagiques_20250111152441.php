@@ -19,9 +19,6 @@
   
                 <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Lucioles magiques">
                     <p class="fw-bold coloryellow fs-5">10,00 €</p>
-
-                    <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
                 </div>
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">Luciole magique</h3>

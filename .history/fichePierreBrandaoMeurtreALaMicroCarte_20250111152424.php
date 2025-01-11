@@ -105,8 +105,6 @@ La flamme de la vérité qui l’animait a fini par l’éteindre.
                         <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
-                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Meurtre à la microcarte</h3>

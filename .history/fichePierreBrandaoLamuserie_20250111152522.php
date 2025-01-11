@@ -69,6 +69,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
 
+                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
