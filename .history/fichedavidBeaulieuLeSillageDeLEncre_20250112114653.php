@@ -16,7 +16,7 @@
             <!-- Livre 1 : L'ASSASSIN DU 1 ER MAI -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'ASSASSIN DU 1 ER MAI ">
+                    <img src="images/dav" class="img-fluid w-75 mb-3" alt="Couverture du livre L'ASSASSIN DU 1 ER MAI ">
                     <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
@@ -78,10 +78,10 @@ Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, viole
 
                      <!-- Bouton citations -->
                 <div class="text-center">
-                    <a href="ficheDavidBeaulieuCitations.php" class="btnCitations mb-5">Les extraits</a>
+                    <a href="ficheDavidBeaulieuCitations.php" class="btnCitations">Découvrir les citations</a>
                 </div>
                     </p>
-                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

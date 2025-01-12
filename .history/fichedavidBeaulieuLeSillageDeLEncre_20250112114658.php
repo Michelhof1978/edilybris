@@ -78,10 +78,10 @@ Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, viole
 
                      <!-- Bouton citations -->
                 <div class="text-center">
-                    <a href="ficheDavidBeaulieuCitations.php" class="btnCitations mb-5">Les extraits</a>
+                    <a href="ficheDavidBeaulieuCitations.php" class="btnCitations">Découvrir les citations</a>
                 </div>
                     </p>
-                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

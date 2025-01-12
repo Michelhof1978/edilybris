@@ -64,16 +64,24 @@ Sentiment d’unité avec le tout, la mer me regarde passer dans un sillage éte
 Tes heures interminables se liquéfient. Pourtant, après cette expérience, je me sens désormais fidèle à toi.
 Méditer, être dans le silence d’une foule panique. La réflexion se loge au creux de chacune de nos vies. Alors, sachons l’entendre et l’attendre.",
 
-    'BLEU ET ARC-EN-CIEL' => "Sur l’océan se trouve le trésor d’éternité, son silence enveloppe nos membres d’un voile humide.
-Sur le pont du navire, chaque regard est destiné à cette immensité où l’on perd la notion du temps.
-Alors, nous avons le loisir d’ouvrir nos sens aux multiples relations que nous propose ce champ bleu labouré à perte de vue.
-Vague perpétuelle, encre de vie répandue, ciel dégagé, mon cœur retourne à la terre et je pense à mes frères.
-Du sang de la mer, j’ai noyé mes arrogances, oublié mes certitudes et me suis relié au vivant.
-Le vent a dissipé les peurs qui habitent nos carcasses. L’arc-en-ciel orne mes habits d’enfant désormais.",
+    'Le Fou et sa Reine' => "Je suis ton fou, tu es ma reine
+                             Me ferai plus cavalier que ton roi
+                             ...",
     'Une Ampoule Claque' => "Une ampoule claque
                              Tu titubes dans le noir
                              ...",
-   
+    'Souffle d\'une plume' => "Plus belle qu'une aurore,
+                               Plus tendre qu'un baiser
+                               ...",
+    'FLEUR D\'AUTOMNE' => "Moi, j’ai saisi sur son dos dénudé
+                           Une coque de gland tombée du chêne
+                           ...",
+    'Je nourris une larme…' => "Je nourris une larme…
+                               ...
+                               ",
+    'Miroir de mes saisons ' => "Je nourris une larme…
+                                ...
+                                ",
     'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
                         ...
                         ",

@@ -73,7 +73,18 @@ Le vent a dissipé les peurs qui habitent nos carcasses. L’arc-en-ciel orne me
     'Une Ampoule Claque' => "Une ampoule claque
                              Tu titubes dans le noir
                              ...",
-   
+    'Souffle d\'une plume' => "Plus belle qu'une aurore,
+                               Plus tendre qu'un baiser
+                               ...",
+    'FLEUR D\'AUTOMNE' => "Moi, j’ai saisi sur son dos dénudé
+                           Une coque de gland tombée du chêne
+                           ...",
+    'Je nourris une larme…' => "Je nourris une larme…
+                               ...
+                               ",
+    'Miroir de mes saisons ' => "Je nourris une larme…
+                                ...
+                                ",
     'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
                         ...
                         ",
