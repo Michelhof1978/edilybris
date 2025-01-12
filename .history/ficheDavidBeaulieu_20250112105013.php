@@ -8,7 +8,8 @@
 
 
 
- <?php include("ficheDavidBeaulieulivre.php"); ?>
+ <?php include("ficheDavidBeaulieulivre.php
+.php"); ?>
 
 
  

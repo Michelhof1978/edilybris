@@ -8,9 +8,9 @@
 
 
 
- <?php include("ficheDavidBeaulieulivre.php"); ?>
+ 
 
-
+ficheDavidBeaulieulivre.php
  
  <?php include("footer.php"); ?>
 </body>

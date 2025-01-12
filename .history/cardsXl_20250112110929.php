@@ -902,7 +902,7 @@
 
         <!-- carte 28 DAVID BEAULIEU-->
         <div class="new-card">
-            <a href="fichedavidBeaulieuLeSillageDeLEncre.php">
+            <a href="link_to_book_H.html">
                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
                 <div class="new-card-content">
                     <div class="new-card-author">Beaulieu David </div>
