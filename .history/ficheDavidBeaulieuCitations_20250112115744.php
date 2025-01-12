@@ -14,7 +14,7 @@ $nombreCitationsParLigne = 2;
 // Récupérer la page actuelle depuis l'URL (si elle existe), sinon page 1 par défaut
 $pageCourante = isset($_GET['page']) ? (int) $_GET['page'] : 1;
 
-// Tableau de citations
+// Tableau de citations (toutes les citations que tu as mentionnées)
 $tableauCitations = [
     'ORAGE' => "Atlantique Nord, le 24 avril 1999,
 en route pour les Bermudes depuis vingt jours
@@ -22,6 +22,8 @@ en route pour les Bermudes depuis vingt jours
      (écrit pendant un fort coup de vent)
 
 
+
+ 
 
 Fracas, choc d'appendices en continu, rien de calme ici… Le chaos frappe nos corps de part et d’autre.
 
@@ -35,46 +37,51 @@ Le bruit s’engouffre directement dans le bateau, l’intérieur n’est que r�
 Mon âme gémit, j’ai envie de crier sous cette étreinte, aucun son ne parvient à sortir de mes profondeurs.
 
 
-Juste ce bruit qui domine, tout en est recouvert, sous un voile opaque, d’une lourdeur qui habille nos membres, une moiteur qui sent la peur.",
+Juste ce bruit qui domine, tout en est recouvert, sous un voile opaque, d’une lourdeur qui habille nos membres, une moiteur qui sent la peur.
 
-    'L’HOMME ET LA MER?' => "Sur l’eau, le temps s’écoule. L’immensité bleue rejoint toutes les terres. Belle mer, aux rides ondulées, particularités nuancées par les vents.
+Transat 2002
+Se ancetravaildavidbeaulieu270122 14
+
+",
+    'L’HOMME ET LA MER' => "Sur l’eau, le temps s’écoule. L’immensité bleue rejoint toutes les terres. Belle mer, aux rides ondulées, particularités nuancées par les vents.
 Le calme amuse nos journées, nous avons tout latitude pour faire le point sur la carte océanique.
 Brise marine, ton signal nous éveille, le plan d’eau s’irise, l’ouïe aux aguets. À présent, notre vigilance devient nécessaire et une forme d’appréhension vient à notre écoute.
 Souffle frais, le matelot se prépare, scrute le ciel, décèle les précautions à prendre afin de se sentir proche des éléments.
 L’océan rit, les moutons épars forment bientôt un véritable troupeau d’humeur chaotique.
-Les vagues imitent le vent, leurs forces se joignent, décident de s’ébattre tels des amours de jeunesse fusionnelles. L’écume déferle désormais, crêtes de bave blanche.",
+Les vagues imitent le vent, leurs forces se joignent, décident de s’ébattre tels des amours de jeunesse fusionnelles. L’écume déferle désormais, crêtes de bave blanche.
+Leur union intermittente se dissipe dans les méandres de l’Atlantique… Il en va ainsi lors du quart de nuit : des couleurs inconnues du nuancier apparaissent pour alimenter notre soif et nous relier à l’infini.
+De tous les bleus croisés au large, il reste un sentiment d’unité qui se décline à l’infini.
+Le bleu de l’âme inconfortée réchauffe lors des nuits étoilées.
+Le bleu de l’arc-en-ciel joue avec le vert.
+Le bleu de l’eau s’amuse avec l’écume blanche des vagues.
+Le bleu du désert marin ramène à l’immensité de nos vies terrestres.",
 
-    'PRIÈRE PATIENTE' => "Sur un voilier, trente-deux jours de navigation, une résonance intérieure frappe à ma porte-poitrine.
+    'PRIÈRE PATIENTE' => "JSur un voilier, trente-deux jours de navigation, une résonance intérieure frappe à ma porte-poitrine.
 Ouvrant celle-ci, je laisse pénétrer en moi des mots, des émotions et un flot de sentiments diffus.
-Les tempêtes, les calmes, les désagréments de la vie marine m’apparaissent difficiles, mais sur l’eau, chaque événement apporte son lot de connaissances.",
+Les tempêtes, les calmes, les désagréments de la vie marine m’apparaissent difficiles, mais sur l’eau, chaque événement apporte son lot de connaissances.
+Néanmoins, mon conscient n’absorbe pas cette vérité. Advient alors cette longue prière patiente, ce recueillement dans la nuit en compagnie du vent et des étoiles, cette imploration au levant, sereine et proche des vivants.
+Sentiment d’unité avec le tout, la mer me regarde passer dans un sillage éternel. À présent, je suis là au bord de l’océan, les yeux tournés vers un horizon sans cesse en train de se voiler et de se dévoiler. Impermanence de notre parcours terrestre.
+Tes heures interminables se liquéfient. Pourtant, après cette expérience, je me sens désormais fidèle à toi.
+Méditer, être dans le silence d’une foule panique. La réflexion se loge au creux de chacune de nos vies. Alors, sachons l’entendre et l’attendre.",
 
     'BLEU ET ARC-EN-CIEL' => "Sur l’océan se trouve le trésor d’éternité, son silence enveloppe nos membres d’un voile humide.
 Sur le pont du navire, chaque regard est destiné à cette immensité où l’on perd la notion du temps.
 Alors, nous avons le loisir d’ouvrir nos sens aux multiples relations que nous propose ce champ bleu labouré à perte de vue.
-Du sang de la mer, j’ai noyé mes arrogances, oublié mes certitudes et me suis relié au vivant.",
+Vague perpétuelle, encre de vie répandue, ciel dégagé, mon cœur retourne à la terre et je pense à mes frères.
+Du sang de la mer, j’ai noyé mes arrogances, oublié mes certitudes et me suis relié au vivant.
+Le vent a dissipé les peurs qui habitent nos carcasses. L’arc-en-ciel orne mes habits d’enfant désormais.",
 
-    'Une Ampoule Claque' => "Une ampoule claque
-Tu titubes dans le noir
-                             ...",
-
-    'Crime céleste' => "Le pers de ta souffrance ignore l’horizon.
-                        ...",
 ];
 
-// Tableau des images associées aux titres
-$imagesParTitre = [
-    'ORAGE' => 'images/orage.jpg',
-    'L’HOMME ET LA MER?' => 'images/homme_mer.jpg',
-    'PRIÈRE PATIENTE' => 'images/priere_patiente.jpg',
-    'BLEU ET ARC-EN-CIEL' => 'images/bleu_arc_en_ciel.jpg',
-    'Une Ampoule Claque' => 'images/ampoule_claque.jpg',
-    'Crime céleste' => 'images/crime_celeste.jpg',
-];
-
-// Calcul des pages
 $totalCitations = count($tableauCitations);
+
+// Calculer la position de départ des citations pour la page actuelle
 $positionDepart = ($pageCourante - 1) * $nombreCitationsParLigne;
+
+// Obtenir les citations pour la page actuelle
 $citationsPourPage = array_slice($tableauCitations, $positionDepart, $nombreCitationsParLigne, true);
+
+// Calculer le nombre total de pages
 $nombreTotalPages = ceil($totalCitations / $nombreCitationsParLigne);
 ?>
 
@@ -89,13 +96,6 @@ $nombreTotalPages = ceil($totalCitations / $nombreCitationsParLigne);
             <?php foreach ($citationsPourPage as $titreCitation => $texteCitation) : ?>
                 <div class="col-md-6 mb-4">
                     <h3 class="h2Jaune"><?php echo $titreCitation; ?></h3>
-                    <div class="text-center mb-3">
-                        <?php if (isset($imagesParTitre[$titreCitation])) : ?>
-                            <img class="img-fluid w-75" src="<?php echo $imagesParTitre[$titreCitation]; ?>" alt="Image pour <?php echo $titreCitation; ?>">
-                        <?php else : ?>
-                            <p>Aucune image disponible</p>
-                        <?php endif; ?>
-                    </div>
                     <blockquote>
                         <p><?php echo nl2br($texteCitation); ?></p>
                     </blockquote>
