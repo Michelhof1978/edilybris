@@ -1,0 +1,135 @@
+<?php include("head.php"); ?>
+
+<title>Pierre Brandao - Auteur</title>
+<meta name="description" content="Biographie et livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
+</head> <!-- Correction : fermeture correcte de la balise <head> -->
+
+<?php include("header.php"); ?>
+
+<main>
+    <!-- MODE MOBILE--> 
+    <!-- Section des livres -->
+    <section class="livres-mobile d-block d-md-none py-4">
+        <div class="container">
+            <h2 class="text-center text-white">Les livres de Patrice bachereau</h2>
+
+            <!-- Livre 1 : La grande prophétie-->
+            <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
+                <div class="col-12 text-center">
+                    <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre La grande prophétie">
+                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
+                </div>
+                <div class="col-12 text-white">
+                    <h3 class="h2Jaune text-center">L'assassin du 1er mai</h3>
+                    <p>
+                        <strong class="h2Jaune">Année de publication :</strong> 2019
+                    </p>
+                    <p>
+                        <strong class="h2Jaune">Nombre de pages :</strong> 368
+                    </p>
+                    <p>
+                        <strong class="h2Jaune">Genre :</strong> Héroîc-fantasy
+                    </p>
+                  
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
+                    <h3 class="h2Jaune text-center m-3">Extrait chapitre 2</h3>
+                    <h4 class="h2Jaune text-center m-3">L’ACCORD</h4>
+
+
+                    <p>
+                    Loin de ces mondanités, le fief du Merturel s’était éveillé accompagné de la quiétude matutinale d’une campagne sereine. Bordée de ruisseaux et de forêts de pins qui prenaient racine sur un sol rocheux, la petite forteresse avait étalé copieusement ses teintes carmin sous les rayons de Sicor avant de reprendre ses tons lumineux habituels. 
+Le pont-levis était abaissé, et déjà, les paysans poussaient leurs charrettes chargées de foin vers les granges adossées à l’intérieur du mur d’enceinte. La vie avait repris ses droits. Les cris des travailleurs se confondaient avec les grognements des animaux et les odeurs montaient doucement en composant un mélange peu harmonieux. 
+À cent pas, à l’ombre des frondaisons, trois cavaliers se tenaient à l’arrêt. Ils avancèrent de conserve pour abreuver leurs bêtes dans l’eau limpide et courante d’un petit ruisseau. La femme caressa la crinière ébène de son cheval. 
+— Nous y sommes ! 
+Sa longue tunique noire se fondait sur la robe brillante de sa monture et seules sa chevelure blonde et sa peau un peu pâle se détachaient de l’ensemble.
+Rompant le silence, elle lâcha froidement : 
+— Allons voir cet ambitieux seigneur. Vous êtes certains de ne pas vous être trompés ? 
+— Il sera parfait. Il correspond en tous points à ce que vous cherchez. 
+L’homme regarda son compagnon subrepticement. Malgré leur dévouement et leur fidélité, ils savaient qu’une simple erreur de jugement signerait leur arrêt de mort. 
+— Nous l’avons observé et enquêté pendant trente jours. Sa cupidité le perdra ! 
+Le visage de la cavalière se figea dans un rictus effrayant et lentement, elle se dirigea vers le château. Le timbre de sa voix se glaça davantage.
+— Bien avant qu’il ne puisse l’imaginer ! 
+Elle se fraya un chemin à travers l’essaim de serfs qu’elle croisait avec répugnance et s’arrêta malgré elle au milieu du pont-levis. Un pauvre bougre fané par le labeur se retourna au son ferré des sabots qui trépignaient sur les planches derrière lui. Il observa la femme d’un oeil à peine respectueux. Il détourna la tête puis reprit son avancée nonchalante en mâchonnant, accablé par le ballot de foin qui pesait sur ses épaules. 
+Deux soldats occupés à courtiser lourdement de jeunes campagnardes se redressèrent et tentèrent de prendre une allure des plus bravaches pour barrer le passage à l’étrangère. 
+— Conduisez-moi à votre maître, ordonna-t-elle. 
+Le plus petit portait une tunique trop grande lui tombant sur les genoux. 
+— Qui devons-nous annoncer ? 
+Le léger sourire suffisant laissait apparaître des dents gâtées s’accordant parfaitement avec le visage abrupt et couperosé. La femme décrocha une aumônière chargée d’or natif et l’ouvrit devant les yeux éberlués des gardes. 
+— Mon nom importe peu. Prenez une pépite chacun et portez la bourse au seigneur des lieux. Dites-lui qu’il en aura deux autres quand je quitterai la place. 
+La chambre était spacieuse, bien éclairée. L’odeur caractéristique des vieilles tentures s’échappait des murs en se mêlant aux senteurs d’encaustique. Le seigneur était en tenue d’intérieur : pantalon moulant rouge, mi-bottes et grande liquette blanche aux manches bouffantes descendant jusqu’en haut des cuisses et serrée à la taille par une grosse ceinture de cuir. Il faisait sauter la bourse dans sa main. 
+— Vous excuserez ma tenue peu protocolaire. Qui êtes-vous et que me voulez-vous ? 
+Ses yeux brillaient d’appétit. La mystérieuse inconnue était suffisamment belle pour lui donner envie de l’aimer au moins le temps de la matinée. Surtout, un charme étrange et envoûtant émanait de tout son être. 
+— Je ne suis pas venue me faire courtiser ! 
+Le ton était sec ! Elle sentait le regard impudique qui pesait sur elle. 
+— Connaître mon nom ne vous sera d’aucune utilité. Je suis ici pour vous proposer un accord. Mon or sera à vous si vous me rendez, disons… un service. 
+Le seigneur approcha davantage. Son souffle chaud et encore chargé de la nuit caressa le visage de la femme qui grimaça de dégoût et s’écarta. 
+— Je pourrais prendre l’or et vous faire jeter au cachot, ou encore mieux, vous faire pendre en haut des murailles ! Votre démarche me parait bien insolite.
+L’étrangère fit un pas en avant. Elle propulsa violemment sa main entre les jambes de l’homme qui n’avait pas eu le temps de réagir. 
+— Si vous tentez de me déposséder de mes bourses, je me ferai un plaisir de broyer les vôtres ! 
+Elle avait envie de serrer de toutes ses forces, de le faire mettre à genoux, de l’entendre geindre et supplier jusqu’à l’évanouissement. Si ce n’avait été son indispensable concours pour mettre à bien ses projets ! 
+Elle relâcha son étreinte et fixa sa victime avec force. 
+— Redressez-vous et écoutez-moi. Dans trois jours, vous devez vous rendre au Pertusac. Voici ce que vous ferez…
+                    </p>
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MODE DESKTOP--> 
+    <section class="livres d-none d-md-block">
+        <div class="containerAuteur">
+            <h2>Les livres de Pierre Brandao</h2>
+            <!-- Carte 1 : L'ENLEVEMENT -->
+            <div id="livre-1" class="livre">
+                <div class="livre-content">
+                    <div class="livre-image">
+                        <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">20,00 €</p>
+                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
+
+                    </div>
+                    <div class="livre-details">
+                        <h3 class="h2Jaune">L'assassin du 1 er mai</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2025</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 300</p>
+                        <p class="lead text-white">
+                        1er mai 1997. Isabelle Loubry, notre héroïne gendarme, est chargée d’enquêter sur le meurtre d’une religieuse tuée durant la nuit près de la basilique de Vézelay.
+
+Un crime crapuleux ? Pourtant, d’autres événements commis dans les mêmes circonstances la conduiront dans plusieurs villes de France (Poitiers, Bégard, Périgueux, La Rochelle, Marsilly, Paris…) et en Inde. De villes en villages, elle suivra le fil poétique -mais oh combien machiavélique !- d’un serial killer qui sévit chaque 1er mai et qui, une fois son forfait accompli, dépose sur le corps des victimes des phrases étranges et un brin de muguet. Isabelle, humaine et révoltée, se sent proche de ces pauvres femmes assassinées… Sait-elle déjà jusqu’à quel point ?
+
+Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, violence, suspense, poésie et spirituel se côtoient au fil des pages. Peut-être vous poserez-vous cette question au moment où vous fermerez l’ouvrage : mon passé est-il sans tache ?
+
+
+à noter : 
+
+« L'Assassin du premier mai » a été présenté en 2005 au concours littéraire de la gendarmerie et a terminé en sélection finale. L'originalité de l'intrigue, la force des personnages, l'humilité de l'enquêtrice et l'humanisme qui s'en dégagent séduisent le lecteur accroché au récit dès la première page.  
+«L'Assassin du premier mai » est le deuxième voelt de la saga Loubry. Il est paru initialement sous le titre « Rancune meurtrière ». Depuis, d'autres aventures mettent en scène cette enquêtrice hors du commun. N'hésitez pas à les découvrir sur le site de l'association ou sur celui de l'auteur.
+<h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
+
+                    <p>
+                    Soirée du mercredi 30 avril au jeudi 1er mai 1997
+Vézelay – Bourgogne
+
+Les coteaux bourguignons acceptaient, soumis, l’emprise de la pénombre envahissante. Un soleil rougeoyant clignait de l’œil, désireux de se reposer après une journée où le labeur de l’homme l’exténuait. Quelques flocons de nuages ensanglantés cotonnaient le ciel de mai naissant. Sur la colline vouée au culte du vin, la basilique Sainte-Marie-Madeleine se dressait, hautaine, souveraine. Les gens superstitieux affirmaient qu’ici, l’air soufflait la foi des croyants en route pour Saint-Jacques-de-Compostelle. Une sorte d’élévation de l’âme, forte, intime, perpétuelle, assurait aux sédentaires d’accéder au Paradis, à la droite du Père. Tant de siècles passés à préserver la magnificence de l’endroit inspiraient respect et silence. Vézelay vivait, au rythme de la congrégation religieuse, sa réputation de petite ville de province tranquille.
+Sœur Barbara, franciscaine, se rendait en contrebas d'un chemin bordé de vignes. Elle avait une trentaine d’années. L’aspect sévère de son habit monastique cachait la finesse et la beauté de ses traits ; mais, pour elle, le physique n’avait aucune importance, seule la pureté morale trouvait grâce à ses yeux. Tout en marchant, elle tenait instinctivement la croix suspendue à son cou, protection contre ses démons intérieurs, pensait-elle. Elle songeait aux événements récents. Dans la matinée, l’homme qui, depuis quatre jours, la harcelait, lui avait proposé de la rencontrer discrètement. Ses paroles chuchotées mais empreintes de conviction, accompagnées d’un regard intense et attirant, avaient réussi à la perturber. Un sentiment nouveau, qu’elle refusait d’admettre comme étant de l’amour, s’insinuait en son esprit. Un message se lisait dans ces yeux… Une promesse de l’au-delà ? Si cette enveloppe humaine se déclarait envoyée par le Messie, nul doute qu’elle le croirait sans hésitation ! Le souvenir de sa voix résonnait aux tréfonds de sa mémoire, dans un écho qui faisait trembler tous ses membres ; un timbre vocal qui ne la quittait plus, comme lié à un souffle divin, la couvrant de chaleur, perturbant sa foi et son indéfectible volonté de consacrer sa vie à Dieu. Comment résister à cet appel ? Les questions affluaient, questions interdites pour une moniale. Pourquoi ne pas accepter la tendresse ? Pourquoi ne pas fléchir, rien qu’une fois, à un appel passionné ? Pourquoi ne pas vivre l’instant charnel, sentir le frôlement d’une peau qui la désirait, respirer la chaleur et la caresse d’un baiser à venir ? Pourquoi ne pas oublier, juste un court instant, les préceptes qui l’avaient conduite à bannir les plaisirs ?
+ Elle parvint à hauteur du chemin qui la conduisait à l’intersection où il lui avait donné rendez-vous. Ce vocable, qu’elle avait ignoré jusqu’alors, prenait une multitude de sens ; galant, anxieux, dangereux, amical, professionnel. Elle se souvenait de rencontres au lycée où, comme ses camarades, elle s’amusait de l’espoir frivole d’amoureux transis dont elle se moquait éperdument ! Combien de garçons avait-elle ainsi blessés ! Sœur Barbara se souvint du billet laissé par l’inconnu lorsqu’elle était rentrée chez elle. Sa lecture ébranla ses certitudes et elle resta de longues minutes dans l’incapacité de réagir. Finalement, elle le rangea dans son journal intime mais les phrases qu’il contenait restèrent gravées dans son esprit. Pourtant, la révolte grondait. Sa vocation l’emporterait sur le désir, mais encore fallait-il que cet homme cesse de l’importuner !
+L’air se rafraichît. Elle frissonna. S’armant de courage, elle se rendit vers le lieu indiqué. Alors qu’elle s’en approchait, Barbara s’étonna de la pénombre qui tombait soudainement. L’atmosphère devint moite, lourde. La fraîcheur laissa place à une torpeur inquiétante. La religieuse s’enveloppa de sa cape, croisant les bras comme pour se protéger de la froidure du soir. Elle ne distingua plus rien et se retrouva seule. Elle s’arrêta, décidant de faire demi-tour. Soudain, le regard figé, elle se raidit, un cri s’échappant du plus profond d’elle-même ! Un cri de terreur et de douleur à la fois, qui déchira le silence nocturne ! Une insupportable brûlure irradia son dos ; elle se retint pour ne pas tomber. Instinctivement, ses doigts se portèrent à l’endroit où elle ressentait cette douleur fulgurante. Ils rencontrèrent la froideur du métal qui pénétrait sa chair et se mouillèrent de la chaleur du sang abandonnant son corps. La lame se retira violemment, blessant l’index et l’annulaire. Dans un ultime effort, elle se retourna et aperçut, tel le regard d’un loup à l’orée d’un bois, la haine d’un regard incisif. Elle le reconnut. Sa stature, sa taille, ce visage anguleux, ce ne pouvait être que lui… Il était venu, mais, à cet instant, ce ne fut pas l’être aimé, dont la profondeur d’âme l’avait tant secouée, qu’elle avait devant elle. Au regard haineux et glacial qu’il lui lançait, elle savait qu’il n’y aurait pas de pardon, ni de compassion. Il voulait la voir s’écrouler, la voir souffrir, la voir expirer, et cela plaisait à l’ignoble personnage.
+Barbara sentit ses forces l’abandonner. Ses yeux, emplis de larmes et d’incompréhension, ne saisissaient pas les raisons de cette furie meurtrière. Qu’avait-elle fait, pour mériter cette mort atroce ? LlL’assassin, une feuille dans une main, le poignard ensanglanté dans l’autre, porta un coup terrible dans la poitrine de la pauvre nonne, dans un rire sardonique qui trouva écho dans les rangs de vignes alentours. Sœur Barbara eut un dernier soubresaut avant de s’écrouler devant le meurtrier, qui contempla le corps sans vie de sa proie. Dans un geste ironique, il jeta un brin de muguet sur la dépouille.
+La Basilique, dont l’ombre se dessinait dans la nuit, ne se dressa plus fièrement. Elle voûtait son dos de vieille femme, témoin muet du drame. Les vitraux paraissaient poreux, emplis d’une brume peu coutumière. Des notes lugubres se firent entendre, plaintes fuyant les pierres séculaires. Comme si l’âme de l’édifice pleurait la perte d’un de ses meilleurs agneaux.
+</p>
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<?php include("footer.php"); ?>
+</body>
+</html>

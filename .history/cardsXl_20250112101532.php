@@ -615,7 +615,7 @@
 
         <!-- carte 13 PATRICE BACHEREAU-->
         <div class="new-card">
-            <a href="fichePatriceBachereauLaGrandeProphetie.php">
+            <a href="link_to_book_H.html">
                 <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de livre La grande prophetie">
                 <div class="new-card-content">
                     <div class="new-card-author">Bachereau Patrice </div>
