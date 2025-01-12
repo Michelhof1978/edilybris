@@ -16,11 +16,11 @@
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
                     <p class="fw-bold coloryellow fs-5">15,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">L'amuserie (et pleure parfois)</h3>
+                    <h3 class="h2Jaune text-center">L'enlèvement</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>

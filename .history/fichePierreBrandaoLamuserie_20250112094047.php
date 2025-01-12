@@ -16,7 +16,7 @@
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
                     <p class="fw-bold coloryellow fs-5">15,00 €</p>
                 </div>
                 <div class="col-12 text-white">
