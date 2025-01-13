@@ -30,34 +30,12 @@
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Prose poétique
                     </p>
-                    <div class="text-center mt-5">
+                    
+                    <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                    <h3 class="h2Jaune text-center m-5">Lire les extraits</h3>
-                     <!-- Bouton citations -->
-                <div class="text-center mt-3">
-                    <a href="ficheDavidBeaulieuCitations.php" class="btnCitations mb-5">Les extraits</a>
-                </div>
-
-                    <div>
-                <p>
-                Julien JAFFRÉ, dit Ruliano des Bois, excelle à illustrer de vieilles cartes marines qui servent admirablement le verbe de David Beaulieu.
-
-Il nous fait le bonheur d'accompagner ses textes à dix reprises. 
-
-Vous pouvez aussi retrouver sur sa page Facebook quelques unes de ses réalisations : facebook/rulianodesbois
-
-
-                </p class="col-12" >
-                <p class="row">
-                <img src="images/davidBeaulieu/fiancee-ocean_11zon.webp" class="img-fluid mt-5 mb-5 w-50" alt="Illustration">
-                <img src="images/davidBeaulieu/femme-trefle_11zon.webp" class="img-fluid mt-5 mb-5 w-50" alt="Illustration">
-                </p>
-
-                </p>
-</div>
-                    
-                    
+                    <h3 class="h2Jaune text-center m-3">Lire les extraits</h3>
+                    <
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -81,33 +59,28 @@ Vous pouvez aussi retrouver sur sa page Facebook quelques unes de ses réalisati
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">L'assassin du 1 er mai</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2022</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Prose poétique</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2025</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 86</p>
                         <p class="lead text-white">
-                 
+                        1er mai 1997. Isabelle Loubry, notre héroïne gendarme, est chargée d’enquêter sur le meurtre d’une religieuse tuée durant la nuit près de la basilique de Vézelay.
+
+Un crime crapuleux ? Pourtant, d’autres événements commis dans les mêmes circonstances la conduiront dans plusieurs villes de France (Poitiers, Bégard, Périgueux, La Rochelle, Marsilly, Paris…) et en Inde. De villes en villages, elle suivra le fil poétique -mais oh combien machiavélique !- d’un serial killer qui sévit chaque 1er mai et qui, une fois son forfait accompli, dépose sur le corps des victimes des phrases étranges et un brin de muguet. Isabelle, humaine et révoltée, se sent proche de ces pauvres femmes assassinées… Sait-elle déjà jusqu’à quel point ?
+
+Suivez à bout de souffle l’héroïne dans cette enquête où vengeance, violence, suspense, poésie et spirituel se côtoient au fil des pages. Peut-être vous poserez-vous cette question au moment où vous fermerez l’ouvrage : mon passé est-il sans tache ?
+
+
+à noter : 
+
+« L'Assassin du premier mai » a été présenté en 2005 au concours littéraire de la gendarmerie et a terminé en sélection finale. L'originalité de l'intrigue, la force des personnages, l'humilité de l'enquêtrice et l'humanisme qui s'en dégagent séduisent le lecteur accroché au récit dès la première page.  
+«L'Assassin du premier mai » est le deuxième voelt de la saga Loubry. Il est paru initialement sous le titre « Rancune meurtrière ». Depuis, d'autres aventures mettent en scène cette enquêtrice hors du commun. N'hésitez pas à les découvrir sur le site de l'association ou sur celui de l'auteur.
 <h3 class="h2Jaune text-center m-3">Lire les extraits</h3>
 
                      <!-- Bouton citations -->
                 <div class="text-center">
                     <a href="ficheDavidBeaulieuCitations.php" class="btnCitations mb-5">Les extraits</a>
                 </div>
-                <div>
-                <p>
-                Julien JAFFRÉ, dit Ruliano des Bois, excelle à illustrer de vieilles cartes marines qui servent admirablement le verbe de David Beaulieu.
-
-Il nous fait le bonheur d'accompagner ses textes à dix reprises. 
-
-Vous pouvez aussi retrouver sur sa page Facebook quelques unes de ses réalisations : facebook/rulianodesbois
-
-
-                </p>
-                <img src="images/davidBeaulieu/fiancee-ocean_11zon.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-                <img src="images/davidBeaulieu/femme-trefle_11zon.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
-
-
-                </p>
-</div>
+                    </p>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

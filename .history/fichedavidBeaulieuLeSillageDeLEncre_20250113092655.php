@@ -33,7 +33,7 @@
                     <div class="text-center mt-5">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                    <h3 class="h2Jaune text-center m-5">Lire les extraits</h3>
+                    <h3 class="h2Jaune text-center m-3">Lire les extraits</h3>
                      <!-- Bouton citations -->
                 <div class="text-center mt-3">
                     <a href="ficheDavidBeaulieuCitations.php" class="btnCitations mb-5">Les extraits</a>

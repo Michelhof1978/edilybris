@@ -30,15 +30,6 @@
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Prose poétique
                     </p>
-                    <div class="text-center mt-5">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
-                    <h3 class="h2Jaune text-center m-5">Lire les extraits</h3>
-                     <!-- Bouton citations -->
-                <div class="text-center mt-3">
-                    <a href="ficheDavidBeaulieuCitations.php" class="btnCitations mb-5">Les extraits</a>
-                </div>
-
                     <div>
                 <p>
                 Julien JAFFRÉ, dit Ruliano des Bois, excelle à illustrer de vieilles cartes marines qui servent admirablement le verbe de David Beaulieu.
@@ -56,8 +47,11 @@ Vous pouvez aussi retrouver sur sa page Facebook quelques unes de ses réalisati
 
                 </p>
 </div>
-                    
-                    
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
+                    <h3 class="h2Jaune text-center m-3">Lire les extraits</h3>
+                    <
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
