@@ -53,16 +53,17 @@ Sur le pont du navire, chaque regard est destiné à cette immensité où l’on
 Alors, nous avons le loisir d’ouvrir nos sens aux multiples relations que nous propose ce champ bleu labouré à perte de vue.
 Du sang de la mer, j’ai noyé mes arrogances, oublié mes certitudes et me suis relié au vivant.",
 
-
+   
 ];
 
 // Tableau des images associées aux titres
 $imagesParTitre = [
-    'ORAGE' => 'images/davidBeaulieu/orage_11zon.webp',
-    'L’HOMME ET LA MER?' => 'images/davidBeaulieu/HOMMEaLaMer_11zon.webp',
-    'PRIÈRE PATIENTE' => 'images/davidBeaulieu/prierepatiente_11zon.webp',
-    'BLEU ET ARC-EN-CIEL' => 'images/davidBeaulieu/bleueetarcenciel_11zon.webp',
- 
+    'ORAGE' => 'images/orage.jpg',
+    'L’HOMME ET LA MER?' => 'images/homme_mer.jpg',
+    'PRIÈRE PATIENTE' => 'images/priere_patiente.jpg',
+    'BLEU ET ARC-EN-CIEL' => 'images/bleu_arc_en_ciel.jpg',
+    'Une Ampoule Claque' => 'images/ampoule_claque.jpg',
+    'Crime céleste' => 'images/crime_celeste.jpg',
 ];
 
 // Calcul des pages
@@ -75,7 +76,7 @@ $nombreTotalPages = ceil($totalCitations / $nombreCitationsParLigne);
 <!-- Section citations -->
 <section id="section-citations" class="citations text-white py-4">
     <div class="container">
-        <h2 class="h2Jaune text-center mt-4 mb-4">EXTRAITS DU LIVRE</h2>
+        <h2 class="h2Jaune text-center mt-4 mb-4">MAGASIN DE POÈMES À CHANTER</h2>
         <div class="text-center">
             <img class="img-fluid w-25" src="images/poeme.webp" alt="Image centrée">
         </div>

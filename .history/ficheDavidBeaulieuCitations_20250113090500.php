@@ -58,11 +58,12 @@ Du sang de la mer, j’ai noyé mes arrogances, oublié mes certitudes et me sui
 
 // Tableau des images associées aux titres
 $imagesParTitre = [
-    'ORAGE' => 'images/davidBeaulieu/orage_11zon.webp',
-    'L’HOMME ET LA MER?' => 'images/davidBeaulieu/HOMMEaLaMer_11zon.webp',
-    'PRIÈRE PATIENTE' => 'images/davidBeaulieu/prierepatiente_11zon.webp',
+    'ORAGE' => 'images/orage.jpg',
+    'L’HOMME ET LA MER?' => 'images/davidBeaulieu',
+    'PRIÈRE PATIENTE' => 'images/priere_patiente.jpg',
     'BLEU ET ARC-EN-CIEL' => 'images/davidBeaulieu/bleueetarcenciel_11zon.webp',
- 
+    'Une Ampoule Claque' => 'images/ampoule_claque.jpg',
+    'Crime céleste' => 'images/crime_celeste.jpg',
 ];
 
 // Calcul des pages
