@@ -33,7 +33,7 @@
     <!-- Carte 1 Berthelot Joël-->
     <div class="carousel-item active">
       <div class="book-card">
-        <a href="FicheJoelBerthelotJaiTellementEnvieDeTecrire.php">
+        <a href="FicheJoelBerthelotlivres.php">
           <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Couverture de livre J'ai tellement envie de t'écrire">
           <div class="book-card-content">
             <div class="book-card-author">Berthelot Joël</div>
@@ -120,7 +120,7 @@
  <!-- Carte 1 Berthelot Joël -->
 <div class="L-card-container mb-5" id="L-group1">
     <div class="L-card">
-        <a href="FicheJoelBerthelotJaiTellementEnvieDeTecrire.php">
+        <a href="link_to_book_A.html">
             <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Couverture de livre J'ai tellement envie de t'écrire">
             <div class="L-card-content">
                 <div class="L-card-author">Berthelot Joël</div>

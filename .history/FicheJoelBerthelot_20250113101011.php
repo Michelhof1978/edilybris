@@ -8,7 +8,7 @@
 
 
 
- <?php include("FicheJoelBerthelotlivres.php"); ?>
+ <?php include("footer.php"); ?>
 
 
  

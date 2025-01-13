@@ -1,6 +1,6 @@
 <div class="headerAuteur">
     <div class="containerAuteur">
-        <h1>David Beaulieu</h1>
+        <h1>Patrice Bachereau</h1>
         <img src="images/davidBeaulieu/davidBeaulieu.webp" alt="Portrait de dAVID bEAULIEU" class="img-fluid bio-image">
     </div>
 </div>
