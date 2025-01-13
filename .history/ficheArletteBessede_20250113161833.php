@@ -8,7 +8,7 @@
 
 
 
- <?php include("ficheArletteBessedeLivres.php"); ?>
+ <?php include("ficheArletteBessede.php"); ?>
 
 
  

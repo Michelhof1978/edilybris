@@ -767,7 +767,7 @@
      <div id="desktop-group6" class="new-card-container new-hidden">
         <!-- carte 26 ARLETTE BESSEDE-->
         <div class="new-card">
-            <a href="ficheArletteBessedeMesMotsSontDesPaysage.php">
+            <a href="link_to_book_F.html">
                 <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">Bessède Arlette </div>
