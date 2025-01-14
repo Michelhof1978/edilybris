@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Biographie et livres d. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -64,7 +64,7 @@ Top Modèle de ces vacances de charme</P>
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède'</h2>
+            <h2>Les livres de Pierre Brandao</h2>
             <!-- Carte 1 ELLE COMME LIBERTE-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
@@ -77,9 +77,9 @@ Top Modèle de ces vacances de charme</P>
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">ELLES...comme liberté</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et liberté</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 52</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 300</p>
                         <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                         <p class="lead text-white">

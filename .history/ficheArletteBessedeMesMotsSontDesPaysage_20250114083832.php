@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Biographie et livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -15,19 +15,19 @@
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
-                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
+                    <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <p class="fw-bold coloryellow fs-5">10,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">ELLES...comme liberté</h3>
+                    <h3 class="h2Jaune text-center">Mes mots sont des paysages</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2015
+                        <strong class="h2Jaune">Année de publication :</strong> 2013
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 58
+                        <strong class="h2Jaune">Nombre de pages :</strong> 42
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Art et poésies
+                        <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
                     <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
@@ -64,22 +64,22 @@ Top Modèle de ces vacances de charme</P>
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède'</h2>
-            <!-- Carte 1 ELLE COMME LIBERTE-->
+            <h2>Les livres d4Arlette Bessède</h2>
+            <!-- Carte 1 MES MOTS SONT DES PAYSAGES-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture du livre Elle comme liberte">
+                        <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture du livre Elle comme liberte">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">10,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">ELLES...comme liberté</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et liberté</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 52</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Po</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 300</p>
                         <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                         <p class="lead text-white">

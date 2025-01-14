@@ -77,7 +77,7 @@ Top Modèle de ces vacances de charme</P>
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">ELLES...comme liberté</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 20</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et liberté</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 52</p>
                         <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
