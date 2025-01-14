@@ -53,7 +53,7 @@
     <div id="mobile-group3PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
-                <img src="images/arletteBessede/surLeVentreIriséDeNosRivieres.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
+                <img src="images/arletteBessede/surLeVentreIriséDeNosRivires.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"></div>Arlette Bessède</div>
                     <div class="mobile-book-price">12,00 €</div>

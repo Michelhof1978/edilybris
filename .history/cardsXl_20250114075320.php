@@ -707,7 +707,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 21 ROXANE LOVAC-->
+        <!-- carte 22 ROXANE LOVAC-->
         <div class="new-card">
             <a href="link_to_book_G.html">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre Les petits bonheurs du jour">
@@ -718,7 +718,7 @@
             </a>
         </div>
 
-        <!-- carte 22 ROXANE LOVAC-->
+        <!-- carte 23 ROXANE LOVAC-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
@@ -729,7 +729,7 @@
             </a>
         </div>
         
-         <!-- carte 23 PIERRE BRANDAO-->
+         <!-- carte 24 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="fichePierreBrandaoQuaiDesCicatrices.php">
                 <img src="images/pierreBrandao/quai-des-cicatrices.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
@@ -740,7 +740,7 @@
             </a>
         </div>
 
-         <!-- carte 24 PIERRE BRANDAO-->
+         <!-- carte 25 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="fichePierreBrandaoAssassin1erMai.php">
                 <img src="images/pierreBrandao/assassin-du-premier-mai (1)_11zon.webp" class="img-fluid" alt="Couverture de livre L'assassinn du 1 er mai">
@@ -755,7 +755,7 @@
      
      <!-- Groupe 6 -->
      <div id="desktop-group6" class="new-card-container new-hidden">
-        <!-- carte 25 ARLETTE BESSEDE-->
+        <!-- carte 26 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="ficheArletteBessedeMesMotsSontDesPaysage.php">
                 <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
@@ -765,7 +765,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 26 ARLETTE BESSEDE-->
+        <!-- carte 27 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
                 <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
@@ -776,7 +776,7 @@
             </a>
         </div>
 
-        <!-- carte 27 DAVID BEAULIEU-->
+        <!-- carte 28 DAVID BEAULIEU-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
@@ -787,7 +787,7 @@
             </a>
         </div>
         
-         <!-- carte 28 PIERRE BRANDAO-->
+         <!-- carte 29 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="fichePierreBrandaoSavGendarmerie1.php">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
@@ -798,7 +798,7 @@
             </a>
         </div>
 
-         <!-- carte 29 PIERRE BRANDAO-->
+         <!-- carte 30 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="fichePierreBrandaoVeangeanceSeculaire.php">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
@@ -812,7 +812,7 @@
 
       <!-- Groupe 7 -->
      <div id="desktop-group7" class="new-card-container new-hidden">
-        <!-- carte 30 JOCELYN MAILY -->
+        <!-- carte 31 JOCELYN MAILY -->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
@@ -822,7 +822,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 31 ABDEL FRANCOIS NADINI-->
+        <!-- carte 32 ABDEL FRANCOIS NADINI-->
         <div class="new-card">
             <a href="link_to_book_G.html">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
@@ -833,7 +833,7 @@
             </a>
         </div>
 
-        <!-- carte 32 ALAIN TAHET-->
+        <!-- carte 33 ALAIN TAHET-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
@@ -869,7 +869,7 @@
 
       <!-- Groupe 6 -->
      <div id="desktop-group6" class="new-card-container new-hidden">
-        <!-- carte 35 ARLETTE BESSEDE-->
+        <!-- carte 26 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
@@ -879,7 +879,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 36 ARLETTE BESSEDE-->
+        <!-- carte 27 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="link_to_book_G.html">
                 <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
@@ -890,7 +890,7 @@
             </a>
         </div>
 
-        <!-- carte 37 DAVID BEAULIEU-->
+        <!-- carte 28 DAVID BEAULIEU-->
         <div class="new-card">
             <a href="fichedavidBeaulieuLeSillageDeLEncre.php">
                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
@@ -901,7 +901,7 @@
             </a>
         </div>
         
-         <!-- carte 38 PIERRE BRANDAO-->
+         <!-- carte 29 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
@@ -912,7 +912,7 @@
             </a>
         </div>
 
-         <!-- carte 39 PIERRE BRANDAO-->
+         <!-- carte 30 PIERRE BRANDAO-->
          <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
@@ -926,7 +926,7 @@
 
       <!-- Groupe 7 -->
      <div id="desktop-group7" class="new-card-container new-hidden">
-        <!-- carte 40 JOCELYN MAILY -->
+        <!-- carte 31 JOCELYN MAILY -->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
@@ -936,7 +936,7 @@
                 </div>
             </a>
         </div>
-        <!-- carte 41 ABDEL FRANCOIS NADINI-->
+        <!-- carte 32 ABDEL FRANCOIS NADINI-->
         <div class="new-card">
             <a href="link_to_book_G.html">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
@@ -947,7 +947,7 @@
             </a>
         </div>
 
-        <!-- carte 42 ALAIN TAHET-->
+        <!-- carte 33 ALAIN TAHET-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
@@ -958,7 +958,7 @@
             </a>
         </div>
         
-          <!-- carte 43 ALAIN TAHET-->
+          <!-- carte 34 ALAIN TAHET-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
@@ -969,7 +969,7 @@
             </a>
         </div>
 
-         <!-- carte 44 ALAIN TAHET-->
+         <!-- carte 35 ALAIN TAHET-->
          <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -983,7 +983,7 @@
 
        <!-- Groupe 8-->
      <div id="desktop-group8" class="new-card-container new-hidden">
-        <!-- carte 45 ANTOINE TEILLET -->
+        <!-- carte 36 ANTOINE TEILLET -->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
@@ -994,7 +994,7 @@
             </a>
         </div>
 
-         <!-- carte 46 Brandao Pierre -->
+         <!-- carte 37 Brandao Pierre -->
          <div class="new-card">
             <a href="fichePierreBrandaoEcartDeMemoire.php">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Ecart de mémoire">

@@ -994,7 +994,7 @@
             </a>
         </div>
 
-         <!-- carte 46 Brandao Pierre -->
+         <!-- carte 37 Brandao Pierre -->
          <div class="new-card">
             <a href="fichePierreBrandaoEcartDeMemoire.php">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Ecart de mémoire">

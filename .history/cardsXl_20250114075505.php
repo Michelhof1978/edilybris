@@ -958,7 +958,7 @@
             </a>
         </div>
         
-          <!-- carte 43 ALAIN TAHET-->
+          <!-- carte 34 ALAIN TAHET-->
         <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
@@ -969,7 +969,7 @@
             </a>
         </div>
 
-         <!-- carte 44 ALAIN TAHET-->
+         <!-- carte 35 ALAIN TAHET-->
          <div class="new-card">
             <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -983,7 +983,7 @@
 
        <!-- Groupe 8-->
      <div id="desktop-group8" class="new-card-container new-hidden">
-        <!-- carte 45 ANTOINE TEILLET -->
+        <!-- carte 36 ANTOINE TEILLET -->
         <div class="new-card">
             <a href="link_to_book_F.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
@@ -994,7 +994,7 @@
             </a>
         </div>
 
-         <!-- carte 46 Brandao Pierre -->
+         <!-- carte 37 Brandao Pierre -->
          <div class="new-card">
             <a href="fichePierreBrandaoEcartDeMemoire.php">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Ecart de mémoire">
