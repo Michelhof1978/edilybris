@@ -29,7 +29,7 @@
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
-                    <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
+                    <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
@@ -44,7 +44,7 @@ Ma soif »
                     </div>
                      <!-- Bouton citations -->
                 <div class="text-center">
-                    <a href="ficheArletteBessedeCitations.php" class="btnCitations">Découvrir des extraits</a>
+                    <a href="ficheArletteBessedeCitations.php" class="btnCitations">Découvrir les citations</a>
                 </div>
                     </p>
                     <div class="text-center mt-3">
@@ -74,7 +74,7 @@ Ma soif »
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 42</p>
-                        <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
+                        <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                         <p class="lead text-white">
                         Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.

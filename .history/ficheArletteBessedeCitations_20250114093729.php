@@ -69,13 +69,13 @@ Enivrée
 ];
 
 // Tableau des images associées aux titres
-// $imagesParTitre = [
-//     // 'Préface de Josyane de Jesus-Bergey' => 'images/arletteBessede/arlette-bessede-6_11zon.webp',
-//     // 'La part des anges' => 'images/arletteBessede/arlette-bessede-1_11zon.webp',
-//     // 'Extrait de "Saintonge' => 'images/arletteBessede/arlette-bessede-1_11zon.webp',
+$imagesParTitre = [
+    // 'Préface de Josyane de Jesus-Bergey' => 'images/arletteBessede/arlette-bessede-6_11zon.webp',
+    // 'La part des anges' => 'images/arletteBessede/arlette-bessede-1_11zon.webp',
+    // 'Extrait de "Saintonge' => 'images/arletteBessede/arlette-bessede-1_11zon.webp',
 
  
-// ];
+];
 
 // Calcul des pages
 $totalCitations = count($tableauCitations);
@@ -99,7 +99,7 @@ $nombreTotalPages = ceil($totalCitations / $nombreCitationsParLigne);
                         <?php if (isset($imagesParTitre[$titreCitation])) : ?>
                             <img class="img-fluid w-75" src="<?php echo $imagesParTitre[$titreCitation]; ?>" alt="Image pour <?php echo $titreCitation; ?>">
                         <?php else : ?>
-                            <!-- <p>Aucune image disponible</p> -->
+                            <p>Aucune image disponible</p>
                         <?php endif; ?>
                     </div>
                     <blockquote>

@@ -99,7 +99,7 @@ $nombreTotalPages = ceil($totalCitations / $nombreCitationsParLigne);
                         <?php if (isset($imagesParTitre[$titreCitation])) : ?>
                             <img class="img-fluid w-75" src="<?php echo $imagesParTitre[$titreCitation]; ?>" alt="Image pour <?php echo $titreCitation; ?>">
                         <?php else : ?>
-                            <!-- <p>Aucune image disponible</p> -->
+                            <p>Aucune image disponible</p>
                         <?php endif; ?>
                     </div>
                     <blockquote>

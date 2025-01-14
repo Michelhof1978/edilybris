@@ -47,35 +47,19 @@ Au parfum mêlé de chêne",
     'Le petit jour' => "Le petit jour
 Pose un œil
 Sur la table du jardin",
-'Extrait de "Ma ville"' => "Fille du sud-ouest tu es née de la vigne
-Il flotte dans tes murs
-Des relents de barrique
-De crus et de châteaux.",
-'Pays de la colère' => " On ne savait pas quand
-On ne savait pas d’où
-Elle était partie
-Mais elle avait envahi l’espace
-Elle avait obscurci le temps
-Jusqu’aux pleurs
-Jusqu’aux cris
-Jusqu’à l’embrasement des montagnes
-Jusqu’à voir d’étranges fleurs rouges
-Sortir de la terre 
-
-Enivrée
-
- ",
+'' => "",
+'' => "",
 
 ];
 
 // Tableau des images associées aux titres
-// $imagesParTitre = [
-//     // 'Préface de Josyane de Jesus-Bergey' => 'images/arletteBessede/arlette-bessede-6_11zon.webp',
-//     // 'La part des anges' => 'images/arletteBessede/arlette-bessede-1_11zon.webp',
-//     // 'Extrait de "Saintonge' => 'images/arletteBessede/arlette-bessede-1_11zon.webp',
-
+$imagesParTitre = [
+    'ORAGE' => 'images/davidBeaulieu/orage_11zon.webp',
+    'L’HOMME ET LA MER?' => 'images/davidBeaulieu/HOMMEaLaMer_11zon.webp',
+    'PRIÈRE PATIENTE' => 'images/davidBeaulieu/prierepatiente_11zon.webp',
+    'BLEU ET ARC-EN-CIEL' => 'images/davidBeaulieu/bleueetarcenciel_11zon.webp',
  
-// ];
+];
 
 // Calcul des pages
 $totalCitations = count($tableauCitations);
@@ -99,7 +83,7 @@ $nombreTotalPages = ceil($totalCitations / $nombreCitationsParLigne);
                         <?php if (isset($imagesParTitre[$titreCitation])) : ?>
                             <img class="img-fluid w-75" src="<?php echo $imagesParTitre[$titreCitation]; ?>" alt="Image pour <?php echo $titreCitation; ?>">
                         <?php else : ?>
-                            <!-- <p>Aucune image disponible</p> -->
+                            <p>Aucune image disponible</p>
                         <?php endif; ?>
                     </div>
                     <blockquote>
