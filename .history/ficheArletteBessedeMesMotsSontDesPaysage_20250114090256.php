@@ -33,20 +33,24 @@
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
-                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...<br><br>
-                        « D’une goutte d’eau j’ai étanché
-Ma soif »
-
-écrit-elle dans « l’amie du désert », mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !
+                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...
+                    
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                     <!-- Bouton citations -->
-                <div class="text-center">
-                    <a href="ficheArletteBessedeCitations.php" class="btnCitations">Découvrir les citations</a>
-                </div>
-                    </p>
+                    <h3 class="h2Jaune text-center m-3">Extrait</h3>
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
+                    <h4 class="h2Jaune text-center m-3">Maillot</h4>
+
+                    <p>
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -78,16 +82,20 @@ Ma soif »
 
                         <p class="lead text-white">
                         Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
-                       
-                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...<br><br>
-                        « D’une goutte d’eau j’ai étanché
-Ma soif »
+                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...
+<h3 class="h2Jaune text-center m-3">Extrait</h3>
 
-écrit-elle dans « l’amie du désert », mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !
-                       <!-- Bouton citations -->
-                <div class="text-center">
-                    <a href="ficheArletteBessedeCitations.php" class="btnCitations mb-5">Découvrir les citations</a>
-                </div>
+<img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
+                    <h4 class="h2Jaune text-center m-3">Maillot</h4>
+
+                    <p>
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

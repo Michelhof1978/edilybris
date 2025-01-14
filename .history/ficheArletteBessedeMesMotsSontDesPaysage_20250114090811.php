@@ -86,7 +86,7 @@ Ma soif »
 écrit-elle dans « l’amie du désert », mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !
                        <!-- Bouton citations -->
                 <div class="text-center">
-                    <a href="ficheArletteBessedeCitations.php" class="btnCitations mb-5">Découvrir les citations</a>
+                    <a href="ficheArletteBessedeCitations.php" class="btnCitations mb">Découvrir les citations</a>
                 </div>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

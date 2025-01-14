@@ -42,11 +42,18 @@ Ma soif »
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                     <!-- Bouton citations -->
-                <div class="text-center">
-                    <a href="ficheArletteBessedeCitations.php" class="btnCitations">Découvrir les citations</a>
-                </div>
-                    </p>
+                    <h3 class="h2Jaune text-center m-3">Extrait</h3>
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
+                    <h4 class="h2Jaune text-center m-3">Maillot</h4>
+
+                    <p>
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -84,10 +91,19 @@ Ma soif »
 Ma soif »
 
 écrit-elle dans « l’amie du désert », mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !
-                       <!-- Bouton citations -->
-                <div class="text-center">
-                    <a href="ficheArletteBessedeCitations.php" class="btnCitations mb-5">Découvrir les citations</a>
-                </div>
+                        <h3 class="h2Jaune text-center m-3">Extrait</h3>
+
+<img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
+                    <h4 class="h2Jaune text-center m-3">Maillot</h4>
+
+                    <p>
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
