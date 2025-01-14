@@ -64,26 +64,26 @@ Un titre prometteur pour une invitation dans un voyage intime qui ne laissera pa
 
 Les retours du comité de lecture sont éloquents !
 
-Jugez-en !<br>
+Jugez-en !
 
 <strong class="h2Jaune">Véro :</strong>  Je viens juste de prendre le temps de lire le recueil d'Arlette. J'ai beaucoup aimé et je suis d'accord pour dire que cela mérite d'être publié. Des photos sont-elles prévues pour l'illustration ? Si besoin j'en ai quelques unes sous le coude qui pourraient être utilisées.
-Cette petite pause "poésie" m'a fait du bien et m'a fait oublié un temps mes tracas (...)  Un  petit coup de boost au moral....<br>
+Cette petite pause "poésie" m'a fait du bien et m'a fait oublié un temps mes tracas (...)  Un  petit coup de boost au moral....
 
-<strong class="h2Jaune">Jocelyn  :</strong> Je ne suis pas un spécialiste de la poésie, loin de là, mes connaissances s'arrêtant aux grands classiques, ce qui est désespéré car je suis frontalier du pays de Rimbaud... Cet ouvrage est très intéressant car fluide, sensible et empli d'une douce tristesse à certains moments. Arlette à réussi à accrocher mon attention sur un domaine qui m'est étranger en pleine nuit (je viens juste de le terminer). Il y a de la sensibilité, du volume... Il faudrait accompagner cette belle écriture de photos, cela rendrait le texte encore plus fort. Bravo pour ce beau travail.<br>
+<strong class="h2Jaune">Jocelyn  :</strong> Je ne suis pas un spécialiste de la poésie, loin de là, mes connaissances s'arrêtant aux grands classiques, ce qui est désespéré car je suis frontalier du pays de Rimbaud... Cet ouvrage est très intéressant car fluide, sensible et empli d'une douce tristesse à certains moments. Arlette à réussi à accrocher mon attention sur un domaine qui m'est étranger en pleine nuit (je viens juste de le terminer). Il y a de la sensibilité, du volume... Il faudrait accompagner cette belle écriture de photos, cela rendrait le texte encore plus fort. Bravo pour ce beau travail.
 
 <strong class="h2Jaune">Christine :</strong>  Réfugiée dans ma bretagne chérie, en ce Finistère sud que j'aime tant, je me suis posée pour lire ta poésie Arlette.
 Les mots sont joliment liés et agencés entre eux, la lecture est fluide et agréable.
-Je suis moi aussi favorable à l'édition de ton recueil.<br>
+Je suis moi aussi favorable à l'édition de ton recueil.
 
-<strong class="h2Jaune">Jean-Pierre :</strong>Jean-Pierre  L'écriture est très personnelle, sensible. Rien ne s'oppose à l'accomplissement des poésies en recueil.<br>
+<strong class="h2Jaune">Jean-Pierre:</strong>Jean-Pierre  L'écriture est très personnelle, sensible. Rien ne s'oppose à l'accomplissement des poésies en recueil.
 
-<strong class="h2Jaune">Nicole :</strong>  Ce petit recueil de poésie m'a réchauffé le cœur et l'esprit ce dont j'ai tant besoin en ce moment, merci.<br>
+<strong class="h2Jaune">Nicole :</strong>  Ce petit recueil de poésie m'a réchauffé le cœur et l'esprit ce dont j'ai tant besoin en ce moment, merci.
 
-<strong class="h2Jaune">Monica :</strong> rayons de soleil dans la grisaille ambiante, ces poésies donnent envie de jardins, de fleurs et de voyages. J'aime beaucoup.<br>
+<strong class="h2Jaune">Monica :</strong> rayons de soleil dans la grisaille ambiante, ces poésies donnent envie de jardins, de fleurs et de voyages. J'aime beaucoup.
 
-<strong class="h2Jaune">Résumé :</strong>Je réagis sur l'ouvrage poétique d'Arlette qui me semble (à mon humble avis) très agréable à lire et à entendre. Je ne suis pas qualifiée pour juger de la technique, mais à mes oreilles je le trouve rythmé et chantant. Bref...vous aurez compris que je donne mon aval sur l'édition de cet ouvrage..<br>
+<strong class="h2Jaune">Résumé :</strong>Je réagis sur l'ouvrage poétique d'Arlette qui me semble (à mon humble avis) très agréable à lire et à entendre. Je ne suis pas qualifiée pour juger de la technique, mais à mes oreilles je le trouve rythmé et chantant. Bref...vous aurez compris que je donne mon aval sur l'édition de cet ouvrage..
 
-<strong class="h2Jaune">Jacqueline :</strong>Jacqueline : tout à fait d’accord avec le commentaire de Monica… c’est souple et bien écrit, je ne peux juger du fond (qui n’est pas une nouveauté en soi dans le monde de la poésie, mais pourquoi pas?)
+<strong class="h2Jaune">Jacqueline</strong>Jacqueline : tout à fait d’accord avec le commentaire de Monica… c’est souple et bien écrit, je ne peux juger du fond (qui n’est pas une nouveauté en soi dans le monde de la poésie, mais pourquoi pas?)
 Allez Arlette! Ça te donnera du baume au coeur de te voir encore publiée… et courage !
                         </p>
  
@@ -196,7 +196,7 @@ Un titre prometteur pour une invitation dans un voyage intime qui ne laissera pa
 
 Les retours du comité de lecture sont éloquents !
 
-Jugez-en !<br>
+Jugez-en !
 
 <strong class="h2Jaune">Véro :</strong>  Je viens juste de prendre le temps de lire le recueil d'Arlette. J'ai beaucoup aimé et je suis d'accord pour dire que cela mérite d'être publié. Des photos sont-elles prévues pour l'illustration ? Si besoin j'en ai quelques unes sous le coude qui pourraient être utilisées.
 Cette petite pause "poésie" m'a fait du bien et m'a fait oublié un temps mes tracas (...)  Un  petit coup de boost au moral....<br>
@@ -207,7 +207,7 @@ Cette petite pause "poésie" m'a fait du bien et m'a fait oublié un temps mes t
 Les mots sont joliment liés et agencés entre eux, la lecture est fluide et agréable.
 Je suis moi aussi favorable à l'édition de ton recueil.<br>
 
-<strong class="h2Jaune">Jean-Pierre :</strong>Jean-Pierre  L'écriture est très personnelle, sensible. Rien ne s'oppose à l'accomplissement des poésies en recueil.<br>
+<strong class="h2Jaune">Jean-Pierre:</strong>Jean-Pierre  L'écriture est très personnelle, sensible. Rien ne s'oppose à l'accomplissement des poésies en recueil.<br>
 
 <strong class="h2Jaune">Nicole :</strong>  Ce petit recueil de poésie m'a réchauffé le cœur et l'esprit ce dont j'ai tant besoin en ce moment, merci.<br>
 
@@ -215,7 +215,7 @@ Je suis moi aussi favorable à l'édition de ton recueil.<br>
 
 <strong class="h2Jaune">Résumé :</strong>Je réagis sur l'ouvrage poétique d'Arlette qui me semble (à mon humble avis) très agréable à lire et à entendre. Je ne suis pas qualifiée pour juger de la technique, mais à mes oreilles je le trouve rythmé et chantant. Bref...vous aurez compris que je donne mon aval sur l'édition de cet ouvrage..<br>
 
-<strong class="h2Jaune">Jacqueline :</strong>Jacqueline : tout à fait d’accord avec le commentaire de Monica… c’est souple et bien écrit, je ne peux juger du fond (qui n’est pas une nouveauté en soi dans le monde de la poésie, mais pourquoi pas?)
+<strong class="h2Jaune">Jacqueline</strong>Jacqueline : tout à fait d’accord avec le commentaire de Monica… c’est souple et bien écrit, je ne peux juger du fond (qui n’est pas une nouveauté en soi dans le monde de la poésie, mais pourquoi pas?)
 Allez Arlette! Ça te donnera du baume au coeur de te voir encore publiée… et courage !
                         </p>
  

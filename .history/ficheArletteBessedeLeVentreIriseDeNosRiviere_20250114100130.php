@@ -70,7 +70,7 @@ Ma soif »
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Mes mots sont des paysages</h3>
+                        <h3 class="h2Jaune">ELLES...comme liberté</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 42</p>

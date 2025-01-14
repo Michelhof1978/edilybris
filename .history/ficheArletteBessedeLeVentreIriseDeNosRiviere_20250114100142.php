@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Leslivres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -70,7 +70,7 @@ Ma soif »
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Mes mots sont des paysages</h3>
+                        <h3 class="h2Jaune">ELLES...comme liberté</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 42</p>

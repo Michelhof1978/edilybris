@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Les livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -16,7 +16,7 @@
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
-                    <p class="fw-bold coloryellow fs-5">10,00 €</p>
+                    <p class="fw-bold coloryellow fs-5">12,00 €</p>
                 </div>
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">Mes mots sont des paysages</h3>
@@ -70,7 +70,7 @@ Ma soif »
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Mes mots sont des paysages</h3>
+                        <h3 class="h2Jaune">ELLES...comme liberté</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 42</p>
