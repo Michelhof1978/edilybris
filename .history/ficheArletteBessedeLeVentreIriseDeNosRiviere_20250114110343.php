@@ -137,19 +137,8 @@ sur tes joues fleurissent toutes les roses
 ton beau visage ma déchirure
 
 </p>
-<h3 class="h2Jaune text-center m-3">L'illustrateur : Guy Lo Pinto</h3>
-<img src="images/arletteBessede/arlette-guy-br_11zon.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
-<P>Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses oeuvres pour la couverture du recueil de poésies d'Arlette.
+<h3 class="h2Jaune text-center m-3">Commentaires du comité de lecture</h3>
 
-Ce n'est pas un hasard... Comme le dit si bien Arlette : 
-
-« Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.
-
-Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.
-
-Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".
-
-Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà...»</P>
 
                     </p>
                     <div class="text-center mt-3">
@@ -283,19 +272,6 @@ sur tes joues fleurissent toutes les roses
 ton beau visage ma déchirure
 
 </p>
-<h3 class="h2Jaune text-center m-3">L'illustrateur : Guy Lo Pinto</h3>
-<img src="images/arletteBessede/arlette-guy-br_11zon.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
-<P>Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses oeuvres pour la couverture du recueil de poésies d'Arlette.
-
-Ce n'est pas un hasard... Comme le dit si bien Arlette : 
-
-« Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.
-
-Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.
-
-Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".
-
-Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà...»</P>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
