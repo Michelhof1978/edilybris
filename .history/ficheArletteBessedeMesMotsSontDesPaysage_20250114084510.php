@@ -32,8 +32,11 @@
                     <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong>Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
-                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...
+                        <strong class="h2Jaune">Résumé :</strong>Chez cet artiste, le cliché n'est pas figé et dépasse la barrière de la simple beauté physique : le modèle est repensé, réinventé et le résultat s'adresse à notre moi profond. C'est là qu'intervient Arlette.
+
+Par son verbe, elle tente une approche intelligente et profonde du mystère de son ami Michel, et cela permet au lecteur d'entrouvrir l'espace secret qui gouverne sa parole de créateur.
+
+Josyane De Jesus-Bergey, poéte reconnue dans toute la francophonie, l'évoque parfaitement dans sa préface.
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -80,8 +83,11 @@ Top Modèle de ces vacances de charme</P>
                         <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                         <p class="lead text-white">
-                        Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
-                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...
+                        Chez cet artiste, le cliché n'est pas figé et dépasse la barrière de la simple beauté physique : le modèle est repensé, réinventé et le résultat s'adresse à notre moi profond. C'est là qu'intervient Arlette.
+
+Par son verbe, elle tente une approche intelligente et profonde du mystère de son ami Michel, et cela permet au lecteur d'entrouvrir l'espace secret qui gouverne sa parole de créateur.
+
+Josyane De Jesus-Bergey, poéte reconnue dans toute la francophonie, l'évoque parfaitement dans sa préface.
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
 <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
