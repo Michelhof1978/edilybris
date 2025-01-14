@@ -10,14 +10,8 @@
 <main>
 <section class="biographie">
     <div class="containerAuteur">
-        <h2 class="h2Jaune">Présentation</h2>
-<p class="text-center">Arlette Bessède, pérignacienne, se veut avant tout témoin de son univers plutôt que d'une ville en particulier. <br>
-    Elle a une plume sensible à fleur de peau et sait, par une épure du texte, aller à l'essentiel.<br>
-
-Très impliquée dans la vie associative, elle s'occupe de causes nobles comme la place de la femme dans nos sociétés modernes. <br>
-Elle est à l'initiative également de salons féminins sur La Rochelle.<br>
-
-Personnalité très attachante, Arlette Bessède saura séduire votre âme de poète.</p>
+        <h2 class="h2Jaune">Biographie</h2>
+<p></p>
              <!-- Section image et texte -->
 <div class="bio-content">
     <div class="bio-text">

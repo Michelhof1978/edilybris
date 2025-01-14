@@ -29,7 +29,7 @@
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Art et poésies
                     </p>
-                    <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
+                    <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3" alt="Illustration">
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>Chez cet artiste, le cliché n'est pas figé et dépasse la barrière de la simple beauté physique : le modèle est repensé, réinventé et le résultat s'adresse à notre moi profond. C'est là qu'intervient Arlette.
@@ -42,7 +42,7 @@ Josyane De Jesus-Bergey, poéte reconnue dans toute la francophonie, l'évoque p
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
-                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3" alt="Illustration">
                     <h4 class="h2Jaune text-center m-3">Maillot</h4>
 
                     <p>
