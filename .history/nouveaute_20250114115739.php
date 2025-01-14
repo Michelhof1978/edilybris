@@ -140,7 +140,7 @@
     </div>
     <!-- Carte 3 Brunetot Annie-->
     <div class="L-card">
-        <a href="ficheAnnieBrunetotVaVoirLaBasSiJySuis.php">
+        <a href="link_to_book_D.html">
             <img src="images/annieBrunetot/couvrectovvlbsjys.webp" class="img-fluid" alt="Couverture de livre Va voir là-bas si j'y suis">
             <div class="L-card-content">
                 <div class="L-card-author">Brunetot Annie</div>
