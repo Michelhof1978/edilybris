@@ -104,7 +104,7 @@ Personnalité très attachante, Arlette Bessède saura séduire votre âme de po
         <!-- carte 3 L'enlèvement-->
         <div class="new-card">
         <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
-        <img src="images/arletteBessede/surLeVentreIriseDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
+        <img src="images/arletteBessede/surLeVentreIriséDeNosRivieres.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">22,00 €</div>
