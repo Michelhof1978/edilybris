@@ -177,6 +177,7 @@ Isabelle Loubry devra se méfier de ses certitudes, surtout quand apparaît un j
 
 Cette histoire relate l’existence réelle d’une enfant martyre à une fiction policière. Elle ne laissera pas le lecteur indifférent, car une question demeure après avoir refermé la dernière page : à quel point sommes-nous tributaires des autres pour mener notre propre destin ?
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1 </h3>
+<h3 class="h2Jaune text-center m-3">Préambule de la première partie</h3>
 
 
                     <p>

@@ -7,7 +7,7 @@
 <!-- Groupe 1 Cathelineau Jocelyne -->
 <div class="L-card-container mb-5 mt-3" id="L-group1">
     <div class="L-card">
-        <a href="ficheJocelynCathelineauLeGrandLivre.php">
+        <a href="link_to_book_A.html">
             <img src="images/JocelyneCathelineau/couvlegrandlivre-jc.webp" class="img-fluid" alt="Couverture de livre Le grand livre">
             <div class="L-card-content">
                 <div class="L-card-title">Le grand livre</div>

@@ -89,7 +89,7 @@ René s’éloigne vivement, ses chaussures bringuebalant dans son dos.
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
-                    <h4 class="h2Jaune text-center m-3">Chapitre 1</h4>
+                    <h4 class="h2Jaune text-center m-3">Ch</h4>
 
 
 
@@ -176,7 +176,8 @@ Isabelle Loubry devra se méfier de ses certitudes, surtout quand apparaît un j
 
 
 Cette histoire relate l’existence réelle d’une enfant martyre à une fiction policière. Elle ne laissera pas le lecteur indifférent, car une question demeure après avoir refermé la dernière page : à quel point sommes-nous tributaires des autres pour mener notre propre destin ?
-<h3 class="h2Jaune text-center m-3">Extrait chapitre 1 </h3>
+<h3 class="h2Jaune text-center m-3">Extrait chapitre </h3>
+<h3 class="h2Jaune text-center m-3">Préambule de la première partie</h3>
 
 
                     <p>
