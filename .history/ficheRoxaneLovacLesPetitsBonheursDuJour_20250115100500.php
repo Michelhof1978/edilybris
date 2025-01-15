@@ -210,39 +210,7 @@ J’ai peur, je tremble, mon premier petit frère est né, je gêne, personne ne
 Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant. Je n’ai pas les armes nécessaires pour me battre contre la décision d’adultes tout-puissants.
                     </p>
 
-                    <div class="carousel-container">
-  <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 1">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel2.webp" class="d-block w-100" alt="Image 2">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel3.webp" class="d-block w-100" alt="Image 3">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel4.webp" class="d-block w-100" alt="Image 4">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel5.webp" class="d-block w-100" alt="Image 5">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel6.webp" class="d-block w-100" alt="Image 6">
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div>
-</div>
-
+                    
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

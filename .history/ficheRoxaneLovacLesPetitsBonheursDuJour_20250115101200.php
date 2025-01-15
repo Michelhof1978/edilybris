@@ -229,7 +229,7 @@ Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant. Je 
         <img src="images/roxaneLovac/carousel5.webp" class="d-block w-100" alt="Image 5">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel6.webp" class="d-block w-100" alt="Image 6">
+        <img src="" class="d-block w-100" alt="Image 6">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

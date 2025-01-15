@@ -277,7 +277,7 @@
     <!-- Groupe 22 ROXANE LOVAC-->
     <div id="mobile-group22" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+            <a href="link_to_book_J.html">
                 <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Ma vie parfaitement imparfaite">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Lovac Roxane</div>

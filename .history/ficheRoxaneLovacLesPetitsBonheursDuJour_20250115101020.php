@@ -217,19 +217,19 @@ Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant. Je 
         <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 1">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel2.webp" class="d-block w-100" alt="Image 2">
+        <img src="images/r" class="d-block w-100" alt="Image 2">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel3.webp" class="d-block w-100" alt="Image 3">
+        <img src="image3.jpg" class="d-block w-100" alt="Image 3">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel4.webp" class="d-block w-100" alt="Image 4">
+        <img src="image4.jpg" class="d-block w-100" alt="Image 4">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel5.webp" class="d-block w-100" alt="Image 5">
+        <img src="image5.jpg" class="d-block w-100" alt="Image 5">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel6.webp" class="d-block w-100" alt="Image 6">
+        <img src="image6.jpg" class="d-block w-100" alt="Image 6">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

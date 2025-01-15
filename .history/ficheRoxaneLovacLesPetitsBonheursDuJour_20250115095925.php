@@ -123,24 +123,24 @@ Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant. Je 
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Roxane Lovac</h2>
+            <h2>Les livres de Roxane</h2>
             <!-- Carte 1 : L'ENLEVEMENT -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
+                        <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
 
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Les petits bonheurs du jour</h3>
+                        <h3 class="h2Jaune">vengeance Seculaire</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Feel good</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 196</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440716</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> ????</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> ?????</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> ?????</p>
 
                         <p class="lead text-white">
                         25 Décembre 1995.
@@ -157,92 +157,33 @@ Valérie-Bérengère Bettelheim
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
 
                     <p>
-                    J’adore ce gros et beau camion bicolore, sur lequel je peux m’asseoir pour conduire comme les grands. Sur son immense plateau bleu, je joue à la pâte à modeler, à la poupée, aux blocs de construction et y mange mon quatre-heures. Il me procure un sentiment de sécurité, de stabilité. Du haut de mes cinq pommes, au volant de mon engin, rien ne peut m’arriver. Lorsque je traverse en trombe le long couloir de l’appartement, poussant très fort sur mes jambes pour prendre de la vitesse, mon cœur plus léger, plus libre, goûte inconsciemment à l’innocence de l’enfance.
+                    Lundi 25 Décembre 1995 Paris -  00h30
 
-Ce soir-là, papa et maman me servent mon repas, tout en me laissant à califourchon sur mon bolide, c’est tellement chouette ! Et puis, lavage des dents, pipi et au lit, avec une petite histoire avant un bon gros dodo…
-C’est quoi, tout ce bruit ? Il fait encore nuit, pourquoi il y a des gens qui crient à la maison ?
 
-Je pousse mes boucles rousses sur les côtés de mon visage, frotte mes yeux pleins de sommeil et me lève. Derrière la porte fermée, j’écoute. Je suis attentive à tous les sons, des trucs qui roulent, des portes qui claquent, des bips et des voix. Des voix qui résonnent et que je ne reconnais pas. Prudente et méfiante, je sors. Immédiatement glacés par le carrelage froid, mes petits pieds se recroquevillent. Toutes les lumières sont allumées, ça me fait mal aux yeux. Je traverse le long couloir en longeant le buffet jusqu’à la chambre de papa et maman. Personne ne me voit, toutes les grandes personnes courent et parlent très fort. Ils ont l’air pressés et concentrés. Ils tirent des chariots à roulettes plus grands que moi, ça fait beaucoup de bruit.
-C’est qui, tous ces gens ?
-La porte est ouverte. Au pied de leur lit, papa est essoufflé, il a l’air d’avoir peur. Il serre fort les jambes de maman, l’une contre l’autre pour…
-— Ne pas laisser le bébé sortir tout de suite, c’est trop tôt !
+La lune éclaire d’un voile opaque l’allée sur laquelle deux gardes républicains patrouillent. En cette fin décembre 1995, la France se remet doucement des tragiques événements qui l’ont secouée ces dernières semaines. Plusieurs attentats, perpétrés par des terroristes islamiques, ont conduit le gouvernement à déclencher des mesures de sécurité exceptionnelles. La mise en place du plan Vigipirate rassure les Français, surtout les Parisiens ! 
 
-Papa hurle, il est paniqué. Intriguée et inquiète, j’entre un peu plus, je vois le visage de maman. Elle fait des grimaces, je crois qu’elle a mal, elle a peur aussi… Comme moi…
-— Pourquoi tu fais mal à maman ?
-— Marie ! Ne reste pas là !
+En cette soirée blanchâtre, Erwan Chanzal et William Planquart, cavaliers de la garde républicaine, effectuent une mission de surveillance dans les jardins du Luxembourg. Revêtus de leur uniforme, les gardes ont été sollicités en renfort pour assurer la sécurité des espaces verts du Sénat ; cette mesure, évidemment, n’est pas du goût de tout le personnel de ce corps d’élite. Erwan n’approuve pas ce service, car pour lui, c’est systématiquement au détriment du travail des chevaux. Il est vrai que, fragilisées par l’inertie, certaines bêtes peuvent être sujettes aux coliques, pouvant occasionner leur décès. 
 
-Il me prend par la main et me fait m’asseoir dans la cuisine.
+William sort de l’École de Gendarmerie ; il découvre une facette inconnue de ce corps prestigieux spécialisé dans les services d’honneur. Il s’agit là de sa première affectation. Il voulait connaître cette ambiance très axée sur le respect de l’animal et des traditions militaires. Ce milieu lui paraît bien éloigné de l’idée qu’il se faisait de la maréchaussée ; avant son engagement, il ne savait pas qu’un garde républicain était avant tout un gendarme.
 
-— Ne bouge pas d’ici, je reviens.
+Bien déterminé à satisfaire son ambition, William, vingt-neuf ans, fait confiance en ses capacités d’adaptation. De taille moyenne, cheveux bruns coiffés à la coupe réglementaire, le visage rond, son regard franc transpire l’honnêteté et la franchise. 
 
-Papa me laisse toute seule. Je ne vois que le couloir, mais j’entends tout.
+— Tu n’es pas trop crevé ? demande-t-il à son binôme.
 
-— Non ! alertent les pompiers. Elle ne peut pas aller faire pipi, le bébé va sortir !
+— Je serais bien mieux chez moi. Si ça continue, on va trouver un coin pour pioncer.
 
-Quoi ? Mais ça sort par où un bébé ? Il va tomber dans les toilettes ? C’est dégoûtant !
+Le visage de William se crispe. Il ne veut pas succomber aux facilités offertes, elles sont un boomerang qui vous revient en pleine face sans qu’on s’y attende… William respecte son camarade, plus ancien, aussi trouve-t-il une alternative dosée de diplomatie et de bon sens, empreinte d’un peu d’hypocrisie…
 
-Maman fait des bruits comme quand on a mal, elle pleure… Et puis ils l’emmènent. Moi, je reste là, au bout du couloir, l’observant, emballée dans du papier doré pareil à celui des chocolats de Noël. Elle est allongée sur un lit que des pompiers font rouler de la même manière qu’à la télé. Les épaules basses, le visage trempé de larmes, je les regarde m’arracher ma maman.
+— Ce n’est pas une mauvaise idée, seulement le chef de quart tourne dans le jardin. Il vaudrait mieux assurer, n’est-ce pas ? Se faire planter un jour de Noël, c’est plutôt stupide…
 
-Silence de plomb après la tempête. Ma grand-mère préférée, mémé Yoyo, apparaît d’un coup de baguette magique dans l’entrée. Je traverse le couloir en courant et m’agrippe à ses jambes. Une fois dans la cuisine, elle me pose sur ses genoux et m’enveloppe de ses bras pleins d’amour.
+— Pas de danger, le chef est occupé à réveillonner tout seul dans son coin ! Mais toi, tu n’es pas fatigué ?
 
-Ensuite, les échanges entre adultes déferlent :
-— Les pompiers ont défoncé la porte du voisin pour brancher la couveuse, c’était violent ! C’est trop tôt, cinq mois ! Le bébé est arrivé trop tôt !
+— Non, je ne m’endors jamais avant une ronde de vingt-trois heures. Je préfère assurer la continuité, sinon, j’ai un mauvais réveil. Je dors mieux après. Mais franchement, je ne veux pas te décevoir, le gradé doit certainement prendre son rôle au sérieux. N’oublie pas qu’il y a un général qui commande la sécurité, cela m’étonnerait qu’il tolère une inattention quelconque…
 
-« Prématuré… faire attention… surveillé… dangereux… hôpital… peur… »
+Le vétéran grommelle quelque chose d’incompréhensible et poursuit le chemin.
 
-Et le couperet tombe !
-
-— On ne va pas pouvoir la garder, on travaille !
-— Tant pis, elle ira chez son autre grand-mère.
-
-Mais… c’est de moi qu’ils parlent, là ?
-
-Je couine dans un quasi-silence :
-
-— Non, j’veux pas…
-
-Ce n’est pas que je ne l’aime pas, cette autre mémé, mais papa et maman m’ont toujours déposée chez elle quand j’étais petite, ils n’avaient pas de temps pour moi… Ou peut-être pas envie ? J’ai appris, des dizaines d’années plus tard, que j’avais vécu mes premières années chez mémé M., car mes parents étaient bien trop pris par leur travail. Alors ils venaient me voir le week-end et repartaient…
-
-J’ai peur, je tremble, mon premier petit frère est né, je gêne, personne ne peut s’occuper de moi, même pas mon papa ! Je vais aller où ? Je me mets à pleurer. Mon chagrin est si gros que les adultes s’adressent enfin à moi et cessent de parler comme si je n’étais qu’un colis à mettre à l’abri durant un temps. Une parenthèse pendant laquelle ils prendront soin de ce « petit quelque chose » considéré plus important que moi. Moi, je suis assez grande maintenant, j’ai cinq ans.
-
-— Ton pépé et moi devons aller au travail, nous te récupèrerons ce week-end. Tu veux que nous te déposions chez ton arrière-grand-mère ? Mémé Cité ?
-
-Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant. Je n’ai pas les armes nécessaires pour me battre contre la décision d’adultes tout-puissants.
+Un peu plus tard, aux alentours du bâtiment sénatorial, une guérite réchauffe avec peine un fantassin du deuxième régiment d’infanterie de la garde républicaine. Malgré la fraîcheur nocturne, le militaire transpire à grosses gouttes, comme pris par la fièvre. L’approche des cavaliers le fait sursauter.
                     </p>
-
-                    <div class="carousel-container">
-  <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 1">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel2.webp" class="d-block w-100" alt="Image 2">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel3.webp" class="d-block w-100" alt="Image 3">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel4.webp" class="d-block w-100" alt="Image 4">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel5.webp" class="d-block w-100" alt="Image 5">
-      </div>
-      <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel6.webp" class="d-block w-100" alt="Image 6">
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div>
-</div>
-
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
