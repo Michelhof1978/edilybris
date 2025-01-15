@@ -75,8 +75,8 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
             <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Roxane Lovac</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                    <div class="mobile-book-author">Arlette Bessède</div>
+                    <div class="mobile-book-price">10,00 €</div>
                 </div>
             </a>
         </div>
@@ -86,16 +86,26 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
-                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <img src="images/" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Roxane Lovac</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                    <div class="mobile-book-author">Arlette Bessède</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-
+    <!-- Groupe 3 Sur Le Ventre Irise De Nos Riviere-->
+    <div id="mobile-group3PierreBrandao" class="mobile-books-container mobile-hidden">
+        <div class="mobile-book-card">
+            <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
+                <img src="images/arletteBessede/surLeVentreIriseDeNosRivieres.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
+                <div class="mobile-book-details">
+                    <div class="mobile-book-author"></div>Arlette Bessède</div>
+                    <div class="mobile-book-price">12,00 €</div>
+                </div>
+            </a>
+        </div>
     </div>
 
     
@@ -113,25 +123,34 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
     <div id="desktop-group1PierreBrandao" class="new-card-container">
         <!-- carte 1  mes Mots Sont Des Paysages-->
         <div class="new-card">
-            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
-                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+            <a href="ficheArletteBessedeMesMotsSontDesPaysage.php">
+                <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Arlette Bessède</div>
+                    <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>
         <!-- carte 2 Elle comme liberté-->
         <div class="new-card">
-        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
-                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+        <a href="ficheArletteBessedeElleCommeLiberte.php">
+                <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>
-
+        <!-- carte 3 L'enlèvement-->
+        <div class="new-card">
+        <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
+        <img src="images/arletteBessede/surLeVentreIriseDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
       
       </div>
 

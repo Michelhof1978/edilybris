@@ -96,10 +96,6 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
     </div>
 
 
-    </div>
-
-    
-
     <!-- Boutons de navigation -->
     <!-- <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
@@ -116,7 +112,7 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
             <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-author">Arlette Bessède</div>
                     <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
@@ -126,12 +122,21 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
         <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
                 <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-author">Brandao Pierre</div>
                     <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
-
+        <!-- carte 3 L'enlèvement-->
+        <div class="new-card">
+        <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
+        <img src="images/arletteBessede/surLeVentreIriseDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
       
       </div>
 

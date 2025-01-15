@@ -96,10 +96,6 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
     </div>
 
 
-    </div>
-
-    
-
     <!-- Boutons de navigation -->
     <!-- <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
@@ -131,7 +127,16 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
                 </div>
             </a>
         </div>
-
+        <!-- carte 3 L'enlèvement-->
+        <div class="new-card">
+        <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
+        <img src="images/arletteBessede/surLeVentreIriseDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
+                <div class="new-card-content">
+                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
       
       </div>
 

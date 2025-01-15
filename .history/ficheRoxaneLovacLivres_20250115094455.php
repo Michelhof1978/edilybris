@@ -127,7 +127,7 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
                 <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
                     <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>

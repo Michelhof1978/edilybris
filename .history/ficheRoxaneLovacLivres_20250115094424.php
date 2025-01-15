@@ -116,18 +116,18 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
             <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Arlette Bessède</div>
+                    <div class="new-card-price">10,00 €</div>
                 </div>
             </a>
         </div>
         <!-- carte 2 Elle comme liberté-->
         <div class="new-card">
         <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
-                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <img src="images/arletteBess-pour-site.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>

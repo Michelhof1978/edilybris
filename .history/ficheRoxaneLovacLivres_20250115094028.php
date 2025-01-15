@@ -96,10 +96,6 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
     </div>
 
 
-    </div>
-
-    
-
     <!-- Boutons de navigation -->
     <!-- <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
@@ -131,7 +127,6 @@ Retrouvez toute son actualité sur Facebook : @roxanelovacauteure</p>
                 </div>
             </a>
         </div>
-
       
       </div>
 
