@@ -263,21 +263,21 @@ Edi’lybris : Être acceptée par le comité de lecture est l’une des premiè
  Comment cela s’est-il passé pour ton premier roman qui va être édité « Le mystère de l’Hometrou » ?
 
 Le Comité de lecture d’Edi’Lybris est bienveillant… et averti, puisqu’il est amené à donner son avis sur un nombre conséquent d’ouvrages chaque année.<br>
-  J’avais donc confiance. Et puis, j’ai écrit « Le mystère de l’Hometrou » avec tout mon cœur, puisque c’était une « commande » de ma fille.
+  J’avais donc confiance. Et puis, j’ai écrit « Le mystère de l’Hometrou » avec tout mon cœur, puisque c’était une « commande » de ma fille.<br>
 
-Edi’lybris : Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?<br>
+Edi’lybris : Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?
 
 Je dois dire, cher Pierre, que je suis contre tous les logiciels de correction, y compris celui que tu utilises ! Un seul avis m’importe : celui de relecteurs bienveillants, de bon sens et de bonne volonté, seuls capables de détecter des incohérences, des erreurs d’accord sujet-verbe, des lourdeurs, des hiatus, des mots mal-sonnants…  J’ai, dans un premier temps, accepté de réécrire entièrement le livre – dont il n’existait qu’un exemplaire papier, le texte en ligne ayant disparu avec mon disque dur  -en changeant les noms-  et, dans un second temps, de supprimer les répétitions, les coquilles qui restaient, quelques incohérences… Un très long travail, que je n’aurais pas entrepris si je n’avais pas eu les encouragements de personnes que j’estime !
 
-Edi’lybris : Parlons du livre à paraître… Comment l’idée de l’écrire t’est-elle venue ?  Le titre recèle-t-il un sens caché ?<br>
+Edi’lybris : Parlons du livre à paraître… Comment l’idée de l’écrire t’est-elle venue ?  Le titre recèle-t-il un sens caché ?
 
 Bien sûr, sinon, il ne s'appellerait pas "Le mystère de l'Hometrou" ! Je laisse le lecteur découvrir ce qui se cache dans la cave et le jardin de la narratrice ! Et tout ce que ça va entraîner pour elle ! L’idée d’écrire, je l’ai en permanence, depuis mon tout jeune âge, et de fait, j’ai bien dû écrire une quarantaine de livres, dont la moitié est définitivement perdue, et l’autre moitié n’existe que sous forme d’exemplaires papier, tirés par moi, destinés à mon petit-fils...
 
-Edi’lybris : Peux-tu résumer en quelques mots l’esprit de ton roman ?<br>
+Edi’lybris : Peux-tu résumer en quelques mots l’esprit de ton roman ?
 
 Oui, en citant Ethel, une des filles de la narratrice du « Mystère de l’Hometrou » : quand on cherche, on finit par trouver.
 
-Edi’lybris : La couverture : qui t’a fourni l’illustration ?<br>
+Edi’lybris : La couverture : qui t’a fourni l’illustration ?
 
 Tout le monde dessinant dans ma famille paternelle, c’est moi qui ai fourni le dessin… Mais le fond noir le mettant en valeur, c’est toi, Pierre, et ta bécane magique ! Et j’aime beaucoup ce que tu as fait à partir de quelques traits au pastel…
 </p>

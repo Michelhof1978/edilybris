@@ -83,7 +83,7 @@
 </div>
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  l egrand livre--->
+    <!-- Groupe 1  mes Mots Sont Des Paysages-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="ficheJocelynCathelineauLeGrandLivre.php">
@@ -127,7 +127,7 @@
     <div id="desktop-group1PierreBrandao" class="new-card-container">
         <!-- carte 1 le grand livre-->
         <div class="new-card">
-            <a href="ficheJocelynCathelineauLeGrandLivre.php">
+            <a href="ficheJocelynCathelineauLesMysteresDeLhometrou.php">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">Jocelyne Cathelineau</div>

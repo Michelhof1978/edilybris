@@ -277,7 +277,7 @@ Edi’lybris : Peux-tu résumer en quelques mots l’esprit de ton roman ?<br>
 
 Oui, en citant Ethel, une des filles de la narratrice du « Mystère de l’Hometrou » : quand on cherche, on finit par trouver.
 
-Edi’lybris : La couverture : qui t’a fourni l’illustration ?<br>
+Edi’lybris : La couverture : qui t’a fourni l’illustration ?
 
 Tout le monde dessinant dans ma famille paternelle, c’est moi qui ai fourni le dessin… Mais le fond noir le mettant en valeur, c’est toi, Pierre, et ta bécane magique ! Et j’aime beaucoup ce que tu as fait à partir de quelques traits au pastel…
 </p>

@@ -83,11 +83,11 @@
 </div>
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  l egrand livre--->
+    <!-- Groupe 1  mes Mots Sont Des Paysages-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="ficheJocelynCathelineauLeGrandLivre.php">
-                <img src="images/JocelyneCathelineau/couvlegrandlivre-jc.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jocelyne Cathelineau</div>
                     <div class="mobile-book-price">18,00 €</div>
@@ -96,7 +96,7 @@
         </div>
     </div>
 
-    <!-- Groupe 2 Lhometrou-->
+    <!-- Groupe 2 Elle comme liberté-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheJocelynCathelineauLesMysteresDeLhometrou.php">
@@ -125,23 +125,23 @@
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
     <div id="desktop-group1PierreBrandao" class="new-card-container">
-        <!-- carte 1 le grand livre-->
+        <!-- carte 1  mes Mots Sont Des Paysages-->
         <div class="new-card">
-            <a href="ficheJocelynCathelineauLeGrandLivre.php">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
                 <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Jocelyne Cathelineau</div>
-                    <div class="new-card-price">18,00 €</div>
+                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 2  l hometrou-->
+        <!-- carte 2 Elle comme liberté-->
         <div class="new-card">
-        <a href="ficheJocelynCathelineauLesMysteresDeLhometrou.php">
-                <img src="images/JocelyneCathelineau/couv-recto-mystere-hometrou.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
-                    <div class="new-card-author">Jocelyne Cathelineau</div>
-                    <div class="new-card-price">23,00 €</div>
+                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
