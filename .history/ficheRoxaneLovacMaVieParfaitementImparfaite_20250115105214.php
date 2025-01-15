@@ -215,7 +215,7 @@ Et c’est peu dire ! Mon amoureux est altruiste au possible. Il se fiche de son
         <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 5">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel11.webp" class="d-block w-100" alt="Image 6">
+        <img src="images/roxaneLovac/carousel12.webp" class="d-block w-100" alt="Image 6">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

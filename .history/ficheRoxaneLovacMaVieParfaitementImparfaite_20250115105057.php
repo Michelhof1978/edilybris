@@ -200,7 +200,7 @@ Et c’est peu dire ! Mon amoureux est altruiste au possible. Il se fiche de son
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/roxaneLovac/carousel7.webp" class="d-block w-100" alt="Image 1">
+        <img src="images/roxaneLovac/carouse7.webp" class="d-block w-100" alt="Image 1">
       </div>
       <div class="carousel-item">
         <img src="images/roxaneLovac/carousel8.webp" class="d-block w-100" alt="Image 2">
@@ -209,13 +209,13 @@ Et c’est peu dire ! Mon amoureux est altruiste au possible. Il se fiche de son
         <img src="images/roxaneLovac/carousel9.webp" class="d-block w-100" alt="Image 3">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel10.webp" class="d-block w-100" alt="Image 4">
+        <img src="images/roxaneLovac/carousel0.webp" class="d-block w-100" alt="Image 4">
       </div>
       <div class="carousel-item">
         <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 5">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel11.webp" class="d-block w-100" alt="Image 6">
+        <img src="images/roxaneLovac/carousel2.webp" class="d-block w-100" alt="Image 6">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

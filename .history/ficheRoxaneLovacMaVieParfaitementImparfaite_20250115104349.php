@@ -200,22 +200,22 @@ Et c’est peu dire ! Mon amoureux est altruiste au possible. Il se fiche de son
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/roxaneLovac/carousel7.webp" class="d-block w-100" alt="Image 1">
+        <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 1">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel8.webp" class="d-block w-100" alt="Image 2">
+        <img src="images/roxaneLovac/carousel2.webp" class="d-block w-100" alt="Image 2">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel9.webp" class="d-block w-100" alt="Image 3">
+        <img src="images/roxaneLovac/carousel3.webp" class="d-block w-100" alt="Image 3">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel10.webp" class="d-block w-100" alt="Image 4">
+        <img src="images/roxaneLovac/carousel4.webp" class="d-block w-100" alt="Image 4">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel1.webp" class="d-block w-100" alt="Image 5">
+        <img src="images/roxaneLovac/carousel5.webp" class="d-block w-100" alt="Image 5">
       </div>
       <div class="carousel-item">
-        <img src="images/roxaneLovac/carousel11.webp" class="d-block w-100" alt="Image 6">
+        <img src="images/roxaneLovac/carousel6.webp" class="d-block w-100" alt="Image 6">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -229,7 +229,7 @@ Et c’est peu dire ! Mon amoureux est altruiste au possible. Il se fiche de son
   </div>
 </div>
 
-                        <a href="images/bulletin-de-commande-2024.pdf" class="ms-5 lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="mS65lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>
