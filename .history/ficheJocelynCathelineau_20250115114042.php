@@ -7,7 +7,7 @@
  <?php include("header.php"); ?>
 
 
- <?php include("ficheJocelynCathelineauLivres.php"); ?>
+ <?php include("footer.php"); ?>
 
 
  
