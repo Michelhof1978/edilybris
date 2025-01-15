@@ -128,7 +128,7 @@
         <!-- carte 1 le grand livre-->
         <div class="new-card">
             <a href="ficheJocelynCathelineauLeGrandLivre.php">
-                <img src="images/JocelyneCathelineau/couvlegrandlivre-jc.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+                <img src="images/JocelyneCathelineau/" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">Jocelyne Cathelineau</div>
                     <div class="new-card-price">18,00 €</div>

@@ -168,7 +168,7 @@ J’ai, dans un premier temps, accepté de réécrire entièrement le livre – 
     Et j’aime beaucoup ce que tu as fait à partir de quelques traits au pastel…</p>
  
                     <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white mt-4" download>Télécharger le bon de commande</a>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>
