@@ -373,7 +373,7 @@
         </div>
       </a>
  <!-- CHAUVIN LYDIA-->
-      <a href="ficheLydiaChauvin.php" class="profile-card director">
+      <a href="ficheLydiaChauvinLivres.php" class="profile-card director">
         <div class="imgBx">
           <img src="images/lydiaChauvin/lydiaChauvin.webp" class="img-fluid" alt="Photo de CHAUVIN LYDIA">
         </div>

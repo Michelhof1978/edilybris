@@ -9,7 +9,7 @@
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
-            <img src="images/lydiaChauvin/portrait-lydia-tbr_11zon.jpg" class="img-fluid w-25 rounded mb-3 d-block mx-auto" alt="Illustration">
+            <img src="images/lydiaChauvin/" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
 <p class="text-center">
 Si un jour vous croizez Lydia Chauvin à la sortie d'une scène de spectacle, ne lui demandez surtout pas si elle aime le théâtre ! À six ans, alors qu'elle assiste à une pièce en compagnie de sa mère, elle lui dit avec une assurance qui lui sied déjà bien à l'époque : "C'est ça que je veux faire !" Et elle s'y met ! <br>
