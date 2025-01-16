@@ -29,7 +29,7 @@
     <!-- Groupe 3 Chauvin Lydia-->
     <div id="mobile-group3" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheLydiaChauvinRecettePourUnSpectacle.php">
+            <a href="link_to_book_C.html">
                 <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de livre Recette pour un spectacle">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Chauvin Lydia</div>
