@@ -1,7 +1,7 @@
 <div class="headerAuteur">
     <div class="containerAuteur">
-        <h1>Joël BERTHELOT</h1>
-        <img src="images/joelBerthelot/joelBerthelot.webp" alt="Portrait de dAVID bEAULIEU" class="img-fluid bio-image">
+        <h1>Lydia Chauvin</h1>
+        <img src="images/lydiaChauvin/lydiaChauvin.webp" alt="Portrait de Lydia Chauvin" class="img-fluid bio-image">
     </div>
 </div>
 
@@ -9,21 +9,18 @@
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
+<p class="">
+Si un jour vous croizez Lydia Chauvin à la sortie d'une scène de spectacle, ne lui demandez surtout pas si elle aime le théâtre ! À six ans, alors qu'elle assiste à une pièce en compagnie de sa mère, elle lui dit avec une assurance qui lui sied déjà bien à l'époque : "C'est ça que je veux faire !" Et elle s'y met ! Écode de danse, parcours atypique d'une scolarité centrée sur ce métier atypique, apprentissage de la langue pour mieux écrire ses saynètes... En clair, toute sa vie est vouée à ce noble art, à l'interprétation et à la formation de jeunes passionnés -de tout âge !-.
 
+La dernière page de cette présentation est consacrée à ses multiples activités. N'hésitez pas à vous y rendre : vous serez surpris ! Le carrousel mis à votre disposition, en bas du menu, vous permettra d'appréhender un monde graphique qui s'est nourri des inventions de Lydia. Beaucoup de fraîcheur dans le trait, de joie de vivre, de plaisir de partager.
+
+Pourquoi en parler, me direz-vous ? La raison se veut belle : les pièces de théâtre de Lydia méritent d'avoir une existence pérenne, alors à travers le livre, le lecteur poursuivra son évasion ! Découvrez page suivante le premier volume à paraître : Recette pour spectacle... on s'en pourlèche à l'avance les babines !
+</p>
          <!-- Section image et texte -->
 <div class="bio-content">
     <div class="bio-text">
     <div class="bio-content d-flex justify-content-center align-items-center" style="height: 100vh;">
-    <iframe 
-        width="560" 
-        height="315" 
-        src="https://www.youtube.com/embed/QluMEjVbHe0?si=Yfo3xdjWCcR9pkGn" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8ddLXOcrloM?si=airjQ1sk523Dhdwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
     </div>
@@ -42,7 +39,7 @@
                 <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
                         <a href="fichePatriceBachereau.php">
-                            <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
+                            <img src="FicheJoelBerthelotJaiTellementEnvieDeTecrire.php" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
                             <div class="mobile-book-details">
                                 <div class="mobile-book-author"> Joël berthelot</div>
                                 <div class="mobile-book-price">20,00 €</div>

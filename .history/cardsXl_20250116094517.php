@@ -330,7 +330,7 @@
     <div id="mobile-group26" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
-                <img src="images/arletteBessede/surLeVentreIriseDeNosRiviere_11zon.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <img src="images/arletteBessede/couverture-comple-te-recueil-ab-slvidnr_11zon.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Arlette Bessède </div>
                     <div class="mobile-book-price">12,00 €</div>
@@ -768,7 +768,7 @@
         <!-- carte 26 ARLETTE BESSEDE-->
         <div class="new-card">
             <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
-                <img src="images/arletteBessede/surLeVentreIriseDeNosRiviere_11zon.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
+                <img src="images/arletteBessede/couverture-comple-te-recueil-ab-slvidnr_11zon.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
                 <div class="new-card-content">
                     <div class="new-card-author">Bessède Arlette </div>
                     <div class="new-card-price">12,00 €</div>

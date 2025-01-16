@@ -42,7 +42,7 @@
                 <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
                         <a href="fichePatriceBachereau.php">
-                            <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
+                            <img src="images/joelBerthelot/" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
                             <div class="mobile-book-details">
                                 <div class="mobile-book-author"> Joël berthelot</div>
                                 <div class="mobile-book-price">20,00 €</div>

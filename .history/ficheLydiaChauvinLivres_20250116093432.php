@@ -1,7 +1,7 @@
 <div class="headerAuteur">
     <div class="containerAuteur">
-        <h1>Joël BERTHELOT</h1>
-        <img src="images/joelBerthelot/joelBerthelot.webp" alt="Portrait de dAVID bEAULIEU" class="img-fluid bio-image">
+        <h1>Lydia Chauvin</h1>
+        <img src="images/lydiaChauvin/lydiaChauvin.webp" alt="Portrait de Lydia Chauvin" class="img-fluid bio-image">
     </div>
 </div>
 
@@ -9,21 +9,12 @@
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
-
+<p></p>
          <!-- Section image et texte -->
 <div class="bio-content">
     <div class="bio-text">
     <div class="bio-content d-flex justify-content-center align-items-center" style="height: 100vh;">
-    <iframe 
-        width="560" 
-        height="315" 
-        src="https://www.youtube.com/embed/QluMEjVbHe0?si=Yfo3xdjWCcR9pkGn" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8ddLXOcrloM?si=airjQ1sk523Dhdwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
     </div>
@@ -42,7 +33,7 @@
                 <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
                         <a href="fichePatriceBachereau.php">
-                            <img src="images/joelBerthelot/couverture-avec-titre-jtedte.webp" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
+                            <img src="FicheJoelBerthelotJaiTellementEnvieDeTecrire.php" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
                             <div class="mobile-book-details">
                                 <div class="mobile-book-author"> Joël berthelot</div>
                                 <div class="mobile-book-price">20,00 €</div>

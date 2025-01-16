@@ -46,7 +46,7 @@ Lydia et Jacques passent à la trappe des questions de Stéphane Couzinet, le sy
                 <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
                         <a href="ficheLydiaChauvinRecettePourUnSpectacle.php">
-                            <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
+                            <img src="images/lydiaChauvin/" class="img-fluid" alt="Couverture de  Le sillage de l'encre">
                             <div class="mobile-book-details">
                                 <div class="mobile-book-author"> Lydia Chauvin</div>
                                 <div class="mobile-book-price">12,00 €</div>
