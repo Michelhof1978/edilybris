@@ -15,7 +15,7 @@
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
                     <p class="fw-bold coloryellow fs-5">12,00 €</p>
                 </div>
                 <div class="col-12 text-white">
@@ -81,19 +81,19 @@ http://www.lydiachauvin.com
    <p class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Lydia Chauvin : Je cherchais sur le net une maison d'édition régionale, je n'en ai trouvé qu'une seule, Edi'lybis. 
 Très récemment, en janvier de cette année.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-2_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
+<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-2_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p> 
 <p>C'est toujours un bonheur d'être acceptée par un comité de lecture, surtout quand la majorité y est favorable. Certains membres de ce comité m'ont même fait de très beaux compliments. </p>
-<img src="images/lydiaChauvin/affiche-les-spf-lydia-chauvin_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="photo">
+<img src="images/lydiaChauvin/affiche-les-spf-lydia-chauvin_11zon.webp class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow"> Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?</p>
 <p>L'équipe rédactionnelle est très pointilleuse, mais d'une grande aide. J'ai beaucoup apprécié les conseils donnés. </p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-3_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
+<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-3_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire sur ce sujet ?</p> 
 <p>Mes parents étant restaurateurs, la cuisine m'est très familière. Passionnée de théâtre et ayant passé quelques années dans des restaurants, cuisiner du théâtre avec ma « recette pour un spectacle » me paraissait évident.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-4_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
+<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-4_11zon.webp class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow">Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?!</p> 
 <p>Comment terminer convenablement un spectacle quand un cuisinier confond une recette de spectacle avec une recette de cuisine et commence à faire cuire les comédiens ? Je n'en dirai pas plus.</p>
@@ -103,16 +103,16 @@ Très récemment, en janvier de cette année.</p>
 
 <p class="coloryellow">Ton héros, dans ta pièce, n’est jamais cité. Une volonté délibérée ?</p> 
 <p>Mes pièces sont en général écrite pour un très grand nombre de comédiens. De façon à ce que chacun est un rôle équivalent, il n'y a pas forcément de héros. Chaque personnage donne sa recette de spectacle.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-6_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
+<img src="images" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?</p> 
 <p>J'ai toujours des projets d'écriture. Que ce soit des nouveaux ou des anciens à remettre au goût du jour.
 Mais le prochain se passera dans la jungle, terrible jungle d'Edi'lybris.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
+<img src="images/annieBrunetot/annie-aux-pieces.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow">Un dernier mot à l’attention des lecteurs ?</p> 
 <p>Vous aimez lire ? Vous aimez le théâtre ? Alors vous aimerez lire le théâtre. Et si en plus, vous avez de l'humour, lisez ma pièce, vous ne serez pas déçus.</p>
-<img src="images/lydiaChauvin/lydia-chauvin-en-sce-ne_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
+<img src="images/annieBrunetot/annie-aux-pieces.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Couverture du livre L'enlèvement">
 
 <p class="coloryellow"> Merci pour t’être prêtée à ce jeu, à bientôt !</p>
 <p>Merci Edi'lybris.</p>
@@ -195,24 +195,20 @@ http://www.lydiachauvin.com
     </p>
 
     <h3 class="text-center">L'interview ! </h3>
-    <h3 class="texte-center">Le jeu questions réponses </h3>
+    <h3 class="texte-center">Le jeu questions réponses</h3>
     <p class="text-center">
    <p class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Lydia Chauvin : Je cherchais sur le net une maison d'édition régionale, je n'en ai trouvé qu'une seule, Edi'lybis. 
 Très récemment, en janvier de cette année.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-2_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
 
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p> 
 <p>C'est toujours un bonheur d'être acceptée par un comité de lecture, surtout quand la majorité y est favorable. Certains membres de ce comité m'ont même fait de très beaux compliments. </p>
-<img src="images/lydiaChauvin/affiche-les-spf-lydia-chauvin_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="photo">
 
 <p class="coloryellow"> Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?</p>
 <p>L'équipe rédactionnelle est très pointilleuse, mais d'une grande aide. J'ai beaucoup apprécié les conseils donnés. </p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-3_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
 
 <p class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire sur ce sujet ?</p> 
 <p>Mes parents étant restaurateurs, la cuisine m'est très familière. Passionnée de théâtre et ayant passé quelques années dans des restaurants, cuisiner du théâtre avec ma « recette pour un spectacle » me paraissait évident.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-4_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
 
 <p class="coloryellow">Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?!</p> 
 <p>Comment terminer convenablement un spectacle quand un cuisinier confond une recette de spectacle avec une recette de cuisine et commence à faire cuire les comédiens ? Je n'en dirai pas plus.</p>
@@ -222,16 +218,13 @@ Très récemment, en janvier de cette année.</p>
 
 <p class="coloryellow">Ton héros, dans ta pièce, n’est jamais cité. Une volonté délibérée ?</p> 
 <p>Mes pièces sont en général écrite pour un très grand nombre de comédiens. De façon à ce que chacun est un rôle équivalent, il n'y a pas forcément de héros. Chaque personnage donne sa recette de spectacle.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin-6_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
 
 <p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?</p> 
 <p>J'ai toujours des projets d'écriture. Que ce soit des nouveaux ou des anciens à remettre au goût du jour.
 Mais le prochain se passera dans la jungle, terrible jungle d'Edi'lybris.</p>
-<img src="images/lydiaChauvin/de-dicace-lydia-chauvin_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
 
 <p class="coloryellow">Un dernier mot à l’attention des lecteurs ?</p> 
 <p>Vous aimez lire ? Vous aimez le théâtre ? Alors vous aimerez lire le théâtre. Et si en plus, vous avez de l'humour, lisez ma pièce, vous ne serez pas déçus.</p>
-<img src="images/lydiaChauvin/lydia-chauvin-en-sce-ne_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Photo">
 
 <p class="coloryellow"> Merci pour t’être prêtée à ce jeu, à bientôt !</p>
 <p>Merci Edi'lybris.</p>
