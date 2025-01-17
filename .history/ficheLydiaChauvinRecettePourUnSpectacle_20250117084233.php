@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Biographie et livres de Lydia Chauvin'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -24,7 +24,7 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2013
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 42
+                        <strong class="h2Jaune">Nombre de pages :</strong> 52
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies
@@ -61,7 +61,7 @@ Ma soif »
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède</h2>
+            <h2>Les livres d4Arlette Bessède</h2>
             <!-- Carte 1 MES MOTS SONT DES PAYSAGES-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

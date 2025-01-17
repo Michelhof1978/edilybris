@@ -32,7 +32,7 @@ Lydia et Jacques passent à la trappe des questions de Stéphane Couzinet, le sy
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8ddLXOcrloM?si=airjQ1sk523Dhdwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <p>
-Oui, entrer dans le monde de Lydia consiste à entendre les trois coups du brigadier annonçant le début de la pièce. Lorsque celui-ci s'accompagne de musique, nul doute qu'entre en scène son compagnon dans la vie, Jacques Debout, musicien ! En voilà un beau couple pour faire rêver son monde, n'est-ce pas ?
+    
 </p>
     </div>
 </div>

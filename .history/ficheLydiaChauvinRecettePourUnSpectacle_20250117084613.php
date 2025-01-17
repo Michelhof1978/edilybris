@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Biographie et livres de Lydia Chauvin'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -15,22 +15,22 @@
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
-                    <p class="fw-bold coloryellow fs-5">10,00 €</p>
+                    <img src="images/lydiaChauvin/portrait-lydia-tbr_11zon.jpg" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <p class="fw-bold coloryellow fs-5">12,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Mes mots sont des paysages</h3>
+                    <h3 class="h2Jaune text-center">Recette pour un spectacle</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2013
+                        <strong class="h2Jaune">Année de publication :</strong> 2020
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 42
+                        <strong class="h2Jaune">Nombre de pages :</strong> 52
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440082
+                        <strong class="h2Jaune">Référence :</strong> 97823634403
                     </p>
                     <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
 
@@ -61,7 +61,7 @@ Ma soif »
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède</h2>
+            <h2>Les livres d4Arlette Bessède</h2>
             <!-- Carte 1 MES MOTS SONT DES PAYSAGES-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

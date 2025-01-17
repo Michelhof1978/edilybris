@@ -61,7 +61,7 @@ Ma soif »
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède</h2>
+            <h2>Les livres dArlette Bessède</h2>
             <!-- Carte 1 MES MOTS SONT DES PAYSAGES-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

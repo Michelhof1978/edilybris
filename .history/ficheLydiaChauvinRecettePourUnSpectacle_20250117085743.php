@@ -97,7 +97,7 @@ Découvrez vite l'extrait qui suit !
 
 La couverture est réalisée par une lycéenne de 16 ans, Émilie Pitschon. Le dessin n'est pas totalement terminé, mais nous sommes trop heureux de vous présenter ce projet pour attendre plus longtemps. Ceci dit, dans sa version finale, vous serez ravis !
 
-Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et un talent certain !<br><br><br>
+Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et un talent certain !
                        <!-- Bouton citations -->
                 <!-- <div class="text-center">
                     <a href="ficheArletteBessedeCitations.php" class="btnCitations mb-5">Découvrir des extraits</a>

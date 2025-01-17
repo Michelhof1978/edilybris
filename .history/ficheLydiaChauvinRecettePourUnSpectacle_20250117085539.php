@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livre de Lydia Chauvin'. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Biographie et livres de Lydia Chauvin'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -10,7 +10,7 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Lydia Chauvin</h2>
+            <h2 class="text-center text-white">Les livre de Lydia Chauvin'</h2>
 
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
@@ -65,12 +65,12 @@ Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Lydia Chauvin</h2>
+            <h2>Les livres de </h2>
             <!-- Carte 1 Recette pour un spectacle-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp" class="img-fluid" alt="Couverture du livreRecette pour un spectacle">
+                        <img src="images/lydiaChauvin/couv-recto-recette-pour-un-spectacle.webp class="img-fluid" alt="Couverture du livreRecette pour un spectacle">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">12,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
@@ -97,7 +97,7 @@ Découvrez vite l'extrait qui suit !
 
 La couverture est réalisée par une lycéenne de 16 ans, Émilie Pitschon. Le dessin n'est pas totalement terminé, mais nous sommes trop heureux de vous présenter ce projet pour attendre plus longtemps. Ceci dit, dans sa version finale, vous serez ravis !
 
-Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et un talent certain !<br><br><br>
+Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et un talent certain !
                        <!-- Bouton citations -->
                 <!-- <div class="text-center">
                     <a href="ficheArletteBessedeCitations.php" class="btnCitations mb-5">Découvrir des extraits</a>
