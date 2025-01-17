@@ -49,7 +49,7 @@ La couverture est réalisée par une lycéenne de 16 ans, Émilie Pitschon. Le d
 Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et un talent certain !
                     </p>
                     <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="m-4 btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="m-btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
     <h3 class="text-center">Lydia CHAUVIN : en quelques mots et interview </h3>
     <p class="text-center">
@@ -76,7 +76,7 @@ http://www.lydiachauvin.com
 
     </p>
     <h3 class="text-center">L'interview ! </h3>
-    <h3 class="texte-center">Le jeu questions réponses </h3>
+    <h3 class="texte-center">LE JEU DES QUESTIONS-RÉPONSES </h3>
     <p class="text-center">
    <p class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Lydia Chauvin : Je cherchais sur le net une maison d'édition régionale, je n'en ai trouvé qu'une seule, Edi'lybis. 
@@ -188,7 +188,7 @@ http://www.lydiachauvin.com
     </p>
 
     <h3 class="text-center">L'interview ! </h3>
-    <h3 class="texte-center">Le jeu questions réponses</h3>
+    <h3 class="texte-center">LE JEU DES QUESTIONS-RÉPONSES </h3>
     <p class="text-center">
    <p class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Lydia Chauvin : Je cherchais sur le net une maison d'édition régionale, je n'en ai trouvé qu'une seule, Edi'lybis. 

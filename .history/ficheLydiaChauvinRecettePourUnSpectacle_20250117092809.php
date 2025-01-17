@@ -188,7 +188,7 @@ http://www.lydiachauvin.com
     </p>
 
     <h3 class="text-center">L'interview ! </h3>
-    <h3 class="texte-center">Le jeu questions réponses</h3>
+    <h3 class="texte-center">LE JEU DES QUESTIONS-RÉPONSES </h3>
     <p class="text-center">
    <p class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Lydia Chauvin : Je cherchais sur le net une maison d'édition régionale, je n'en ai trouvé qu'une seule, Edi'lybis. 
