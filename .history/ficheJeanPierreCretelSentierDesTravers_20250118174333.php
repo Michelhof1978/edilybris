@@ -44,35 +44,12 @@ Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décenni
                     <h4 class="h2Jaune text-center m-3">Juste s'abandonner</h4>
 
                     <p>
-                    Il faut s'abandonner
-Et perdre ses repères
-Pour garder un œil neuf,
- Un état disponible.
-
-On s'use trop le regard
-Sur des jours d'habitude,
-Des heures utilitaires,
-Prévues, banalisées.
-
-Il suffit d'une rencontre,
-D'amour ou d'amitié,
-Une aventure folle
-Pour découvrir l'autre.
-
-Où l'on peut tout donner
-Alors que rien n'arrive.
-C'est un rien merveilleux
-Qui fleurit tout soudain.
-
-Une goutte de rosée
-De ce matin du monde
-Et qui offre à mes sens
-Le plaisir de comprendre.    
+                   
 
                    
 </p>
 
-
+<h4 class="h2Jaune text-center m-3"> Juste s'abandonner </h4>
 
 
 <h4 class="h2Jaune text-center m-3"> L'espoir d'une envie folle </h4>
@@ -135,7 +112,7 @@ Une tasse pas loin.
 Et je restais figé
 Les deux mains dans les poches.
 </p>
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class=" mb-5 img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
+<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class="img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
 
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

@@ -135,7 +135,7 @@ Une tasse pas loin.
 Et je restais figé
 Les deux mains dans les poches.
 </p>
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class=" mb-5 img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
+<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class="img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
 
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

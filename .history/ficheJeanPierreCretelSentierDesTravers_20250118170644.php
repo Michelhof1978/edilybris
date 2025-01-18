@@ -25,7 +25,7 @@
                     </p>
                     <p>
                         <strong class="h2Jaune">Nombre de pages :</strong> 56
-                        <strong class="h2Jaune">Référence :</strong> 9782363440372
+                        <strong class="h2Jaune">Référence :</strong> 9782"-
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies
@@ -41,102 +41,68 @@ Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décenni
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
-                    <h4 class="h2Jaune text-center m-3">Juste s'abandonner</h4>
+                    <h4 class="h2Jaune text-center m-3">À vif</h4>
 
                     <p>
-                    Il faut s'abandonner
-Et perdre ses repères
-Pour garder un œil neuf,
- Un état disponible.
-
-On s'use trop le regard
-Sur des jours d'habitude,
-Des heures utilitaires,
-Prévues, banalisées.
-
-Il suffit d'une rencontre,
-D'amour ou d'amitié,
-Une aventure folle
-Pour découvrir l'autre.
-
-Où l'on peut tout donner
-Alors que rien n'arrive.
-C'est un rien merveilleux
-Qui fleurit tout soudain.
-
-Une goutte de rosée
-De ce matin du monde
-Et qui offre à mes sens
-Le plaisir de comprendre.    
-
                    
+
+PDans l'épaisseur brumeuse
+
+De détours sournois
+
+Les rêves ne sont plus
+
+Pour effacer l'enfer.
+
+ 
+
+Des phrases à échardes
+
+Toutes piquetées de ronces
+
+Où des voix déchirées
+
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
 </p>
 
-
-
-
-<h4 class="h2Jaune text-center m-3"> L'espoir d'une envie folle </h4>
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
 
 <p>
-Je ne me satisfais pas
-De l'agonie du jour.
-Il faudrait qu'il survive
-Aux querelles des heures
-Et aux couleurs du soir
-Qui semblent abandonnées.
 
-C'est mon plaisir du rien,
-Mon exigence du peu
-Qui ramène du fond
-Tous les gestes du monde.
 
-Mais je ne vois pas si loin,
-Juste au bout d'un regard
-Où les routes sinueuses
-Recèlent aussi mes rêves.
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
-La nuit ce soir invite
- Un instinct d'exister
-Dans l'instant égaré
-où figure l'envie folle.
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-Que j'aimerais encore
-Ce bout de liberté
-Sur la crête du mur.
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
+
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
+
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...
 </p>
-
-<h4 class="h2Jaune text-center m-3"> Prémices d'automne  </h4>
-
-<p>
-Le vent gonflait les draps
-Tendus aux fils à linge
-Tout au fond du jardin.
-
-Septembre lentement
-Faisait valoir ses droits
-Et les bûches dans l'âtre,
-Craquaient des étincelles.
-
-Au loin, un ciel de traîne
-De nuages à pas lents
-Allaient sans hâte lire
-Dans les ratures du ciel.
-
-La colline se cassait
-Juste au ras des lumières
-Comme un regard blessé
-Sur le matin bleuté.
-
-Les chats, la griffe lasse
-Tournaient entre mes jambes.
-Il faisait bon dedans
-Une tasse pas loin.
-
-Et je restais figé
-Les deux mains dans les poches.
-</p>
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class=" mb-5 img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -155,16 +121,16 @@ Les deux mains dans les poches.
                     <div class="livre-image">
                         <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">12,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Sentiers des travers</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 56</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440372</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 58</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440853</p>
 
 
                         <p class="lead text-white">
@@ -175,98 +141,67 @@ Avec une musicalité qui accompagne chacun de ses poèmes. Elle vous pénétre e
 Elle donne à voyager en gardant près de vous la valise du rêve et de la réflexion, belle philosophie qui suggère au poème de sortir du carcan du livre. 
 Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décennies de pratiques l’ont déjà porté au rang de maître du vers !
 
-<h3 class="h2Jaune text-center m-3">Quelques Poèmes dU recueil</h3>
+<h3 class="h2Jaune text-center m-3">Extrait</h3>
 
-                    <h4 class="h2Jaune text-center m-3">Juste s'abandonner</h4>
+                    <h4 class="h2Jaune text-center m-3">À vif</h4>
 
                     <p>
-                    Il faut s'abandonner
-Et perdre ses repères
-Pour garder un œil neuf,
- Un état disponible.
+                    PDans l'épaisseur brumeuse
 
-On s'use trop le regard
-Sur des jours d'habitude,
-Des heures utilitaires,
-Prévues, banalisées.
+De détours sournois
 
-Il suffit d'une rencontre,
-D'amour ou d'amitié,
-Une aventure folle
-Pour découvrir l'autre.
+Les rêves ne sont plus
 
-Où l'on peut tout donner
-Alors que rien n'arrive.
-C'est un rien merveilleux
-Qui fleurit tout soudain.
+Pour effacer l'enfer.
 
-Une goutte de rosée
-De ce matin du monde
-Et qui offre à mes sens
-Le plaisir de comprendre.
+ 
+
+Des phrases à échardes
+
+Toutes piquetées de ronces
+
+Où des voix déchirées
+
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
 </p>
 
-<h4 class="h2Jaune text-center m-3">L'espoir d'une envie folle  </h4>
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
 
 <p>
-Je ne me satisfais pas
-De l'agonie du jour.
-Il faudrait qu'il survive
-Aux querelles des heures
-Et aux couleurs du soir
-Qui semblent abandonnées.
 
-C'est mon plaisir du rien,
-Mon exigence du peu
-Qui ramène du fond
-Tous les gestes du monde.
 
-Mais je ne vois pas si loin,
-Juste au bout d'un regard
-Où les routes sinueuses
-Recèlent aussi mes rêves.
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
-La nuit ce soir invite
- Un instinct d'exister
-Dans l'instant égaré
-où figure l'envie folle.
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-Que j'aimerais encore
-Ce bout de liberté
-Sur la crête du mur.</p>
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
 
-<h4 class="h2Jaune text-center m-3">Prémices d'automne  </h4>
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
 
-<p>
-Le vent gonflait les draps
-Tendus aux fils à linge
-Tout au fond du jardin.
-
-Septembre lentement
-Faisait valoir ses droits
-Et les bûches dans l'âtre,
-Craquaient des étincelles.
-
-Au loin, un ciel de traîne
-De nuages à pas lents
-Allaient sans hâte lire
-Dans les ratures du ciel.
-
-La colline se cassait
-Juste au ras des lumières
-Comme un regard blessé
-Sur le matin bleuté.
-
-Les chats, la griffe lasse
-Tournaient entre mes jambes.
-Il faisait bon dedans
-Une tasse pas loin.
-
-Et je restais figé
-Les deux mains dans les poches.</p>
-
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto" alt="Illustration">
-
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

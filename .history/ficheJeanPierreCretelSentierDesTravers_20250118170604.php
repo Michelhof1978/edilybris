@@ -10,21 +10,21 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel'</h2>
+            <h2 class="text-center text-white">Sentiers des travers</h2>
 
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre CISAILLER DU ROCHER">
+                    <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre CISAILLER DU ROCHER">
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Cisailler du rocher</h3>
+                    <h3 class="h2Jaune text-center">Sentiers des travers</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 58
+                        <strong class="h2Jaune">Nombre de pages :</strong> 58-
                         <strong class="h2Jaune">Référence :</strong> 9782363440853
                     </p>
                     <p>
@@ -32,11 +32,10 @@
                     </p>
 
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong>Pour commander l'ouvrage de Jean-Pierre-Crétel, Cisailler du rocher, il vous suffit de lui envoyer un courrier à son adresse mentionnant vos coordonnées postales, accompagné d'un chèque de 14€ + 3,02€ pour les frais de port et d'emballage. Attention : si vous souhaitez plusieurs exemplaires ou régler par virement bancaire, prendre contact par mail avec l'auteur.
-
-Jean-Pierre Crétel : 1, chemin du Plantis, 17100 LE DHOUET 
-
-Mail : jpcretel17@orange.fr
+                        <strong class="h2Jaune">Résumé :</strong>Si vous demandiez à Jean-Pierre Crétel dans quel domaine il se sent le mieux, il vous répondrait naturellement : la poésie ! 
+Avec une musicalité qui accompagne chacun de ses poèmes. Elle vous pénétre et vous imprègne de l’importance des mots choisis, des thèmes abordés, éclectiques. 
+Elle donne à voyager en gardant près de vous la valise du rêve et de la réflexion, belle philosophie qui suggère au poème de sortir du carcan du livre. 
+Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décennies de pratiques l’ont déjà porté au rang de maître du vers !
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -115,19 +114,19 @@ Elle est au gré du vent...
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Cisailler du rocher</h2>
+            <h2>Sentiers des travers</h2>
             <!-- Carte 1 CISAILLER DU ROCHER-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
+                        <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Cisailler du rocher</h3>
+                        <h3 class="h2Jaune">Sentiers des travers</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 58</p>
@@ -137,18 +136,17 @@ Elle est au gré du vent...
                         <p class="lead text-white">
                        
 
-Pour commander l'ouvrage de Jean-Pierre-Crétel, Cisailler du rocher, il vous suffit de lui envoyer un courrier à son adresse mentionnant vos coordonnées postales, accompagné d'un chèque de 14€ + 3,02€ pour les frais de port et d'emballage. Attention : si vous souhaitez plusieurs exemplaires ou régler par virement bancaire, prendre contact par mail avec l'auteur.
-
-Jean-Pierre Crétel : 1, chemin du Plantis, 17100 LE DHOUET 
-
-Mail : jpcretel17@orange.fr
+                        Si vous demandiez à Jean-Pierre Crétel dans quel domaine il se sent le mieux, il vous répondrait naturellement : la poésie ! 
+Avec une musicalité qui accompagne chacun de ses poèmes. Elle vous pénétre et vous imprègne de l’importance des mots choisis, des thèmes abordés, éclectiques. 
+Elle donne à voyager en gardant près de vous la valise du rêve et de la réflexion, belle philosophie qui suggère au poème de sortir du carcan du livre. 
+Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décennies de pratiques l’ont déjà porté au rang de maître du vers !
 
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
                     <h4 class="h2Jaune text-center m-3">À vif</h4>
 
                     <p>
-                    Dans l'épaisseur brumeuse
+                    PDans l'épaisseur brumeuse
 
 De détours sournois
 

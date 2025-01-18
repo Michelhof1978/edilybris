@@ -41,102 +41,68 @@ Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décenni
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
-                    <h4 class="h2Jaune text-center m-3">Juste s'abandonner</h4>
+                    <h4 class="h2Jaune text-center m-3">À vif</h4>
 
                     <p>
-                    Il faut s'abandonner
-Et perdre ses repères
-Pour garder un œil neuf,
- Un état disponible.
-
-On s'use trop le regard
-Sur des jours d'habitude,
-Des heures utilitaires,
-Prévues, banalisées.
-
-Il suffit d'une rencontre,
-D'amour ou d'amitié,
-Une aventure folle
-Pour découvrir l'autre.
-
-Où l'on peut tout donner
-Alors que rien n'arrive.
-C'est un rien merveilleux
-Qui fleurit tout soudain.
-
-Une goutte de rosée
-De ce matin du monde
-Et qui offre à mes sens
-Le plaisir de comprendre.    
-
                    
+
+PDans l'épaisseur brumeuse
+
+De détours sournois
+
+Les rêves ne sont plus
+
+Pour effacer l'enfer.
+
+ 
+
+Des phrases à échardes
+
+Toutes piquetées de ronces
+
+Où des voix déchirées
+
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
 </p>
 
-
-
-
-<h4 class="h2Jaune text-center m-3"> L'espoir d'une envie folle </h4>
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
 
 <p>
-Je ne me satisfais pas
-De l'agonie du jour.
-Il faudrait qu'il survive
-Aux querelles des heures
-Et aux couleurs du soir
-Qui semblent abandonnées.
 
-C'est mon plaisir du rien,
-Mon exigence du peu
-Qui ramène du fond
-Tous les gestes du monde.
 
-Mais je ne vois pas si loin,
-Juste au bout d'un regard
-Où les routes sinueuses
-Recèlent aussi mes rêves.
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
-La nuit ce soir invite
- Un instinct d'exister
-Dans l'instant égaré
-où figure l'envie folle.
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-Que j'aimerais encore
-Ce bout de liberté
-Sur la crête du mur.
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
+
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
+
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...
 </p>
-
-<h4 class="h2Jaune text-center m-3"> Prémices d'automne  </h4>
-
-<p>
-Le vent gonflait les draps
-Tendus aux fils à linge
-Tout au fond du jardin.
-
-Septembre lentement
-Faisait valoir ses droits
-Et les bûches dans l'âtre,
-Craquaient des étincelles.
-
-Au loin, un ciel de traîne
-De nuages à pas lents
-Allaient sans hâte lire
-Dans les ratures du ciel.
-
-La colline se cassait
-Juste au ras des lumières
-Comme un regard blessé
-Sur le matin bleuté.
-
-Les chats, la griffe lasse
-Tournaient entre mes jambes.
-Il faisait bon dedans
-Une tasse pas loin.
-
-Et je restais figé
-Les deux mains dans les poches.
-</p>
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class=" mb-5 img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -238,35 +204,31 @@ Sur la crête du mur.</p>
 <h4 class="h2Jaune text-center m-3">Prémices d'automne  </h4>
 
 <p>
-Le vent gonflait les draps
-Tendus aux fils à linge
-Tout au fond du jardin.
+Je ne me satisfais pas
+De l'agonie du jour.
+Il faudrait qu'il survive
+Aux querelles des heures
+Et aux couleurs du soir
+Qui semblent abandonnées.
 
-Septembre lentement
-Faisait valoir ses droits
-Et les bûches dans l'âtre,
-Craquaient des étincelles.
+C'est mon plaisir du rien,
+Mon exigence du peu
+Qui ramène du fond
+Tous les gestes du monde.
 
-Au loin, un ciel de traîne
-De nuages à pas lents
-Allaient sans hâte lire
-Dans les ratures du ciel.
+Mais je ne vois pas si loin,
+Juste au bout d'un regard
+Où les routes sinueuses
+Recèlent aussi mes rêves.
 
-La colline se cassait
-Juste au ras des lumières
-Comme un regard blessé
-Sur le matin bleuté.
+La nuit ce soir invite
+ Un instinct d'exister
+Dans l'instant égaré
+où figure l'envie folle.
 
-Les chats, la griffe lasse
-Tournaient entre mes jambes.
-Il faisait bon dedans
-Une tasse pas loin.
-
-Et je restais figé
-Les deux mains dans les poches.</p>
-
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto" alt="Illustration">
-
+Que j'aimerais encore
+Ce bout de liberté
+Sur la crête du mur.</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

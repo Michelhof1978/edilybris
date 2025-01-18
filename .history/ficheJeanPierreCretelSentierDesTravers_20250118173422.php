@@ -44,7 +44,15 @@ Jean-Pierre Crétel livre là son premier recueil : pourtant, plusieurs décenni
                     <h4 class="h2Jaune text-center m-3">Juste s'abandonner</h4>
 
                     <p>
-                    Il faut s'abandonner
+                   
+
+                   
+</p>
+
+<h4 class="h2Jaune text-center m-3"> Juste s'abandonner </h4>
+
+<p>
+Il faut s'abandonner
 Et perdre ses repères
 Pour garder un œil neuf,
  Un état disponible.
@@ -67,15 +75,39 @@ Qui fleurit tout soudain.
 Une goutte de rosée
 De ce matin du monde
 Et qui offre à mes sens
-Le plaisir de comprendre.    
-
-                   
+Le plaisir de comprendre.
 </p>
 
+<h4 class="h2Jaune text-center m-3"> Juste s'abandonner </h4>
 
+<p>
+Il faut s'abandonner
+Et perdre ses repères
+Pour garder un œil neuf,
+ Un état disponible.
 
+On s'use trop le regard
+Sur des jours d'habitude,
+Des heures utilitaires,
+Prévues, banalisées.
 
-<h4 class="h2Jaune text-center m-3"> L'espoir d'une envie folle </h4>
+Il suffit d'une rencontre,
+D'amour ou d'amitié,
+Une aventure folle
+Pour découvrir l'autre.
+
+Où l'on peut tout donner
+Alors que rien n'arrive.
+C'est un rien merveilleux
+Qui fleurit tout soudain.
+
+Une goutte de rosée
+De ce matin du monde
+Et qui offre à mes sens
+Le plaisir de comprendre.
+</p>
+
+<h4 class="h2Jaune text-center m-3"> L'espoir d'une envie folle  </h4>
 
 <p>
 Je ne me satisfais pas
@@ -104,39 +136,6 @@ Que j'aimerais encore
 Ce bout de liberté
 Sur la crête du mur.
 </p>
-
-<h4 class="h2Jaune text-center m-3"> Prémices d'automne  </h4>
-
-<p>
-Le vent gonflait les draps
-Tendus aux fils à linge
-Tout au fond du jardin.
-
-Septembre lentement
-Faisait valoir ses droits
-Et les bûches dans l'âtre,
-Craquaient des étincelles.
-
-Au loin, un ciel de traîne
-De nuages à pas lents
-Allaient sans hâte lire
-Dans les ratures du ciel.
-
-La colline se cassait
-Juste au ras des lumières
-Comme un regard blessé
-Sur le matin bleuté.
-
-Les chats, la griffe lasse
-Tournaient entre mes jambes.
-Il faisait bon dedans
-Une tasse pas loin.
-
-Et je restais figé
-Les deux mains dans les poches.
-</p>
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class=" mb-5 img-fluid w-75 rounded mb-3 d-block mx-auto" alt="Illustration">
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -264,9 +263,6 @@ Une tasse pas loin.
 
 Et je restais figé
 Les deux mains dans les poches.</p>
-
-<img src="images/jeanPierreCretel/jpc-balade-1_11zon.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto" alt="Illustration">
-
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
