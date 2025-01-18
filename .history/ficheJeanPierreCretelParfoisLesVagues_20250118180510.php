@@ -24,8 +24,8 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2021
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 52<br><br>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440464
+                        <strong class="h2Jaune">Nombre de pages :</strong> 52
+                        <strong class="h2Jaune">Référence :</strong> 9782363440464<br>
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies

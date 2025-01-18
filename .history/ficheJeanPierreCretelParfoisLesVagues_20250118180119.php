@@ -10,7 +10,7 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel</h2>
+            <h2 class="text-center text-white">Les livres de Pierre cretel'</h2>
 
             <!-- Livre 1 : PARFOIS LES VAGUES -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
@@ -24,7 +24,7 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2021
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 52<br><br>
+                        <strong class="h2Jaune">Nombre de pages :</strong> 52
                         <strong class="h2Jaune">Référence :</strong> 9782363440464
                     </p>
                     <p>
@@ -92,62 +92,31 @@ Et qu'il fait toujours beau.
 
 <p>
 
-Le temps a étendu, j’ose croire à dessein
-La mousse de l’oubli aux bords de mes chemins
-Tant la vie m’a meurtri, tant le cœur m’a saigné,
-Que je peux voir ma peine encore à mes poignets.
 
-J’ai avec les torrents, sombré dans mes rivières
-Raclé tous les cailloux d’innombrables gravières
-Griffé tant de brouillards dans des halos diffus,
-Que j’n’sais plus mes maux, tant sur moi ils ont plu.
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
-Dans le flou remuement de gestes qui s’effacent
-S’effilochent au vent comme des ombres qui passent,
-Quand mes pas de granit ne laissent plus d’empreintes
-Sur d’abruptes falaises de plus en plus déteintes.
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-Rien ne retient plus rien, pas même l’évidence
-De tendre encore la main comme une simple clémence
-Pour un rêve jauni qui aurait persisté
-Et devient transparent à force d’exister.
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
 
-Le temps a étendu, sur mes plaies et mes peines
-La mousse de l’oubli et des vengeances vaines
-Jusqu’à mes horizons où enfin des lueurs
-Tracent en moi sans raison, de bien curieux bonheurs.
-</p>
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
 
-<h4 class="h2Jaune text-center m-3">Sans virgule, sans escale  </h4>
-
-<p>
-
-Mémoire de tous nos rêves
-Et de tous nos espoirs
-L'Histoire berce sur nous
-L'enfant à inventer
-Ses brûlures et sourires
-Qui germent du cristal
-Que le matin recueille
-Sur des mousses violettes
-Où l'odeur de la Terre
-Chante dans les rivières
-Sur les petits cailloux
-Aux creux des mains d'enfants
-Dans un coin de mémoire
-Peuplé de ricochets
-Et du goût du bonheur
-Les pieds dans les luzernes
-De ces matins d'été
-Quand les épis de blé
-Dansent avec le vent
-Jusqu'au silence du soir
-Où la mémoire des rêves
-Et de tous nos espoirs
-Passe de main en main
-Comme un cadeau de noces
-Qui embaume la vie
-Au loin du temps qui marche.
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...
 </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -261,36 +230,6 @@ Le temps a étendu, sur mes plaies et mes peines
 La mousse de l’oubli et des vengeances vaines
 Jusqu’à mes horizons où enfin des lueurs
 Tracent en moi sans raison, de bien curieux bonheurs.</p>
-
-<h4 class="h2Jaune text-center m-3">Sans colère et sans haine </h4>
-
-<p>
-Mémoire de tous nos rêves
-Et de tous nos espoirs
-L'Histoire berce sur nous
-L'enfant à inventer
-Ses brûlures et sourires
-Qui germent du cristal
-Que le matin recueille
-Sur des mousses violettes
-Où l'odeur de la Terre
-Chante dans les rivières
-Sur les petits cailloux
-Aux creux des mains d'enfants
-Dans un coin de mémoire
-Peuplé de ricochets
-Et du goût du bonheur
-Les pieds dans les luzernes
-De ces matins d'été
-Quand les épis de blé
-Dansent avec le vent
-Jusqu'au silence du soir
-Où la mémoire des rêves
-Et de tous nos espoirs
-Passe de main en main
-Comme un cadeau de noces
-Qui embaume la vie
-Au loin du temps qui marche.</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

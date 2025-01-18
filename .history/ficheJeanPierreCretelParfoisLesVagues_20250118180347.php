@@ -10,7 +10,7 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel</h2>
+            <h2 class="text-center text-white">Les livres de Pierre cretel'</h2>
 
             <!-- Livre 1 : PARFOIS LES VAGUES -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
@@ -24,7 +24,7 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2021
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 52<br><br>
+                        <strong class="h2Jaune">Nombre de pages :</strong> 52
                         <strong class="h2Jaune">Référence :</strong> 9782363440464
                     </p>
                     <p>
