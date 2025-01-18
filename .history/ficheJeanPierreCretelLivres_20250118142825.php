@@ -1,17 +1,19 @@
 
 <div class="headerAuteur">
     <div class="containerAuteur">
-        <h1>Arlette Bessède</h1>
-        <img src="images/roxaneLovac/roxaneLovac.webp" alt="Arlette Bessède" class="img-fluid bio-image">
-       
+        <h1>Jean-Pierre Cretel</h1>
+        <img src="images/jeanPierreCretel/jeanPierreCretel.webp" alt="Jean-Pierre Cretel" class="img-fluid bio-image">
     </div>
 </div>
 
 <main>
-<section class="biographie">
-    <div class="containerAuteur">
-        <h2 class="h2Jaune">Présentation</h2>
-<p class="text-center">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.
+    <section class="biographie">
+        <div class="containerAuteur">
+            <h2 class="h2Jaune">Biographie</h2>
+            <div class="bio-content">
+            <div class="bio-text">
+                <p class="lead text-white text-center m-4">
+                Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.
 
  
 
@@ -27,7 +29,7 @@ Le cri du goéland
 Raye la plage ce matin
 À travers les nuages
 Et les remous marins.
-(ext. Partant de toi)
+(ext. Partant de toi)   
 
 Il croque avec la même gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.
 
@@ -72,81 +74,119 @@ Et sent bon l'encaustique
 De nos vieilles armoires.
 (ext. Paris, années 50)
 
-Les chemins de la mémoire empruntent les tracés invisibles de la création et se déclinent dans l'analogie entre les mots et les sons qu'ils produisent, les couleurs qu'ils évoquent, la lumière qu'ils diffusent. Toutes ces choses, comme en attente d'écriture. Ces évocations confèrent à l'œuvre, une permanence, une certaine intemporalité. Ce n'est pas la précision des idées, non plus que la virtuosité du langage qui forme l'image qui invite à respirer l'identité de chacun de nous, dans les limites fragiles d'un souvenir, d'une sensation, d'un plaisir ou d'une émotion. Ces rencontres formelles, inattendues, parfois troublantes par ce qu'elles éveillent, nous invitent encore sans doute à aller chercher plus loin et plus profondément, ce qui motive et contient cette création, à la toucher du bout des doigts pour mieux encore la singulariser. Il écrivait récemment :
-
-" La confrontation avec d'autres écrivains ou poètes, fait surgir en moi le désir de créer. Les mots fusent en un feu d'artifice, jaillissent d'assemblages quelque peu improbables ou d'éléments inattendus; cela féconde l'ensemble d'une réalité qui se conjugue comme un bouquet de fleurs. Une manière plus fluide de voir et de penser, de saisir autre chose."           
-
-"j'écris des vers pour évoquer mes époques et d'autres choses en d'autres vers. Je ne suis pas écrivain, je fais la poésie, les vibrations du vent, je fais la douleur et la douceur, je fais la lumière et la couleur des mots".
-
-                             Guy d'ARCANGUES
 </p>
-
-    </div>
-</div>
-<!-- MODE MOBILE -->
+            </div>
+        </div>
+            
+            <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  mes Mots Sont Des Paysages-->
+    <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
-                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
+            <a href="fichePierreBrandaoLamuserie.php">
+                <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre L'amuserie">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Roxane Lovac</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                    <div class="mobile-book-author">Brandao Pierre</div>
+                    <div class="mobile-book-price">15,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 2 Elle comme liberté-->
+    <!-- Groupe 2 SAV GENDARMERIE BONJOUR 2-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
-                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+            <a href="fichePierreBrandaoSavGendarmerieBonjour2.php">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Roxane Lovac</div>
-                    <div class="mobile-book-price">14,00 €</div>
+                    <div class="mobile-book-author">Brandao Pierre</div>
+                    <div class="mobile-book-price">22,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
+    <!-- Groupe 3 L'enlèvement-->
+    <div id="mobile-group3PierreBrandao" class="mobile-books-container mobile-hidden">
+        <div class="mobile-book-card">
+            <a href="fichePierreBrandaoLenlevement.php">
+                <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
+                <div class="mobile-book-details">
+                    <div class="mobile-book-author">Brandao Pierre</div>
+                    <div class="mobile-book-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
+    </div>
 
+    <!-- Groupe 4 Quelle tuile-->
+    <div id="mobile-group4PierreBrandao" class="mobile-books-container mobile-hidden">
+        <div class="mobile-book-card">
+            <a href="fichePierreBrandaoQuelleTuile.php">
+                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
+                <div class="mobile-book-details">
+                    <div class="mobile-book-author">Brandao Pierre</div>
+                    <div class="mobile-book-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
     </div>
 
     
 
     <!-- Boutons de navigation -->
-    <!-- <div class="mobile-navigation">
+    <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
         <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
     </div>
-</div> -->
+</div>
 
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
     <div id="desktop-group1PierreBrandao" class="new-card-container">
-        <!-- carte 1  mes Mots Sont Des Paysages-->
+        <!-- carte 1  L'amuserie-->
         <div class="new-card">
-            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
-                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+            <a href="fichePierreBrandaoLamuserie.php">
+                <img src="images/pierreBrandao/XLlamuserie.webp" class="img-fluid" alt="Couverture de livre  L'enlèvement">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 2 Elle comme liberté-->
+        <!-- carte 2 sav bonjour gendarmerie 2-->
         <div class="new-card">
-        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
-                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+            <a href="fichePierreBrandaoSavGendarmerieBonjour2.php">
+                <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre Les mystères de l'Hometrou">
                 <div class="new-card-content">
-                    <div class="new-card-author">Roxane Lovac</div>
-                    <div class="new-card-price">14,00 €</div>
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
         </div>
+        <!-- carte 3 L'enlèvement-->
+        <div class="new-card">
+            <a href="fichePierreBrandaoLenlevement.php">
+                <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 4 Quelle tuiles-->
+        <div class="new-card">
+            <a href="fichePierreBrandaoQuelleTuile.php">
+                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
+                <div class="new-card-content">
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">22,00 €</div>
+                </div>
+            </a>
+        </div>
+       
+      </div>
 
       
       </div>

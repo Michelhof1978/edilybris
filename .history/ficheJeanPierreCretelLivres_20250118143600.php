@@ -11,25 +11,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-<p class="text-center">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.
-
- 
-
-Guy d’Arcangues en disait toute sa sympathie, qualifiant l’œuvre de J.-P. Crétel comme « poète impressionniste » pas meilleur qu’un autre, mais écrivant comme personne. Affirmons donc sans ambages qu’un excellent poète écrit, poétise comme aucun autre.
-
- 
-
-Depuis 1959, cette mer de doute toujours recommencée, baigne les plages de son perpétuel questionnement. Comment faire ressentir la véracité vivante d’une lumière, d’un son, d’un lieu, d’une époque ? Comment faire surgir, dans le cerveau du lecteur, l’image qu’il est nécessaire de bâtir pour bien ancrer son récit dans l’espace et le temps ?
-
-J.-P. Crétel reconnaît quand même que dans ce tumulte de mer, il lui arrive de décrire les sensations qu’offre, généreuse, la nature, le visage des villages où s’exprime le simple.
-
-Le cri du goéland
-Raye la plage ce matin
-À travers les nuages
-Et les remous marins.
-(ext. Partant de toi)
-
-Il croque avec la même gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.
+<p class="text-center">gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.
 
 Vous portiez un chemisier frais
 Une jupe à fleurs, élégante
@@ -70,16 +52,48 @@ Quelle drôle de musique
 Remonte à ma mémoire
 Et sent bon l'encaustique
 De nos vieilles armoires.
-(ext. Paris, années 50)
+(ext. Paris, années 50)</p>
 
-Les chemins de la mémoire empruntent les tracés invisibles de la création et se déclinent dans l'analogie entre les mots et les sons qu'ils produisent, les couleurs qu'ils évoquent, la lumière qu'ils diffusent. Toutes ces choses, comme en attente d'écriture. Ces évocations confèrent à l'œuvre, une permanence, une certaine intemporalité. Ce n'est pas la précision des idées, non plus que la virtuosité du langage qui forme l'image qui invite à respirer l'identité de chacun de nous, dans les limites fragiles d'un souvenir, d'une sensation, d'un plaisir ou d'une émotion. Ces rencontres formelles, inattendues, parfois troublantes par ce qu'elles éveillent, nous invitent encore sans doute à aller chercher plus loin et plus profondément, ce qui motive et contient cette création, à la toucher du bout des doigts pour mieux encore la singulariser. Il écrivait récemment :
+<h2 class="h2Jaune">L'INTERVIEW</h2>
+<div class="text-center">
+  <p class="coloryellow">Edi’lybris : Bonjour Roxane </p>
+  <p>Roxane Lovac : Bonjour Pierre</p>
 
-" La confrontation avec d'autres écrivains ou poètes, fait surgir en moi le désir de créer. Les mots fusent en un feu d'artifice, jaillissent d'assemblages quelque peu improbables ou d'éléments inattendus; cela féconde l'ensemble d'une réalité qui se conjugue comme un bouquet de fleurs. Une manière plus fluide de voir et de penser, de saisir autre chose."           
+  <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ?</p>
+  <p>Tu te souviens en quelle année ?</p>
+  <p>Par hasard sur un salon du livre en 2023. Mais puisque le hasard n’existe pas, c’était sûrement un rendez-vous !</p>
 
-"j'écris des vers pour évoquer mes époques et d'autres choses en d'autres vers. Je ne suis pas écrivain, je fais la poésie, les vibrations du vent, je fais la douleur et la douceur, je fais la lumière et la couleur des mots".
+  <p>Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p>
+  <p>En toute simplicité…</p>
 
-                             Guy d'ARCANGUES
-</p>
+  <p class="coloryellow">Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ?</p>
+  <p class="coloryellow">Les conseils prodigués ont-ils été à la hauteur de tes attentes ?</p>
+  <p>Ce qui m’a le plus marquée est la bienveillance dont l’équipe fait preuve.</p>
+
+  <p class="coloryellow">Parlons du livre. Comment t’est venue l’idée d’écrire sur ce sujet ?</p>
+  <p>Les petits bonheurs du jour est né à un moment charnière de ma vie. J’ai ressenti le besoin de coucher mon histoire sur le papier. Ma vie parfaitement imparfaite vient de mon envie d’y coucher mes rêves et fantasmes tout en abordant un sujet qui touche tout le monde : la pérennité du couple.</p>
+
+  <p class="coloryellow">Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?!</p>
+  <p>Les petits bonheurs du jour : une histoire vraie, une rencontre en toute intimité où l’empathie et les émotions sont reines. 
+  Ma vie parfaitement imparfaite : Pour qu’une histoire d’amour perdure dans le temps, rien de tel qu’un nouvel élan !</p>
+
+  <p>La couverture : du projet à l’étape finale, une aventure ?</p>
+  <p>J’ai adoré !</p>
+
+  <p class="coloryellow">Quel message souhaites-tu délivrer à travers tes deux premiers récits ?</p>
+  <p>Nous pensons toujours que l’herbe est plus verte dans le jardin d’à côté… 
+  Peut-être est-ce parce qu’elle est arrosée plus souvent ? 
+  Et puis… Le bonheur, ça se cultive !</p>
+
+  <p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?</p>
+  <p>Je change totalement de registre… Mais c’est une surprise !</p>
+
+  <p class="coloryellow">Un dernier mot à l’attention des lecteurs ?</p>
+  <p>Aimez-vous, riez, vibrez ! La vie passe en un éclair !</p>
+
+  <p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !</p>
+</div>
+
 
     </div>
 </div>
