@@ -2,24 +2,31 @@
 <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Pierre Brandao</h1>
-        <img src="images/pierreBrandao/pierreBrandao.webp" alt="Portrait de Pierre Brandao" class="img-fluid bio-image">
+        <img src="images/pierreBrandao/pierreBrandao.webp" alt="Pierre Brandao" class="img-fluid bio-image">
+        
     </div>
 </div>
 
 <main>
-    <section class="biographie">
-        <div class="containerAuteur">
-            <h2 class="h2Jaune">Biographie</h2>
-            <div class="bio-content">
-                <div class="bio-text">
-                    <p class="lead text-white text-center m-4">
-                        Pierre Brandao a développé très jeune une passion pour la poésie. Dès l'école primaire, séduit par la musicalité des mots, il écrivait ses devoirs en rimes. <br>
-                        À quinze ans, il rencontre Gilles Sorgel, un poète qui l'initie à l'art de la versification et lui offre une solide base technique, en lui demandant de corriger son ouvrage "Traité de prosodie à l'usage des classiques - et des dissidents". <br>
-                        Inspiré par la vie et doté d'une sensibilité particulière, Pierre Brandao explore à travers ses poèmes des émotions profondes. Sa poésie, souvent décrite comme un cri de l'âme, est également un réceptacle pour apaiser les soucis de l'existence. <br>
-                        Il a publié six recueils, dont certains sont aujourd'hui épuisés, mais d'autres sont encore à venir. Découvrez-les ci-dessous !
-                    </p>
-                </div>
-            </div><!-- MODE MOBILE -->
+<section class="biographie">
+    <div class="containerAuteur">
+        <h2 class="h2Jaune">Biographie</h2>
+
+        <!-- Section image et texte -->
+        <div class="bio-content">
+            <div class="bio-text">
+                <p class="lead text-white text-center m-4">
+                    Il n'a pas fallu longtemps à Pierre Brandao pour trouver un attrait particulier au verbe poétique. <br>
+                    Dès la primaire, séduit par la musicalité du vers, il rendait ses devoirs en utilisant la rime. <br>
+                    À quinze ans, il rencontre un poète, Gilles Sorgel, qui se fait fort de lui montrer la voie en lui enseignant les règles de la versification. <br>
+                    En lui demandant de vérifier l'absence de coquilles d'un ouvrage intitulé "Traité de prosodie à l'usage des classiques -et des dissidents", il s'assurait ainsi que le jeune poète acquérait des bases solides. <br>
+                    Bases qui lui ont permis, plusieurs années après, de rédiger en "vulgarisant" au mieux son propre traité de prosodie. <br>
+
+                    C'est dans l'essence de la vie que Pierre puise ses sources d'inspiration ; il a une sensibilité à fleur de peau et sa susceptibilité également martèle les poèmes. <br>
+                    La poésie est un cri de l'âme, mais elle est également le vase dans lequel repose les soucis de l'existence. <br>
+                    Six recueils verront le jour, dont certains totalement épuisés. D'autres naîtront, à n'en pas douter ! Découvrons-les !
+                </p>
+<!-- MODE MOBILE -->
 <div class="d-block d-md-none">
     <!-- Groupe 1  PIERRE BRANDAO L'AMUSERIE-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
