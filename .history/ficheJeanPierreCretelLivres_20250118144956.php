@@ -11,7 +11,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-<div class="text-center m-3">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.<br>
+<div class="text-center">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.<br>
 
  
 
@@ -21,7 +21,7 @@ Guy d’Arcangues en disait toute sa sympathie, qualifiant l’œuvre de J.-P. C
 
 Depuis 1959, cette mer de doute toujours recommencée, baigne les plages de son perpétuel questionnement. Comment faire ressentir la véracité vivante d’une lumière, d’un son, d’un lieu, d’une époque ? Comment faire surgir, dans le cerveau du lecteur, l’image qu’il est nécessaire de bâtir pour bien ancrer son récit dans l’espace et le temps ?<br>
 
-J.-P. Crétel reconnaît quand même que dans ce tumulte de mer, il lui arrive de décrire les sensations qu’offre, généreuse, la nature, le visage des villages où s’exprime le simple.<br><br>
+J.-P. Crétel reconnaît quand même que dans ce tumulte de mer, il lui arrive de décrire les sensations qu’offre, généreuse, la nature, le visage des villages où s’exprime le simple.<br>
 
 <p class="coloryellow text-center">Le cri du goéland<br>
 Raye la plage ce matin<br>
@@ -29,7 +29,7 @@ Raye la plage ce matin<br>
 Et les remous marins.<br>
 (ext. Partant de toi)</p><br>
 
-Il croque avec la même gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.<br><br>
+Il croque avec la même gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.<br>
 
 <p class="coloryellow text-center">Vous portiez un chemisier frais<br>
 Une jupe à fleurs, élégante<br>

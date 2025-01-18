@@ -11,7 +11,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-<div class="text-center m-3">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.<br>
+<div class="text-center m-">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.<br>
 
  
 

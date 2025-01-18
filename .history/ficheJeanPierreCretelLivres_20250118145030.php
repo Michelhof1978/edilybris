@@ -11,7 +11,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-<div class="text-center m-3">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.<br>
+<div class="text-center">Constamment dans le doute de son talent, rarement pleinement satisfait de ses vers, Jean-Pierre Crétel, d'une écriture patiente, élabore son cheminement poétique.<br>
 
  
 
@@ -29,7 +29,7 @@ Raye la plage ce matin<br>
 Et les remous marins.<br>
 (ext. Partant de toi)</p><br>
 
-Il croque avec la même gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.<br><br>
+Il croque avec la même gourmandise, les gens qu’il croise dans les trains de banlieue si longtemps pratiqués, le corps souple d’une jeune femme entrevue dans un bar ou tout le raidissement de ce vieillard assis sur ce ​banc de jardin. La grâce qui rayonne du regard d’un enfant, l’élégance naturelle d’un très beau port de tête.<br>
 
 <p class="coloryellow text-center">Vous portiez un chemisier frais<br>
 Une jupe à fleurs, élégante<br>
