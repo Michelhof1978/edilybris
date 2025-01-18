@@ -10,7 +10,7 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel'</h2>
+            <h2 class="text-center text-white">Sentier des travers'</h2>
 
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
@@ -115,7 +115,7 @@ Elle est au gré du vent...
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Cisailler du rocher</h2>
+            <h2>Sentier des travers</h2>
             <!-- Carte 1 CISAILLER DU ROCHER-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

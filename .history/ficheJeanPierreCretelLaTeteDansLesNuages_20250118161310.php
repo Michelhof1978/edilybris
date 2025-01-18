@@ -19,24 +19,35 @@
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Cisailler du rocher</h3>
+                    <h3 class="h2Jaune text-center">La tête dans les nuages</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
+                        <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 58
-                        <strong class="h2Jaune">Référence :</strong> 9782363440853
+                        <strong class="h2Jaune">Nombre de pages :</strong> 70
+                        <strong class="h2Jaune">Référence :</strong> 9782363440570
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
 
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong>Pour commander l'ouvrage de Jean-Pierre-Crétel, Cisailler du rocher, il vous suffit de lui envoyer un courrier à son adresse mentionnant vos coordonnées postales, accompagné d'un chèque de 14€ + 3,02€ pour les frais de port et d'emballage. Attention : si vous souhaitez plusieurs exemplaires ou régler par virement bancaire, prendre contact par mail avec l'auteur.
+                        <strong class="h2Jaune">Résumé :</strong>
 
-Jean-Pierre Crétel : 1, chemin du Plantis, 17100 LE DHOUET 
+Avec ce troisième recueil, Jean Pierre Crétel reprend la valise du rêve et nous convie pour un nouveau voyage.
 
-Mail : jpcretel17@orange.fr
+Cette plongée nous entraîne dans sa très heureuse enfance jusqu à notre époque quelque peu bousculée.
+
+Toujours bien conscient de la réalité, Jean-Pierre pose sans nostalgie un regard éclairé et poétique sur le monde qui nous entoure :
+
+« Empreintes de pieds
+
+Sur la plage promènent
+
+Un défilé de vagues »
+
+  Le lecteur l’aura bien compris : il trouvera sur les marches du temps la sagesse de ses souliers vagabonds...
+
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -127,11 +138,11 @@ Elle est au gré du vent...
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Cisailler du rocher/h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
+                        <h3 class="h2Jaune">La tête dans les nuages</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 58</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440853</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 70</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440570</p>
 
 
                         <p class="lead text-white">

@@ -12,7 +12,7 @@
     <div class="container">
         <h2 class="text-center text-white">Les livres de Pierre Crétel</h2>
 
-        <!-- Livre 1 : La tête dans les nuages -->
+        <!-- Livre 1 : L'ENLÈVEMENT -->
         <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
             <div class="col-12 text-center">
                 <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre CISAILLER DU ROCHER">
@@ -54,106 +54,72 @@
 
                 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
-                <h4 class="h2Jaune text-center m-3">Frontières</h4>
-                <p class="text-center">
-    Des mots en frontières,<br>
-    Acérés de larmes dures<br>
-    Coupants de ruptures<br>
-    Brutales de barbelés.<br><br>
+                <h4 class="h2Jaune text-center m-3">À vif</h4>
+                <p>
+                    Dans l'épaisseur brumeuse<br>
+                    De détours sournois<br>
+                    Les rêves ne sont plus<br>
+                    Pour effacer l'enfer.<br><br>
+                    Des phrases à échardes<br>
+                    Toutes piquetées de ronces<br>
+                    Où des voix déchirées<br>
+                    Ornent des barbelés.<br><br>
+                    Elles échappent à l'effroi<br>
+                    Qui glace et brûle tout,<br>
+                    Avec la précision<br>
+                    Acérée des rasoirs.
+                </p>
 
-    Une frontière de mots<br>
-    Assaillante de liberté,<br>
-    Bâillonnant les civils<br>
-    Simplement insurgés.<br><br>
+                <h4 class="h2Jaune text-center m-3">Liberté…</h4>
+                <p>
+                    À quel prix ? Ah oui, la Liberté !<br>
+                    Mais à quel prix parfois<br>
+                    Faut-il aller vraiment<br>
+                    Pour se l'offrir en grand ?<br><br>
+                    Même pour le verbe aimer<br>
+                    C'est souvent contraignant.<br>
+                    Plus encore si l'idée<br>
+                    Est aussi la tendresse.<br><br>
+                    J'aime payer comptant<br>
+                    Presque avec largesse<br>
+                    Cet extrême plaisir<br>
+                    Qui nous rend bienveillants.<br><br>
+                    Et comme j'ai souvent dit<br>
+                    Pour un même retour ;<br>
+                    Donner est tellement mieux<br>
+                    Que toujours recevoir.<br><br>
+                    En fait, la Liberté<br>
+                    N'a pas de prix souvent.<br>
+                    Elle se prend, elle se donne<br>
+                    Elle est au gré du vent...
+                </p>
 
-    Passeports périmés<br>
-    Au banc des accusés<br>
-    Dans le box bancal<br>
-    De juges à la baguette.<br><br>
-
-    Frontière du geste<br>
-    Qui finit au fossé<br>
-    Avec le corps criblé<br>
-    De mensonges aux fusils.<br><br>
-
-    Des frontières à mourir<br>
-    En des gestes d’impasses,<br>
-    Figés, rivés au seuil<br>
-    Des idées verglacées.<br><br>
-
-    Frontière de pouvoir,<br>
-    Toi tu peux mais moi pas !<br>
-    Je respire tes grenades<br>
-    Et tu entends mes cris.<br><br>
-
-    Frontières du trop tard<br>
-    Qui nous jettent hors d’haleine<br>
-    Dans toutes nos émotions<br>
-    Et nous baignent de larmes,<br><br>
-
-    Comme une dernière fois.
-</p>
-
-<h4 class="h2Jaune text-center m-3">Les étagères poussiéreuses</h4>
-<p class="text-center">
-    Les mots ouvrent l’espace<br>
-    Où sont tous nos écarts ;<br>
-    Et dans la même ivresse,<br>
-    Même l’eau de la rivière<br>
-    A des risées de froid.<br><br>
-
-    Mes souvenirs prennent la poussière<br>
-    Sur l’étagère de ma mémoire<br>
-    Mais le temps n’abîme pas<br>
-    Nos premiers enthousiasmes.<br><br>
-
-    Mes livres de jeunesse<br>
-    Traversent les années<br>
-    Dans la clarté totale<br>
-    Où les Trois Mousquetaires<br>
-    Galopent dans la campagne,<br>
-    Quand la Vipère au Poing<br>
-    S’apaise avec le tour<br>
-    De La Mort du p’tit Cheval !<br><br>
-
-    Un mouvement infime<br>
-    Casse les certitudes ;<br>
-    L’effondrement du temps<br>
-    Ravive l’évidence.<br><br>
-
-    Rien n’est vraiment tragique<br>
-    Dans le désespoir déguisé<br>
-    D’une dimension cynique,<br>
-    D’une lente confusion.
-</p>
-
-<h4 class="h2Jaune text-center m-3">HAÏKUS</h4>
-<p class="text-center">
-    L’iris des yeux<br>
-    Couleur de sable<br>
-    Éparpille le soir<br><br>
-
-    Regard pesant, brisé<br>
-    À bras tendus<br>
-    Soumission de douleur…<br><br>
-
-    Les amours<br>
-    En mots anciens<br>
-    Profondeurs de chair.<br><br>
-
-    Une pluie d’étoiles filantes<br>
-    Griffait le ciel de nuit<br>
-    De leurs traces d’argent.<br><br>
-
-    Le fleuve passe tranquille<br>
-    Miroirs et reflets<br>
-    Beautés éphémères<br><br>
-
-    Petits bateaux blancs<br>
-    Mille lentilles d’argent<br>
-    Nuages captifs
-</p>
-
+                <h4 class="h2Jaune text-center m-3">HAÏKUS</h4>
+                <p>
+                    L’iris des yeux<br>
+                    Couleur de sable<br>
+                    Éparpille le soir<br><br>
+                    <br>
+                    Regard pesant, brisé<br>
+                    À bras tendus<br>
+                    Soumission de douleur…<br><br>
+                    <br>
+                    Les amours<br>
+                    En mots anciens<br>
+                    Profondeurs de chair.<br><br>
+                    <br>
+                    Une pluie d’étoiles filantes<br>
+                    Griffait le ciel de nuit<br>
+                    De leurs traces d’argent.<br><br>
+                    §<br><br>
+                    Le fleuve passe tranquille<br>
+                    Miroirs et reflets<br>
+                    Beautés éphémères<br><br>
+                    §<br><br>
+                    Petits bateaux blancs<br>
+                    Mille lentilles d’argent<br>
+                    Nuages captifs
+                </p>
 
                 <div class="text-center mt-3">
                     <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -167,8 +133,8 @@
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>La tête dans les nuages</h2>
-            <!-- Carte 1 La tête dans les nuages-->
+            <h2>Cisailler du rocher</h2>
+            <!-- Carte 1 CISAILLER DU ROCHER-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">

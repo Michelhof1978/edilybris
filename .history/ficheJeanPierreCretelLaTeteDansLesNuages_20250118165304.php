@@ -167,8 +167,8 @@
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>La tête dans les nuages</h2>
-            <!-- Carte 1 La tête dans les nuages-->
+            <h2>Cisailler du rocher</h2>
+            <!-- Carte 1 CISAILLER DU ROCHER-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">

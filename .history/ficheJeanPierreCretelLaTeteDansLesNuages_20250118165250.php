@@ -12,14 +12,14 @@
     <div class="container">
         <h2 class="text-center text-white">Les livres de Pierre Crétel</h2>
 
-        <!-- Livre 1 : La tête dans les nuages -->
+        <!-- Livre 1 : L'ENLÈVEMENT -->
         <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
             <div class="col-12 text-center">
                 <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre CISAILLER DU ROCHER">
                 <p class="fw-bold coloryellow fs-5">14,00 €</p>
             </div>
             <div class="col-12 text-white">
-                <h3 class="h2Jaune text-center">La tête dans les nuages</h3>
+                <h3 class="h2Jaune text-center"></h3>
                 <p>
                     <strong class="h2Jaune">Année de publication :</strong> 2023
                 </p>
@@ -167,8 +167,8 @@
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>La tête dans les nuages</h2>
-            <!-- Carte 1 La tête dans les nuages-->
+            <h2>Cisailler du rocher</h2>
+            <!-- Carte 1 CISAILLER DU ROCHER-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">

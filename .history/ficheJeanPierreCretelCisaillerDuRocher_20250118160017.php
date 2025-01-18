@@ -30,6 +30,7 @@
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
+                    <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>Pour commander l'ouvrage de Jean-Pierre-Crétel, Cisailler du rocher, il vous suffit de lui envoyer un courrier à son adresse mentionnant vos coordonnées postales, accompagné d'un chèque de 14€ + 3,02€ pour les frais de port et d'emballage. Attention : si vous souhaitez plusieurs exemplaires ou régler par virement bancaire, prendre contact par mail avec l'auteur.

@@ -10,7 +10,7 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel'</h2>
+            <h2 class="text-center text-white">Sentyi'</h2>
 
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">

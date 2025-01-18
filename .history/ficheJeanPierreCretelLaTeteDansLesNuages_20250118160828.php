@@ -19,7 +19,7 @@
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Cisailler du rocher</h3>
+                    <h3 class="h2Jaune text-center">La tête dans les nuages</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
