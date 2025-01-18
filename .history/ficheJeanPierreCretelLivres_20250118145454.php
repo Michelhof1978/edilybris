@@ -77,9 +77,6 @@ Et sent bon l'encaustique<br>
 De nos vieilles armoires.<br>
 (ext. Paris, années 50)</p><br>
 
-<img src="images/jeanPierreCretel/chatel-1_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo">
-
-
 Les chemins de la mémoire empruntent les tracés invisibles de la création et se déclinent dans l'analogie entre les mots et les sons qu'ils produisent, les couleurs qu'ils évoquent, la lumière qu'ils diffusent. Toutes ces choses, comme en attente d'écriture. Ces évocations confèrent à l'œuvre, une permanence, une certaine intemporalité. <br>
 Ce n'est pas la précision des idées, non plus que la virtuosité du langage qui forme l'image qui invite à respirer l'identité de chacun de nous, dans les limites fragiles d'un souvenir, d'une sensation, d'un plaisir ou d'une émotion. <br>
 Ces rencontres formelles, inattendues, parfois troublantes par ce qu'elles éveillent, nous invitent encore sans doute à aller chercher plus loin et plus profondément, ce qui motive et contient cette création, à la toucher du bout des doigts pour mieux encore la singulariser. Il écrivait récemment :

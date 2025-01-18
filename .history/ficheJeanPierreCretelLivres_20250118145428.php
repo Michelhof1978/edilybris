@@ -47,10 +47,8 @@ Et on ne peut que partager cette gourmandise-là. Ces paysages, ces personnages,
 Cet art de la description, teintée des couleurs vives du printemps ou flamboyantes des automnes, pousse vent arrière, vers des horizons toujours nouveaux qu’il faudra bien atteindre. Cet art lui permet donc de restituer avec délicatesse souvent, avec violence parfois, l’accent d’une vérité, d’un geste, d’une image que les gens reconnaissent. Il tient surtout, et ceci explique cela, aux regards qu’il porte sur le monde et l’écoute.<br>
  L’observation des choses qui passent est une chose commune à chacun d’entre nous mais rendre avec acuité, justesse et élégance ces même « visions » en est une autre qui s’appelle le talent.<br>
 
-Se penser écrivain est une chose mais la vie à rebondissements de Jean-Pierre Crétel devait en décider autrement. Néanmoins, on retrouve un premier recueil incluant la période de 1959 à 1973 pour L'EMPREINTE. <br>
-
-<img src="images/jeanPierreCretel/reims_11zon_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo">
-
+Se penser écrivain est une chose mais la vie à rebondissements de Jean-Pierre Crétel devait en décider autrement. Néanmoins, on retrouve un premier recueil incluant la période de 1959 à 1973 pour L'EMPREINTE.
+ <br>
 
 Des rencontres fortuites en 1962 avec Jean Cocteau à Paris et le compositeur interprète Jacques Douai à Cap d'Ail en 1963, l'encouragent à poursuivre son travail d'écriture.<br>
 
@@ -76,9 +74,6 @@ Remonte à ma mémoire<br>
 Et sent bon l'encaustique<br>
 De nos vieilles armoires.<br>
 (ext. Paris, années 50)</p><br>
-
-<img src="images/jeanPierreCretel/chatel-1_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo">
-
 
 Les chemins de la mémoire empruntent les tracés invisibles de la création et se déclinent dans l'analogie entre les mots et les sons qu'ils produisent, les couleurs qu'ils évoquent, la lumière qu'ils diffusent. Toutes ces choses, comme en attente d'écriture. Ces évocations confèrent à l'œuvre, une permanence, une certaine intemporalité. <br>
 Ce n'est pas la précision des idées, non plus que la virtuosité du langage qui forme l'image qui invite à respirer l'identité de chacun de nous, dans les limites fragiles d'un souvenir, d'une sensation, d'un plaisir ou d'une émotion. <br>

@@ -77,7 +77,7 @@ Et sent bon l'encaustique<br>
 De nos vieilles armoires.<br>
 (ext. Paris, années 50)</p><br>
 
-<img src="images/jeanPierreCretel/chatel-1_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo">
+<img src="images/jeanPierreCretel/reims_11zon_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo">
 
 
 Les chemins de la mémoire empruntent les tracés invisibles de la création et se déclinent dans l'analogie entre les mots et les sons qu'ils produisent, les couleurs qu'ils évoquent, la lumière qu'ils diffusent. Toutes ces choses, comme en attente d'écriture. Ces évocations confèrent à l'œuvre, une permanence, une certaine intemporalité. <br>
