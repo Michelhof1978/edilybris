@@ -151,8 +151,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
 
     
 
-    <!-- Boutons de navigation -->
-    <div class="mobile-navigation">
+    Boutons de navigation -->
+    <!-- <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
         <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
     </div>
