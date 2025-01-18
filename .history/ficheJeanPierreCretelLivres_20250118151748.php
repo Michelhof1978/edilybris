@@ -195,7 +195,7 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
         <!-- carte 4 Cisailler du rocher-->
         <div class="new-card">
         <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
                     <div class="new-card-author">Jean-Pierre Cretel</div>
                     <div class="new-card-price">14,00 €</div>

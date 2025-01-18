@@ -113,7 +113,7 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheJeanPierreCretelParfoisLesVagues.php">
-                <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jean-Pierre Cretel</div>
                     <div class="mobile-book-price">13,00 €</div>
@@ -125,8 +125,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
  <!-- Groupe 3 La tête dans les nuages-->
  <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelLaTeteDansLesNuages.php">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jean-Pierre Cretel</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -138,8 +138,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     <!-- Groupe 4 Cisailler du rocher-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jean-Pierre Cretel</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -184,8 +184,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
         </div>
  <!-- carte 3 La tête dans les nuages-->
  <div class="new-card">
-            <a href="ficheJeanPierreCretelLaTeteDansLesNuages.php">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">Jean-Pierre Cretel</div>
                     <div class="new-card-price">14,00 €</div>
@@ -194,8 +194,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
         </div>
         <!-- carte 4 Cisailler du rocher-->
         <div class="new-card">
-        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
                     <div class="new-card-author">Jean-Pierre Cretel</div>
                     <div class="new-card-price">14,00 €</div>

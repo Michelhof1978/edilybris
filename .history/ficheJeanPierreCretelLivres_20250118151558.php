@@ -138,8 +138,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     <!-- Groupe 4 Cisailler du rocher-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jean-Pierre Cretel</div>
                     <div class="mobile-book-price">14,00 €</div>
@@ -194,8 +194,8 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
         </div>
         <!-- carte 4 Cisailler du rocher-->
         <div class="new-card">
-        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
                     <div class="new-card-author">Jean-Pierre Cretel</div>
                     <div class="new-card-price">14,00 €</div>

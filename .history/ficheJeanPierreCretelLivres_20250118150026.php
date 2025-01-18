@@ -99,11 +99,11 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     <!-- Groupe 1  Sentiers de travers-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelSentierDesTravers.php">
-                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Jean-Pierre Cretel</div>
-                    <div class="mobile-book-price">12,00 €</div>
+                    <div class="mobile-book-author">Roxane Lovac</div>
+                    <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>
         </div>
@@ -112,36 +112,36 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     <!-- Groupe 2 Parfois les vagues-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelParfoisLesVagues.php">
-                <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Jean-Pierre Cretel</div>
-                    <div class="mobile-book-price">13,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
- <!-- Groupe 3 La tête dans les nuages-->
- <div id="mobile-group1PierreBrandao" class="mobile-books-container">
-        <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelLaTeteDansLesNuages.php">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Jean-Pierre Cretel</div>
+                    <div class="mobile-book-author">Roxane Lovac</div>
                     <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>
         </div>
     </div>
 
-    <!-- Groupe 4 Cisailler du rocher-->
+ <!-- Groupe 3 La tête-->
+ <div id="mobile-group1PierreBrandao" class="mobile-books-container">
+        <div class="mobile-book-card">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
+                <div class="mobile-book-details">
+                    <div class="mobile-book-author">Roxane Lovac</div>
+                    <div class="mobile-book-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <!-- Groupe 2 Elle comme liberté-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">Jean-Pierre Cretel</div>
+                    <div class="mobile-book-author">Roxane Lovac</div>
                     <div class="mobile-book-price">14,00 €</div>
                 </div>
             </a>
@@ -162,42 +162,42 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
     <div id="desktop-group1PierreBrandao" class="new-card-container">
-        <!-- carte 1   Sentiers de travers-->
+        <!-- carte 1  mes Mots Sont Des Paysages-->
         <div class="new-card">
-            <a href="ficheJeanPierreCretelSentierDesTravers.php">
-                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">Jean-Pierre Cretel</div>
-                    <div class="new-card-price">12,00 €</div>
-                </div>
-            </a>
-        </div>
-        <!-- carte  2 Parfois les vagues-->
-        <div class="new-card">
-        <a href="ficheJeanPierreCretelParfoisLesVagues.php">
-                <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
-                <div class="new-card-content">
-                    <div class="new-card-author">Jean-Pierre Cretel</div>
-                    <div class="new-card-price">13,00 €</div>
-                </div>
-            </a>
-        </div>
- <!-- carte 3 La tête dans les nuages-->
- <div class="new-card">
-            <a href="ficheJeanPierreCretelLaTeteDansLesNuages.php">
-                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
-                <div class="new-card-content">
-                    <div class="new-card-author">Jean-Pierre Cretel</div>
+                    <div class="new-card-author">Roxane Lovac</div>
                     <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 4 Cisailler du rocher-->
+        <!-- carte 2 Elle comme liberté-->
         <div class="new-card">
-        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
-                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
-                    <div class="new-card-author">Jean-Pierre Cretel</div>
+                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+ <!-- carte 1  mes Mots Sont Des Paysages-->
+ <div class="new-card">
+            <a href="ficheRoxaneLovacLesPetitsBonheursDuJour.php">
+                <img src="images/roxaneLovac/1-pbdj-validee_11zon.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+                <div class="new-card-content">
+                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 2 Elle comme liberté-->
+        <div class="new-card">
+        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Roxane Lovac</div>
                     <div class="new-card-price">14,00 €</div>
                 </div>
             </a>
