@@ -16,7 +16,7 @@
             <!-- Livre 1 : Le vent nous conduire-->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre La grande prophétie">
+                    <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre La grande prophétie">
                     <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
@@ -31,7 +31,7 @@
                         <strong class="h2Jaune">Genre :</strong> Art et poésie
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440181
+                        <strong class="h2Jaune">Référence :</strong> Le vent nous conduira
                     </p>
                   
                     <div class="text-center mt-3">
@@ -64,17 +64,17 @@ Ouvrage dans lequel le vers et le verbe se conjuguent au plus-que-parfait.
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="Couverture du livre La grande prophétie">
+                        <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture du livre La grande prophétie">
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Le vent nous conduira</h3>
+                        <h3 class="h2Jaune">Le vent nous conduire</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 68</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440181</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> Le vent nous conduire</p>
 
                         <p class="lead text-white">
                       

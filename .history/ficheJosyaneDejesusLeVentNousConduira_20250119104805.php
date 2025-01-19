@@ -31,7 +31,7 @@
                         <strong class="h2Jaune">Genre :</strong> Art et poésie
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440181
+                        <strong class="h2Jaune">Référence :</strong> Le vent nous conduira
                     </p>
                   
                     <div class="text-center mt-3">
@@ -74,7 +74,7 @@ Ouvrage dans lequel le vers et le verbe se conjuguent au plus-que-parfait.
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 68</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440181</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9</p>
 
                         <p class="lead text-white">
                       
