@@ -20,7 +20,7 @@
                     <p class="fw-bold coloryellow fs-5">12,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h4 class="h2Jaune text-center">Nouvelles d'ici... et nulle part</h4>
+                    <h4 class="h2Jaune text-center">Nouvelles d'ici... et nulle part</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>

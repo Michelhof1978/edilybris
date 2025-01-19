@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
-<title>Pierre cretel - Auteur</title>
-<meta name="description" content="Biographie et livres de Pierre cretel. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Jean-Michel Delaneau - Auteur</title>
+<meta name="description" content="Biographie et livres de Jean-Michel Delaneau . Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -10,16 +10,16 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel</h2>
+            <h2 class="text-center text-white">Jean-Michel Delaneau </h2>
 
-            <!-- Livre 1 : Cisailler du rocher -->
+            <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre CISAILLER DU ROCHER">
-                    <p class="fw-bold coloryellow fs-5">14,00 €</p>
+                    <p class="fw-bold coloryellow fs-5">12,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Cisailler du rocher</h3>
+                    <h3 class="h2Jaune text-center">Nouvelles d'ici et nulle part</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
@@ -47,7 +47,7 @@ Mail : jpcretel17@orange.fr
                     <p>
                    
 
-Dans l'épaisseur brumeuse
+PDans l'épaisseur brumeuse
 
 De détours sournois
 
@@ -116,13 +116,13 @@ Elle est au gré du vent...
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
             <h2>Cisailler du rocher</h2>
-            <!-- Carte 1 CISAILLER DU ROCHER-->
+            <!-- Carte 1Nouvelles d'ici et nulle part-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">12,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>

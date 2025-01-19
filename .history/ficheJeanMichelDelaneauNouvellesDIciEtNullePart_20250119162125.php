@@ -10,9 +10,9 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres de Pierre cretel</h2>
+            <h2 class="text-center text-white">Les livres de Pierre cretel'</h2>
 
-            <!-- Livre 1 : Cisailler du rocher -->
+            <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre CISAILLER DU ROCHER">
@@ -47,7 +47,7 @@ Mail : jpcretel17@orange.fr
                     <p>
                    
 
-Dans l'épaisseur brumeuse
+PDans l'épaisseur brumeuse
 
 De détours sournois
 
