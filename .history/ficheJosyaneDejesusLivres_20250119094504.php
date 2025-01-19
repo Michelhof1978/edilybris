@@ -1,38 +1,54 @@
 <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Joël BERTHELOT</h1>
-        <img src="images/joelBerthelot/joelBerthelot.webp" alt="Portrait de Joël BERTHELOT" class="img-fluid bio-image">
+        <img src="images/JosyaneDeJesus/josianneDeJesus.webp" alt="Portrait de Josyane De Jesus-Bergey" class="img-fluid bio-image">
     </div>
 </div>
 
 <main>
     <section class="biographie">
         <div class="containerAuteur">
-            <h2 class="h2Jaune">Biographie</h2>
+            <h2 class="h2Jaune">Présentation de Josyane De Jesus-Bergey </h2>
 
          <!-- Section image et texte -->
+      <!-- Section Josyane De Jesus-Bergey -->
 <div class="bio-content">
     <div class="bio-text">
-    <div class="bio-content d-flex justify-content-center align-items-center" style="height: 100vh;">
-    <iframe 
-        width="560" 
-        height="315" 
-        src="https://www.youtube.com/embed/QluMEjVbHe0?si=Yfo3xdjWCcR9pkGn" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-    </iframe>
-</div>
-
+        <div class="image-container d-flex justify-content-center align-items-center" style="height: 100vh;">
+            <img 
+                src="images/JosyaneDeJesus/josyane-de-jesus-bergey-confe-rence-6-bis_11zon.webp" 
+                class="img-fluid w-50 mb-3 d-block mx-auto" 
+                alt="Illustration de Josyane De Jesus-Bergey">
+        </div>
+        <p>
+            Très attachée à cet aller vers l’autre que justifie, dit-elle, le poème, Josyane De Jesus-Bergey, poète franco-portugaise, retraitée de la fonction publique, est née et vit à La Rochelle (Charente-Maritime, France). Elle écrit depuis l’enfance : poésie, contes, essais, chansons (S.A.C.E.M).
+        </p>
+        <p>
+            Elle s’occupe de différentes associations culturelles, du Printemps des Poètes et réalise des ateliers d’écriture en diverses structures en France et à l’étranger.
+        </p>
+        <p>
+            Fait partie de l’équipe des animateurs du Festival « Voix Vives de Méditerranée en Méditerranée » de Sète.
+        </p>
+        <p>
+            Régulièrement publiée en revue, elle est traduite en arabe, espagnol, italien et portugais.
+        </p>
+        <p>
+            Invitée à de nombreuses rencontres et festivals tant en France qu’à l’étranger, elle a publié une vingtaine de livres (voir Bio-bibliographie).
+        </p>
+        <div class="image-container d-flex justify-content-center align-items-center">
+            <img 
+                src="images/JosyaneDeJesus/houari-et-josyane-devant-expo_11zon.webp" 
+                class="img-fluid w-50 mb-3 d-block mx-auto" 
+                alt="Josyane De Jesus-Bergey devant une exposition">
+        </div>
     </div>
 </div>
 
-                </div>
-            </div>
 
-            <br>
+    </div>
+</div>
+</div>
+
 
             <!-- Carte après le texte -->
 

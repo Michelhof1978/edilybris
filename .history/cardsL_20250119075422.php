@@ -3,7 +3,7 @@
   <!-- Groupe 1 De Jesus-Bergey Josyane-->
   <div id="new-group1" class="new-card-container mb-3">
     <div class="new-card">
-      <a href="ficheJosyaneDejesusLeVentNousConduira.php">
+      <a href="link_to_book_A.html">
         <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" class="img-fluid" alt="couverture de livre le vent nous conduira">
         <div class="new-card-content">
           <div class="new-card-author">De Jesus-Bergey Josyane</div>

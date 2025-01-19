@@ -1,14 +1,14 @@
 <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Joël BERTHELOT</h1>
-        <img src="images/joelBerthelot/joelBerthelot.webp" alt="Portrait de Joël BERTHELOT" class="img-fluid bio-image">
+        <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" alt="Portrait de Josyane De Jesus-Bergey" class="img-fluid bio-image">
     </div>
 </div>
 
 <main>
     <section class="biographie">
         <div class="containerAuteur">
-            <h2 class="h2Jaune">Biographie</h2>
+            <h2 class="h2Jaune">Présentation de Josyane De Jesus-Bergey </h2>
 
          <!-- Section image et texte -->
 <div class="bio-content">
