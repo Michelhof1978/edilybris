@@ -145,13 +145,7 @@ Max Alhau<br>
 
 Josyane De Jesus-Bergey : « Le vent nous conduira vers le désert en Algérie »</p>   
 
-<div style="text-align: center; margin-top: 20px;">
-    <a href="images/bulletin-de-commande-2024.pdf" 
-       class="lien text-white fw-bold text-center" 
-       download>
-       Télécharger le bon de commande
-    </a>
-</div>
+                      <a href="images/bulletin-de-commande-2024.pdf" class=" lien text-white fw-bold text-center" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>
