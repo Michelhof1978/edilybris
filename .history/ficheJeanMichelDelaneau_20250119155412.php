@@ -4,7 +4,8 @@
  <meta name="description" content="">
 </head>
 
- <?php include("header.php"); ?>
+ <?php include("header.php"); ?>ficheJeanMichelDelaneauLivres.php
+
 
 
  <?php include("ficheJeanMichelDelaneauLivres.php"); ?>

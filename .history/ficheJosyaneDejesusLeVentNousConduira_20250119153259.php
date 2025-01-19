@@ -47,12 +47,12 @@
          class="img-fluid w-50 m-5 rounded">
 </div>
 
-                <p class="text-center coloryellow">
-                    'Je vous salue hommes d'avant<br>
+                <p class="text-center colo">
+                    Je vous salue hommes d'avant<br>
 Mes frères<br>
 Ici le temps n'a plus d'importance<br>
 Chaque stèle en son attente<br>
-Berce la prière de l'oiseau'<br></p>
+Berce la prière de l'oiseau<br></p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
