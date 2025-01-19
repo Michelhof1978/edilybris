@@ -41,12 +41,11 @@
     
                     <p class="coloryellow">
 
-                    <div class="text-center">
-    <img src="images/JosyaneDeJesus/04-img-2295-pour-web_11zon.webp" 
-         alt="Illustration" 
-         class="img-fluid w-50 m-5 rounded">
-</div>
-
+                    <div>
+                    <img src="images/JosyaneDeJesus/04-img-2295-pour-web_11zon.webp" 
+                         alt="Illustration" 
+                         class="img-fluid w-50 text-center m-5 rounded">
+                </div>
                 <p class="text-center">
                     Je vous salue hommes d'avant<br>
 Mes frères<br>
@@ -86,8 +85,7 @@ Berce la prière de l'oiseau<br></p>
 <h3 class="h2Jaune text-center m-3">Extrait du livre "Le vent nous conduira vers le désert en Algérie" </h3>
 
 
-
-<div class="text-center">
+<div class="d-flex text-center">
     <img src="images/JosyaneDeJesus/04-img-2295-pour-web_11zon.webp" 
          alt="Illustration" 
          class="img-fluid w-50 m-5 rounded">

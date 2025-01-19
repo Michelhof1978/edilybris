@@ -40,14 +40,7 @@
                     <h3 class="h2Jaune text-center m-3">Extrait du livre "Le vent nous conduira vers le désert en Algérie" </h3>
     
                     <p class="coloryellow">
-
-                    <div class="text-center">
-    <img src="images/JosyaneDeJesus/04-img-2295-pour-web_11zon.webp" 
-         alt="Illustration" 
-         class="img-fluid w-50 m-5 rounded">
-</div>
-
-                <p class="text-center">
+       
                     Je vous salue hommes d'avant<br>
 Mes frères<br>
 Ici le temps n'a plus d'importance<br>
@@ -86,21 +79,14 @@ Berce la prière de l'oiseau<br></p>
 <h3 class="h2Jaune text-center m-3">Extrait du livre "Le vent nous conduira vers le désert en Algérie" </h3>
 
 
-
-<div class="text-center">
-    <img src="images/JosyaneDeJesus/04-img-2295-pour-web_11zon.webp" 
-         alt="Illustration" 
-         class="img-fluid w-50 m-5 rounded">
-</div>
-                   
-
-                <p class=" text-center mb-5">
+                    <p class="coloryellow">
+       
                     Je vous salue hommes d'avant<br>
 Mes frères<br>
 Ici le temps n'a plus d'importance<br>
 Chaque stèle en son attente<br>
 Berce la prière de l'oiseau<br></p>
-                      <a href="images/bulletin-de-commande-2024.pdf" class=" lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>
