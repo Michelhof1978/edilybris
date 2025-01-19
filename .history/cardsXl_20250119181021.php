@@ -537,7 +537,7 @@
     <div id="desktop-group2" class="new-card-container new-hidden">
         <!-- carte 6 Galard François -->
         <div class="new-card">
-            <a href="ficheFrancoisgalardLuminescense.php">
+            <a href="link_to_book_F.html">
                 <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre Luminescence">
                 <div class="new-card-content">
                     <div class="new-card-author">Galard François</div>

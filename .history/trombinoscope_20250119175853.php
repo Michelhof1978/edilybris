@@ -138,7 +138,7 @@
 
               <!-- GALARD FRANCOIS -->
  <div class="carousel-item">
-            <a href="ficheFrancoisgalard.php">
+            <a href="ficheFrancoisgalard.php.php">
                 <div class="person">
                     <img src="images/francoisGalard/francoisGalard.webp" alt="Photo de GALARD FRANCOIS" class="photo">
                     <p class="name">GALARD FRANCOIS </p>
