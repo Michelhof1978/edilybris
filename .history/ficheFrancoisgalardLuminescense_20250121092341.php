@@ -129,81 +129,71 @@ Elle est au gré du vent...
 
 
                         <p class="lead text-white">
+                       
 
-<h3 class="h2Jaune text-center m-3">Quelques poèmes</h3>
+P
 
-                    <h4 class="h2Jaune text-center m-3">TRAIN GALACTIQUE VIRULENT</h4>
+<h3 class="h2Jaune text-center m-3">Extrait</h3>
+
+                    <h4 class="h2Jaune text-center m-3">À vif</h4>
 
                     <p>
-                    Le train est annoncé sur le panneau d’affichage.
-Il s’agit du train céleste qui est de passage
-Uniquement Ici et Maintenant. Mais êtes-vous prêt
-À monter dans l’un de ses wagons ? Il arrive en quai !
+                    Dans l'épaisseur brumeuse
 
+De détours sournois
 
-Certains voyageurs sont excités depuis si longtemps
-Qu’ils sont comme soulagés de le voir en cet instant.
-D’autres s’interrogent quant à son utilité de le prendre.
-Le seront-ils vraiment, ne vont-ils pas se méprendre ?
+Les rêves ne sont plus
 
+Pour effacer l'enfer.
 
-Les premiers jubilent et montent à son bord sans attendre.
-Pour les seconds, ils ont le même refrain.
-Et si cela n’était qu’un rêve ou un frein
-Face à leurs ambitions, vont-ils pouvoir comprendre ?
+ 
 
+Des phrases à échardes
 
-Être porté sur des rails pour un voyage inattendu
-Vers une dimension en un espace inconnu
-Semble pour beaucoup impossible à concevoir.
-Mais qu’importe, il y aura d’autres moments pour se revoir.
+Toutes piquetées de ronces
 
+Où des voix déchirées
 
-La fumée éthérée de la locomotive se voit à nouveau.
-Au signal, les Anges de la Présence s’activent en douceur.
-Ils savent que leurs impulsions apportent tout le bonheur,
-Qu’ils se réjouissent de la beauté et en apposent leur sceau…
-                                                       de sagesse et de tendresse.
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
 </p>
 
-<h4 class="h2Jaune text-center m-3">SAINTS CAR NÉ (E) S</h4>
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
 
 <p>
 
 
-En venant au sein de ce monde,
-On oublie très vite notre origine,
-Au point d’en avoir des angines,
-À ne plus ressentir les ondes.
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-Nous avons beau être incarnés,
-Que nous arrivons à peine
-À nous enraciner
-Tellement nous avons de la peine.
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
 
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
 
-Certains s’engouffrent dans la déprime,
-La dépression, voire les idées noires,
-Quand d’autres vont se mettre à boire
-Jusqu’à commettre des crimes.
-
-
-Mais si nous acceptons notre divinité,
-Alors nous basculons dans l’Unité,
-Car qui nous sommes est reconnu
-Et devenons cet UN-connu.
-
-Nous avons une telle motivation,
-Grâce à nos cellules qui scintillent,
-Permettant qu’en-nous tout pétille,
-Pour avoir dit oui à l’unification.
-
-
-Nous autorisons l’Esprit Saint
-À se déployer totalement en nous,
-Quitte à passer pour de doux fous,
-Voire quelques fois pour des saints.</p>
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
