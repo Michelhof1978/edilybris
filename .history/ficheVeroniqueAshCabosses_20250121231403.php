@@ -68,22 +68,20 @@ Ceux qui la suivent reconnaîtront son style libre et atypique.
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Cabossées</h3>
+                        <h3 class="h2Jaune">Les carabistouilles</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 134</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440563</p>
 
                         <div class="lead text-white text-center">
-                       <p> Naissances non programmées, adolescentes non structurées. Devenues femmes, elles ont vogué au gré de violentes marées. Mamans, elles se sont adaptées, ont élevé sans mode d’emploi leur progéniture.
+                       <p> Pour lire, nul besoin de dico ou d’aspirine.
 
-Puis, à l’aube d’un destin bancal, elles se sont réveillées. Avec la dextérité d’une joueuse de tennis, chacune a balancé un revers gagnant.
+Prenez votre jolie tête bien faite, adoptez une aimable araignée-paon inoffensive, couleur arc-en-ciel, laissez-la titiller les neurones de la joie. Laissez-la vous conter à l’oreille moult idées extraordinaires. Prenez votre plume, un joli parchemin, demandez à votre main de glisser tous ces mots sur la page blanche. Une fois l’histoire terminée, lisez à voix haute, voilà comment faire une tendre Carabistouillette.
 
-***
+Trêve de babillage, le matin au réveil, ouvrez ce livre, choisissez une page au hasard. Lisez-en quelques voire tous les mots. Si le sourire vous vient aux lèvres, la journée sera bonne. Dans le cas contraire, retournez vous coucher !
 
-Véronique Ash, de son nom d’autrice, couche dans ces pages des histoires vraies. Elle les propose sous forme de nouvelles.
-
-Ceux qui la suivent reconnaîtront son style libre et atypique.</p>
+Bonne lecture, ami(e)s carasbitouilleurs !</p>
 </div>
                    
                         </p>
