@@ -719,8 +719,9 @@
                 </div>
             </a>
         </div> 
+    </div>
 
-         <!-- carte 20 véronique ash -->
+     <!-- carte 20 véronique ash -->
      <div class="new-card">
             <a href="ficheVeroniqueAshPetitPaquetOublie.php">
                 <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
@@ -730,10 +731,6 @@
                 </div>
             </a>
         </div>
-        
-    </div>
-
-    
 
         <!-- Groupe 5 -->
         <div id="desktop-group5" class="new-card-container new-hidden">

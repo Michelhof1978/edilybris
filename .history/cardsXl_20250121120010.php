@@ -719,21 +719,7 @@
                 </div>
             </a>
         </div> 
-
-         <!-- carte 20 véronique ash -->
-     <div class="new-card">
-            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
-                <div class="new-card-content">
-                    <div class="new-card-author">Véronique Ash</div>
-                    <div class="new-card-price">23,00 €</div>
-                </div>
-            </a>
-        </div>
-        
     </div>
-
-    
 
         <!-- Groupe 5 -->
         <div id="desktop-group5" class="new-card-container new-hidden">

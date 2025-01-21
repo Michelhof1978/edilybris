@@ -445,7 +445,7 @@
 
     
     <!-- Groupe 35 ANTOINE TEILLET-->
-    <div id="mobile-group35" class="mobile-books-container mobile-hidden">
+    <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="link_to_book_J.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
@@ -457,8 +457,8 @@
         </div>
     </div>
 
-    <!-- Groupe 36 PIERRE BRANDAO -->
-    <div id="mobile-group36" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 34 PIERRE BRANDAO -->
+    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="fichePierreBrandaoEcartDeMemoire.php">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -470,8 +470,8 @@
         </div>
     </div>
 
-     <!-- Groupe 37 GILLE HERVE -->
-     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
+     <!-- Groupe 35 GILLE HERVE -->
+     <div id="mobile-group35" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheGillesHervePourquoiEcrivezVous.php">
                 <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
@@ -483,8 +483,8 @@
         </div>
     </div>
 
-    <!-- Groupe 38 Véronique Ash -->
-    <div id="mobile-group38" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 36 Véronique Ash -->
+    <div id="mobile-group36" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheVeroniqueAshPetitPaquetOublie.php">
                 <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
@@ -719,21 +719,7 @@
                 </div>
             </a>
         </div> 
-
-         <!-- carte 20 véronique ash -->
-     <div class="new-card">
-            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
-                <div class="new-card-content">
-                    <div class="new-card-author">Véronique Ash</div>
-                    <div class="new-card-price">23,00 €</div>
-                </div>
-            </a>
-        </div>
-        
     </div>
-
-    
 
         <!-- Groupe 5 -->
         <div id="desktop-group5" class="new-card-container new-hidden">
@@ -1057,7 +1043,16 @@
             </a>
         </div>
       
-       
+        <!-- carte 48 véronique ash -->
+        <div class="new-card">
+            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
+                <div class="new-card-content">
+                    <div class="new-card-author">Véronique Ash</div>
+                    <div class="new-card-price">23,00 €</div>
+                </div>
+            </a>
+        </div>
 
         </div>
       </div>

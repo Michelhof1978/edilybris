@@ -4,11 +4,11 @@
  <meta name="description" content="">
 </head>
 
- <?php include("header.php"); ?>
+ <?php include("header.php"); ?>ficheVeroniqueAshLivres.php
 
 
 
- <?php include("ficheVeroniqueAshLivres.php"); ?>
+ <?php include("footer.php"); ?>
 
 
  

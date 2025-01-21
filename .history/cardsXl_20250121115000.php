@@ -457,8 +457,8 @@
         </div>
     </div>
 
-    <!-- Groupe 36 PIERRE BRANDAO -->
-    <div id="mobile-group36" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 35 PIERRE BRANDAO -->
+    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="fichePierreBrandaoEcartDeMemoire.php">
                 <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
@@ -470,8 +470,8 @@
         </div>
     </div>
 
-     <!-- Groupe 37 GILLE HERVE -->
-     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
+     <!-- Groupe 35 GILLE HERVE -->
+     <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheGillesHervePourquoiEcrivezVous.php">
                 <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
@@ -483,14 +483,14 @@
         </div>
     </div>
 
-    <!-- Groupe 38 Véronique Ash -->
-    <div id="mobile-group38" class="mobile-books-container mobile-hidden">
+    <!-- Groupe 36 Véronique AZ Ash -->
+    <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
+            <a href="ficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Véronique Ash </div>
-                    <div class="mobile-book-price">23,00 €</div>
+                    <div class="mobile-book-author"> Hervé Gilles</div>
+                    <div class="mobile-book-price">8,00 €</div>
                 </div>
             </a>
         </div>
@@ -719,21 +719,7 @@
                 </div>
             </a>
         </div> 
-
-         <!-- carte 20 véronique ash -->
-     <div class="new-card">
-            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
-                <div class="new-card-content">
-                    <div class="new-card-author">Véronique Ash</div>
-                    <div class="new-card-price">23,00 €</div>
-                </div>
-            </a>
-        </div>
-        
     </div>
-
-    
 
         <!-- Groupe 5 -->
         <div id="desktop-group5" class="new-card-container new-hidden">
@@ -1057,7 +1043,16 @@
             </a>
         </div>
       
-       
+        <!-- carte 48 véronique ash -->
+        <div class="new-card">
+            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
+                <div class="new-card-content">
+                    <div class="new-card-author">Véronique Ash</div>
+                    <div class="new-card-price">23,00 €</div>
+                </div>
+            </a>
+        </div>
 
         </div>
       </div>
