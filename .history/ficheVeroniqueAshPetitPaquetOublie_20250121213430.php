@@ -501,8 +501,8 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
 
-<p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
-<p>Véronique Ash  : Bonjour, Pierre.</p>
+<p class="coloryellow"> Edi’lybris : Bonjour, Véronique.  
+Véronique Ash  : Bonjour, Pierre.</p>
 
 
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 

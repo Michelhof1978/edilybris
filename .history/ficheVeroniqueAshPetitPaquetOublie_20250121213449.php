@@ -502,7 +502,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
 
 <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
-<p>Véronique Ash  : Bonjour, Pierre.</p>
+Véronique Ash  : Bonjour, Pierre.</p>
 
 
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 

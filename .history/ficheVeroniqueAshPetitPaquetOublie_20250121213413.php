@@ -500,10 +500,10 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
-
+<
 <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
 <p>Véronique Ash  : Bonjour, Pierre.</p>
-
+</div>
 
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>

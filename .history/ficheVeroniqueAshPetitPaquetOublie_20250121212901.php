@@ -396,7 +396,7 @@ Aujourd’hui encore, elle ne sait.'<br>
                     <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
-                    <p>>Elle n’a pas eu la chance d’être abandonnée<br>
+                    Elle n’a pas eu la chance d’être abandonnée<br>
 Elle a eu la malchance d’être oubliée.<br>
 
  Échue dans le ventre alcoolisé de l’Amnésique,<br>
@@ -500,8 +500,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
-
-<p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
+             <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
 <p>Véronique Ash  : Bonjour, Pierre.</p>
 
 

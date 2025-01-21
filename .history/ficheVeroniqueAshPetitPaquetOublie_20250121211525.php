@@ -259,45 +259,23 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               
-                  <!-- Carousel -->
-     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel2.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                <div class="carousel-item ">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-               
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    </div>
+                 
+ 
 
-  
                 </div>
             </div>
         </div>
 
     </section>
 </main>
+
+
+
+<?php include("footer.php"); ?>
+</body>
+</html>
+
+
 
                 </div>
             </div>
@@ -396,7 +374,7 @@ Aujourd’hui encore, elle ne sait.'<br>
                     <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
-                    <p>>Elle n’a pas eu la chance d’être abandonnée<br>
+                    Elle n’a pas eu la chance d’être abandonnée<br>
 Elle a eu la malchance d’être oubliée.<br>
 
  Échue dans le ventre alcoolisé de l’Amnésique,<br>
@@ -500,8 +478,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
-
-<p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
+             <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
 <p>Véronique Ash  : Bonjour, Pierre.</p>
 
 
@@ -556,36 +533,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
       <!-------------------------------------------------------------------------------------->
                  
-     <!-- Carousel -->
-     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel2.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                <div class="carousel-item ">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    </div>
+     
 
                 </div>
             </div>

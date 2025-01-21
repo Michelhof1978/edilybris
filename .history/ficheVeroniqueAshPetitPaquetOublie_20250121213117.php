@@ -406,7 +406,7 @@ Direction nourrice à bâtarde elle lui offrira.<br>
 
  Nouveau déménagement à vingt-quatre mois,<br>
 Premiers pas derrière le bar d’un routier de banlieue<br>
-Bercée entre Anisette, Dubonnet et autres…<br><br><br>
+Bercée entre Anisette, Dubonnet et autres…<br><br><br></p
 
 <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
@@ -500,8 +500,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
-
-<p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
+             <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
 <p>Véronique Ash  : Bonjour, Pierre.</p>
 
 
