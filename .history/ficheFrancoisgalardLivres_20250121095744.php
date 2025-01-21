@@ -23,7 +23,7 @@
     <!-- Groupe 1  luminescence-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="ficheficheFrancoisgalardLuminescense.php">
+            <a href="ficheJeanPierreCretelSentierDesTravers.php">
                 <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre luminescence">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">François Galard</div>

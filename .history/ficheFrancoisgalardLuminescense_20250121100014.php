@@ -24,7 +24,7 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 74<br> <br>
+                        <strong class="h2Jaune">Nombre de pages :</strong> 74
                         <strong class="h2Jaune">Référence :</strong> 9782363440648
                     </p>
                     <p>

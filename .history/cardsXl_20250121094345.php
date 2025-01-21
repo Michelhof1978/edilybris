@@ -470,14 +470,14 @@
         </div>
     </div>
 
-     <!-- Groupe 35 GILLE HERVE -->
+     <!-- Groupe 35 PIERRE BRANDAO -->
      <div id="mobile-group34" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheGillesHervePourquoiEcrivezVous.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
+            <a href="fichePierreBrandaoEcartDeMemoire.php">
+                <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Hervé Gilles</div>
-                    <div class="mobile-book-price">8,00 €</div>
+                    <div class="mobile-book-author"> Brandao Pierre </div>
+                    <div class="mobile-book-price">18,00 €</div>
                 </div>
             </a>
         </div>
@@ -1018,13 +1018,13 @@
             </a>
         </div>
 
-           <!-- carte 47 Hervé Gilles -->
+           <!-- carte 47 Hervé Gille -->
            <div class="new-card">
-            <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
+            <a href="fichePierreBrandaoEcartDeMemoire.php">
+                <img src="images/pierreBrandao/ecartDeMemoire.webp" class="img-fluid" alt="Couverture de livre Ecart de mémoire">
                 <div class="new-card-content">
-                    <div class="new-card-author">Hervé Gilles</div>
-                    <div class="new-card-price">8,00 €</div>
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">18,00 €</div>
                 </div>
             </a>
         </div>

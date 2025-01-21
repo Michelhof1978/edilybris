@@ -1024,7 +1024,7 @@
                 <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="new-card-content">
                     <div class="new-card-author">Hervé Gilles</div>
-                    <div class="new-card-price">8,00 €</div>
+                    <div class="new-card-price">18,00 €</div>
                 </div>
             </a>
         </div>

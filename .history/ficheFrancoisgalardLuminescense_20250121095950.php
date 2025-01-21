@@ -24,7 +24,7 @@
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 74<br> <br>
+                        <strong class="h2Jaune">Nombre de pages :</strong> 74
                         <strong class="h2Jaune">Référence :</strong> 9782363440648
                     </p>
                     <p>
@@ -109,7 +109,7 @@ Elle est au gré du vent...
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Luminescense</h2>
+            <h2>Cisailler du rocher</h2>
             <!-- Carte 1 luminescence-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
@@ -121,7 +121,7 @@ Elle est au gré du vent...
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Luminescense</h3>
+                        <h3 class="h2Jaune">l</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 74</p>

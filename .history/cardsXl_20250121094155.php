@@ -470,18 +470,7 @@
         </div>
     </div>
 
-     <!-- Groupe 35 GILLE HERVE -->
-     <div id="mobile-group34" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="ficheGillesHervePourquoiEcrivezVous.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author"> Hervé Gilles</div>
-                    <div class="mobile-book-price">8,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
+    
 
     <!-- Boutons de navigation -->
     <div class="mobile-navigation">
@@ -994,7 +983,7 @@
         </div>
       </div>
 
-       <!-- carte 45 Thellet Antoine-->
+       <!-- Groupe 8-->
      <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 45 ANTOINE TEILLET -->
         <div class="new-card">
@@ -1017,18 +1006,6 @@
                 </div>
             </a>
         </div>
-
-           <!-- carte 47 Hervé Gilles -->
-           <div class="new-card">
-            <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
-                <div class="new-card-content">
-                    <div class="new-card-author">Hervé Gilles</div>
-                    <div class="new-card-price">8,00 €</div>
-                </div>
-            </a>
-        </div>
-      
       
       </div>
 
