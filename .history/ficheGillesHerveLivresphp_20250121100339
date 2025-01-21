@@ -1,0 +1,97 @@
+
+<div class="headerAuteur">
+    <div class="containerAuteur">
+        <h1>Gilles Hervé</h1>
+        <img src="images/gillesHerve/gillesHerve.webp" alt="Gilles Hervé" class="img-fluid bio-image">
+       
+    </div>
+</div>
+
+<main>
+<section class="biographie">
+    <div class="containerAuteur">
+        <h2 class="h2Jaune">Présentation</h2>
+<div class="text-center m-3">Pourquoi écrivez-vous ? Question banale, question usuelle lors des rencontres d’écrivains.
+    J’ai souvent posé cette question.
+    
+    J’ai été étonné par la diversité des réponses.
+    
+    Beaucoup répondent par une pirouette : par passion, par besoin, par nécessité...
+    
+    Ces réponses me rappellent celles faites par des écrivains célèbres :
+    
+    Paul Valéry : « par faiblesse ». Blaise Cendrars « parce que.. »Max Jacob « Pour mieux écrire »
+    
+    Knut Hamsun « J’écris pour abréger le temps » Paul Morand « J’écris pour être riche et estimé ».
+    
+    Pourquoi écrivez-vous ?
+    
+    Certains auteurs m’ont dit ne pas se poser cette question alors que d’autres m’ont fait comprendre qu’il s’agit d’une question intime, trop intime pour qu’ils puissent apporter une réponse.
+    
+    Quelques auteurs m’ont fait une réponse détaillée et m’ont autorisé à publier leur texte.
+    
+    Je tiens à leur dire toute ma gratitude.
+    
+    La grande majorité des auteurs m’ont confié que leur goût de l’écriture est souvent lié à un appétit de lecture qui remonte à leur jeune âge.
+    
+    Des poètes ont également souvent imité des écrivains célèbres – Baudelaire, Apollinaire, Rimbaud... avant de se lancer dans une création personnelle.
+    
+    Beaucoup d’auteurs m’ont dit que l’écriture représente un besoin vital au même titre que la respiration. Parmi eux, Jocelyne Cathelineau, Yves Revert, Monique Guérin...
+    
+    Ce qu’ils ont publié ne représente qu’une partie de leur production littéraire.
+    
+    Ainsi Amélie Nothomb qui publie chaque année un roman pour la rentrée littéraire écrit elle dans le même temps plusieurs ouvrages non édités.
+    
+    Certains écrivains ont délibérément renoncé à l’exercice d’une profession pour se consacrer à l’écriture. Dans une interview, Marguerite Duras indique qu’elle aurait pu devenir professeur, femme politique, mais qu’elle est entrée « dans cette espèce de foret, de sauvagerie qu’est l’écriture ».<br><br>
+ 
+
+</div>
+
+    </div>
+</div>
+<!-- MODE MOBILE -->
+<div class="d-block d-md-none">
+    <!-- Groupe 1   Pourquoi écrivez-vous?-->
+    <div id="mobile-group1PierreBrandao" class="mobile-books-container">
+        <div class="mobile-book-card">
+            <a href="ficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre luminescence">
+                <div class="mobile-book-details">
+                    <div class="mobile-book-author">Gilles Hervé</div>
+                    <div class="mobile-book-price">8,00 €</div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+    <!-- Boutons de navigation -->
+    <!-- <div class="mobile-navigation">
+        <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
+        <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
+    </div> -->
+</div>
+
+    <!-- MODE DESKTOP -->
+    <div class="d-none d-md-block">
+    <!-- Groupe 1 -->
+    <div id="desktop-group1PierreBrandao" class="new-card-container">
+        <!-- carte 1  Pourquoi écrivez-vous?-->
+        <div class="new-card">
+            <a href="ficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre  luminescence">
+                <div class="new-card-content">
+                    <div class="new-card-author">Gilles Hervé</div>
+                    <div class="new-card-price">8,00 €</div>
+                </div>
+            </a>
+        </div>
+      
+      </div>
+
+</div>
+            </div>
+        </div>
+    </div>
+</section>
+
