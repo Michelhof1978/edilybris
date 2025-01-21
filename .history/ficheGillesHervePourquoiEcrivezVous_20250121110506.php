@@ -34,9 +34,74 @@
 
             
                     <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white mt-2" download>Télécharger le bon de commande</a>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                
+                    <h3 class="h2Jaune text-center m-3">Extrait</h3>
+                    <h4 class="h2Jaune text-center m-3">À vif</h4>
+
+                    <p>
+                   
+
+Dans l'épaisseur brumeuse
+
+De détours sournois
+
+Les rêves ne sont plus
+
+Pour effacer l'enfer.
+
+ 
+
+Des phrases à échardes
+
+Toutes piquetées de ronces
+
+Où des voix déchirées
+
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
+</p>
+
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
+
+<p>
+
+
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
+
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
+
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
+
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
+
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...
+</p>
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
                 </div>
             </div>
         </div>
