@@ -199,7 +199,7 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
-</div>
+                    </p>
 <!-------------------------------------------------------------------------------------->
 
                     <div class="text-center mt-3">

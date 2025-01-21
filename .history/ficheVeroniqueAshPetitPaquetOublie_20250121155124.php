@@ -103,7 +103,7 @@ Aujourd’hui encore, elle ne sait.'<br>
                     <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
-                    <div class="text-center">
+                    <p class="text-center">
                     Elle n’a pas eu la chance d’être abandonnée<br>
 Elle a eu la malchance d’être oubliée.<br>
 
@@ -199,7 +199,7 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
-</div>
+                    </p>
 <!-------------------------------------------------------------------------------------->
 
                     <div class="text-center mt-3">

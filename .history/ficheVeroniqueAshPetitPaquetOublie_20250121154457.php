@@ -70,7 +70,7 @@ Avec leur terrible secret…
                     <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                    <div class="text-center">
+                    <p class="text-center">
                     Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
 
 Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
@@ -96,14 +96,14 @@ Son premier soutien fut l’alcool.<br>
 Elle n’a jamais réussi à trouver sa place,<br>
 Aujourd’hui encore, elle ne sait.'<br>
 </blockquote>
-</div>
+                   </p>
 <!-------------------------------------------------------------------------------------->
 
                     <h3 class="h2Jaune text-center m-3">PREMIERS PAS VERS L’AUTODESTRUCTION</h3>
                     <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
-                    <div class="text-center">
+                    <p class="text-center">
                     Elle n’a pas eu la chance d’être abandonnée<br>
 Elle a eu la malchance d’être oubliée.<br>
 
@@ -132,7 +132,7 @@ Direction nourrice à bâtarde elle lui offrira.<br>
 Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br>
 
-<div class="col-12 text-center mt-5">
+<div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
@@ -153,7 +153,7 @@ Retour sur la voie de la violence morale.<br>
 
  Son enfant devient involontairement son sauveur.<br>
 
- <div class="col-12 text-center mt-5">
+ <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
@@ -178,7 +178,7 @@ La peur de la solitude reste son pire cauchemar.<br>
 Elle rejette avant d’être abandonnée<br>
 Jamais elle ne réussira à se fixer.<br>
 
-<div class="col-12 text-center mt-5">
+<div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
  
@@ -199,7 +199,9 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
-</div>
+
+ 
+                    </p>
 <!-------------------------------------------------------------------------------------->
 
                     <div class="text-center mt-3">
