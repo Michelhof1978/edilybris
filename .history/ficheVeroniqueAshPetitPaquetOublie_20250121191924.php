@@ -253,7 +253,6 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
 </div>
 
-
 <!-------------------------------------------------------------------------------------->
 
                     <div class="text-center mt-3">
@@ -516,22 +515,22 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-50" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
+      <img class="d-block w-100" src="images/veroniqueAsh/caroussel1.webp" alt="Photo ancienne de Véronique Ash">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="images/veroniqueAsh/caroussel2.webp" alt="Photo ancienne de Veronique Ash">
+      <img class="d-block w-100" src="images/veroniqueAsh/caroussel2.webp" alt="Véronique Ash">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
+      <img class="d-block w-100" src="images/veroniqueAsh/caroussel3.webp" alt="Véronique Ash">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="images/veroniqueAsh/caroussel4.webp" alt="Photo ancienne de Veronique Ash">
+      <img class="d-block w-100" src="images/veroniqueAsh/caroussel4.webp" alt="Véronique Ash">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
+      <img class="d-block w-100" src="images/veroniqueAsh/caroussel5.webp" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="images/veroniqueAsh/caroussel6.webp" alt="Photo ancienne de Veronique Ash">
+      <img class="d-block w-100" src="images/veroniqueAsh/caroussel6.webp" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -547,11 +546,8 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 </div>
             </div>
         </div>
-
     </section>
 </main>
-
-
 
 <?php include("footer.php"); ?>
 </body>
