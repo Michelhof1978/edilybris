@@ -81,7 +81,10 @@ Trêve de babillage, le matin au réveil, ouvrez ce livre, choisissez une page a
 
 Bonne lecture, ami(e)s carasbitouilleurs !
                         </p>
-                   
+   <!-- Bouton citations -->
+   <div class="text-center mb-5">
+                    <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
+                </div>                     
                         </p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>

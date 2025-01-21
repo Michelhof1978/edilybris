@@ -66,22 +66,25 @@ Bonne lecture, ami(e)s carasbitouilleurs !
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Les carabistouilles</h3>
+                        <h3 class="h2Jaune">Les </h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 134</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440563</p>
 
                         <p class="lead text-white">
-                        Pour lire, nul besoin de dico ou d’aspirine.
+                        Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur.
 
-Prenez votre jolie tête bien faite, adoptez une aimable araignée-paon inoffensive, couleur arc-en-ciel, laissez-la titiller les neurones de la joie. Laissez-la vous conter à l’oreille moult idées extraordinaires. Prenez votre plume, un joli parchemin, demandez à votre main de glisser tous ces mots sur la page blanche. Une fois l’histoire terminée, lisez à voix haute, voilà comment faire une tendre Carabistouillette.
+À l’instar d’une épicerie imaginaire, l’Amuserie vous propose cinq rayons qui sauront occuper vos aspirations de liberté : Amour et tendresse – Révolte – C’est la vie ! – Vague à l’âme – Bazar.
 
-Trêve de babillage, le matin au réveil, ouvrez ce livre, choisissez une page au hasard. Lisez-en quelques voire tous les mots. Si le sourire vous vient aux lèvres, la journée sera bonne. Dans le cas contraire, retournez vous coucher !
+Pour vous plaire, l’Amuse-rit (et pleure parfois) évoque les joies des passions, les colères éphémères, les doutes existentiels et les blessures quotidiennes dont on se passerait bien, mais qui font aussi partie de la nécessité de vivre.
 
-Bonne lecture, ami(e)s carasbitouilleurs !
+L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !
                         </p>
-                   
+   <!-- Bouton citations -->
+   <div class="text-center mb-5">
+                    <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
+                </div>                     
                         </p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>

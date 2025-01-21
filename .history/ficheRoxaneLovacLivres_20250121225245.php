@@ -10,7 +10,7 @@
 <main>
 <section class="biographie">
     <div class="containerAuteur">
-        <h2 class="h2Jaune">Véronique ASH en quelques mots...</h2>
+        <h2 class="h2Jaune">Présentation</h2>
 <p class="text-center">Roxane LOVAC, lorsqu’elle écrit son premier roman, est une femme active de quarante et un
 ans. Elle a toujours été attirée par le développement personnel, passionnée par les relations
 humaines et les échanges à cœur ouvert. Ses préceptes favoris, au gré de ses lectures :

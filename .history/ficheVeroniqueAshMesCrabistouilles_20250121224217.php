@@ -1,8 +1,8 @@
 <?php include("head.php"); ?>
 
-<title>Pierre Brandao - Auteur</title>
+<title>Véronique Ash- Auteur</title>
 <meta name="description" content="Biographie et livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-</head> 
+</head> <!-- Correction : fermeture correcte de la balise <head> -->
 
 <?php include("header.php"); ?>
 
@@ -63,7 +63,7 @@ L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est p
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Pierre Brandao</h2>
+            <h2>Les livres de Véronique Ash</h2>
             <!-- Carte 1 : L'ENLEVEMENT -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

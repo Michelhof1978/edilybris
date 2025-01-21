@@ -100,6 +100,18 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
         </div>
     </div>
 
+     <!-- Groupe 2 Elle comme liberté-->
+     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
+        <div class="mobile-book-card">
+            <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <div class="mobile-book-details">
+                    <div class="mobile-book-author">Roxane Lovac</div>
+                    <div class="mobile-book-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+    </div>
 
     </div>
 
@@ -137,6 +149,16 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
             </a>
         </div>
 
+        <!-- carte 2 Elle comme liberté-->
+        <div class="new-card">
+        <a href="ficheRoxaneLovacMaVieParfaitementImparfaite.php">
+                <img src="images/roxaneLovac/2-mvpi-validee_11zon(1).webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Roxane Lovac</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
       
       </div>
 
