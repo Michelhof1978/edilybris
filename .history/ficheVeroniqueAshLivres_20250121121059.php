@@ -14,9 +14,9 @@
                 <div class="bio-text">
                     <p class="lead text-white text-center m-4">
                     Née le 6 mars 1959 à Paris, Véronique Ash subit son enfance plus qu'elle ne la vit.<br> 
-                    Cependant, elle mord dans chaque pomme avariée de l'existence, se construit malgré le goût fétide et avance au gré du destin, ce fardeau injuste qui nous lie jusqu'au dernier souffle.<br>
+                    Cependant, elle mord dans chaque pomme avariée de l'existence, se construit malgré le goût fétide et avance au gré du destin, ce fardeau injuste qui nous lie jusqu'au dernier souffle.
 
-Véronique, à l'âge des décisions importantes, reste attachée à sa nature ; elle aime la campagne, les animaux des fermes, les balades, la solitude. Sur un plan intellectuel, elle s'adonne à la poésie, à la réflexion, à la créativité puisqu'elle a déjà écrit et publié des ouvrages poétiques où seule la force de son rythme intérieur l'entraîne loin des carcans de la poésie classique traditionnelle. Le cri du coeur, - des tripes, plutôt !- qu'elle propose avec Petit paquet oublié s'habille de sarcasmes et d'humour, de retenue parfois, mais surtout de sincérité.<br>
+Véronique, à l'âge des décisions importantes, reste attachée à sa nature ; elle aime la campagne, les animaux des fermes, les balades, la solitude. Sur un plan intellectuel, elle s'adonne à la poésie, à la réflexion, à la créativité puisqu'elle a déjà écrit et publié des ouvrages poétiques où seule la force de son rythme intérieur l'entraîne loin des carcans de la poésie classique traditionnelle. Le cri du coeur, - des tripes, plutôt !- qu'elle propose avec Petit paquet oublié s'habille de sarcasmes et d'humour, de retenue parfois, mais surtout de sincérité.
                     </p>
                 </div>
             </div><!-- MODE MOBILE -->

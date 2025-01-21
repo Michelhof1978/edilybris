@@ -1,8 +1,8 @@
 <?php include("head.php"); ?>
 
-<title>Pierre Brandao - Auteur</title>
+<title>Véronique Ash - Auteur</title>
 <meta name="description" content="Les livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-</head> <!-- Correction : fermeture correcte de la balise <head> -->
+</head> 
 
 <?php include("header.php"); ?>
 
@@ -33,11 +33,12 @@
                         <strong class="h2Jaune">Référence :</strong> 9782363440754
                     </p>
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong> La première édition de S.A.V. Gendarmerie Bonjour est un succès incontestable ! Les retours élogieux et la demande croissante des premiers lecteurs pour un second volume ne se sont pas fait attendre. Aussi, nous avons le plaisir, « Gendy la Fontaine » et moi-même, de vous proposer ces nouvelles anecdotes issues soit du terrain, soit du Centre opérationnel de la gendarmerie.
+                        <strong class="h2Jaune">Résumé :</strong> Le bonheur est dans l’attente, le malheur vient du hasard. 
 
-Bob continue ses facéties, en tentant de les réaliser au nez et à la barbe de nos représentants de la loi. Pourtant, l’uniforme veille et le képi s’invite là où ne l’attend pas le malfrat ou le contrevenant. Et lorsque la situation prête à sourire, même le sérieux légendaire du gendarme est soumis à rude épreuve !
-
-Alors, continuez de rire, partager, faites-vous plaisir ! Évitez simplement qu’un jour, ce Bob, ce soit vous !
+Considérée dès sa conception comme un parasite inutile, juste bon à être éliminé, Vika décide de s’accrocher à la vie par tous les moyens. Malheureusement, ELLE vient au monde dans une mauvaise famille. Ce petit Paquet oublié, déplacé au gré des envies de sa génitrice, meurtri par son entourage, ne baisse pourtant pas les bras, se bat. Astucieuse, intelligente, ELLE s’adapte, se construit, commet des erreurs, mais les assume sans faillir.
+Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue entre prose et poésie, outils d’une souffrance peinte avec la beauté de la maladresse...
+La lecture, volontairement désordonnée, nous en met plein le visage, comme un uppercut direct qui tient sa force d’une vérité balancée sans pudeur. 
+Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes inébranlables convictions !
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

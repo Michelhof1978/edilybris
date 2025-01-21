@@ -2,7 +2,7 @@
 
 <title>Pierre Brandao - Auteur</title>
 <meta name="description" content="Les livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-</head> 
+</head> <!-- Correction : fermeture correcte de la balise <head> -->
 
 <?php include("header.php"); ?>
 
@@ -13,7 +13,7 @@
         <div class="container">
             <h2 class="text-center text-white">Les livres de Pierre Brandao</h2>
 
-            <!-- Livre 1 : vengeance Seculaire -->
+            <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
@@ -91,7 +91,7 @@ Un peu plus tard, aux alentours du bâtiment sénatorial, une guérite réchauff
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
             <h2>Les livres de Pierre Brandao</h2>
-            <!-- Carte 1 : vengeance Seculaire  -->
+            <!-- Carte 1 : vengeanceSeculaire  -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">

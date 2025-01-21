@@ -2,7 +2,7 @@
 
 <title>Pierre Brandao - Auteur</title>
 <meta name="description" content="Les livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-</head> 
+</head> <!-- Correction : fermeture correcte de la balise <head> -->
 
 <?php include("header.php"); ?>
 
