@@ -292,15 +292,13 @@ Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue e
 La lecture, volontairement désordonnée, nous en met plein le visage, comme un uppercut direct qui tient sa force d’une vérité balancée sans pudeur. <br>
 Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes inébranlables convictions !
                         </p>
-                        <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                         
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Extraits</h3>
                     <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
                     Parce qu’on refuse de les croire,
@@ -445,16 +443,14 @@ L’empreinte d’une descendance de femmes légères a toujours plané au-dessu
 
 Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son comportement changera. Viendront des années de colères incontrôlées face aux autres. Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
 
-Puis, elle se réveillera trop tôt… trop tard… ?<br>
+Puis, elle se réveillera trop tôt… trop tard… ?<br><br> <br>
 
 </div>
                       
 <!-------------------------------------------------------------------------------------->
 
 
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
 
 <div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
@@ -508,9 +504,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
 </div>
 
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
 
                 </div>
             </div>

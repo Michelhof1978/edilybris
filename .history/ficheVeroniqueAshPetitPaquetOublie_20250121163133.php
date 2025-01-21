@@ -15,7 +15,7 @@
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre PAQUET OUBLIE">
+                    <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre PAQUET OUBLIE">
                     <p class="fw-bold coloryellow fs-5">18,00 €</p>
                 </div>
                 <div class="col-12 text-white">
@@ -49,7 +49,7 @@ Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes i
                     <h3 class="h2Jaune text-center m-3">Extraits</h3>
                     <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
                     Parce qu’on refuse de les croire,
@@ -68,7 +68,7 @@ Avec leur terrible secret…
 
 <h3 class="h2Jaune text-center m-3">AVANT-PROPOS</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
@@ -101,7 +101,7 @@ Aujourd’hui encore, elle ne sait.'<br>
 
                     <h3 class="h2Jaune text-center m-3">PREMIERS PAS VERS L’AUTODESTRUCTION</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Elle n’a pas eu la chance d’être abandonnée<br>
@@ -117,7 +117,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br><br><br>
 
 <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 Elle n’a pas eu la chance d’être abandonnée<br>
@@ -133,7 +133,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br>
 
 <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 À cinq ans et demi, chemin vers le grand air1962 ter 2<br>
@@ -154,7 +154,7 @@ Retour sur la voie de la violence morale.<br>
  Son enfant devient involontairement son sauveur.<br>
 
  <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 Vingt ans plus tard, nouvelle déviation :1961 bis 2<br>
@@ -200,59 +200,6 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
 </div>
-
-<div>                
-<h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
-
-             <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
-<p>Véronique Ash  : Bonjour, Pierre.</p>
-
-
-<p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
-<p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>
-
-<div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/interview1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
-                </div>
-<p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
-<p>Du dépôt à la première réponse, nous nous frottons à l’angoissante attente du oui ou non. Le résultat a été au-delà de mon espérance.  J’en déduis que soit, votre comité est très tolérant, soit, je suis la meilleure lol !  Merci d’avoir accueilli et de faire vivre mon « Petit Paquet oublié »</p>
-
-<p class="coloryellow">Edi’lybris : Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?</p> 
-<p>Ma première rencontre a provoqué une montée de larmes, suivie de… je ne peux décrire tellement vos bras ouverts m'ont entraînée dans un tourbillon de positivité chaleureuse. Le travail de correction, de relecture, m’a apporté moult éléments utiles pour mon futur en tant qu’auteure. Les attentes de ce « petit Paquet oublié » ont été amplement gâtées.</p>
-
-
-<p class="coloryellow">Parlons du livre à paraître : « Petit Paquet oublié ». Comment t’est venue l’idée d’écrire sur ce sujet ?</p> 
-<p>J’ai longtemps occulté un passé pas rose, aujourd’hui le temps est venu de m’en délivrer. Le titre, je me suis toujours considérée comme un « petit                                        Paquet oublié » au gré des envies de ma mère.</p>
-
-
-<p class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?</p> 
-<p>L’esprit est dans le titre, les affres d’une enfant non désirée.</p>  
-
-
-
-<p class="coloryellow"> La couverture : qui t’a fourni le cliché ?</p>
-<p>La photo de couverture se trouvait dans les affaires de ma mère, chose rare. Les autres viennent de la Dame blonde.</p>
-
-
-<p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
-<p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
-
-<div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
-                </div>
-
-<p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
-<p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>
-
-
-<p class="coloryellow">Edi’lybris : Un dernier mot à l’attention des lecteurs ?</p> 
-<p>Je réfléchis à ce que je peux bien répondre à cette question ! Il y a quelques années, je ne pensais pas écrire un bouquin, deux, trois… D’ailleurs j’avais autre chose à penser… Ce qui me convient bien, c’est d’aller au bout, finir une histoire, l’aimer même. On a le droit ! Peut-être de l’émotion et des sentiments pour combiner tout ça et ne rien perdre ! J’écris le matin, c’est sympa, après il faut fermer ses pages et oublier… Oublier ? pas toujours facile ! Georges Wolinski disait « Quand je n’écris pas, je cherche toujours mes mots ! » Tout est bon dans l’écriture… et je suis sûr qu’il y a beaucoup de gens, des inconnus comme moi, qui sont cachés derrière leur bouquin ou leur histoire qui finira dans un tiroir, c’est dommage !
-Le verbe partager est un verbe qui doit s’entendre et se transmettre (ça c’est de moi…) Tant mieux si l’histoire plaît et encore plein de tant mieux si l’Histoire vient éclairer notre présent  !</p>
-
-Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendre une vie bizarre.
-
-</div>
-
 <!-------------------------------------------------------------------------------------->
 
                     <div class="text-center mt-3">
@@ -292,15 +239,13 @@ Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue e
 La lecture, volontairement désordonnée, nous en met plein le visage, comme un uppercut direct qui tient sa force d’une vérité balancée sans pudeur. <br>
 Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes inébranlables convictions !
                         </p>
-                        <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                         
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Extraits</h3>
                     <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
                     Parce qu’on refuse de les croire,
@@ -319,7 +264,7 @@ Avec leur terrible secret…
 
 <h3 class="h2Jaune text-center m-3">AVANT-PROPOS</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
@@ -352,7 +297,7 @@ Aujourd’hui encore, elle ne sait.'<br>
 
                     <h3 class="h2Jaune text-center m-3">PREMIERS PAS VERS L’AUTODESTRUCTION</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Elle n’a pas eu la chance d’être abandonnée<br>
@@ -368,7 +313,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br><br><br>
 
 <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 Elle n’a pas eu la chance d’être abandonnée<br>
@@ -384,7 +329,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br>
 
 <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
 
 À cinq ans et demi, chemin vers le grand air1962 ter 2<br>
@@ -404,6 +349,9 @@ Retour sur la voie de la violence morale.<br>
 
  Son enfant devient involontairement son sauveur.<br>
 
+ <div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                </div>
 
 Vingt ans plus tard, nouvelle déviation :1961 bis 2<br>
 Elle court, vole vers un semblant de liberté<br>
@@ -427,7 +375,7 @@ Elle rejette avant d’être abandonnée<br>
 Jamais elle ne réussira à se fixer.<br>
 
 <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
  
 
@@ -445,18 +393,15 @@ L’empreinte d’une descendance de femmes légères a toujours plané au-dessu
 
 Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son comportement changera. Viendront des années de colères incontrôlées face aux autres. Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
 
-Puis, elle se réveillera trop tôt… trop tard… ?<br>
+Puis, elle se réveillera trop tôt… trop tard… ?<br><br> <br>
 
 </div>
                       
 <!-------------------------------------------------------------------------------------->
 
 
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
-
-<div>                
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                    
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
              <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
@@ -466,9 +411,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>
 
-<div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/interview1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
-                </div>
+
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
 <p>Du dépôt à la première réponse, nous nous frottons à l’angoissante attente du oui ou non. Le résultat a été au-delà de mon espérance.  J’en déduis que soit, votre comité est très tolérant, soit, je suis la meilleure lol !  Merci d’avoir accueilli et de faire vivre mon « Petit Paquet oublié »</p>
 
@@ -492,9 +435,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
 <p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
 
-<div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
-                </div>
+
 
 <p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
 <p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>
@@ -504,14 +445,12 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 <p>Je réfléchis à ce que je peux bien répondre à cette question ! Il y a quelques années, je ne pensais pas écrire un bouquin, deux, trois… D’ailleurs j’avais autre chose à penser… Ce qui me convient bien, c’est d’aller au bout, finir une histoire, l’aimer même. On a le droit ! Peut-être de l’émotion et des sentiments pour combiner tout ça et ne rien perdre ! J’écris le matin, c’est sympa, après il faut fermer ses pages et oublier… Oublier ? pas toujours facile ! Georges Wolinski disait « Quand je n’écris pas, je cherche toujours mes mots ! » Tout est bon dans l’écriture… et je suis sûr qu’il y a beaucoup de gens, des inconnus comme moi, qui sont cachés derrière leur bouquin ou leur histoire qui finira dans un tiroir, c’est dommage !
 Le verbe partager est un verbe qui doit s’entendre et se transmettre (ça c’est de moi…) Tant mieux si l’histoire plaît et encore plein de tant mieux si l’Histoire vient éclairer notre présent  !</p>
 
-Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendre une vie bizarre.<br><br>
+
+ <p class="coloryellow">Edi’lybris : Merci Joël pour t’être prêté à ce jeu, à bientôt !</p> 
+Merci Pierre pour cet interview !
+</p>
 
 </div>
-
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
-
                 </div>
             </div>
         </div>

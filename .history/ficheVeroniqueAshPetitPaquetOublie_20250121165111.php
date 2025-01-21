@@ -49,7 +49,7 @@ Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes i
                     <h3 class="h2Jaune text-center m-3">Extraits</h3>
                     <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
                     Parce qu’on refuse de les croire,
@@ -101,7 +101,7 @@ Aujourd’hui encore, elle ne sait.'<br>
 
                     <h3 class="h2Jaune text-center m-3">PREMIERS PAS VERS L’AUTODESTRUCTION</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Elle n’a pas eu la chance d’être abandonnée<br>
@@ -117,7 +117,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br><br><br>
 
 <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 Elle n’a pas eu la chance d’être abandonnée<br>
@@ -133,7 +133,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br>
 
 <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 À cinq ans et demi, chemin vers le grand air1962 ter 2<br>
@@ -154,7 +154,7 @@ Retour sur la voie de la violence morale.<br>
  Son enfant devient involontairement son sauveur.<br>
 
  <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 Vingt ans plus tard, nouvelle déviation :1961 bis 2<br>
@@ -292,15 +292,13 @@ Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue e
 La lecture, volontairement désordonnée, nous en met plein le visage, comme un uppercut direct qui tient sa force d’une vérité balancée sans pudeur. <br>
 Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes inébranlables convictions !
                         </p>
-                        <div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                         
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Extraits</h3>
                     <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
                     Parce qu’on refuse de les croire,
@@ -319,7 +317,7 @@ Avec leur terrible secret…
 
 <h3 class="h2Jaune text-center m-3">AVANT-PROPOS</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
@@ -352,7 +350,7 @@ Aujourd’hui encore, elle ne sait.'<br>
 
                     <h3 class="h2Jaune text-center m-3">PREMIERS PAS VERS L’AUTODESTRUCTION</h3>
                     <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
                     Elle n’a pas eu la chance d’être abandonnée<br>
@@ -368,7 +366,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br><br><br>
 
 <div class="col-12 text-center">
-                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
 
 Elle n’a pas eu la chance d’être abandonnée<br>
@@ -384,7 +382,7 @@ Premiers pas derrière le bar d’un routier de banlieue<br>
 Bercée entre Anisette, Dubonnet et autres…<br>
 
 <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
 
 À cinq ans et demi, chemin vers le grand air1962 ter 2<br>
@@ -427,7 +425,7 @@ Elle rejette avant d’être abandonnée<br>
 Jamais elle ne réussira à se fixer.<br>
 
 <div class="col-12 text-center mt-5">
-                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
  
 
@@ -445,16 +443,14 @@ L’empreinte d’une descendance de femmes légères a toujours plané au-dessu
 
 Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son comportement changera. Viendront des années de colères incontrôlées face aux autres. Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
 
-Puis, elle se réveillera trop tôt… trop tard… ?<br>
+Puis, elle se réveillera trop tôt… trop tard… ?<br><br> <br>
 
 </div>
                       
 <!-------------------------------------------------------------------------------------->
 
 
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
 
 <div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
@@ -508,9 +504,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
 </div>
 
-<div class="text-center mt-3">
-                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
-                    </div>
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
 
                 </div>
             </div>

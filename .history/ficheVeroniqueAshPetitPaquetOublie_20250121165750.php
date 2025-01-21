@@ -445,7 +445,7 @@ L’empreinte d’une descendance de femmes légères a toujours plané au-dessu
 
 Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son comportement changera. Viendront des années de colères incontrôlées face aux autres. Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
 
-Puis, elle se réveillera trop tôt… trop tard… ?<br>
+Puis, elle se réveillera trop tôt… trop tard… ?<br><br> <br>
 
 </div>
                       
