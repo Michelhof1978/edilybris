@@ -73,7 +73,7 @@ Avec leur terrible secret…
 
 Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
 
-Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
+Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br>
 <blockquote class="text-center"> 'matin, j’ai terminé<br>
 Avec un arc-en-ciel<br>
 Le raccommodage d’une faille<br>
@@ -92,7 +92,7 @@ Il est réconfortant de pouvoir s'appuyer.<br>
 L’erreur se trouve dans le choix du support.<br>
 Son premier soutien fut l’alcool.<br>
 Elle n’a jamais réussi à trouver sa place,<br>
-Aujourd’hui encore, elle ne sait.'<br><br>
+Aujourd’hui encore, elle ne sait.'<br>
 </blockquote>
 </div>
 <!-------------------------------------------------------------------------------------->
@@ -199,7 +199,7 @@ Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
 </div>
 
-<div class="text-center">                
+<div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
              <p class="coloryellow"> Edi’lybris : Bonjour, Véronique.</p>      
@@ -260,8 +260,8 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
                      <!-------------------------------------------------------------------------------------->
                  
-  <!-- Carousel -->
-  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+     <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
@@ -271,15 +271,6 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                <div class="carousel-item ">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel6.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -292,20 +283,6 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
             </a>
         </div>
     </div>
-
-                </div>
-            </div>
-        </div>
-
-    </section>
-</main>
-
-
-
-<?php include("footer.php"); ?>
-</body>
-</html>
-
 
 
                 </div>
@@ -376,7 +353,7 @@ Avec leur terrible secret…
 
 Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
 
-Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
+Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br>
 <blockquote class="text-center"> 'matin, j’ai terminé<br>
 Avec un arc-en-ciel<br>
 Le raccommodage d’une faille<br>
@@ -576,14 +553,14 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-                <div class="carousel-item ">
+                <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel6.webp" alt="Photo ancienne de Veronique Ash">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

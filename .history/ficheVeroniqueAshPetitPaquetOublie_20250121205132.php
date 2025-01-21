@@ -92,7 +92,7 @@ Il est réconfortant de pouvoir s'appuyer.<br>
 L’erreur se trouve dans le choix du support.<br>
 Son premier soutien fut l’alcool.<br>
 Elle n’a jamais réussi à trouver sa place,<br>
-Aujourd’hui encore, elle ne sait.'<br><br>
+Aujourd’hui encore, elle ne sait.'<br>
 </blockquote>
 </div>
 <!-------------------------------------------------------------------------------------->
@@ -272,7 +272,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-                <div class="carousel-item ">
+                <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
                 </div>
                 <div class="carousel-item">
@@ -576,7 +576,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-                <div class="carousel-item ">
+                <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
                 </div>
                 <div class="carousel-item">
