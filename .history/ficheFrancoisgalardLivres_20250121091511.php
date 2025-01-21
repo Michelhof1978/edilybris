@@ -24,7 +24,7 @@
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="ficheJeanPierreCretelSentierDesTravers.php">
-                <img src="ficheFrancoisgalardLuminescense.php" class="img-fluid" alt="Couverture de livre luminescence">
+                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">François Galard</div>
                     <div class="mobile-book-price">13,00 €</div>

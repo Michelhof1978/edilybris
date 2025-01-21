@@ -20,41 +20,74 @@
 </div>
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  luminescence-->
+    <!-- Groupe 1  Sentiers de travers-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="ficheJeanPierreCretelSentierDesTravers.php">
-                <img src="ficheFrancoisgalardLuminescense.php" class="img-fluid" alt="Couverture de livre luminescence">
+                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
-                    <div class="mobile-book-author">François Galard</div>
-                    <div class="mobile-book-price">13,00 €</div>
+                    <div class="mobile-book-author">Jean-Pierre Cretel</div>
+                    <div class="mobile-book-price">12,00 €</div>
                 </div>
             </a>
         </div>
     </div>
+    </div>
 
+    
 
     <!-- Boutons de navigation -->
-    <!-- <div class="mobile-navigation">
+    <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
         <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
-    </div> -->
+    </div>
 </div>
 
     <!-- MODE DESKTOP -->
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
     <div id="desktop-group1PierreBrandao" class="new-card-container">
-        <!-- carte 1  luminescence-->
+        <!-- carte 1   Sentiers de travers-->
         <div class="new-card">
-            <a href="ficheFrancoisgalardLuminescense.php">
-                <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre  luminescence">
+            <a href="ficheJeanPierreCretelSentierDesTravers.php">
+                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
-                    <div class="new-card-author">François Galard</div>
+                    <div class="new-card-author">Jean-Pierre Cretel</div>
+                    <div class="new-card-price">12,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte  2 Parfois les vagues-->
+        <div class="new-card">
+        <a href="ficheJeanPierreCretelParfoisLesVagues.php">
+                <img src="images/jeanPierreCretel/parfois-les-vagues-couv.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Jean-Pierre Cretel</div>
                     <div class="new-card-price">13,00 €</div>
                 </div>
             </a>
         </div>
+ <!-- carte 3 La tête dans les nuages-->
+ <div class="new-card">
+            <a href="ficheJeanPierreCretelLaTeteDansLesNuages.php">
+                <img src="images/jeanPierreCretel/couv-recto-ltdln-copie.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
+                <div class="new-card-content">
+                    <div class="new-card-author">Jean-Pierre Cretel</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+        <!-- carte 4 Cisailler du rocher-->
+        <div class="new-card">
+        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
+                <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
+                <div class="new-card-content">
+                    <div class="new-card-author">Jean-Pierre Cretel</div>
+                    <div class="new-card-price">14,00 €</div>
+                </div>
+            </a>
+        </div>
+
       
       </div>
 

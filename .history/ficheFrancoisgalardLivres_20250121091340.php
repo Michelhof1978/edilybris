@@ -20,14 +20,14 @@
 </div>
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  luminescence-->
+    <!-- Groupe 1  Sentiers de travers-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="ficheJeanPierreCretelSentierDesTravers.php">
-                <img src="ficheFrancoisgalardLuminescense.php" class="img-fluid" alt="Couverture de livre luminescence">
+                <img src="images/jeanPierreCretel/couv-recto-2_11.webp" class="img-fluid" alt="Couverture de livre mes Mots Sont Des Paysages">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">François Galard</div>
-                    <div class="mobile-book-price">13,00 €</div>
+                    <div class="mobile-book-price">12,00 €</div>
                 </div>
             </a>
         </div>
@@ -45,10 +45,10 @@
     <div class="d-none d-md-block">
     <!-- Groupe 1 -->
     <div id="desktop-group1PierreBrandao" class="new-card-container">
-        <!-- carte 1  luminescence-->
+        <!-- carte 1   Sentiers de travers-->
         <div class="new-card">
-            <a href="ficheFrancoisgalardLuminescense.php">
-                <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre  luminescence">
+            <a href="ficheJeanPierreCretelSentierDesTravers.php">
+                <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid" alt="Couverture de livre  mes Mots Sont Des Paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">François Galard</div>
                     <div class="new-card-price">13,00 €</div>
