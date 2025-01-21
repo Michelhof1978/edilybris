@@ -32,8 +32,8 @@
                     <p>
                         <strong class="h2Jaune">Référence :</strong> 9782363440532
                     </p>
-                    <p class="lead text-center">
-                        <strong class="h2Jaune ">Résumé :</strong>   Le bonheur est dans l’attente, le malheur vient du hasard. <br>
+                    <p class="lead">
+                        <strong class="h2Jaune">Résumé :</strong>   Le bonheur est dans l’attente, le malheur vient du hasard. <br>
 
 Considérée dès sa conception comme un parasite inutile, juste bon à être éliminé, Vika décide de s’accrocher à la vie par tous les moyens. Malheureusement, ELLE vient au monde dans une mauvaise famille. Ce petit Paquet oublié, déplacé au gré des envies de sa génitrice, meurtri par son entourage, ne baisse pourtant pas les bras, se bat. Astucieuse, intelligente, ELLE s’adapte, se construit, commet des erreurs, mais les assume sans faillir.<br>
 Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue entre prose et poésie, outils d’une souffrance peinte avec la beauté de la maladresse...<br>

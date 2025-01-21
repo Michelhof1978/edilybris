@@ -32,8 +32,8 @@
                     <p>
                         <strong class="h2Jaune">Référence :</strong> 9782363440532
                     </p>
-                    <p class="lead text-center">
-                        <strong class="h2Jaune ">Résumé :</strong>   Le bonheur est dans l’attente, le malheur vient du hasard. <br>
+                    <p class="lead">
+                        <strong class="h2Jaune">Résumé :</strong>   Le bonheur est dans l’attente, le malheur vient du hasard. <br>
 
 Considérée dès sa conception comme un parasite inutile, juste bon à être éliminé, Vika décide de s’accrocher à la vie par tous les moyens. Malheureusement, ELLE vient au monde dans une mauvaise famille. Ce petit Paquet oublié, déplacé au gré des envies de sa génitrice, meurtri par son entourage, ne baisse pourtant pas les bras, se bat. Astucieuse, intelligente, ELLE s’adapte, se construit, commet des erreurs, mais les assume sans faillir.<br>
 Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue entre prose et poésie, outils d’une souffrance peinte avec la beauté de la maladresse...<br>
@@ -76,7 +76,7 @@ Avec leur terrible secret…
 Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
 
 Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br>
-<blockquote class="text-center"> 'matin, j’ai terminé<br>
+<blockquote class="text-center"> matin, j’ai terminé<br>
 Avec un arc-en-ciel<br>
 Le raccommodage d’une faille<br>
 Forée en mon cœur.<br>
@@ -94,7 +94,7 @@ Il est réconfortant de pouvoir s'appuyer.<br>
 L’erreur se trouve dans le choix du support.<br>
 Son premier soutien fut l’alcool.<br>
 Elle n’a jamais réussi à trouver sa place,<br>
-Aujourd’hui encore, elle ne sait.'<br>
+Aujourd’hui encore, elle ne sait.<br>
 </blockquote>
                    </p>
 <!-------------------------------------------------------------------------------------->
@@ -103,7 +103,7 @@ Aujourd’hui encore, elle ne sait.'<br>
                     <div class="col-12 text-center">
                     <img src="images/pierreBrandao/pecheur-pecheur.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                    <p class="text-center">
+                    <p>
                     Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
 
 Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
