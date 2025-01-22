@@ -107,44 +107,8 @@ Aussi chaude que le vent du désert.</p><br>
                     <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded">
                     </div>
                     <div class="text-center">
-                   <p> Ça y est !!! C’est le retour à l’essentiel, le retour à notre être vrai, à notre enfant intérieur.
-
-Pour ma part, c’est la création, la communication et le partage, car chacune de ces choses, la musique et les textes, en sont les supports.
-
-Aucune des trois ne peut exister sans les deux autres.</p><br>
-
-<p>La triade du bonheur dans ma vie en quelque sorte.
-(paroles et musique : Luc Le Guennec)</p><br>
-
-<p>Je traîne le long des rues, en reniflant ma peine
-Qui je suis je n’sais plus, il faudrait que j’revienne
-À mes premières amours, pouvoir briser mes chaines.
-Il faudrait que je prenne mes chansons, ma guitare
-Remonter sur scène, quand redescend le soir
-Et pouvoir donner du bonheur, de la joie, de l’espoir.</p><br>
-
-<p>Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté,
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.</p><br>
-
-<p>Pourquoi perdre sa vie à vouloir la gagner
-Et vivre des soucis à longueur de journée
-Quand on a la musique toujours à ses côtés
-Dans l’univers bizarre de la futilité.
-La richesse et la gloire où est la liberté
-Quand il y a tant de monde qui demande à rêver.</p><br>
-
-<p>Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.   </p><br>           
+                   
 </div>
-
 <!-------------------------------------------------------------------------------------->
 
                    

@@ -44,61 +44,10 @@
                     <div class="col-12 text-center">
                     <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
                     </div>
-                    <div class="text-center">
-                    <p>
-                    Bienvenue à toi, lectrice, lecteur, dans un voyage de développement personnel, de prise de conscience, le temps de faire une pause, de reprendre sa vie en main, de redevenir soi-même.
+                    <p class="text-center">
+                   
 
-La première chanson de l’album, Je cherche la lumière, constitue l’introduction, le point de départ.
-
- Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
- 
- <p><strong>Je cherche la lumière</strong> 
-
-(paroles et musique : Luc Le Guennec)</p><br>
-
-<p>Je viens pour déployer mes ailes,
-Retrouver le goût de l’essentiel
-Je vis sur la Terre des hommes pour répandre la lumière.
-D’ailleurs, comment pourrions-nous vivre
-Sans cette étoile brillante du matin
-Annonçant l’arrivée du soleil d’un nouveau jour divin ?</p><br>
-
-<p>Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs.</p><br>
-
-<p>Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
-
-<p>Elle jaillira des profondeurs,
-Rythmera les battements de mon cœur
-J’ai traversé le froid et les flammes, pour vivre mon destin.
-C’est la résurrection de l’ange
-Le phénix qui renait de ses cendres.
-Profitons du nouveau jour qui vient, sans attendre demain.</p><br>
-
-<p>Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs.
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs</p><br>
-
-<p>Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
-                    
-                    </div>
+</p>
 
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
@@ -107,44 +56,8 @@ Aussi chaude que le vent du désert.</p><br>
                     <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded">
                     </div>
                     <div class="text-center">
-                   <p> Ça y est !!! C’est le retour à l’essentiel, le retour à notre être vrai, à notre enfant intérieur.
-
-Pour ma part, c’est la création, la communication et le partage, car chacune de ces choses, la musique et les textes, en sont les supports.
-
-Aucune des trois ne peut exister sans les deux autres.</p><br>
-
-<p>La triade du bonheur dans ma vie en quelque sorte.
-(paroles et musique : Luc Le Guennec)</p><br>
-
-<p>Je traîne le long des rues, en reniflant ma peine
-Qui je suis je n’sais plus, il faudrait que j’revienne
-À mes premières amours, pouvoir briser mes chaines.
-Il faudrait que je prenne mes chansons, ma guitare
-Remonter sur scène, quand redescend le soir
-Et pouvoir donner du bonheur, de la joie, de l’espoir.</p><br>
-
-<p>Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté,
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.</p><br>
-
-<p>Pourquoi perdre sa vie à vouloir la gagner
-Et vivre des soucis à longueur de journée
-Quand on a la musique toujours à ses côtés
-Dans l’univers bizarre de la futilité.
-La richesse et la gloire où est la liberté
-Quand il y a tant de monde qui demande à rêver.</p><br>
-
-<p>Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.   </p><br>           
+                   
 </div>
-
 <!-------------------------------------------------------------------------------------->
 
                    
@@ -248,61 +161,59 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                     <div class="col-12 text-center">
                     <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
                 </div>
-                <div class="text-center">
-                    <p>
+                    <p class="text-center">
                     Bienvenue à toi, lectrice, lecteur, dans un voyage de développement personnel, de prise de conscience, le temps de faire une pause, de reprendre sa vie en main, de redevenir soi-même.
 
 La première chanson de l’album, Je cherche la lumière, constitue l’introduction, le point de départ.
 
- Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
- 
- <p><strong>Je cherche la lumière</strong> 
+ Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »
+ Je cherche la lumière
 
-(paroles et musique : Luc Le Guennec)</p><br>
+(paroles et musique : Luc Le Guennec)
 
-<p>Je viens pour déployer mes ailes,
+Je viens pour déployer mes ailes,
 Retrouver le goût de l’essentiel
 Je vis sur la Terre des hommes pour répandre la lumière.
 D’ailleurs, comment pourrions-nous vivre
 Sans cette étoile brillante du matin
-Annonçant l’arrivée du soleil d’un nouveau jour divin ?</p><br>
+Annonçant l’arrivée du soleil d’un nouveau jour divin ?
 
-<p>Chaque jour l'éternelle renaissance
+Chaque jour l'éternelle renaissance
 Nous apporte la lumière jusqu’au fond de nos cœurs
 Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs.</p><br>
+Car ce soir sous les projecteurs.
 
-<p>Je cherche la lumière,
+Je cherche la lumière,
 Afin de repousser mes frontières
 Je cherche la lumière,
 Comme tout être humain sur cette Terre
 Je cherche la lumière,
 Aussi fraiche que l’eau des rivières
 Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
+Aussi chaude que le vent du désert.
 
-<p>Elle jaillira des profondeurs,
+Elle jaillira des profondeurs,
 Rythmera les battements de mon cœur
 J’ai traversé le froid et les flammes, pour vivre mon destin.
 C’est la résurrection de l’ange
 Le phénix qui renait de ses cendres.
-Profitons du nouveau jour qui vient, sans attendre demain.</p><br>
+Profitons du nouveau jour qui vient, sans attendre demain.
 
-<p>Chaque jour l'éternelle renaissance
+Chaque jour l'éternelle renaissance
 Nous apporte la lumière jusqu’au fond de nos cœurs.
 Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs</p><br>
+Car ce soir sous les projecteurs
 
-<p>Je cherche la lumière,
+Je cherche la lumière,
 Afin de repousser mes frontières
 Je cherche la lumière,
 Comme tout être humain sur cette Terre
 Je cherche la lumière,
 Aussi fraiche que l’eau des rivières
 Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
-                    
-                    </div>
+Aussi chaude que le vent du désert.
+                    </p>
+
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
 <h3 class="h2Jaune text-center m-3">Trouver la liberté</h3>
@@ -331,21 +242,21 @@ Oublier toutes les guerres, oublier le passé,
 Supprimer les frontières, trouver la liberté,
 Entrer dans la lumière, comme un oiseau blessé,
 Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.</p><br>
+Trouver la liberté.
 
 <p>Pourquoi perdre sa vie à vouloir la gagner
 Et vivre des soucis à longueur de journée
 Quand on a la musique toujours à ses côtés
 Dans l’univers bizarre de la futilité.
 La richesse et la gloire où est la liberté
-Quand il y a tant de monde qui demande à rêver.</p><br>
+Quand il y a tant de monde qui demande à rêver.
 
 <p>Entrer dans la lumière, comme un oiseau blessé,
 Oublier toutes les guerres, oublier le passé,
 Supprimer les frontières, trouver la liberté
 Entrer dans la lumière, comme un oiseau blessé,
 Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.   </p><br>           
+Trouver la liberté.              
 </div>
 
 <!-------------------------------------------------------------------------------------->
