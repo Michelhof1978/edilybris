@@ -86,43 +86,42 @@ Je pose sur la lune les pieds de mes vers,
 Et prie la vie, doucement, de se taire.
 </p>
 
-<h4 class="h2Jaune text-center m-3">De jaune de bleu</h4>
+<h4 class="h2Jaune text-center m-3">Sables</h4>
 
 <p>
-D’ombres et de lumière
-De glace et de feu
-Femme je suis
-De jaune et de bleu
+Dans mes sables émouvants
+Il n’y a pas de barrière,
+rien ne me stoppe ni ne me tempère
+Pas de frein, pas de marche arrière
+C’est le dévidoir de ma stratosphère.
 
 
-D’arbre et de terre
-De monts et de creux
-Femme je vis
-De déliés, de nœuds
+Dans mes sables éprouvants
+Je suis souvent vipère,
+C’est mon seul lieu d’exil, lieu de guerre,
+L’espace fragile de mes démons délétères,
+Un trou noir dans lequel tout m’indiffère.
 
 
-De joie de misère
-De son et de je
-Femme gémit
-De paix et de vœux
+Dans mes sables éreintants
+Je ne suis pas très fière,
+Je me perds vaillamment dans les dévers,
+Je retrouve le fil du vent au creux de l’air,
+C’est une page m’aspirant au goût amer.
 
 
-De soie et de pierre
-De rois et de gueux
-Femme séduit
-De tant et de peu
+Dans mes sables étreignant
+Il y a comme la mer
+Flots d’eau salant le bord de mes déserts,
+Comme une plaie le mal béant, ouvert,
+C’est un chant obsédant qui me libère.
 
 
-De secondes et d’ère
-De moi un peu d’eux
-Femme survit
-De diable et de dieu
-
-
-D’ombres et de lumière
-De glace et de feu
-Femme je suis
-De jaune et de bleu
+Dans mes sables envoûtants
+J’étreins la terre,
+Je tente une infortune plutôt sévère,
+Je pose sur la lune les pieds de mes vers,
+Et prie la vie, doucement, de se taire.
 </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

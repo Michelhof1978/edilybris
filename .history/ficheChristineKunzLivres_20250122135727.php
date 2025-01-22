@@ -34,12 +34,15 @@
 <p>-En 2016, création avec deux partenaires du festival "Vibrations poétiques", dont la première édition au Cloître des Ursulines à La Rochelle est un succès.</p>
 <p>-En 2017, collaborations multiples : museum d'Histoire Naturelle, médiathèque Michel Crépeau, collège de l'Atlantique, réseau scolaire de Mireuil. Le projet "STAND UP" consacre son sens de la scène avec un atelier slam au salon du livre féminin et une participation au salon du Livre et des Droits de l'Homme à Saintes.</p>
 <p>-En 2018, projet "Paroles d'Humains" en partenariat avec le collectif "Actions Solidaires". Christine s'associe également avec Frank Nelson pour créer "Big Bass Band".</p>
-<p>-En 2019, l'idée de transposer ses textes en un recueil se concrétise grâce à Pierre Brandao. Une aventure éditoriale commence avec "Abreuver le fou qui dort en nos déserts".</p>         
+<p>En 2019, l'idée de transposer ses textes en un recueil se concrétise grâce à Pierre Brandao. Une aventure éditoriale commence avec "Abreuver le fou qui dort en nos déserts".</p>
+
+
+                
             </p>
         </div>
 
           <!-- MODE MOBILE -->
-    <div class="d-block d-md-none mt-5">
+    <div class="d-block d-md-none mt-3">
         <div id="mobile-group1PierreBrandao" class="mobile-books-container">
             <div class="mobile-book-card">
                 <a href="ficheChristineKunzAbreuverLeFou.php">
@@ -54,7 +57,7 @@
     </div>
 
     <!-- MODE DESKTOP -->
-    <div class="d-none d-md-block mt-5">
+    <div class="d-none d-md-block">
         <div id="desktop-group1PierreBrandao" class="new-card-container">
             <div class="new-card">
                 <a href="ficheChristineKunzAbreuverLeFou.php">

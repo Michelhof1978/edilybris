@@ -39,7 +39,7 @@
         </div>
 
           <!-- MODE MOBILE -->
-    <div class="d-block d-md-none mt-5">
+    <div class="d-block d-md-none mt-3">
         <div id="mobile-group1PierreBrandao" class="mobile-books-container">
             <div class="mobile-book-card">
                 <a href="ficheChristineKunzAbreuverLeFou.php">
@@ -54,7 +54,7 @@
     </div>
 
     <!-- MODE DESKTOP -->
-    <div class="d-none d-md-block mt-5">
+    <div class="d-none d-md-block">
         <div id="desktop-group1PierreBrandao" class="new-card-container">
             <div class="new-card">
                 <a href="ficheChristineKunzAbreuverLeFou.php">

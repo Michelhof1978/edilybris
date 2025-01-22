@@ -54,7 +54,7 @@
     </div>
 
     <!-- MODE DESKTOP -->
-    <div class="d-none d-md-block mt-5">
+    <div class="d-none d-md-block">
         <div id="desktop-group1PierreBrandao" class="new-card-container">
             <div class="new-card">
                 <a href="ficheChristineKunzAbreuverLeFou.php">

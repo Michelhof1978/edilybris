@@ -51,7 +51,9 @@ Abreuver le fou qui dort en nos déserts. »
                     <h4 class="h2Jaune text-center m-3">Sables</h4>
 
                     <p>
- Dans mes sables émouvants
+                   
+
+                    Dans mes sables émouvants
 Il n’y a pas de barrière,
 rien ne me stoppe ni ne me tempère
 Pas de frein, pas de marche arrière
@@ -84,45 +86,6 @@ J’étreins la terre,
 Je tente une infortune plutôt sévère,
 Je pose sur la lune les pieds de mes vers,
 Et prie la vie, doucement, de se taire.
-</p>
-
-<h4 class="h2Jaune text-center m-3">De jaune de bleu</h4>
-
-<p>
-D’ombres et de lumière
-De glace et de feu
-Femme je suis
-De jaune et de bleu
-
-
-D’arbre et de terre
-De monts et de creux
-Femme je vis
-De déliés, de nœuds
-
-
-De joie de misère
-De son et de je
-Femme gémit
-De paix et de vœux
-
-
-De soie et de pierre
-De rois et de gueux
-Femme séduit
-De tant et de peu
-
-
-De secondes et d’ère
-De moi un peu d’eux
-Femme survit
-De diable et de dieu
-
-
-D’ombres et de lumière
-De glace et de feu
-Femme je suis
-De jaune et de bleu
 </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

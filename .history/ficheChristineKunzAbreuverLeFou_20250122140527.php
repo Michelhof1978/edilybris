@@ -47,82 +47,68 @@ Abreuver le fou qui dort en nos déserts. »
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                    <h3 class="h2Jaune text-center m-3">Extrait pour le plaisir de découvrir</h3>
-                    <h4 class="h2Jaune text-center m-3">Sables</h4>
+                    <h3 class="h2Jaune text-center m-3">Extrait</h3>
+                    <h4 class="h2Jaune text-center m-3">À vif</h4>
 
                     <p>
- Dans mes sables émouvants
-Il n’y a pas de barrière,
-rien ne me stoppe ni ne me tempère
-Pas de frein, pas de marche arrière
-C’est le dévidoir de ma stratosphère.
+                   
 
+Dans l'épaisseur brumeuse
 
-Dans mes sables éprouvants
-Je suis souvent vipère,
-C’est mon seul lieu d’exil, lieu de guerre,
-L’espace fragile de mes démons délétères,
-Un trou noir dans lequel tout m’indiffère.
+De détours sournois
 
+Les rêves ne sont plus
 
-Dans mes sables éreintants
-Je ne suis pas très fière,
-Je me perds vaillamment dans les dévers,
-Je retrouve le fil du vent au creux de l’air,
-C’est une page m’aspirant au goût amer.
+Pour effacer l'enfer.
 
+ 
 
-Dans mes sables étreignant
-Il y a comme la mer
-Flots d’eau salant le bord de mes déserts,
-Comme une plaie le mal béant, ouvert,
-C’est un chant obsédant qui me libère.
+Des phrases à échardes
 
+Toutes piquetées de ronces
 
-Dans mes sables envoûtants
-J’étreins la terre,
-Je tente une infortune plutôt sévère,
-Je pose sur la lune les pieds de mes vers,
-Et prie la vie, doucement, de se taire.
+Où des voix déchirées
+
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
 </p>
 
-<h4 class="h2Jaune text-center m-3">De jaune de bleu</h4>
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
 
 <p>
-D’ombres et de lumière
-De glace et de feu
-Femme je suis
-De jaune et de bleu
 
 
-D’arbre et de terre
-De monts et de creux
-Femme je vis
-De déliés, de nœuds
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-De joie de misère
-De son et de je
-Femme gémit
-De paix et de vœux
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
 
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
 
-De soie et de pierre
-De rois et de gueux
-Femme séduit
-De tant et de peu
-
-
-De secondes et d’ère
-De moi un peu d’eux
-Femme survit
-De diable et de dieu
-
-
-D’ombres et de lumière
-De glace et de feu
-Femme je suis
-De jaune et de bleu
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...
 </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
