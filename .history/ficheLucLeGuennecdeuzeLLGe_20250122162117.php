@@ -14,7 +14,7 @@
             <h2 class="text-center text-white">Le livre de Luc Le Guennec</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
-                <div class="col-12 text-center">
+                <div class="col-12 text-center">²²
                     <img src="images/lucLeGuennec/file-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre PAQUET OUBLIE">
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
@@ -40,27 +40,158 @@
 <!-------------------------------------------------------------------------------------->
 
                     <h3 class="h2Jaune text-center m-3">Extraits</h3>
-                    <h3 class="h2Jaune text-center m-3">Je cherche la lumière </h3>
+                    <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
-                    </div>
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                </div>
                     <p class="text-center">
-                   
+                    Parce qu’on refuse de les croire,
+Qu’on les soupçonne d’affabuler,
+Qu’ils ont honte,
+Se sentent coupables,
+Ont peur,
+Parce qu’ils se croient seuls au monde
+Avec leur terrible secret…
 
 </p>
 
 <!-------------------------------------------------------------------------------------->
-<h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
-<h3 class="h2Jaune text-center m-3">Trouver la liberté</h3>
+
+<h3 class="h2Jaune text-center m-3">AVANT-PROPOS</h3>
                     <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded">
-                    </div>
+                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
                     <div class="text-center">
-                   
+                    Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
+
+Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
+
+Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
+<blockquote class="text-center"> 'matin, j’ai terminé<br>
+Avec un arc-en-ciel<br>
+Le raccommodage d’une faille<br>
+Forée en mon cœur.<br>
+
+Osez voir la vie en couleur<br>
+Même au fond du trou l’espoir renaît.<br>
+
+***<br>
+Nous avons tous besoin d’un bâton de marche.<br>
+
+
+Quand un caillou, un rocher<br>
+Se présente sur notre route,<br>
+Il est réconfortant de pouvoir s'appuyer.<br>
+L’erreur se trouve dans le choix du support.<br>
+Son premier soutien fut l’alcool.<br>
+Elle n’a jamais réussi à trouver sa place,<br>
+Aujourd’hui encore, elle ne sait.'<br><br>
+</blockquote>
 </div>
 <!-------------------------------------------------------------------------------------->
 
-                   
+                    <h3 class="h2Jaune text-center m-3">PREMIERS PAS VERS L’AUTODESTRUCTION</h3>
+                    <div class="col-12 text-center">
+                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
+                </div>
+                    <div class="text-center">
+                    Elle n’a pas eu la chance d’être abandonnée<br>
+Elle a eu la malchance d’être oubliée.<br>
+
+ Échue dans le ventre alcoolisé de l’Amnésique,<br>
+Déposée dans un hospice à l’aube du troisième jour<br>
+Retour de l’Amnésique pour ses six mois,<br>
+Direction nourrice à bâtarde elle lui offrira.<br>
+
+ Nouveau déménagement à vingt-quatre mois,<br>
+Premiers pas derrière le bar d’un routier de banlieue<br>
+Bercée entre Anisette, Dubonnet et autres…<br><br><br>
+
+<div class="col-12 text-center">
+                    <img src="images/veroniqueAsh/petitPaquet4.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                </div>
+
+Elle n’a pas eu la chance d’être abandonnée<br>
+Elle a eu la malchance d’être oubliée.<br>
+
+ Échue dans le ventre alcoolisé de l’Amnésique,<br>
+Déposée dans un hospice à l’aube du troisième jour<br>
+Retour de l’Amnésique pour ses six mois,
+Direction nourrice à bâtarde elle lui offrira.<br>
+
+ Nouveau déménagement à vingt-quatre mois,<br>
+Premiers pas derrière le bar d’un routier de banlieue<br>
+Bercée entre Anisette, Dubonnet et autres…<br>
+
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/petitPaquet5.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
+
+À cinq ans et demi, chemin vers le grand air1962 ter 2<br>
+Grande ferme du Poitou avec coq sans pendule<br>
+Enfance entre eau-de-vie et pinard, bon départ<br>
+Accoutumance à toutes sortes de violences sordides,<br>
+Elle résistera aux affres des adultes ;<br>
+Souffrance et douleur comme meilleures amies.<br>
+
+ Quinze ans, livrée à la décadence de la nuit,<br>
+Sans expérience, elle adhère à l’autodestruction ;<br>
+Suit le chemin de la dégradation intérieure.<br>
+Avec un plaisir non forcé,<br>
+Cherche à s’évader de cette prison :<br>
+Opte pour la tranquillité via le mariage.<br>
+Retour sur la voie de la violence morale.<br>
+
+ Son enfant devient involontairement son sauveur.<br>
+
+ <div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
+                </div>
+
+Vingt ans plus tard, nouvelle déviation :1961 bis 2<br>
+Elle court, vole vers un semblant de liberté<br>
+Accueille ses excès de bonne grâce,<br>
+Déguste jusqu’à la lie ses meilleures ennemies,<br>
+Décadence physique maquillée d’Al Khôl.<br>
+
+ Nouvelle rencontre, malheureux hasard,<br>
+Miracle ! Un être perdu lui sourit.<br> 
+L’océan de la déchéance lui tend les bras,<br>                     
+Elle se baigne, se noie avec joie<br>
+Dans ce nouveau monde bien connu.<br>
+Quand elle revient à la raison<br>
+Maltraitance est la coupable idéale.<br>
+Son insatiable soif d’être aimée<br>
+Causera d’irréparables brèches.<br>
+Quand un quidam lui tourne le dos<br>
+Ses démons refont surface.<br>
+La peur de la solitude reste son pire cauchemar.<br>
+Elle rejette avant d’être abandonnée<br>
+Jamais elle ne réussira à se fixer.<br>
+
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
+ 
+
+1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
+
+Bébé, arme de séduction : le sourire. <br>        
+
+Ados, des formes généreuses prennent le dessus.<br>  
+
+Devenue femme, elle comprend que tout passe par les prunelles. Elle n’a jamais été belle, juste jolie. Son atout majeur, un charme naturel. Elle ressemble à ces femmes à qui la souffrance a fait don d’une personnalité et d’une force hors du commun. Elle laisse une trace aimable sur son passage. Tout cela, elle s’en apercevra un peu tard.<br>
+
+Si son regard semble inviter, son corps reste fidèle à ses principes. Elle a souvent posé sur la gent masculine un regard mêlé de compassion, de méfiance. Les hommes confondaient régulièrement sollicitude avec encouragements.<br>
+
+L’empreinte d’une descendance de femmes légères a toujours plané au-dessus de sa tête. Jamais elle n’ose blesser, ce qui la fait passer pour un être naïf voire faible, le contraire de sa réalité.<br>
+
+Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son comportement changera. Viendront des années de colères incontrôlées face aux autres. Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
+
+Puis, elle se réveillera trop tôt… trop tard… ?<br>
+
+</div>
+
 <div class="text-center">                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
@@ -71,6 +202,9 @@
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
 <p>Du dépôt à la première réponse, nous nous frottons à l’angoissante attente du oui ou non. Le résultat a été au-delà de mon espérance.  J’en déduis que soit, votre comité est très tolérant, soit, je suis la meilleure lol !  Merci d’avoir accueilli et de faire vivre mon « Petit Paquet oublié »</p>
 
@@ -94,6 +228,9 @@
 <p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
 <p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 
 <p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
 <p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>
@@ -157,109 +294,59 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                         
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Extraits</h3>
-                    <h3 class="h2Jaune text-center m-3">Je cherche la lumière</h3>
+                    <h3 class="h2Jaune text-center m-3">LES ENFANTS SE TAISENT </h3>
                     <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
+                    <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
-                    Bienvenue à toi, lectrice, lecteur, dans un voyage de développement personnel, de prise de conscience, le temps de faire une pause, de reprendre sa vie en main, de redevenir soi-même.
+                    Parce qu’on refuse de les croire,
+Qu’on les soupçonne d’affabuler,
+Qu’ils ont honte,
+Se sentent coupables,
+Ont peur,
+Parce qu’ils se croient seuls au monde
+Avec leur terrible secret…
 
-La première chanson de l’album, Je cherche la lumière, constitue l’introduction, le point de départ.
 
- Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »
- Je cherche la lumière
-
-(paroles et musique : Luc Le Guennec)
-
-Je viens pour déployer mes ailes,
-Retrouver le goût de l’essentiel
-Je vis sur la Terre des hommes pour répandre la lumière.
-D’ailleurs, comment pourrions-nous vivre
-Sans cette étoile brillante du matin
-Annonçant l’arrivée du soleil d’un nouveau jour divin ?
-
-Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs.
-
-Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.
-
-Elle jaillira des profondeurs,
-Rythmera les battements de mon cœur
-J’ai traversé le froid et les flammes, pour vivre mon destin.
-C’est la résurrection de l’ange
-Le phénix qui renait de ses cendres.
-Profitons du nouveau jour qui vient, sans attendre demain.
-
-Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs.
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs
-
-Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.
+ 
                     </p>
 
 <!-------------------------------------------------------------------------------------->
-<h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
-<h3 class="h2Jaune text-center m-3">Trouver la liberté</h3>
+
+<h3 class="h2Jaune text-center m-3">AVANT-PROPOS</h3>
                     <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
+                    <img src="images/veroniqueAsh/petitPaquet2.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
                     <div class="text-center">
-                    Ça y est !!! C’est le retour à l’essentiel, le retour à notre être vrai, à notre enfant intérieur.
+                    Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
 
-Pour ma part, c’est la création, la communication et le partage, car chacune de ces choses, la musique et les textes, en sont les supports.
+Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
 
-Aucune des trois ne peut exister sans les deux autres.
+Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
+<blockquote class="text-center"> 'matin, j’ai terminé<br>
+Avec un arc-en-ciel<br>
+Le raccommodage d’une faille<br>
+Forée en mon cœur.<br>
 
-La triade du bonheur dans ma vie en quelque sorte.
-(paroles et musique : Luc Le Guennec)
+Osez voir la vie en couleur<br>
+Même au fond du trou l’espoir renaît.<br>
 
-Je traîne le long des rues, en reniflant ma peine
-Qui je suis je n’sais plus, il faudrait que j’revienne
-À mes premières amours, pouvoir briser mes chaines.
-Il faudrait que je prenne mes chansons, ma guitare
-Remonter sur scène, quand redescend le soir
-Et pouvoir donner du bonheur, de la joie, de l’espoir.
+***<br>
+Nous avons tous besoin d’un bâton de marche.<br>
 
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté,
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.
 
-Pourquoi perdre sa vie à vouloir la gagner
-Et vivre des soucis à longueur de journée
-Quand on a la musique toujours à ses côtés
-Dans l’univers bizarre de la futilité.
-La richesse et la gloire où est la liberté
-Quand il y a tant de monde qui demande à rêver.
-
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.              
+Quand un caillou, un rocher<br>
+Se présente sur notre route,<br>
+Il est réconfortant de pouvoir s'appuyer.<br>
+L’erreur se trouve dans le choix du support.<br>
+Son premier soutien fut l’alcool.<br>
+Elle n’a jamais réussi à trouver sa place,<br>
+Aujourd’hui encore, elle ne sait.'<br>
+</blockquote>
 </div>
-
 <!-------------------------------------------------------------------------------------->
+
+
 
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -276,7 +363,9 @@ Trouver la liberté.
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>
 
-
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
 <p>Du dépôt à la première réponse, nous nous frottons à l’angoissante attente du oui ou non. Le résultat a été au-delà de mon espérance.  J’en déduis que soit, votre comité est très tolérant, soit, je suis la meilleure lol !  Merci d’avoir accueilli et de faire vivre mon « Petit Paquet oublié »</p>
 
@@ -300,6 +389,9 @@ Trouver la liberté.
 <p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
 <p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 
 <p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
 <p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>

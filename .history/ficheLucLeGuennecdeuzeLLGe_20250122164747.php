@@ -94,6 +94,9 @@
 <p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
 <p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 
 <p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
 <p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>

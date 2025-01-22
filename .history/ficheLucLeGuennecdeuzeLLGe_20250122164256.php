@@ -71,6 +71,9 @@
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
 <p>Du dépôt à la première réponse, nous nous frottons à l’angoissante attente du oui ou non. Le résultat a été au-delà de mon espérance.  J’en déduis que soit, votre comité est très tolérant, soit, je suis la meilleure lol !  Merci d’avoir accueilli et de faire vivre mon « Petit Paquet oublié »</p>
 
@@ -94,6 +97,9 @@
 <p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
 <p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 
 <p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
 <p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>
@@ -218,45 +224,10 @@ Aussi chaude que le vent du désert.
 <h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
 <h3 class="h2Jaune text-center m-3">Trouver la liberté</h3>
                     <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
+                    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
                 </div>
                     <div class="text-center">
-                    Ça y est !!! C’est le retour à l’essentiel, le retour à notre être vrai, à notre enfant intérieur.
-
-Pour ma part, c’est la création, la communication et le partage, car chacune de ces choses, la musique et les textes, en sont les supports.
-
-Aucune des trois ne peut exister sans les deux autres.
-
-La triade du bonheur dans ma vie en quelque sorte.
-(paroles et musique : Luc Le Guennec)
-
-Je traîne le long des rues, en reniflant ma peine
-Qui je suis je n’sais plus, il faudrait que j’revienne
-À mes premières amours, pouvoir briser mes chaines.
-Il faudrait que je prenne mes chansons, ma guitare
-Remonter sur scène, quand redescend le soir
-Et pouvoir donner du bonheur, de la joie, de l’espoir.
-
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté,
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.
-
-Pourquoi perdre sa vie à vouloir la gagner
-Et vivre des soucis à longueur de journée
-Quand on a la musique toujours à ses côtés
-Dans l’univers bizarre de la futilité.
-La richesse et la gloire où est la liberté
-Quand il y a tant de monde qui demande à rêver.
-
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.              
+                   
 </div>
 
 <!-------------------------------------------------------------------------------------->
@@ -276,7 +247,9 @@ Trouver la liberté.
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
 <p>Oui, lors de ma participation au salon des auteures à la Rochelle. C’était en juillet 2021, les personnes qui tenaient le stand ont répondu avec patience et gentillesse à mes questions.</p>
 
-
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
 <p>Du dépôt à la première réponse, nous nous frottons à l’angoissante attente du oui ou non. Le résultat a été au-delà de mon espérance.  J’en déduis que soit, votre comité est très tolérant, soit, je suis la meilleure lol !  Merci d’avoir accueilli et de faire vivre mon « Petit Paquet oublié »</p>
 
@@ -300,6 +273,9 @@ Trouver la liberté.
 <p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
 <p>Ouvrir les consciences sur un sujet tabou, qui perdure encore.</p>
 
+<div class="col-12 text-center mt-5">
+                    <img src="images/veroniqueAsh/interview2.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
+                </div>
 
 <p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
 <p>Oh que oui ! il m’a semblé évident d’écrire sur les personnes au destin hors norme que j’ai croisées au cours d’une vie tumultueuse.</p>

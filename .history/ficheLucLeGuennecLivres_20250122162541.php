@@ -20,6 +20,7 @@
     <p>
         Puis, se posant des questions sur sa vie, il décide de la transformer en revenant à l’essentiel, en matérialisant cette transformation par des chansons de type pop/rock.<br>
     </p>
+    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded">
     <p>
         Après avoir écouté ses chansons, comment ne pas venir le voir sur scène, pour un concert, seul ou avec ses musiciens ? <br>
         Il vous emmènera avec lui dans son périple virtuel et pourtant si réel. Le partage sera de toute façon au rendez-vous.<br>
