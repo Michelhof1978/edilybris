@@ -1,17 +1,17 @@
 <?php include("head.php"); ?>
 
-<title>Luc Le Guennec - Auteur</title>
-<meta name="description" content="Le livre de Luc Le Guennec. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Guy Lopinto - Auteur</title>
+<meta name="description" content="Le livre de Guy Lopinto. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 
 <?php include("header.php"); ?>
 
 <main>
     <!-- MODE MOBILE--> 
-    <!-- deuzeLLGe -->
+    <!-- Au-delà De L'intime -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Luc Le Guennec</h2>
+            <h2 class="text-center text-white">Le livre de Guy Lopinto</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
@@ -19,7 +19,7 @@
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">deuzeLLGe</h3>
+                    <h3 class="h2Jaune text-center">Au-delà De L'intime </h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
@@ -33,6 +33,17 @@
                         <strong class="h2Jaune">Référence :</strong> 9782363440802
                     </p>
                     
+                    <p class="lead">
+                        <strong class="h2Jaune">Résumé :</strong>Tout d’abord, prendre des nouvelles de la vie, des humains, de tant d’existences.
+
+Ensuite, capter des nouvelles d’univers potentiels, de temps révolus, d’autres expériences.
+
+Enfin, imaginer de nouvelles pistes, des voies salutaires ; redéfinir des exigences !
+
+Dans les deux sens du terme : « NOUVELLES ».
+
+Lorsque le fond et la forme se rejoignent...
+                    </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>

@@ -1,25 +1,25 @@
 <?php include("head.php"); ?>
 
-<title>Luc Le Guennec - Auteur</title>
-<meta name="description" content="Le livre de Luc Le Guennec. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Guy Lopinto - Auteur</title>
+<meta name="description" content="Le livre de Guy Lopinto. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 
 <?php include("header.php"); ?>
 
 <main>
     <!-- MODE MOBILE--> 
-    <!-- deuzeLLGe -->
+    <!-- Au-delà De L'intime -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Luc Le Guennec</h2>
+            <h2 class="text-center text-white">Le livre de Guy Lopinto</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/file-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre PAQUET OUBLIE">
+                    <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre Au-delà De L'intime">
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">deuzeLLGe</h3>
+                    <h3 class="h2Jaune text-center">Au-delà De L'intime </h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
@@ -30,119 +30,48 @@
                         <strong class="h2Jaune">Genre :</strong> Poésie
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440802
+                        <strong class="h2Jaune">Référence :</strong> 9782363440662
                     </p>
+                    
                     
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
+                    <p class="lead">
+                       
+                    </p>
 <!-------------------------------------------------------------------------------------->
 
-                    <h3 class="h2Jaune text-center m-3">Extraits</h3>
-                    <h3 class="h2Jaune text-center m-3">Je cherche la lumière </h3>
-                    <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
-                    </div>
                     <div class="text-center">
+                    <h3 class="h2Jaune text-center m-3">LA PRÉFACIÈRE : Emmanuelle DE BOYSSON</h3>
+                    <h4 class="h2Jaune text-center m-3">Emmanuelle de Boysson : en quelques mots...</h4>
+
+                    <img src="images/guyLopinto/photo2.webp" alt="Photo de Emmanuelle de Boysson" class="w-50 m-5 rounded">
+                    
                     <p>
-                    Bienvenue à toi, lectrice, lecteur, dans un voyage de développement personnel, de prise de conscience, le temps de faire une pause, de reprendre sa vie en main, de redevenir soi-même.
+                    Emmanuelle de Boysson est une romancière et essayiste à succès, auteure de vingt cinq livres dont  quinze romans.<br>
 
-La première chanson de l’album, Je cherche la lumière, constitue l’introduction, le point de départ.
+Elle est également une critique et chroniqueuse littéraire très connue.<br>
 
- Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
- 
- <p><strong>Je cherche la lumière</strong> <br>
+Elle fait partie de jurys de nombreux prix littéraires et notamment le Prix de la Closerie des Lilas dont elle est la cofondatrice .<br>
 
-(paroles et musique : Luc Le Guennec)</p><br>
-
-<p>Je viens pour déployer mes ailes,
-Retrouver le goût de l’essentiel
-Je vis sur la Terre des hommes pour répandre la lumière.
-D’ailleurs, comment pourrions-nous vivre
-Sans cette étoile brillante du matin
-Annonçant l’arrivée du soleil d’un nouveau jour divin ?</p><br>
-
-<p>Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs.</p><br>
-
-<p>Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
-
-<p>Elle jaillira des profondeurs,
-Rythmera les battements de mon cœur
-J’ai traversé le froid et les flammes, pour vivre mon destin.
-C’est la résurrection de l’ange
-Le phénix qui renait de ses cendres.
-Profitons du nouveau jour qui vient, sans attendre demain.</p><br>
-
-<p>Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs.
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs</p><br>
-
-<p>Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
+Quelques uns de ses ouvrages parus : Les grandes bourgeoises et Les nouvelles provinciales (J-C Lattès),  sa trilogie, Le temps des femmes, (Flammarion. Prix Simone Veil 2017), Les années solex (prix Jacques Chabannes), Que tout soit à la joie, (Ed Héloïse d’Ormesson),  Je ne vis que pour vous (Calmann-Lévy). Son dernier roman, June est également édité par Calmann-Lévy.</p><br>
                     
                     </div>
 
 <!-------------------------------------------------------------------------------------->
-<h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
-<h3 class="h2Jaune text-center m-3">Trouver la liberté</h3>
-                    <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded">
-                    </div>
+<h3 class="h2Jaune text-center m-3">PRÉFACE</h3>
                     <div class="text-center">
-                   <p> Ça y est !!! C’est le retour à l’essentiel, le retour à notre être vrai, à notre enfant intérieur.
+                    <p>Guy Lo Pinto est un peintre de la lumière et des couleurs éblouissantes, avec une prédilection pour le bleu de Tunisie où il est né. Aujourd’hui, il vit à l’île de Ré, où il réalise des toiles qui évoquent des feux d’artifice, le ciel et la mer, la création du monde et l’énergie cosmique. De l’art abstrait pour dire la joie et l’éblouissement, un travail où l’artiste utilise les aplats, la peinture au couteau ou le dripping, mêlant souvent plusieurs matières : l’acrylique, les pigments purs, l’encre de Chine, les pastels.</p><br>
 
-Pour ma part, c’est la création, la communication et le partage, car chacune de ces choses, la musique et les textes, en sont les supports.
+                    <p>Ce passionné de spiritualité et de philosophie qui se dit autodidacte aime depuis toujours la poésie. Et comme l’inspiration émane de la même source, il a écrit de merveilleux poèmes où l’on retrouve le peintre, celui qui cherche à préserver ce qui lui tient le plus à coeur : sa liberté, afin d’exprimer ce qu’il a au fond de lui et de donner libre cours à son expression. Comme disait Verlaine : « L’art, mes enfants, c’est d’être absolument moi-même ».</p><br>
 
-Aucune des trois ne peut exister sans les deux autres.</p><br>
+                    <p>Ce recueil aux allures de patchwork, qui associe intime, impressions de voyage, hommages et sacré, est le reflet d’une tranche de vie. En vers, en prose et même pour certains, en slam, partout, éclatent les couleurs : le jaune et le bleu au Café de Flore, le grenat d’un concerto, le gris lavé d’un regard.</p><br>
 
-<p>La triade du bonheur dans ma vie en quelque sorte.
-(paroles et musique : Luc Le Guennec)</p><br>
+                    <p>Guy Lo Pinto nous entraîne en Islande, à Tunis ou au Zénith, nous fait entendre la voix de Patti Smith à New Jersey. Le temps d’un Kaddish, la musique vous prend, la terre danse, des images surgissent : sable, nuit, noir/ émaux calcinés/ flots saccadés. Et par la magie des mots, renaissent le goût de la Douceur, la Sérénité et nos rêves d’enfant.</p><br>
 
-<p>Je traîne le long des rues, en reniflant ma peine
-Qui je suis je n’sais plus, il faudrait que j’revienne
-À mes premières amours, pouvoir briser mes chaines.
-Il faudrait que je prenne mes chansons, ma guitare
-Remonter sur scène, quand redescend le soir
-Et pouvoir donner du bonheur, de la joie, de l’espoir.</p><br>
-
-<p>Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté,
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.</p><br>
-
-<p>Pourquoi perdre sa vie à vouloir la gagner
-Et vivre des soucis à longueur de journée
-Quand on a la musique toujours à ses côtés
-Dans l’univers bizarre de la futilité.
-La richesse et la gloire où est la liberté
-Quand il y a tant de monde qui demande à rêver.</p><br>
-
-<p>Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Supprimer les frontières, trouver la liberté
-Entrer dans la lumière, comme un oiseau blessé,
-Oublier toutes les guerres, oublier le passé,
-Trouver la liberté.   </p><br>           
+Emmanuelle de Boysson           
 </div>
 
 <!-------------------------------------------------------------------------------------->
@@ -220,89 +149,47 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Luc Le Guennec</h2>
-            <!-- Petit paquet oublié -->
+            <h2>Les livres de Guy Lopinto</h2>
+            <!-- Au-delà De L'intime -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture du livre deuzeLLGe">
+                        <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture du livre Au-delà De L'intime">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">deuzeLLGe</h3>
+                        <h3 class="h2Jaune">Au-delà De L'intime</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 72</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440802</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440662</p>
 
                         <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                         
 <!-------------------------------------------------------------------------------------->
-<h3 class="h2Jaune text-center m-3">Extraits</h3>
-                    <h3 class="h2Jaune text-center m-3">Je cherche la lumière</h3>
-                    <div class="col-12 text-center">
-                    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
-                </div>
-                <div class="text-center">
+
+                    <div class="text-center">
+                    <h3 class="h2Jaune text-center m-3">LA PRÉFACIÈRE : Emmanuelle DE BOYSSON</h3>
+                    <h4 class=" text-center m-3">Emmanuelle de Boysson : en quelques mots...</h4>
+
+                    <img src="images/guyLopinto/photo2.webp" alt="Photo de Emmanuelle de Boysson" class="w-50 m-5 rounded">
+                    
                     <p>
-                    Bienvenue à toi, lectrice, lecteur, dans un voyage de développement personnel, de prise de conscience, le temps de faire une pause, de reprendre sa vie en main, de redevenir soi-même.
+                    Emmanuelle de Boysson est une romancière et essayiste à succès, auteure de vingt cinq livres dont  quinze romans.<br>
 
-La première chanson de l’album, Je cherche la lumière, constitue l’introduction, le point de départ.
+Elle est également une critique et chroniqueuse littéraire très connue.<br>
 
- Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
- 
- <p><strong>Je cherche la lumière</strong> <br>
+Elle fait partie de jurys de nombreux prix littéraires et notamment le Prix de la Closerie des Lilas dont elle est la cofondatrice .<br>
 
-(paroles et musique : Luc Le Guennec)</p><br>
-
-<p>Je viens pour déployer mes ailes,
-Retrouver le goût de l’essentiel
-Je vis sur la Terre des hommes pour répandre la lumière.
-D’ailleurs, comment pourrions-nous vivre
-Sans cette étoile brillante du matin
-Annonçant l’arrivée du soleil d’un nouveau jour divin ?</p><br>
-
-<p>Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs.</p><br>
-
-<p>Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
-
-<p>Elle jaillira des profondeurs,
-Rythmera les battements de mon cœur
-J’ai traversé le froid et les flammes, pour vivre mon destin.
-C’est la résurrection de l’ange
-Le phénix qui renait de ses cendres.
-Profitons du nouveau jour qui vient, sans attendre demain.</p><br>
-
-<p>Chaque jour l'éternelle renaissance
-Nous apporte la lumière jusqu’au fond de nos cœurs.
-Même l’étoile de Vénus s’en balance
-Car ce soir sous les projecteurs</p><br>
-
-<p>Je cherche la lumière,
-Afin de repousser mes frontières
-Je cherche la lumière,
-Comme tout être humain sur cette Terre
-Je cherche la lumière,
-Aussi fraiche que l’eau des rivières
-Je cherche la lumière,
-Aussi chaude que le vent du désert.</p><br>
+Quelques uns de ses ouvrages parus : Les grandes bourgeoises et Les nouvelles provinciales (J-C Lattès),  sa trilogie, Le temps des femmes, (Flammarion. Prix Simone Veil 2017), Les années solex (prix Jacques Chabannes), Que tout soit à la joie, (Ed Héloïse d’Ormesson),  Je ne vis que pour vous (Calmann-Lévy). Son dernier roman, June est également édité par Calmann-Lévy.</p><br>
                     
                     </div>
+
 <!-------------------------------------------------------------------------------------->
 <h3 class="h2Jaune text-center m-3">Album transformation - extraits</h3>
 <h3 class="h2Jaune text-center m-3">Trouver la liberté</h3>

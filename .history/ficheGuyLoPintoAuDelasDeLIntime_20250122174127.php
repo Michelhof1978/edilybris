@@ -1,6 +1,6 @@
 <?php include("head.php"); ?>
 
-<title>Luc Le Guennec - Auteur</title>
+<title>deuzeLLGe - Auteur</title>
 <meta name="description" content="Le livre de Luc Le Guennec. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 

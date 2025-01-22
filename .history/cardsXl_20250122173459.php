@@ -739,7 +739,7 @@
         <div id="desktop-group5" class="new-card-container new-hidden">
         <!-- carte 20 Lo Pinto Guy-->
         <div class="new-card">
-            <a href="ficheGuyLoPintoAuDelasDeLIntime.php">
+            <a href="link_to_book_F.html">
                 <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture de livre Au delà de l'intime">
                 <div class="new-card-content">
                     <div class="new-card-author">Lo Pinto Guy </div>

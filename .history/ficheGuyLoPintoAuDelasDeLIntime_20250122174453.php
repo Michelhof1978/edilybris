@@ -1,6 +1,6 @@
 <?php include("head.php"); ?>
 
-<title>Luc Le Guennec - Auteur</title>
+<title>deuzeLLGe - Auteur</title>
 <meta name="description" content="Le livre de Luc Le Guennec. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 
@@ -11,7 +11,7 @@
     <!-- deuzeLLGe -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Luc Le Guennec</h2>
+            <h2 class="text-center text-white">Le livre de Guy Lopinto</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
