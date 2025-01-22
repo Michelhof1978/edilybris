@@ -210,8 +210,8 @@ Emmanuelle de Boysson
 
                     <h4 class="h2Jaune text-center m-3">Coup de Lune</h4>
 
-                    <p >
-                    <blockquote class="text-center"> si un beau matin<br>
+                    <p cl>
+                    <blockquote> si un beau matin<br>
 Je me levais de travers<br>
 Comme un bateau sans la mer<br>
 Comme une étoile à l’envers<br>
@@ -240,7 +240,7 @@ Un coup de lune m’atteint.
 <h4 class="h2Jaune text-center m-3">Café de Flore</h4>
 
 <p>
-<blockquote class="text-center"> flot lumineux
+Dense flot lumineux
 En cristal jaune et bleu
 Où la foule passe et repasse
 Caresse mon angoisse lisse
@@ -273,12 +273,12 @@ Qui se met à rêver
 
 De ton infinie...
 
-Douceur </blockquote></p>
+Douceur</p>
 
 <h4 class="h2Jaune text-center m-3">Mauritanie</h4>
 
 <p>
-<blockquote class="text-center">J’atteindrai la Mauritanie
+J’atteindrai la Mauritanie
 Au détour de mes pas brisés
 Quand le soleil parvenu au zénith
 Saluera étonné mon bâton.
@@ -295,7 +295,7 @@ Je humerai tout simplement
 Au-delà de toutes frontières
 La liberté
 
-Ma liberté</blockquote></p>
+Ma liberté</p>
 
 
 <div class="text-center mt-3">

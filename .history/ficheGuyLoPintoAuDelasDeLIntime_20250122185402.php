@@ -210,8 +210,8 @@ Emmanuelle de Boysson
 
                     <h4 class="h2Jaune text-center m-3">Coup de Lune</h4>
 
-                    <p >
-                    <blockquote class="text-center"> si un beau matin<br>
+                    <p>
+                    <blockquote> si un beau matin<br>
 Je me levais de travers<br>
 Comme un bateau sans la mer<br>
 Comme une étoile à l’envers<br>
@@ -222,14 +222,14 @@ Sorti d’un ciel sans nuages<br><br>
 
 J’ai dans ma tête un rocher<br>
 J’ai dans mon coeur un essaim<br>
-Et même si je m’endors<br>
-Je vois le feu du soleil<br>
-Et j’ai besoin de courir<br>
-De dépasser le temps<br>
-J’ai beau ouvrir les yeux<br>
-J’ai perdu mon chemin<br><br>
+Et même si je m’endors
+Je vois le feu du soleil
+Et j’ai besoin de courir
+De dépasser le temps
+J’ai beau ouvrir les yeux
+J’ai perdu mon chemin
 
-Un coup de lune<br><br>
+Un coup de lune
 
 Un coup de lune m’atteint.
 </blockquote>
@@ -240,7 +240,7 @@ Un coup de lune m’atteint.
 <h4 class="h2Jaune text-center m-3">Café de Flore</h4>
 
 <p>
-<blockquote class="text-center"> flot lumineux
+Dense flot lumineux
 En cristal jaune et bleu
 Où la foule passe et repasse
 Caresse mon angoisse lisse
@@ -273,12 +273,12 @@ Qui se met à rêver
 
 De ton infinie...
 
-Douceur </blockquote></p>
+Douceur</p>
 
 <h4 class="h2Jaune text-center m-3">Mauritanie</h4>
 
 <p>
-<blockquote class="text-center">J’atteindrai la Mauritanie
+J’atteindrai la Mauritanie
 Au détour de mes pas brisés
 Quand le soleil parvenu au zénith
 Saluera étonné mon bâton.
@@ -295,7 +295,7 @@ Je humerai tout simplement
 Au-delà de toutes frontières
 La liberté
 
-Ma liberté</blockquote></p>
+Ma liberté</p>
 
 
 <div class="text-center mt-3">

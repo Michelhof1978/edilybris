@@ -240,7 +240,7 @@ Un coup de lune m’atteint.
 <h4 class="h2Jaune text-center m-3">Café de Flore</h4>
 
 <p>
-<blockquote class="text-center"> flot lumineux
+<blockquote > flot lumineux
 En cristal jaune et bleu
 Où la foule passe et repasse
 Caresse mon angoisse lisse
@@ -278,7 +278,7 @@ Douceur </blockquote></p>
 <h4 class="h2Jaune text-center m-3">Mauritanie</h4>
 
 <p>
-<blockquote class="text-center">J’atteindrai la Mauritanie
+<bloJ’atteindrai la Mauritanie
 Au détour de mes pas brisés
 Quand le soleil parvenu au zénith
 Saluera étonné mon bâton.
@@ -295,7 +295,7 @@ Je humerai tout simplement
 Au-delà de toutes frontières
 La liberté
 
-Ma liberté</blockquote></p>
+Ma liberté</p>
 
 
 <div class="text-center mt-3">

@@ -210,29 +210,29 @@ Emmanuelle de Boysson
 
                     <h4 class="h2Jaune text-center m-3">Coup de Lune</h4>
 
-                    <p >
-                    <blockquote class="text-center"> si un beau matin<br>
-Je me levais de travers<br>
-Comme un bateau sans la mer<br>
-Comme une étoile à l’envers<br>
-Comme une rose piquée<br>
-Qui cherche en vain le soleil<br>
-Comme un orage sans fin<br>
-Sorti d’un ciel sans nuages<br><br>
+                    <p>
+                    Comme si un beau matin
+Je me levais de travers
+Comme un bateau sans la mer
+Comme une étoile à l’envers
+Comme une rose piquée
+Qui cherche en vain le soleil
+Comme un orage sans fin
+Sorti d’un ciel sans nuages
 
-J’ai dans ma tête un rocher<br>
-J’ai dans mon coeur un essaim<br>
-Et même si je m’endors<br>
-Je vois le feu du soleil<br>
-Et j’ai besoin de courir<br>
-De dépasser le temps<br>
-J’ai beau ouvrir les yeux<br>
-J’ai perdu mon chemin<br><br>
+J’ai dans ma tête un rocher
+J’ai dans mon coeur un essaim
+Et même si je m’endors
+Je vois le feu du soleil
+Et j’ai besoin de courir
+De dépasser le temps
+J’ai beau ouvrir les yeux
+J’ai perdu mon chemin
 
-Un coup de lune<br><br>
+Un coup de lune
 
 Un coup de lune m’atteint.
-</blockquote>
+
 
 
 </p>
@@ -240,7 +240,7 @@ Un coup de lune m’atteint.
 <h4 class="h2Jaune text-center m-3">Café de Flore</h4>
 
 <p>
-<blockquote class="text-center"> flot lumineux
+Dense flot lumineux
 En cristal jaune et bleu
 Où la foule passe et repasse
 Caresse mon angoisse lisse
@@ -273,29 +273,45 @@ Qui se met à rêver
 
 De ton infinie...
 
-Douceur </blockquote></p>
+Douceur</p>
 
 <h4 class="h2Jaune text-center m-3">Mauritanie</h4>
 
 <p>
-<blockquote class="text-center">J’atteindrai la Mauritanie
-Au détour de mes pas brisés
-Quand le soleil parvenu au zénith
-Saluera étonné mon bâton.
-Je poserai mes oripeaux
-Étendrai mon corps brûlant
-Et pousserai mon chant divin
-Pour donner le change au vent.
-Je mettrai mon coeur en prières
-Juste un moment comme fait Dieu
-Pour attirer les âmes bleues
-Émergeant des dunes rousses.
-Joignant les mains les yeux ouverts
-Je humerai tout simplement
-Au-delà de toutes frontières
-La liberté
+Dense flot lumineux
+En cristal jaune et bleu
+Où la foule passe et repasse
+Caresse mon angoisse lisse
+Et me ramène à toi
 
-Ma liberté</blockquote></p>
+Uniquement toi
+
+Intense odeur d’une tasse
+
+Brûlante
+
+Comme l’était ta main
+Si tendre si forte
+Et tes yeux dans le froid
+Me guident lentement
+Vers ce que tu veux voir
+
+Revivre
+
+Saint-Germain sent le soir
+Et tout mon coeur se tend
+
+À éclater
+
+De fines particules grises
+Envahissent mes sens
+Les portent loin de moi
+Et c’est aussi Paris
+Qui se met à rêver
+
+De ton infinie...
+
+Douceur</p>
 
 
 <div class="text-center mt-3">
