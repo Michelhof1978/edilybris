@@ -50,7 +50,8 @@ body {
 .liens-sociaux ul li a:hover {
   text-decoration: underline; /* Facultatif, pour souligner au survol */
 }
-/* Fin Lien sociaux */
+
+
 /* Row alignée en flexbox */
 .row {
   display: flex;

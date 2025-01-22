@@ -41,7 +41,7 @@ body {
   color: yellow; /* Applique la couleur jaune */
 }
 
-/* Lien sociaux */
+/* Lien soci */
 .liens-sociaux ul li a {
   color: #ffcc00; /* Applique la couleur jaune aux liens */
   text-decoration: none; /* Retire le soulignement, facultatif */
@@ -50,7 +50,8 @@ body {
 .liens-sociaux ul li a:hover {
   text-decoration: underline; /* Facultatif, pour souligner au survol */
 }
-/* Fin Lien sociaux */
+
+
 /* Row alignée en flexbox */
 .row {
   display: flex;

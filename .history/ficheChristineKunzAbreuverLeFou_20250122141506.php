@@ -125,16 +125,6 @@ Femme je suis
 De jaune et de bleu
 </p>
 
-<section class="liens-sociaux mb-3">
-    <h2>LIENS SOCIAUX</h2>
-    <p>Vous pouvez découvrir Christine sur plusieurs sites et notamment sur son Facebook :</p>
-    <ul >
-        <li><a href="https://www.facebook.com/christine.kunz.5" target="_blank">Christine Kunz sur Facebook</a></li>
-        <li ><a href="https://www.bigbassband.com/christine-kunz-sort-son-recueil-de" target="_blank">Article sur le site Big Bass Band</a></li>
-        <li><a href="https://www.facebook.com/LavomaticTour/posts/1068111149873503/" target="_blank">Publication Lavomatic Tour</a></li>
-        <li><a href="http://bigbassband.com/christine-kunz-aux-vibrations" target="_blank">Christine Kunz aux Vibrations Poétiques</a></li>
-    </ul>
-</section>
 
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

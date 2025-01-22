@@ -125,7 +125,7 @@ Femme je suis
 De jaune et de bleu
 </p>
 
-<section class="liens-sociaux mb-3">
+<section class="liens-sociaux">
     <h2>LIENS SOCIAUX</h2>
     <p>Vous pouvez découvrir Christine sur plusieurs sites et notamment sur son Facebook :</p>
     <ul >
