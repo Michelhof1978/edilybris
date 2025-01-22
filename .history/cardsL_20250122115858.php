@@ -207,7 +207,7 @@
 <div class="L-card-container L-hidden" id="L-group2">
    <!-- Carte 4 CHRISTINE KUNZ -->
     <div class="L-card">
-        <a href="ficheChristineKunzAbreuverLeFou.php">
+        <a href="link_to_book_F.html">
             <img src="images/christinekunz/couv-pour-site-abreuver-le-fou-min.webp" class="img-fluid" alt="couverture de livre Abreuver le fou qui dort en nos désert">
             <div class="L-card-content">
                 <div class="L-card-author">Christine Kunz</div>
