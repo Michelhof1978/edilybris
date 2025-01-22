@@ -14,7 +14,7 @@
             <h2 class="text-center text-white">Le livre de Luc Le Guennec</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
-                <div class="col-12 text-center">²²
+                <div class="col-12 text-center">
                     <img src="images/lucLeGuennec/file-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre PAQUET OUBLIE">
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
@@ -277,19 +277,19 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Luc Le Guennec</h2>
+            <h2>Les livres de Véronique Ash</h2>
             <!-- Petit paquet oublié -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/lucLeGuennec/file-min.webp" class="img-fluid" alt="Couverture du livre deuzeLLGe">
+                        <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture du livre Petit paquet oublié">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">deuzeLLGe</h3>
+                        <h3 class="h2Jaune">Petit paquet oublié</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 72</p>
@@ -524,6 +524,38 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
+      <!-------------------------------------------------------------------------------------->
+                 
+     <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel2.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                <div class="carousel-item ">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
 
                 </div>
             </div>

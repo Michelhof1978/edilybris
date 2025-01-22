@@ -14,7 +14,7 @@
             <h2 class="text-center text-white">Le livre de Luc Le Guennec</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
-                <div class="col-12 text-center">²²
+                <div class="col-12 text-center">
                     <img src="images/lucLeGuennec/file-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre PAQUET OUBLIE">
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>

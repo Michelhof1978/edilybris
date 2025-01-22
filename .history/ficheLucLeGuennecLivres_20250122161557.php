@@ -12,16 +12,16 @@
     <div class="containerAuteur">
     <h2 class="h2Jaune">Luc LE GUENNEC dit "deuzeLLGé"</h2>
 <div class="text-center m-5">
-    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
+    <img src="images/lucLeGuennec/photo1.webp" alt="Photo de Luc Le Guennec" class="w- m-5 rounded" >
     <p>
         C’est l’histoire d’un chanteur, musicien, rêveur voulant chanter sa vie au fil de l’eau, faisant des haltes et écoutant les chants des marins dans les ports.<br>
         Il rêve d’Océan, afin d’y trouver, toutes voiles dehors, gonflées à bloc, sa Liberté. Le style musical, inédit, entre “folk marin” et rock celtique, Luc vous le fera découvrir par son envie d’Océan.<br>
     </p>
-    <img src="images/lucLeGuennec/photo2.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded" >
+    <img src="images/lucLeGuennec/photo2.webp" alt="Photo de Luc Le Guennec" class="w-25 m-5 rounded" >
     <p>
         Puis, se posant des questions sur sa vie, il décide de la transformer en revenant à l’essentiel, en matérialisant cette transformation par des chansons de type pop/rock.<br>
     </p>
-    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-50 m-5 rounded">
+    <img src="images/lucLeGuennec/photo3.webp" alt="Photo de Luc Le Guennec" class="w-25 m-5 rounded">
     <p>
         Après avoir écouté ses chansons, comment ne pas venir le voir sur scène, pour un concert, seul ou avec ses musiciens ? <br>
         Il vous emmènera avec lui dans son périple virtuel et pourtant si réel. Le partage sera de toute façon au rendez-vous.<br>
