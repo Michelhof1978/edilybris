@@ -52,7 +52,7 @@ La première chanson de l’album, Je cherche la lumière, constitue l’introdu
 
  Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
  
- <p><strong>Je cherche la lumière</strong> <br>
+ <p><strong>Je cherche la lumière</strong> 
 
 (paroles et musique : Luc Le Guennec)</p><br>
 
@@ -197,7 +197,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
 <!-------------------------------------------------------------------------------------->
 
-                    <div class="text-center mt-5">
+                    <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
@@ -256,7 +256,7 @@ La première chanson de l’album, Je cherche la lumière, constitue l’introdu
 
  Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
  
- <p><strong>Je cherche la lumière</strong> <br>
+ <p><strong>Je cherche la lumière</strong> 
 
 (paroles et musique : Luc Le Guennec)</p><br>
 

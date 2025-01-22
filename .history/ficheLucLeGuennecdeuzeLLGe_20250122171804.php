@@ -52,7 +52,7 @@ La première chanson de l’album, Je cherche la lumière, constitue l’introdu
 
  Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
  
- <p><strong>Je cherche la lumière</strong> <br>
+ <p><strong>Je cherche la lumière</strong> 
 
 (paroles et musique : Luc Le Guennec)</p><br>
 
@@ -197,7 +197,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
 <!-------------------------------------------------------------------------------------->
 
-                    <div class="text-center mt-5">
+                    <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
@@ -256,7 +256,7 @@ La première chanson de l’album, Je cherche la lumière, constitue l’introdu
 
  Cette lumière est notre vérité profonde, celle de notre enfant intérieur. Nos éducations nous en éloignent, à en oublier qui nous sommes vraiment. »</p><br>
  
- <p><strong>Je cherche la lumière</strong> <br>
+ <p><strong>Je cherche la lumière</strong> 
 
 (paroles et musique : Luc Le Guennec)</p><br>
 
@@ -374,32 +374,29 @@ Trouver la liberté.   </p><br>
 
 
 <p class="coloryellow">Parlons du livre à paraître : « Petit Paquet oublié ». Comment t’est venue l’idée d’écrire sur ce sujet ?</p> 
-<p>Ce sont des sensations, des instants de mal-être, qui au bout du compte m’ont fait réaliser qu’il fallait que je change des choses dans ma vie, et que je devais être le seul à décider de ce qui est bien pour moi. Comme je suis auteur et compositeur, j’ai mis en paroles et en musique mon évolution personnelle.</p>
+<p></p>
 
 
 <p class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?</p> 
-<p>C’est la quête du retour à soi-même, après avoir vécu les règles, voire les diktats de nos environnements familiaux et autres. C’est le retour à notre essentiel.
-L’histoire se situe en deux épisodes.
-D’abord la prise de conscience que la vie que l’on mène ne nous convient pas. De là, se reconnecter à soi pour savoir la vie qui nous correspond (travail, relations, endroit de vie…).
-Puis, c’est la transformation finale, celle qui nous met en action pour redevenir nous-mêmes.
-Pas de soucis pour la fin, car elle reste à écrire, rien n’est jamais fini, car nous passons le temps à évoluer, nous tromper aussi parfois, mais la fin n’est pas la plus importante, c’est le chemin qui est important, différent et surprenant parfois.</p>  
+<p></p>  
 
 
 
-<p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers tes textes ?</p> 
-<p>Je reprendrais la phrase de Socrate : « Connais-toi toi-même », car c’est alors mieux s’aimer et savoir ce qu’il faut laisser de côté, ou abandonner, afin de s’ouvrir à ce qui nous correspond le mieux. Être soi-même, vraiment, revenir à notre essentiel, à notre enfant intérieur.
-Notre passage sur Terre doit nous permettre de devenir la meilleure version de nous, pour nous et pour les autres.</p>
+<p class="coloryellow"> La couverture : qui t’a fourni le cliché ?</p>
+<p></p>
 
 
-<p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ? </p>
-<p>Je suis toujours en mode création, donc il y a des nouveaux textes à venir, habillés bien sûr de nouvelles musiques. Ces textes parleront de nature et de ressentis face à elle et mon nouveau moi. La Bretagne ne sera pas loin…</p>
+<p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
+<p></p>
+
+
+<p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
+<p></p>
 
 
 <p class="coloryellow">Edi’lybris : Un dernier mot à l’attention des lecteurs ?</p> 
-<p>Prenez du plaisir durant la lecture de cet ouvrage et de l’écoute des extraits mis à disposition grâce aux QRcodes, et pour prolonger ce partage, venez me voir en concert, je serai très heureux de pouvoir vous rencontrer et échanger avec vous. Prenez soin de vous, écoutez votre âme, aimez-vous pour mieux aimer et être aimé des autres. Le Monde ne pourra que s’améliorer ainsi.</p> 
-
-<p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !</p>
-<p>Merci à toi et toute ton équipe pour cette belle aventure.</p>
+<p>
+</p> 
 <br><br>
 
 </div>
