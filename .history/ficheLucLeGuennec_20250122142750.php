@@ -8,7 +8,7 @@
 
 
 
- <?php include("ficheLucLeGuennecLivres.php"); ?>
+ <?php include("footer.php"); ?>
 
 
  

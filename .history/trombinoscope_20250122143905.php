@@ -445,7 +445,7 @@
         </div>
       </a>
  <!-- LE GUENNEC LUC-->
-      <a href="ficheLucLeGuennec.php" class="profile-card producer">
+      <a href="ficheLucLeGuennec" class="profile-card producer">
         <div class="imgBx">
           <img src="images/lucLeGuennec/lucLeGuennec.webp" class="img-fluid" alt="Phot de LE GUENNEC LUC">
         </div>
