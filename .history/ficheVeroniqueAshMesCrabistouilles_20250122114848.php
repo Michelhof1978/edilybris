@@ -61,16 +61,16 @@ Bonne lecture, ami(e)s carasbitouilleurs !
                     <div class="livre-image">
                         <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture du livre carabistouilles">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
 
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Les carabistouilles</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Témoignages</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 90</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440577</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 134</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440563</p>
 
                         <div class="lead text-white text-center">
                        <p> Pour lire, nul besoin de dico ou d’aspirine.

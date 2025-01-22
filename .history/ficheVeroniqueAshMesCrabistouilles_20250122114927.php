@@ -69,7 +69,7 @@ Bonne lecture, ami(e)s carasbitouilleurs !
                         <h3 class="h2Jaune">Les carabistouilles</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Témoignages</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 90</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 134</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440577</p>
 
                         <div class="lead text-white text-center">

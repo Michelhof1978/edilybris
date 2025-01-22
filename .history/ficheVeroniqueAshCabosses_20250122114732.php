@@ -63,7 +63,7 @@ Ceux qui la suivent reconnaîtront son style libre et atypique.
                     <div class="livre-image">
                         <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture du livre Cabossées">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
 
 
                     </div>

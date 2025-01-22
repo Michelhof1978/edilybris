@@ -17,7 +17,7 @@
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Mes carabistouilles">
-                    <p class="fw-bold coloryellow fs-5">14,00 €</p>
+                    <p class="fw-bold coloryellow fs-5">15,00 €</p>
                 </div>
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">Cabossées</h3>
@@ -28,10 +28,10 @@
                         <strong class="h2Jaune">Nombre de pages :</strong> 90
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Témoignages
+                        <strong class="h2Jaune">Genre :</strong> 
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440686
+                        <strong class="h2Jaune">Référence :</strong> 9782363440563
                     </p>
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong> Naissances non programmées, adolescentes non structurées. Devenues femmes, elles ont vogué au gré de violentes marées. Mamans, elles se sont adaptées, ont élevé sans mode d’emploi leur progéniture.
@@ -63,16 +63,16 @@ Ceux qui la suivent reconnaîtront son style libre et atypique.
                     <div class="livre-image">
                         <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture du livre Cabossées">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
 
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Cabossées</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Témoignages</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 90</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440686</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 134</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440563</p>
 
                         <div class="lead text-white text-center">
                        <p> Naissances non programmées, adolescentes non structurées. Devenues femmes, elles ont vogué au gré de violentes marées. Mamans, elles se sont adaptées, ont élevé sans mode d’emploi leur progéniture.
