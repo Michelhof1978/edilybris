@@ -52,7 +52,7 @@ Ce roman se lit quasiment d'une seule traite, tant les péripéties et l'esprit 
      Trois squelettes dans une cave à Sissonne... Trois plaques militaires disparues... Trois personnes en quête de vérités... Mais lorsque le héros principal se trouve impliqué malgré lui dans un meurtre, une fuite éperdue, le tout dans un scénario mêlant les deux guerres mondiales, l’énigme du départ devient un jeu dangereux dans l’Alabama... Entre Survivalistes, magnat de l’industrie et les beaux yeux de Sandy, vivez cette palpitante aventure à la conclusion déroutante !
 </p>
 <div class="text-center my-4">
-    <img src="images/JocelynMailly/photo3.webp" alt="photo" class="img-fluid w-75">
+    <img src="images/JocelynMailly/photo3.webp" alt="photo" class="img-fluid">
 </div>
 <h4 class="h2Jaune text-center m-3">LA COUVERTURE</h4>
  <p>
@@ -175,9 +175,6 @@ Impossible de le rappeler maintenant, il était trois heures en France. Je déci
 
 Je me couchai et trouvai tardivement le sommeil, la tête emplie de ce message bizarre.
 </p>
-
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-
                     </div>
                 </div>
             </div>
