@@ -116,19 +116,12 @@ Ce jeudi-là, à son grand désarroi, il n’y parviendra pas…
                     <p>
                     Une nouvelle confrontation se produit quelques mois plus tard avec les soldats. Les adultes sont aux champs à l'exception de la grand-mère, des jeunes enfants et de Bean qui est resté couché (la veille il avait abusé de l'alcool de riz). Sok, la dernière-née, âgée de trois ans, joue dans la cour. Elle s'amuse à semer la pagaille dans une colonie de fourmis avec un bout de bois. Cinq soldats, à moitié dépenaillés,
 surgissent du côté de la cabane à cagettes. Manifestement ils sont en goguette. Un gamin revêtu d'un treillis trop grand ferme la marche, il n'a pas plus de quatorze ans. Ils s’approchent au plus près de l'entrée, juste devant l'enfant, agenouillée.
-<img src="images/alainTahet/photo7.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
-— Dis donc, la gamine, c'est dangereux de jouer toute seule en plein milieu de la journée…
-Sok se met immédiatement à pleurer à chaudes larmes, effrayée par les cinq militaires qui portent tous un fusil.
-La grand-mère sort aussitôt sur le pas de la porte principale de la propriété. Sahun a la réputation, tout comme sa fille Soan, de n'avoir ni froid aux yeux ni la langue dans sa poche. Du haut des quelques marches, elle interpelle la petite troupe :
-— Qu'est-ce que vous voulez, bande de vauriens ? Vous n'avez donc rien d'autre à faire que trainer les rues et effrayer les petites filles ?
-— Regardez-moi ça, la petite et la vieille, voilà ce que les paysans ont laissé pour garder la baraque ! Pendant ce temps-là, ils font quoi, les autres ? Ils engraissent les cochons, pour s'en mettre plein la panse, alors que les vrais héros crèvent de faim ! C'est ça non ?
-Le plus âgé du groupe a parlé. Les autres, un peu en retrait, ricanent. Khang et Kheng apparaissent derrière les jupes de Sahun.
-Le groupe avance. Il arrive lentement au pied des marches de la maison. Après un temps d’arrêt durant lequel celui qui parait être le chef toise la vieille dame, ils entrent en la bousculant sans ménagement.
-— Tu vas te rendre utile pour une fois et nous dire où vous cachez votre trésor. C'est pour la cause. Nous, on n'a pas vos moyens, on mange aussi. Dépêche-toi si tu n’veux pas qu'on casse tout ! On pourrait emmener la gamine aussi. À cet âge-là, on lui ferait son éducation. Comme ça, elle ne sera pas tordue comme vous, elle commencera dans la vie avec les idées pures.
-— Espèce de gros bêta, tu ne me fais pas peur ! Tu mériterais des coups de bâton ! Tes parents ne t'en ont pas assez donné, on dirait ! T'es pas de la province de Kampot, toi, je n’t'ai jamais vu… pas comme celui qui se cache derrière toi, je le connais. C'est le petit Sorpheny… Que fais-tu là au milieu de ces bons à rien ? Les
-gens de ta famille, pourtant, sont des amis et des gens courageux ! Tu n'as pas honte ?
+<img src="images/alainTahet/photo6.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
+
 
                    </P>
+
+                    <div class="text-center mt-3">
 
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -146,7 +139,7 @@ gens de ta famille, pourtant, sont des amis et des gens courageux ! Tu n'as pas 
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                    <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Un Cadre Pour La Vie">
+                        <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
@@ -201,69 +194,7 @@ Président de la commission des droits et de l'autonomie des personnes handicap�
 Membre du conseil technique de l'enfance en danger (ALLO 119).
 
 Membre de la commission communale d'accessibilité aux personnes handicapées du Plessis-Trévise (94)</P>
-  
-
-<h2 class="h2Jaune text-center m-3">Extraits du livres</h2>
-<h3 class="h2Jaune text-center m-3">De Saint-Herblain à Nantes Novembre 1970</h3>
-                    <p>
-                    Thierry pédale souplement, régulièrement, en dépit du manque de visibilité.<br>
-En ce mois de Novembre, la nuit est tombée depuis une bonne heure déjà.<br>
-<img src="images/alainTahet/photo3.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
-
- Bien qu'il soit équipé d'un éclairage, il ne voit pas à plus de trois mètres devant lui. La dynamo frotte sur le pneu arrière, alimente sa lumière, l'accompagne sur la route en
-sifflant doucement.
-                   </P>
-
-                   <h3 class="h2Jaune text-center m-3">Kampot, Cambodge Février 1972</h3>
-                    <p>
-                    <img src="images/alainTahet/photo4.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
-
-                    Il court à perdre haleine dans la forêt équatoriale composée à cet endroit d’un enchevêtrement inextricable de lianes et de racines imposantes. Les branchages griffent un visage déjà tuméfié par les coups reçus sans interruption depuis la veille. Pieds nus, dans la forêt, le souffle court, il trébuche encore une fois, s’étale de tout son long dans un buisson, incapable de se rétablir tant il est emporté dans une course désespérée. Personne ne semble avoir détecté son absence, mais il se relève comme projeté par un ressort et sans même prendre la peine de s’assurer de l’importance de ses nouvelles plaies, reprend sa fuite insensée.
-
-Après une bonne heure de ce régime, celui d’un forçat évadé du bagne de Cayenne avec la meute aux trousses, Lim consent à s’arrêter brièvement au détour d’une sente. Il se trouve sur une saignée boueuse, la végétation tropicale forme deux blocs humides de chaque côté. Des troncs et des lianes emmêlés bruissent du cri et des lamentations, émises par des créatures, dont on ne sait que penser. Manifestent-elles leur joie ou la terreur d’habiter cet endroit sauvage et envoutant ? Les longues et monotones logorrhées répétitives paraissent exprimer des angoisses et des avertissements d’un danger imminent. Lim cherche à s’orienter.
-
-Il s’est enfui du camp où il était retenu depuis la veille, profitant d’un relâchement dans la surveillance dont il faisait l’objet. Bien qu’il ne soit pas surpris par l’étendue de la forêt, elle recouvre les deux tiers du Cambodge et il a déjà eu l’occasion de s’y confronter. Il ne reconnait pas cette coupure dans la forêt. Ce n’est pas un chemin, peut-être une taillée. Quoi qu’il en soit, il n’est pas passé là après l’arrestation. Après une marche de quelques heures, les soldats l’ont conduit dans leur refuge.
-Un périple trop court pour s’éloigner loin de la route sur laquelle il a été fait prisonnier. Maintenant, il est perdu, sans doute a-t-il tourné en rond. Le jeune homme doit faire un effort pour ne pas fondre en larme.
-"—Je ne vais pas me laisser abattre, calme toi, montre-toi digne de tes ancêtres."
-<img src="images/alainTahet/photo5.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
-
-Telles sont les pensées de l’adolescent qui se revigore de lui-même à l’évocation de sa famille, proche ou plus lointaine.
-</P>
-
-                   <h3 class="h2Jaune text-center m-3">Région Nantaise Février 1972</h3>
-                    <p>
-                    Le jeudi, c'est entrainement. Thierry retrouve Fabrice Letellier, Roger Le Seur, Philippe Ramus et André Babrit (récemment surnommé « montecoteapied »).
-                    L'année précédente, en plein cagna, l'nfortuné André est victime d'une hypoglycémie sévère à la fin d'un entrainement de près de quatre-vingts kilomètres.
-                    <img src="images/alainTahet/photo6.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
-                    Dans la côte d'Orvault, à quelques kilomètres de l'arrivée au Breil-Malville, il se résout à mettre pied à terre devant ses camarades. Il n'en peut plus. Le jeune cycliste arrive à la limite de ses forces. Depuis, à son grand désarroi, le surnom est resté. Pourtant, André, hormis cette défaillance, n'est pas le dernier à envoyer du
-bois quand l'occasion se présente. Il a déjà gagné une belle course.
-Le creux de l’hiver a été consacré à la culture physique avec Louis en semaine.
-Chaque dimanche Thierry et ses camarades faisaient de longs footings dans le parc de la Chézine. Désormais, le vélo reprend ses droits.
-En ce mois de février, la saison n'est pas commencée. Les jeunes se
-préparent déjà pour la première compétition. Ils sillonnent la campagne nantaise, traversent des villages endormis par l’hiver. Le sport cycliste est populaire dans la région. Personne ne s’offusque de ces groupes fournis de sportifs lancés à vive allure sur les routes départementales. Les petits bourgs ont pour noms : Orvault, Sautron, Vigneux de Bretagne, Saint-Étienne-de-Montluc, Treillière, Cordemais, Boué, Malville.
-Après trente kilomètres, tandis que les anciens partent pour une boucle de soixante de plus, un groupe d’une dizaine de novices prend le chemin du retour. Fernand Labuise, un ancien amateur « première catégorie », cinquante ans, sage parmi les sages, se charge de l’encadrement. Bien connu des jeunes de quinze et seize ans qui abordent la catégorie « cadet », il n’a pas son pareil pour tempérer les ardeurs belliqueuses des jeunes coqs. Souvent moqué, pour sa petite taille, des cuisses courtes mais énormes c’est un personnage attachant connu pour l’usage sans modération d’un sifflet d’arbitre de Football. Il n’en inspire pas moins un grand
-respect de la part de débutants tous justes sortis de l’enfance. Sa longue expérience lui permet de gérer les entrainements en parfait « Capitaine de route ». Lorsqu’il lui arrive de détecter les signes imperceptibles de souffrance et de détresse trop importantes parmi ses ouailles, il s’interpose sans hésitation pour faire ralentir l’allure. Une belle humanité le rend soucieux d’éviter les gros dégâts, physiques ou psychologiques.
-Ce jeudi-là, à son grand désarroi, il n’y parviendra pas…
-                </P>
-
-                   <h3 class="h2Jaune text-center m-3">Kampot, Cambodge Juin 1972</h3>
-                    <p>
-                    Une nouvelle confrontation se produit quelques mois plus tard avec les soldats. Les adultes sont aux champs à l'exception de la grand-mère, des jeunes enfants et de Bean qui est resté couché (la veille il avait abusé de l'alcool de riz). Sok, la dernière-née, âgée de trois ans, joue dans la cour. Elle s'amuse à semer la pagaille dans une colonie de fourmis avec un bout de bois. Cinq soldats, à moitié dépenaillés,
-surgissent du côté de la cabane à cagettes. Manifestement ils sont en goguette. Un gamin revêtu d'un treillis trop grand ferme la marche, il n'a pas plus de quatorze ans. Ils s’approchent au plus près de l'entrée, juste devant l'enfant, agenouillée.
-<img src="images/alainTahet/photo7.webp" alt="photo" class=" w-50 rounded d-block mx-auto my-4"><br>
-— Dis donc, la gamine, c'est dangereux de jouer toute seule en plein milieu de la journée…
-Sok se met immédiatement à pleurer à chaudes larmes, effrayée par les cinq militaires qui portent tous un fusil.
-La grand-mère sort aussitôt sur le pas de la porte principale de la propriété. Sahun a la réputation, tout comme sa fille Soan, de n'avoir ni froid aux yeux ni la langue dans sa poche. Du haut des quelques marches, elle interpelle la petite troupe :
-— Qu'est-ce que vous voulez, bande de vauriens ? Vous n'avez donc rien d'autre à faire que trainer les rues et effrayer les petites filles ?
-— Regardez-moi ça, la petite et la vieille, voilà ce que les paysans ont laissé pour garder la baraque ! Pendant ce temps-là, ils font quoi, les autres ? Ils engraissent les cochons, pour s'en mettre plein la panse, alors que les vrais héros crèvent de faim ! C'est ça non ?
-Le plus âgé du groupe a parlé. Les autres, un peu en retrait, ricanent. Khang et Kheng apparaissent derrière les jupes de Sahun.
-Le groupe avance. Il arrive lentement au pied des marches de la maison. Après un temps d’arrêt durant lequel celui qui parait être le chef toise la vieille dame, ils entrent en la bousculant sans ménagement.
-— Tu vas te rendre utile pour une fois et nous dire où vous cachez votre trésor. C'est pour la cause. Nous, on n'a pas vos moyens, on mange aussi. Dépêche-toi si tu n’veux pas qu'on casse tout ! On pourrait emmener la gamine aussi. À cet âge-là, on lui ferait son éducation. Comme ça, elle ne sera pas tordue comme vous, elle commencera dans la vie avec les idées pures.
-— Espèce de gros bêta, tu ne me fais pas peur ! Tu mériterais des coups de bâton ! Tes parents ne t'en ont pas assez donné, on dirait ! T'es pas de la province de Kampot, toi, je n’t'ai jamais vu… pas comme celui qui se cache derrière toi, je le connais. C'est le petit Sorpheny… Que fais-tu là au milieu de ces bons à rien ? Les
-gens de ta famille, pourtant, sont des amis et des gens courageux ! Tu n'as pas honte ?
-
-                   </P>
-                   
+                     
 <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

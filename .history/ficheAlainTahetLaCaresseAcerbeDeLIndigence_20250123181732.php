@@ -90,9 +90,7 @@ Nicolas Dupin l’entraînera alors dans une autre réalité, bien plus rémuné
 
 « La caresse acerbe de l’indigence » dépeint un quotidien morose dans un paysage mondialisé où les richesses n’ont jamais été aussi visibles et affichées sans complexes. Les deux personnages principaux, à l’instar d’un Bonnie and Clyde à la Française, vivront une aventure furieuse, le tout relaté avec un humour grinçant et caustique.
 
-Pour terrain de jeu, notre bonne vieille France. Pour cadre, l’ambiance délétère de notre époque. Pour final, une explosion d’émotions à couper le souffle !</p>
-
-
+Pour terrain de jeu, notre bonne vieille France. Pour cadre, l’ambiance délétère de notre époque. Pour final, une explosion d’émotions à couper le souffle !<
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
 <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">

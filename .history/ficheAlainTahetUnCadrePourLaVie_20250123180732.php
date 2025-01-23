@@ -146,7 +146,7 @@ gens de ta famille, pourtant, sont des amis et des gens courageux ! Tu n'as pas 
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                    <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Un Cadre Pour La Vie">
+                        <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
@@ -263,7 +263,6 @@ Le groupe avance. Il arrive lentement au pied des marches de la maison. Après u
 gens de ta famille, pourtant, sont des amis et des gens courageux ! Tu n'as pas honte ?
 
                    </P>
-                   
 <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

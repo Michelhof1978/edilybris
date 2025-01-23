@@ -15,20 +15,20 @@
             <!-- Livre 1 : La caresse acerbe de l'indigence -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre La caresse acerbe de l'indigence">
-                    <p class="fw-bold coloryellow fs-5">17,00 €</p>
+                    <img src="images/a" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
+                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">La caresse acerbe de l'indigence</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
+                        <strong class="h2Jaune">Année de publication :</strong> 2015
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 212
-                        <strong class="h2Jaune">Référence :</strong> 9782363440747
+                        <strong class="h2Jaune">Nombre de pages :</strong> 58
+                        <strong class="h2Jaune">Référence :</strong> 9782363440204
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Roman
+                        <strong class="h2Jaune">Genre :</strong> Art et poésies
                     </p>
                     <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
@@ -70,29 +70,27 @@ Top Modèle de ces vacances de charme</P>
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture du livre Elle comme liberte">
+                        <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture du livre Elle comme liberte">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">17,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">La caresse acerbe de l'indigence</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 212</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440747</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et liberté</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 52</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440204</p>
+
+                        <img src="images/arletteBessede/photo-arlette-et-michel-br_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                         <p class="lead text-white">
-                        Après l’échec de ses études de médecine, Ambre retourne chez ses parents. Elle renoue avec Romain et Jenny, des camarades de jeunesse, avec qui elle fréquente le petit bar local. Tout en se confrontant à la réalité des emplois chichement rémunérés, elle tombe sous le charme d’un homme solitaire.
+                        Chez cet artiste, le cliché n'est pas figé et dépasse la barrière de la simple beauté physique : le modèle est repensé, réinventé et le résultat s'adresse à notre moi profond. C'est là qu'intervient Arlette.
 
-Nicolas Dupin l’entraînera alors dans une autre réalité, bien plus rémunératrice, mais sombre et dangereuse.
+Par son verbe, elle tente une approche intelligente et profonde du mystère de son ami Michel, et cela permet au lecteur d'entrouvrir l'espace secret qui gouverne sa parole de créateur.
 
-« La caresse acerbe de l’indigence » dépeint un quotidien morose dans un paysage mondialisé où les richesses n’ont jamais été aussi visibles et affichées sans complexes. Les deux personnages principaux, à l’instar d’un Bonnie and Clyde à la Française, vivront une aventure furieuse, le tout relaté avec un humour grinçant et caustique.
-
-Pour terrain de jeu, notre bonne vieille France. Pour cadre, l’ambiance délétère de notre époque. Pour final, une explosion d’émotions à couper le souffle !</p>
-
-
+Josyane De Jesus-Bergey, poéte reconnue dans toute la francophonie, l'évoque parfaitement dans sa préface.
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
 <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
