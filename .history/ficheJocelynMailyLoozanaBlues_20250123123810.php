@@ -38,7 +38,7 @@
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
-                    <p class="lead mt-3">
+                    <p class="lead mt-4">
                         <strong class="h2Jaune">Résumé :</strong>Tout le monde a un jour besoin d'une pièce auto pour sa voiture, et quoi de mieux qu'une casse pour trouver la perle rare ? En recherche d'une portière pour une belle américaine, le héros de "loozana blues" ne se doutait pas qu'il allait parcourir plusieurs milliers de kilomètres pour tenter de percer le mystère lié à une photo d'un goût douteux... 
 
 Entre les services secrets parisiens et la campagne d'un homme politique au passé incertain, plongez dans cette aventure palpitante et à la fois écologique, au coeur des bayous de Louisiane. La curiosité est un vilain défaut : là encore, ce précepte prend tout son sens !
