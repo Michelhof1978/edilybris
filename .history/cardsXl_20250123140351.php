@@ -394,7 +394,7 @@
     <!-- Groupe 31 ABDEL FRANCOIS NADINI -->
     <div id="mobile-group31" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheAbdelFrancoisNadiniDeLaBougieAuxProjecteur.php">
+            <a href="ficheAbdelFrancoisNadiniLivres.php">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Nadini Abdel François </div>
@@ -865,7 +865,7 @@
         </div>
         <!-- carte 31 ABDEL FRANCOIS NADINI-->
         <div class="new-card">
-            <a href="ficheAbdelFrancoisNadiniDeLaBougieAuxProjecteur.php">
+            <a href="link_to_book_G.html">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
                 <div class="new-card-content">
                     <div class="new-card-author">Nadini Abdel François </div>

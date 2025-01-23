@@ -20,7 +20,7 @@
                     <p class="fw-bold coloryellow fs-5">16,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Va Voir La Bas Si Jy Suis</h3>
+                    <h3 class="h2Jaune text-center">Va Voir LaBasSiJySuis</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
@@ -131,7 +131,7 @@ Quelquefois, le lundi après-midi notamment, c'est un peu calme, pas grand monde
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Va Voir La Bas Si Jy Suis</h3>
+                        <h3 class="h2Jaune">L'enlèvement</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre : </strong>Nouvelle</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 130</p>

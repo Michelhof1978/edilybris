@@ -20,7 +20,7 @@
                     <p class="fw-bold coloryellow fs-5">16,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Va Voir La Bas Si Jy Suis</h3>
+                    <h3 class="h2Jaune text-center">Quelle Tuile !</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
@@ -118,7 +118,7 @@ Quelquefois, le lundi après-midi notamment, c'est un peu calme, pas grand monde
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Le livre d'Annie Brunetot</h2>
+            <h2>Le livre d'Annie Brunetot'</h2>
             <!-- Carte 1 : Va voir là-bas si j'y suis -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
@@ -131,7 +131,7 @@ Quelquefois, le lundi après-midi notamment, c'est un peu calme, pas grand monde
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Va Voir La Bas Si Jy Suis</h3>
+                        <h3 class="h2Jaune">L'enlèvement</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre : </strong>Nouvelle</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 130</p>
