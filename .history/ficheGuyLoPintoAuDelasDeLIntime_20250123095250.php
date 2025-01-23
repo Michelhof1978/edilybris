@@ -222,40 +222,45 @@ La couverture : du projet à l’étape finale, une aventure ?
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               <!--Carousel-->
-                   
-               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
+                <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-50 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel2.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Peinture artistique">
+                </div>
+                <div class="carousel-item ">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Peinture artistique">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Peinture artistique">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Peinture artistique">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Peinture artistique">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Peinture artistique">
+                </div>
+                
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
-   
-</div>
                   
   
                 </div>
@@ -477,40 +482,10 @@ La couverture : du projet à l’étape finale, une aventure ?
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
- <!--Carousel-->
-                   
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
+
+                </div>
+            </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
-</div>
 
     </section>
 </main>

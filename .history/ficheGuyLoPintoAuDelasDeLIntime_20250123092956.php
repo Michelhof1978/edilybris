@@ -176,9 +176,6 @@ Ma liberté</blockquote><br></p>
 <p>Je connais Edi’Lybris depuis quelques années maintenant. Une amie proche, Danielle Siron, y a édité un livre de poésies intitulé « Ressac ». J’ai eu également l’occasion de côtoyer à l’occasion de réunions, salons ou manifestations d’autres auteures comme Arlette Bessède, Josyane De Jesus-Bergey, Christine Kunz, qui ont également édité chez Edi’Lybris.
 J’avais d’ailleurs eu le plaisir de préfacer « Sur le ventre irisé de nos rivières » pour Arlette Bessède, et accepté qu’une de mes toiles figure en couverture de ce livre.</p>
 
-<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo1.webp" alt="Photo ">
-
-
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
 <p>Cela s’est passé au-delà de mes espérances, puisque les membres du comité de lecture ont apprécié unanimement mon projet « Au-delà de l’intime », ce qui je l’avoue est très flatteur pour moi.</p>
 
@@ -189,8 +186,6 @@ J’avais d’ailleurs eu le plaisir de préfacer « Sur le ventre irisé de nos
 <p class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire ce recueil de poésies ?</p> 
 <p>Cette idée me trottait dans la tête depuis plusieurs années. J’écris des poèmes depuis un certain temps, et j’ai pensé que le moment était venu d’en faire éditer quelques-uns. Je suis surtout connu pour mes peintures, et j’ai pensé que l’écriture était nécessaire pour que je puisse compléter mon message artistique.</p>
 
-<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo3.webp" alt="Photo ">
-
 
 <p class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?</p> 
 <p>Le titre, « Au-delà de l’intime », le résume très bien je pense. Ma suite de poèmes traverse des tranches de vie, des ressentis au cours des évènements, des voyages, des rencontres qui ont jalonné ma vie. Il y a du personnel et du moins personnel, du profane et du spirituel.
@@ -198,19 +193,22 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-La couverture : du projet à l’étape finale, une aventure ?
-<p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
+<p class="coloryellow"> La couverture : qui t’a fourni le cliché ?</p>
+<p></p>
 
 
-<p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?</p> 
-<p>J’ai en tête un autre ouvrage qui sera avant tout spirituel. Je vais également approfondir le slam. Je pense que c’est un formidable moyen d’expression qui correspond tout à fait à ma soif de liberté en écriture. Je rêve d’organiser un spectacle en slam !</p>
+<p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers ton récit ?</p> 
+<p>.</p>
 
 
-<p class="coloryellow">Un dernier mot à l’attention des lecteurs ? </p>
-<p>Oui, et pas le moindre ! Quand Emmanuelle de Boysson a accepté ma demande de préfacer mon livre, ça a été une grande joie pour moi ! J’ai été très honoré et très flatté ! Emmanuelle est une romancière et essayiste remarquable ! C’est également une critique littéraire très connue, et elle préside ou fait partie de nombreux jurys. Elle m’avait déjà fait part de son intérêt pour mon art pictural et m’avait fait l’honneur de venir visiter mes expositions parisiennes. Mais qu’elle apprécie aussi mes écrits est une belle reconnaissance pour moi ! Je tiens encore une fois à la remercier vivement !</p>
+<p class="coloryellow">Edi’lybris : As-tu un nouveau projet d’écriture ? </p>
+<p></p>
 
 
-<p>Et toute l'équipe se joint à moi pour la remercier également ! La qualité de sa préface augure d'une belle aventure pour le lecteur qui s'appropriera ton recueil ! Merci pour t’être prêté au jeu des questions-réponses, Guy ! </p>
+<p class="coloryellow">Edi’lybris : Un dernier mot à l’attention des lecteurs ?</p> 
+<p></p>
+
+
 
 </div>
 
@@ -222,40 +220,7 @@ La couverture : du projet à l’étape finale, une aventure ?
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               <!--Carousel-->
-                   
-               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
-</div>
+               
                   
   
                 </div>
@@ -424,52 +389,53 @@ Ma liberté</blockquote><br></p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
-                    <div class="text-center">                
+<div>                
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
 
-             <p class="coloryellow"> Edi’lybris : Bonjour Guy Lo Pinto.</p>      
-<p>Guy Lo Pinto : Bonjour à vous !</p>
+
+<p class="coloryellow"> Edi’lybris : Bonjour Luc, où dois-je dire deuzeLLGé ?</p>      
+<p>Bonjour Pierre, deuzeLLGé est mon nom d’artiste, c’est en fait, les initiales de mon nom, Luc Le Guennec, LLG, donc 2LG è deuzeLLGé. Merci pour cette interview.</p>
 
 
 <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ? Te souviens-tu en quelle année ?</p> 
-<p>Je connais Edi’Lybris depuis quelques années maintenant. Une amie proche, Danielle Siron, y a édité un livre de poésies intitulé « Ressac ». J’ai eu également l’occasion de côtoyer à l’occasion de réunions, salons ou manifestations d’autres auteures comme Arlette Bessède, Josyane De Jesus-Bergey, Christine Kunz, qui ont également édité chez Edi’Lybris.
-J’avais d’ailleurs eu le plaisir de préfacer « Sur le ventre irisé de nos rivières » pour Arlette Bessède, et accepté qu’une de mes toiles figure en couverture de ce livre.</p>
-
-<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo1.webp" alt="Photo ">
+<p>C’est Emmanuel Trouvé, que j’ai rencontré pour le marché de noël en 2022, auteur aussi chez Edi’lybris, qui m’en a parlé.</p>
 
 
 <p class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour ton futur livre « Petit Paquet oublié » ?</p>
-<p>Cela s’est passé au-delà de mes espérances, puisque les membres du comité de lecture ont apprécié unanimement mon projet « Au-delà de l’intime », ce qui je l’avoue est très flatteur pour moi.</p>
+<p>J’ai eu des conseils avisés pour la mise en page et le plus grand respect envers mon œuvre. Il y a eu plein de moments d’échanges pour que ce livre soit clair et accessible aux lecteurs, tout en gardant l’esprit de ma création.</p>
 
 <p class="coloryellow">Edi’lybris : Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?</p> 
-<p>En vérité, je n’ai eu de contacts qu’avec Pierre Brandao , et j’ai eu l’occasion d’apprécier la justesse et la finesse de ses jugements et conseils. Je n’ai qu’à me satisfaire de cette collaboration.</p>
+<p>Ce fut une très belle expérience car j’ai pu grâce à Edi’lybris et son équipe rédactionnelle, expliquer le mieux possible les textes de mes chansons. Merci  pour toute l’aide apportée à l’aboutissement de ce recueil.</p>
 
 
-<p class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire ce recueil de poésies ?</p> 
-<p>Cette idée me trottait dans la tête depuis plusieurs années. J’écris des poèmes depuis un certain temps, et j’ai pensé que le moment était venu d’en faire éditer quelques-uns. Je suis surtout connu pour mes peintures, et j’ai pensé que l’écriture était nécessaire pour que je puisse compléter mon message artistique.</p>
-
-<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo3.webp" alt="Photo ">
+<p class="coloryellow">Parlons du livre à paraître : « Petit Paquet oublié ». Comment t’est venue l’idée d’écrire sur ce sujet ?</p> 
+<p>Ce sont des sensations, des instants de mal-être, qui au bout du compte m’ont fait réaliser qu’il fallait que je change des choses dans ma vie, et que je devais être le seul à décider de ce qui est bien pour moi. Comme je suis auteur et compositeur, j’ai mis en paroles et en musique mon évolution personnelle.</p>
 
 
 <p class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?</p> 
-<p>Le titre, « Au-delà de l’intime », le résume très bien je pense. Ma suite de poèmes traverse des tranches de vie, des ressentis au cours des évènements, des voyages, des rencontres qui ont jalonné ma vie. Il y a du personnel et du moins personnel, du profane et du spirituel.
-C’est une sorte de « patchwork » par les thèmes évoqués, les styles différents qui vont du poème classique en vers à la prose, et même au slam, mais qui suit deux fils directeurs : ce que je suis et ma liberté d’écrire sans entraves.  </p>  
+<p>C’est la quête du retour à soi-même, après avoir vécu les règles, voire les diktats de nos environnements familiaux et autres. C’est le retour à notre essentiel.
+L’histoire se situe en deux épisodes.
+D’abord la prise de conscience que la vie que l’on mène ne nous convient pas. De là, se reconnecter à soi pour savoir la vie qui nous correspond (travail, relations, endroit de vie…).
+Puis, c’est la transformation finale, celle qui nous met en action pour redevenir nous-mêmes.
+Pas de soucis pour la fin, car elle reste à écrire, rien n’est jamais fini, car nous passons le temps à évoluer, nous tromper aussi parfois, mais la fin n’est pas la plus importante, c’est le chemin qui est important, différent et surprenant parfois.</p>  
 
 
 
-La couverture : du projet à l’étape finale, une aventure ?
-<p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
+<p class="coloryellow">Edi’lybris : Quel message souhaites-tu délivrer à travers tes textes ?</p> 
+<p>Je reprendrais la phrase de Socrate : « Connais-toi toi-même », car c’est alors mieux s’aimer et savoir ce qu’il faut laisser de côté, ou abandonner, afin de s’ouvrir à ce qui nous correspond le mieux. Être soi-même, vraiment, revenir à notre essentiel, à notre enfant intérieur.
+Notre passage sur Terre doit nous permettre de devenir la meilleure version de nous, pour nous et pour les autres.</p>
 
 
-<p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?</p> 
-<p>J’ai en tête un autre ouvrage qui sera avant tout spirituel. Je vais également approfondir le slam. Je pense que c’est un formidable moyen d’expression qui correspond tout à fait à ma soif de liberté en écriture. Je rêve d’organiser un spectacle en slam !</p>
+<p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ? </p>
+<p>Je suis toujours en mode création, donc il y a des nouveaux textes à venir, habillés bien sûr de nouvelles musiques. Ces textes parleront de nature et de ressentis face à elle et mon nouveau moi. La Bretagne ne sera pas loin…</p>
 
 
-<p class="coloryellow">Un dernier mot à l’attention des lecteurs ? </p>
-<p>Oui, et pas le moindre ! Quand Emmanuelle de Boysson a accepté ma demande de préfacer mon livre, ça a été une grande joie pour moi ! J’ai été très honoré et très flatté ! Emmanuelle est une romancière et essayiste remarquable ! C’est également une critique littéraire très connue, et elle préside ou fait partie de nombreux jurys. Elle m’avait déjà fait part de son intérêt pour mon art pictural et m’avait fait l’honneur de venir visiter mes expositions parisiennes. Mais qu’elle apprécie aussi mes écrits est une belle reconnaissance pour moi ! Je tiens encore une fois à la remercier vivement !</p>
+<p class="coloryellow">Edi’lybris : Un dernier mot à l’attention des lecteurs ?</p> 
+<p>Prenez du plaisir durant la lecture de cet ouvrage et de l’écoute des extraits mis à disposition grâce aux QRcodes, et pour prolonger ce partage, venez me voir en concert, je serai très heureux de pouvoir vous rencontrer et échanger avec vous. Prenez soin de vous, écoutez votre âme, aimez-vous pour mieux aimer et être aimé des autres. Le Monde ne pourra que s’améliorer ainsi.</p> 
 
-
-<p>Et toute l'équipe se joint à moi pour la remercier également ! La qualité de sa préface augure d'une belle aventure pour le lecteur qui s'appropriera ton recueil ! Merci pour t’être prêté au jeu des questions-réponses, Guy ! </p>
+<p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !</p>
+<p>Merci à toi et toute ton équipe pour cette belle aventure.</p>
+<br><br>
 
 </div>
 
@@ -477,40 +443,10 @@ La couverture : du projet à l’étape finale, une aventure ?
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
- <!--Carousel-->
-                   
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
+
+                </div>
+            </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
-</div>
 
     </section>
 </main>

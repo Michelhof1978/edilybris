@@ -189,7 +189,7 @@ J’avais d’ailleurs eu le plaisir de préfacer « Sur le ventre irisé de nos
 <p class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire ce recueil de poésies ?</p> 
 <p>Cette idée me trottait dans la tête depuis plusieurs années. J’écris des poèmes depuis un certain temps, et j’ai pensé que le moment était venu d’en faire éditer quelques-uns. Je suis surtout connu pour mes peintures, et j’ai pensé que l’écriture était nécessaire pour que je puisse compléter mon message artistique.</p>
 
-<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo3.webp" alt="Photo ">
+<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo1.webp" alt="Photo ">
 
 
 <p class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?</p> 
@@ -222,40 +222,36 @@ La couverture : du projet à l’étape finale, une aventure ?
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               <!--Carousel-->
-                   
-               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
+                <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel2.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel3.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                <div class="carousel-item ">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel4.webp" alt="Photos de Veronique Ash">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
+                </div>
+                
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
-   
-</div>
                   
   
                 </div>
@@ -448,8 +444,6 @@ J’avais d’ailleurs eu le plaisir de préfacer « Sur le ventre irisé de nos
 <p class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire ce recueil de poésies ?</p> 
 <p>Cette idée me trottait dans la tête depuis plusieurs années. J’écris des poèmes depuis un certain temps, et j’ai pensé que le moment était venu d’en faire éditer quelques-uns. Je suis surtout connu pour mes peintures, et j’ai pensé que l’écriture était nécessaire pour que je puisse compléter mon message artistique.</p>
 
-<img class="d-block w-50 mx-auto m-4" src="images/guyLopinto/photo3.webp" alt="Photo ">
-
 
 <p class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?</p> 
 <p>Le titre, « Au-delà de l’intime », le résume très bien je pense. Ma suite de poèmes traverse des tranches de vie, des ressentis au cours des évènements, des voyages, des rencontres qui ont jalonné ma vie. Il y a du personnel et du moins personnel, du profane et du spirituel.
@@ -477,40 +471,10 @@ La couverture : du projet à l’étape finale, une aventure ?
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
- <!--Carousel-->
-                   
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
+
+                </div>
+            </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
-</div>
 
     </section>
 </main>
