@@ -27,16 +27,14 @@
 <p class="text-center mb-5">
 Né à Reims le 30 septembre 1969, Sylvain Savoia copine avec Jean-David Morvan, lui-même né dans la même ville le 28 novembre 1969. Ils abordent ensemble la BD dans le fanzine HORS GABARIT en 1985. <br>
 
-<img src="images/JocelynMailly/photo2.webp" alt="Image Sylvain SAVOIA" class="img-fluid my-3"><br>
+<img src="images/JocelynMailly/photo2.webp" alt="Image du couple" class="img-fluid my-3"><br>
 
 Sur un scénario de Morvan, Savoia publie en 1993 son premier album, "Reflets perdus", aux éditions Zenda. Savoia introduit dans l'équipe Philippe Buchet et va partager avec lui le dessin des deux premiers tomes de la série "Nomad" ("Mémoire vive" en 1994, puis "Gai Jin" en 1995) sur scénarios de Morvan.<br>
-Savoia reprendra ensuite seul le dessin des trois volumes suivant ("Mémoire morte", "Tiourma", "Mémoire cachée", de 1996 à 2000 chez Glénat).<br>
+Savoia reprendra ensuite seul le dessin des trois volumes suivant ("Mémoire morte", "Tiourma", "Mémoire cachée", de 1996 à 2000 chez Glénat).
 
-Pour assurer la régularité de leurs productions, Morvan, Buchet et Savoia fondent en octobre 1994 à Reims l'atelier 510 TTC où s'intègrent également le dessinateur Tranktat et le duo des coloristes Christian Lerolle et Franck Gureghian, surnommés les Color Twins.<br>
- Parallèlement à la réalisation de "Nomad", Savoia oeuvre fréquemment depuis 1996 dans la publicité, les affiches, la communication d'entreprise et les livrets de formation professionnelle.
+Pour assurer la régularité de leurs productions, Morvan, Buchet et Savoia fondent en octobre 1994 à Reims l'atelier 510 TTC où s'intègrent également le dessinateur Tranktat et le duo des coloristes Christian Lerolle et Franck Gureghian, surnommés les Color Twins. Parallèlement à la réalisation de "Nomad", Savoia oeuvre fréquemment depuis 1996 dans la publicité, les affiches, la communication d'entreprise et les livrets de formation professionnelle.
 
-Toujours avec son complice Morvan au scénario, il lance en 2003 la série policière "Al'Togo" chez Dargaud en 2003.<br>
- C'est néanmoins sa compagne, Sowa Marzena, qui va l'inciter en 2004 à illustrer les souvenirs de sa jeunesse passée en Pologne et il s'élabore un tout autre style graphique pour la série "Marzi", dont "Petite Carpe" sera le premier volume en 2004 aux éditions Dupuis. Des histoires pleines de charme, d'humour et d'exotisme pour le public franco-belge habitué dès la naissance à l'abondance dans tous les domaines.<br>
+Toujours avec son complice Morvan au scénario, il lance en 2003 la série policière "Al'Togo" chez Dargaud en 2003. C'est néanmoins sa compagne, Sowa Marzena, qui va l'inciter en 2004 à illustrer les souvenirs de sa jeunesse passée en Pologne et il s'élabore un tout autre style graphique pour la série "Marzi", dont "Petite Carpe" sera le premier volume en 2004 aux éditions Dupuis. Des histoires pleines de charme, d'humour et d'exotisme pour le public franco-belge habitué dès la naissance à l'abondance dans tous les domaines.<br>
 </p>
     </div>
 </div>

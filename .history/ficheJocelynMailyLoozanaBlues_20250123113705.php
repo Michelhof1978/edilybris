@@ -16,22 +16,22 @@
             <!-- Livre 1 : Loozana Blues-->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Loozana Blues">
+                    <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Loozana Blues">
                     <p class="fw-bold coloryellow fs-5">17,00 €</p>
                 </div>
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">Loozana Blues</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2014
+                        <strong class="h2Jaune">Année de publication :</strong> 2019
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 206
+                        <strong class="h2Jaune">Nombre de pages :</strong> 368
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Roman aventure
+                        <strong class="h2Jaune">Genre :</strong> Héroîc-fantasy
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440143
+                        <strong class="h2Jaune">Référence :</strong> 9782363440297
                     </p>
                   
                     <div class="text-center mt-3">
@@ -91,17 +91,17 @@ Elle relâcha son étreinte et fixa sa victime avec force.
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture du livre Loozana Blues">
+                        <img src="images/JocelynMailly/" class="img-fluid" alt="Couverture du livre Loozana Blues">
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">17,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Loozana Blues</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2014</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman aventure</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 206</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440143</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2019</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Héroîc-fantasy</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 368</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440297</p>
 
                         <p class="lead text-white">
                       

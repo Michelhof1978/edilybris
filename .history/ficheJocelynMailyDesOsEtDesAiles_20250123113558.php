@@ -3,7 +3,6 @@
 <title>Jocelyn Maily - Auteur</title>
 <meta name="description" content="Biographie et livres de Jocelyn Maily. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
-
 <?php include("header.php"); ?>
 
 <main>
@@ -13,25 +12,25 @@
         <div class="container">
             <h2 class="text-center text-white">Le livre de Jocelyn Maily</h2>
 
-            <!-- Livre 1 : Loozana Blues-->
+            <!-- Livre 1 : Des Os Et Des Ailes-->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre Loozana Blues">
-                    <p class="fw-bold coloryellow fs-5">17,00 €</p>
+                    <img src="images/JocelynMailly/" class="img-fluid w-75 mb-3" alt="Couverture du livre Des os et des ailes">
+                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Loozana Blues</h3>
+                    <h3 class="h2Jaune text-center">Des os et des ailes</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2014
+                        <strong class="h2Jaune">Année de publication :</strong> 2019
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 206
+                        <strong class="h2Jaune">Nombre de pages :</strong> 368
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Roman aventure
+                        <strong class="h2Jaune">Genre :</strong> Héroîc-fantasy
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440143
+                        <strong class="h2Jaune">Référence :</strong> 9782363440297
                     </p>
                   
                     <div class="text-center mt-3">
@@ -87,21 +86,21 @@ Elle relâcha son étreinte et fixa sa victime avec force.
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
             <h2>Le livre de Jocelyn Maily</h2>
-            <!-- Carte 1 : Loozana Blues-->
+            <!-- Carte 1 : Des os et des ailes-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture du livre Loozana Blues">
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">17,00 €</p>
+                        <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture du livre Des os et des ailes">
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Loozana Blues</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2014</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman aventure</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 206</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440143</p>
+                        <h3 class="h2Jaune">Des os et des ailes</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2019</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Héroîc-fantasy</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 368</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440297</p>
 
                         <p class="lead text-white">
                       

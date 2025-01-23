@@ -31,7 +31,7 @@
                         <strong class="h2Jaune">Genre :</strong> Roman aventure
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440143
+                        <strong class="h2Jaune">Référence :</strong> 9782363440297
                     </p>
                   
                     <div class="text-center mt-3">
@@ -98,10 +98,10 @@ Elle relâcha son étreinte et fixa sa victime avec force.
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Loozana Blues</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2014</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman aventure</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 206</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440143</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2019</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Héroîc-fantasy</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 368</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440297</p>
 
                         <p class="lead text-white">
                       

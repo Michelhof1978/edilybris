@@ -27,7 +27,7 @@
 <p class="text-center mb-5">
 Né à Reims le 30 septembre 1969, Sylvain Savoia copine avec Jean-David Morvan, lui-même né dans la même ville le 28 novembre 1969. Ils abordent ensemble la BD dans le fanzine HORS GABARIT en 1985. <br>
 
-<img src="images/JocelynMailly/photo2.webp" alt="Image Sylvain SAVOIA" class="img-fluid my-3"><br>
+<img src="images/JocelynMailly/photo2.webp" alt="Image du couple" class="img-fluid my-3"><br>
 
 Sur un scénario de Morvan, Savoia publie en 1993 son premier album, "Reflets perdus", aux éditions Zenda. Savoia introduit dans l'équipe Philippe Buchet et va partager avec lui le dessin des deux premiers tomes de la série "Nomad" ("Mémoire vive" en 1994, puis "Gai Jin" en 1995) sur scénarios de Morvan.<br>
 Savoia reprendra ensuite seul le dessin des trois volumes suivant ("Mémoire morte", "Tiourma", "Mémoire cachée", de 1996 à 2000 chez Glénat).<br>
