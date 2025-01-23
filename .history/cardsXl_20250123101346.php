@@ -381,7 +381,7 @@
     <!-- Groupe 30 JOCELYN MAILY -->
     <div id="mobile-group30" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJocelynMailyDesOsEtDesAiles.php">
+            <a href="link_to_book_J.html">
                 <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Maily Jocelyn </div>

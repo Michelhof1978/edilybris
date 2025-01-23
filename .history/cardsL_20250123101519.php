@@ -146,7 +146,7 @@
 <!-- Groupe 12 JOCELYN MAILY-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
-      <a href="ficheJocelynMailyLoozanaBlues.php">
+      <a href="link_to_book_J.html">
         <img src="images/JocelynMailly/cover-loozana-1-pour-site-br_11zon.webp" class="img-fluid" alt="Couverture de livre Loozana blues">
         <div class="new-card-content">
           <div class="new-card-author">Maily Jocelyn</div>
