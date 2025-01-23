@@ -898,7 +898,7 @@
          <!-- carte 34 ALAIN TAHET La caresse acerbe de l'indigence-->
          <div class="new-card">
             <a href="ficheAlainTahetLaCaresseAcerbeDeLIndigence.php">
-                <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
+                <img src="images/alainTahet3" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>
                     <div class="new-card-price">17,00 €</div>

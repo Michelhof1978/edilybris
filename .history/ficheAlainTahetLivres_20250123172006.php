@@ -20,7 +20,7 @@
 
     Mes affectations successives m’amènent une première fois à La Rochelle en 1980, à Cherbourg pendant quatre années, puis à Versailles-Satory à l’Escadron Parachutiste d’Intervention de la Gendarmerie Nationale. Pendant quinze années, je participe à des missions d’intervention, de protection rapprochée de hautes personnalités et de renseignement judiciaire. Cet engagement me permet de voyager pour des missions ponctuelles : Algérie, Afrique subsaharienne, Océanie, Haïti. <br>
 
-    <img src="images/alainTahet/photo2.jpg" alt="photo" class=" w-25 rounded d-block mx-auto my-4">
+    <img src="images/alainTahet/photo2.jpg" alt="photo" class=" w- rounded d-block mx-auto my-4">
 
     Je termine ma carrière à La Rochelle en Brigade de recherches, ce qui me donne l’occasion de participer à de belles enquêtes judiciaires dont la plus retentissante est la résolution du meurtre d’une jeune fille, en plein mois d’août sur l’île de Ré.<br>
 

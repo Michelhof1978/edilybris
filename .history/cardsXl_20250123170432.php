@@ -421,7 +421,7 @@
     <div id="mobile-group33" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheAlainTahetFodeMabinty.php">
-                <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
+                <img src="images/alainTahet/" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> Tahet Alain </div>
                     <div class="mobile-book-price">15,00 €</div>
@@ -886,7 +886,7 @@
         
           <!-- carte 33 ALAIN TAHET Fodé Mabinty Camara, vivre ou survivre-->
         <div class="new-card">
-            <a href="ficheAlainTahetFodeMabinty.php">
+            <a href="ficheAlainTahetLaCaresseAcerbeDeLIndigence.php">
                 <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>
@@ -897,8 +897,8 @@
 
          <!-- carte 34 ALAIN TAHET La caresse acerbe de l'indigence-->
          <div class="new-card">
-            <a href="ficheAlainTahetLaCaresseAcerbeDeLIndigence.php">
-                <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
+            <a href="link_to_book_H.html">
+                <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>
                     <div class="new-card-price">17,00 €</div>

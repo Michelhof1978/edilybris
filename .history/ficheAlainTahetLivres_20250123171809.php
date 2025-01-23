@@ -14,13 +14,13 @@
         <p class="text-center m-5">
     Je suis originaire de la région Nantaise. Mes arrière-grands-parents, grands-parents et parents habitaient Couëron, petit village tout près de l’embouchure de la Loire à l’ouest de Nantes. Puis, mon père s’est installé à Saint-Herblain, ma mère restant à Couëron. Dès mon plus jeune âge, je suis attiré par la littérature et par le sport, ce qui n’est pas incompatible. J’ai commencé le vélo de manière sportive dès l’âge de onze ans. Très assidu, je suivais les cours de l’école du cyclisme pendant quelques années avant de me frotter à la compétition dans les catégories jeunes.<br>
 
-    <img src="images/alainTahet/photo1.jpg" alt="photo" class="w-25 rounded d-block mx-auto my-4">
+    <img src="images/alainTahet/photo1.jpg" alt="photo" class="d-block mx-auto my-4">
 
     J’opte, à dix-huit ans, pour une carrière militaire dans la Gendarmerie Nationale, sans jamais renoncer à mes premières passions. <br>
 
     Mes affectations successives m’amènent une première fois à La Rochelle en 1980, à Cherbourg pendant quatre années, puis à Versailles-Satory à l’Escadron Parachutiste d’Intervention de la Gendarmerie Nationale. Pendant quinze années, je participe à des missions d’intervention, de protection rapprochée de hautes personnalités et de renseignement judiciaire. Cet engagement me permet de voyager pour des missions ponctuelles : Algérie, Afrique subsaharienne, Océanie, Haïti. <br>
 
-    <img src="images/alainTahet/photo2.jpg" alt="photo" class=" w-25 rounded d-block mx-auto my-4">
+    <img src="image2.jpg" alt="photo" class="d-block mx-auto my-4">
 
     Je termine ma carrière à La Rochelle en Brigade de recherches, ce qui me donne l’occasion de participer à de belles enquêtes judiciaires dont la plus retentissante est la résolution du meurtre d’une jeune fille, en plein mois d’août sur l’île de Ré.<br>
 
