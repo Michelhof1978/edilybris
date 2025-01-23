@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
-<title>Arlette Bessède - Auteur</title>
-<meta name="description" content="Biographie et livres d'Arlette Bessède. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Alain Tahet - Auteur</title>
+<meta name="description" content="Biographie et livres d'Alain Tahet. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
 
@@ -10,16 +10,16 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres d'Arlette Bessède</h2>
+            <h2 class="text-center text-white">Les livres d'Alain Tahet</h2>
 
-            <!-- Livre 1 : L'ENLEVEMENT -->
+            <!-- Livre 1 : Un Cadre Pour La Vie -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
                     <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">ELLES...comme liberté</h3>
+                    <h3 class="h2Jaune text-center">Un Cadre Pour La Vie</h3>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2015
                     </p>
@@ -65,7 +65,7 @@ Top Modèle de ces vacances de charme</P>
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède</h2>
+            <h2>Les livres d'Alain Tahet'</h2>
             <!-- Carte 1 ELLE COMME LIBERTE-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
@@ -77,7 +77,7 @@ Top Modèle de ces vacances de charme</P>
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">ELLES...comme liberté</h3>
+                        <h3 class="h2Jaune">Un cadre pour la vie</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2015</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Art et liberté</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 52</p>

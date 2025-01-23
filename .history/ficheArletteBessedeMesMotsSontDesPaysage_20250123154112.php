@@ -12,7 +12,7 @@
         <div class="container">
             <h2 class="text-center text-white">Les livres d'Arlette Bessède</h2>
 
-            <!-- Livre 1 : Mes mots sont des paysages-->
+            <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
                     <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">

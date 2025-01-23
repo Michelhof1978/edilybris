@@ -10,7 +10,7 @@
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Les livres d'Arlette Bessède</h2>
+            <h2 class="text-center text-white">Les livres d'Arlette Bessède'</h2>
 
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
@@ -65,7 +65,7 @@ Top Modèle de ces vacances de charme</P>
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède</h2>
+            <h2>Les livres d'Arlette Bessède'</h2>
             <!-- Carte 1 ELLE COMME LIBERTE-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

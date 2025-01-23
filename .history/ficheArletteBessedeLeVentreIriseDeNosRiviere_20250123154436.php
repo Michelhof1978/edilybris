@@ -1,6 +1,6 @@
 <?php include("head.php"); ?>
 
-<title>Arlette Bessède - Auteur</title>
+<title>Alain Tahet - Auteur</title>
 <meta name="description" content="Les livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
@@ -9,7 +9,7 @@
     <!-- MODE MOBILE--> 
     <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
-        <div class="container">
+        <div class="container">Alain Tahet
             <h2 class="text-center text-white">Les livres d'Arlette Bessède</h2>
 
             <!-- Livre 1 : L'ENLEVEMENT -->

@@ -65,7 +65,7 @@ Top Modèle de ces vacances de charme</P>
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres d'Arlette Bessède</h2>
+            <h2>Les livres d'Arlette Bessède'</h2>
             <!-- Carte 1 ELLE COMME LIBERTE-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">

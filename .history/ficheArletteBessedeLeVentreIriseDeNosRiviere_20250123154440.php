@@ -1,6 +1,6 @@
 <?php include("head.php"); ?>
 
-<title>Arlette Bessède - Auteur</title>
+<title>Alain Tahet - Auteur</title>
 <meta name="description" content="Les livres d'Arlette Bessède'. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 <?php include("header.php"); ?>
