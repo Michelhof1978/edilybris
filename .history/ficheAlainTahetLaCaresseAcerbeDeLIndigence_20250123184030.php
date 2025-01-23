@@ -46,14 +46,14 @@ Pour terrain de jeu, notre bonne vieille France. Pour cadre, l’ambiance délé
 
                     <h4 class="h2Jaune text-center m-3">CHAPITRE 1</h4>
 
-                    <p class="text-center">
+                    <p>
                     Quelque part en France – XXIe siècle.
 
 Ces années-là, les incessants progrès technologiques furent pour la première fois confrontés à l’épuisement des ressources naturelles.
 Les injustices et les violences, les humiliations et les tracasseries envers les personnes précaires de toutes conditions trouvèrent en ces circonstances un regain d’intensité.
 Alors que des centaines de milliers d’êtres humains entamaient des migrations périlleuses, certains disparaissaient dans les eaux chaudes de la Méditerranée ou gelées de la Manche, quelques milliardaires délaissaient la construction d’abris antiatomiques pour tester la fuite dans l’espace, vers d’autres planètes à dépecer.
 La jeune femme est assise face à une autre personne du même sexe, plus âgée, installée derrière un bureau au design très moderne. Le meuble, d'une sobriété aussi glaciale que la pièce aux larges baies vitrées et armatures métalliques, contraste singulièrement avec son occupante, toute en couleurs et colifichets clinquants.
-<img src="images/alainTahet/photo9.webp" class="img-fluid w-50 m-5 d-block mx-auto" alt="Illustration">
+<img src="images/alainTahet/photo9.webp" class="img-fluid w-50 m- d-block mx-auto" alt="Illustration">
 
 — Vous savez que nous recherchons une collaboratrice jeune, capable de s’adapter et de se former dans un secteur hautement concurrentiel. Vous semblez avoir un profil intéressant, car je vois que vous avez obtenu un bac scientifique et suivi quelques années de fac. Néanmoins, dans le domaine des nouvelles technologies, nous aimons les gens passionnés qui ne gèrent pas leur temps comme des cheminots. Qu’en pensez-vous ?
 — Je suis effectivement extrêmement motivée pour un emploi et prête à tous les sacrifices sur ma vie privée, à me lancer sur toutes les formations, à me donner corps et âme à mon employeur. J’habite dans un petit village pas très loin et je peux me déplacer. Je n’ai pas de contraintes familiales. Je suis incontestablement prête à défendre les valeurs de votre groupe.
@@ -92,7 +92,7 @@ La jeune femme est assise face à une autre personne du même sexe, plus âgée,
 — Bon, passons. Votre dossier est incomplet. Vous vous habillez toujours comme aujourd’hui ?
 — Pardon ? Euh, pantalon et sweat, vous trouvez ça provocant ?
 — Non, c’est vrai qu’on n’aime pas les vamps décolletées et talons aiguilles, mais pas non plus le genre rabougri. C’est pour ça, un homme...
-<img src="images/alainTahet/photo8.webp" class="img-fluid w-50 m-5 d-block mx-auto" alt="Illustration">
+<img src="images/alainTahet/photo8.webp" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
 
 La DRH, cinquantaine flamboyante, chaussée de lunettes assorties au stylo-plume, boucles d’oreilles style anneaux dorés à l’espagnole et bracelets « Georgette » interchangeables, fait une pause. Elle adopte une mine courroucée tout en dodelinant mollement de la tête, soucieuse et pomponnée, sous l’enveloppe peroxydée d’une chevelure étudiée mèche après mèche. Madame Burlescque Claude, comme indiqué sur le petit cuivre rectangulaire à l’avant de son bureau, empeste le « chalimardeguerlain ». Elle sent l’adversaire déstabilisée. Car un candidat est toujours un incompétent en devenir, qu’il s’agit de démasquer. Celui-ci, qui est une femme, alors qu’elle préfère les hommes, va très bientôt commettre ses premières erreurs. Cette constatation réjouit la cadre, elle pourra aussi sec porter l’estocade. La formule lapidaire : « On vous rappelle », « On vous écrira », « On vous contacte » glissera suavement entre deux bridges quelle cherche à masquer avec sa langue quand elle n’énonce pas des adages à côté de la plaque.
 

@@ -42,8 +42,8 @@ Voici son histoire.
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
                     <h4 class="h2Jaune text-center m-3">L’ARRIVÉE</h4>
-                    <img src="images/alainTahet/photo10.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p>
                     Novembre 2018, Gare de La Rochelle.
@@ -105,6 +105,7 @@ Voici son histoire.
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
                     <h4 class="h2Jaune text-center m-3">L’ARRIVÉE</h4>
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
     <img src="images/alainTahet/photo10.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p>

@@ -42,31 +42,17 @@ Voici son histoire.
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
                     <h4 class="h2Jaune text-center m-3">L’ARRIVÉE</h4>
-                    <img src="images/alainTahet/photo10.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p>
-                    Novembre 2018, Gare de La Rochelle.
-
-Photo couvertureDepuis un bon mois déjà, un mouvement quasi insurrectionnel perturbe la France. En prévision de la transition écologique, le gouvernement instaure une nouvelle taxe sur les carburants. Chez les gens de peu, une révolte incandescente gronde. Tous les petits revenus, des employés les plus modestes en passant par les chefs de petites et moyennes entreprises, se retrouvent sur les ronds points et menacent de monter à Paris.
-
-La Rochelle, belle et rebelle, s’insurge également. Des barrages sont érigés devant les dépôts pétroliers de La Pallice, ainsi qu’aux entrées de la ville. Toute une tranche de la population, des hommes, des femmes, des jeunes, des vieux, enfilent des gilets jaunes pour crier leur désespoir de fins de mois impossibles. À partir du 10, le porte-monnaie sonne creux, démontrant que le travail est mal rémunéré au regard de l’enrichissement de certains spéculateurs. La France retrouve des airs de Germinal.
-
-Ce 4 Novembre 2018, Sœur Maria Assunta est en pleine réflexion. Elle se trouve au niveau de la Grande Horloge, monument bien connu des Rochelais. L’édifice date de l’enceinte primitive de la ville au XIIe siècle. Devenu inutile, on transforma la porte en beffroi, lui ajoutant une cloche et une horloge. Elle érige sa grande taille à quelques centaines de mètres de la gare.
-
-Depuis quarante ans, la religieuse sert Dieu et les plus démunis. Pour elle, les choses n’ont pas vraiment changé ici-bas. Lorsqu’elle est arrivée de sa lointaine Italie, elle n’était âgée que de quelques années. Son père, fuyant la misère, connaissait déjà les bas fonds de ces villes industrielles dans lesquelles s’entassaient des familles entières. Le froid, la faim, la promiscuité terrassaient les miséreux. Elle se souvient de l’hiver 1954, rigoureux autant à Paris qu’ailleurs. Combien de sans domiciles sont morts de froid à cette époque ?
-
-Son papa italien trouva un travail sans difficulté dans le nord de la France, au fond des mines de charbon. Hélas, un malheur en chasse souvent un autre, puisqu’il mourut prématurément de la silicose. Sœur Maria en garde un souvenir ému. Elle est autant Française qu’Italienne dont elle parle couramment la langue.
-
-Depuis toujours, sœur Maria seconde les pauvres. Son sacerdoce ? Secourir ceux qui n’ont absolument rien. Des êtres humains sans toit, sans chaussures, sans même une pièce au fond de la poche. Des personnes démunies au point de ne trouver dans le tréfonds de leur mémoire aucune trace du dernier repas correct. Aujourd’hui, elle sourit un peu lorsqu’elle voit ces manifestations orchestrées par ces familles considérées comme la classe juste en dessous des privilégiés.
-
-Alors qu’elle chemine, plongée dans ses pensées, un jeune homme vient à sa rencontre. Il parle très mal la langue française. Il est désespéré. Elle devine en lui une immense fatigue, physique en apparence, mais morale assurément. Cette ombre tremblante, en proie à l’incertitude, s’inquiète des jours à venir.
-
-Il est mince comme une brindille exposée à tous les mauvais vents froids d’un novembre sournois. Malgré cela, sa mise est correcte. Son regard calme et paisible se dilue dans celui de la femme de cœur. Il ne fait pas la manche, cherche juste un peu de soutien. Il raconte sommairement. Cela fait un an qu’il est parti de chez lui pour arriver dans la cité maritime, épuisé. L’homme vient juste de débarquer du train en provenance de Bordeaux. Il a marché droit devant lui. Pour la première fois de sa vie, il a vu les trois tours de La Rochelle, a longé le vieux port et a remarqué la tenue portée par la religieuse.
-
-Celle-ci devine la force vivace qui émane de l’étranger, sa volonté farouche de vivre malgré son dénuement.
-
-Sœur Maria Assunta vient de croiser le chemin de Fodé Mabinty Camara.</P>
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -105,6 +91,7 @@ Voici son histoire.
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
                     <h4 class="h2Jaune text-center m-3">L’ARRIVÉE</h4>
+                    <img src="images/arletteBessede/maillot-de-bain-pour-site_11zon.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
     <img src="images/alainTahet/photo10.webp" class="img-fluid w-75 mb-3 d-block mx-auto" alt="Illustration">
 
                     <p>

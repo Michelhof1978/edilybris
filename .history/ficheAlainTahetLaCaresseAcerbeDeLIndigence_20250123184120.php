@@ -46,7 +46,7 @@ Pour terrain de jeu, notre bonne vieille France. Pour cadre, l’ambiance délé
 
                     <h4 class="h2Jaune text-center m-3">CHAPITRE 1</h4>
 
-                    <p class="text-center">
+                    <p cla>
                     Quelque part en France – XXIe siècle.
 
 Ces années-là, les incessants progrès technologiques furent pour la première fois confrontés à l’épuisement des ressources naturelles.
