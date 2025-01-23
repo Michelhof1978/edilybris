@@ -28,7 +28,7 @@
                         <strong class="h2Jaune">Nombre de pages :</strong> 158
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Biographie<br><br>
+                        <strong class="h2Jaune">Genre :</strong> Biographie
                         <strong class="h2Jaune">Référence:</strong> 9782363440631
                     </p>
                     <p class="lead">
