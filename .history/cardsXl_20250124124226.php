@@ -1106,7 +1106,19 @@
             </a>
         </div>
         </div>
-    
+
+       <div id="desktop-group9" class="new-card-container new-hidden">
+          <!-- carte 51 D-LysDeCoeur photos fantasy chevalet-->
+          <div class="new-card">
+            <a href="ficheD-LysDeCoeur-photos-fantasy-chevalet.php">
+                <img src="images/d-LysDeCoeur/calendrier-fantasy-chevalet-janvier_11zon.webp" class="img-fluid" alt="Calendrier">
+                <div class="new-card-content">
+                    <div class="new-card-author">D-LYS Decoeur </div>
+                    <div class="new -card-price">20,00 €</div>
+                </div>
+            </a>
+        </div>
+      
         </div>
 
         </div>
