@@ -47,7 +47,7 @@
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/d-LysDeCoeur/calendrier-normal-couverture-mural_11zon.webp" class="img-fluid" alt="Couverture du livre luminescence">
+                        <img src="images/d-LysDeCoeur/calendriermuralfantasycouverture_11zon.webp" class="img-fluid" alt="Couverture du livre luminescence">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">29,00 €</p>
 

@@ -282,7 +282,7 @@
         <!-- Carte 8 D-LYS Decoeur -->
         <div class="L-card">
             <a href="ficheDLysDecoeurPhotosNormalesChevalet.php">
-                <img src="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php" class="img-fluid" alt="calendrier Photos Normales Chevalet">
+                <img src="images/d-LysDeCoeur" class="img-fluid" alt="calendrier Photos Normales Chevalet">
                 <div class="L-card-content">
                     <div class="L-card-author">D-LYS Decoeur</div>
                     <div class="L-card-price">29,00 €</div>

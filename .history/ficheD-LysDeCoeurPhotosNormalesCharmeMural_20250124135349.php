@@ -15,7 +15,7 @@
             <!-- Livre 1 : photos normales/charme mural  -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/d-LysDeCoeur/calendrier-normal-couverture-mural_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre luminescence">
+                    <img src="images/d-LysDeCoeur/calendriermuralfantasycouverture_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre luminescence">
                     <p class="fw-bold coloryellow fs-5">29,00 €</p>
                 </div>
                 <div class="col-12 text-white">
@@ -23,7 +23,7 @@
                     <p>
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 978-2-36344-0-891 
+                        <strong class="h2Jaune">Référence :</strong> 978-2-36344-0-884 
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Calendrier
@@ -47,7 +47,7 @@
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/d-LysDeCoeur/calendrier-normal-couverture-mural_11zon.webp" class="img-fluid" alt="Couverture du livre luminescence">
+                        <img src="images/d-LysDeCoeur/calendriermuralfantasycouverture_11zon.webp" class="img-fluid" alt="Couverture du livre luminescence">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">29,00 €</p>
 
