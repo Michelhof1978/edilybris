@@ -16,7 +16,7 @@
   <!-- Groupe 2 Emmanuel Trouvé-->
   <div id="new-group2" class="new-card-container new-hidden">
     <div class="new-card">
-      <a href="ficheEmmanuelTrouveEntreVieEtPoesie.php">
+      <a href="link_to_book_F.html">
         <img src="ficheEmmanuelTrouveLivres.phpimages/emmanuelTrouve/couverture-recto-entre-vie-et-poe-sie.webp" class="img-fluid" alt="couverture de livre Entre vie et poésie">
         <div class="new-card-content">
           <div class="new-card-author">Emmanuel Trouvé</div>
