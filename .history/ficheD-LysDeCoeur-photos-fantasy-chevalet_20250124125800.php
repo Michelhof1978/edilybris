@@ -52,14 +52,13 @@
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">20,00 €</p>
 
                     </div>
-                    <div class="livre-details ">
+                    <div class="livre-details">
                         <h3 class="h2Jaune">photos fantasy chevalet </h3>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Calendrier</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 978-2-36344-0-884 </p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong>9782363440648</p>
 
-<div class="m-5">               
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a>
-</div>
+
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

@@ -60,6 +60,7 @@
 <div class="m-5">               
 <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a>
 </div>
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

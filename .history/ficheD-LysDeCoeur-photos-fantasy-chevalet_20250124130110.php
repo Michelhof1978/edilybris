@@ -57,9 +57,9 @@
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Calendrier</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 978-2-36344-0-884 </p>
 
-<div class="m-5">               
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a>
-</div>
+<div>               
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a></div>
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>

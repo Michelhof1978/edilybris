@@ -7,23 +7,25 @@
 
 <main>
     <!-- MODE MOBILE--> 
-
+    <!-- Section des livres -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
             <h2 class="text-center text-white">Le calendrier de D-LYS Decoeur</h2>
 
-            <!-- Livre 1 : photos fantasy chevalet  -->
+            <!-- Livre 1 : luminescence -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/d-LysDeCoeur/calendriermuralfantasycouverture_11zon.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre luminescence">
+                    <img src="images/francoisGalard/couvrectoluminescence.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre luminescence">
                     <p class="fw-bold coloryellow fs-5">20,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">photos fantasy chevalet </h3>
+                    <h3 class="h2Jaune text-center">Luminescence</h3>
                     <p>
+                        <strong class="h2Jaune">Année de publication :</strong> 2024
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 978-2-36344-0-884 
+                        <strong class="h2Jaune">Nombre de pages :</strong> 74<br> <br>
+                        <strong class="h2Jaune">Référence :</strong> 9782363440648
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Calendrier
@@ -42,8 +44,8 @@
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>photos fantasy chevalet </h2>
-            <!-- Carte 1 photos fantasy chevalet -->
+            <h2>Luminescense</h2>
+            <!-- Carte 1 luminescence-->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
@@ -52,14 +54,15 @@
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">20,00 €</p>
 
                     </div>
-                    <div class="livre-details ">
-                        <h3 class="h2Jaune">photos fantasy chevalet </h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Calendrier</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 978-2-36344-0-884 </p>
+                    <div class="livre-details">
+                        <h3 class="h2Jaune">Luminescense</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 74</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong>9782363440648</p>
 
-<div class="m-5">               
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold m-5" download>Télécharger le bon de commande</a>
-</div>
+
+                      <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
             </div>
