@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const desktopBackBtn = document.getElementById('new-desktop-backButton');
     const desktopNextBtn = document.getElementById('new-desktop-nextGroupButton');
     // Ajout de 30 groupes pour mobile
-    const mobileGroups = Array.from({ length: 60 }, (_, i) =>
+    const mobileGroups = Array.from({ length: 40 }, (_, i) =>
         document.getElementById(`mobile-group${i + 1}`)
     );
     // Ajout des groupes pour desktop (peut être ajusté selon les besoins)
@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('desktop-group6'),
         document.getElementById('desktop-group7'),
         document.getElementById('desktop-group8'),
-        document.getElementById('desktop-group9'),
+       
     ];
     let currentMobileGroup = 0;
     let currentDesktopGroup = 0;

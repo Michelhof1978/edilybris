@@ -1073,7 +1073,8 @@
         </div>
       </div>
 
-      
+      <div id="desktop-group7" class="new-card-container new-hidden">
+       <!-- carte 45 Thellet Antoine-->
      <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 45 ANTOINE TEILLET -->
         <div class="new-card">
@@ -1129,7 +1130,7 @@
                 </div>
             </a>
         </div>
-        <div id="desktop-group9" class="new-card-container new-hidden">
+
           <!-- carte 50  D-LysDeCoeur photos fantasy mural-->
           <div class="new-card">
             <a href="ficheD-LysDeCoeur-photos-fantasy-mural.php">
@@ -1144,7 +1145,7 @@
           <!-- carte 51 D-LysDeCoeur photos fantasy chevalet-->
           <div class="new-card">
             <a href="D-LysDeCoeur-photos-fantasy-chevalet.php">
-                <img src="images/d-LysDeCoeur/calendrier-fantasy-chevalet-janvier_11zon.webp" class="img-fluid" alt="Calendrier">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Calendrier">
                 <div class="new-card-content">
                     <div class="new-card-author">D-LYS Decoeur </div>
                     <div class="new-card-price">20,00 €</div>
@@ -1152,7 +1153,7 @@
             </a>
         </div>
       
-        </div>
+       
 
         </div>
       </div>

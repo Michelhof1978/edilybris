@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('desktop-group6'),
         document.getElementById('desktop-group7'),
         document.getElementById('desktop-group8'),
-        document.getElementById('desktop-group9'),
+        document.getElementById('desktop-group8'),
     ];
     let currentMobileGroup = 0;
     let currentDesktopGroup = 0;
