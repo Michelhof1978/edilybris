@@ -544,16 +544,6 @@
         </div>
       </a>
 
-       <!-- D-LYS Decoeur-->
-       <a href="icheD-LysDeCoeur.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/d-LysDeCoeur/D-LYS Decoeur.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
-        </div>
-        <div class="details mb-3">
-          <h2>D-LYS Decoeur</h2>
-        </div>
-      </a>
-
     </div>
   </div>
 

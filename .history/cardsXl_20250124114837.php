@@ -538,7 +538,7 @@
     <!-- Groupe 43 D-LysDeCoeur photos fantasy chevalet -->
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheD-LysDeCoeur-photos-fantasy-chevalet.php">
+            <a href="D-LysDeCoeur-photos-fantasy-chevalet.php">
                 <img src="images/d-LysDeCoeur/calendrier-fantasy-chevalet-janvier_11zon.webp" class="img-fluid" alt="Calendrier">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur  </div>
@@ -1144,7 +1144,7 @@
 
           <!-- carte 51 D-LysDeCoeur photos fantasy chevalet-->
           <div class="new-card">
-            <a href="ficheD-LysDeCoeur-photos-fantasy-chevalet.php">
+            <a href="fiD-LysDeCoeur-photos-fantasy-chevalet.php">
                 <img src="images/d-LysDeCoeur/calendrier-fantasy-chevalet-janvier_11zon.webp" class="img-fluid" alt="Calendrier">
                 <div class="new-card-content">
                     <div class="new-card-author">D-LYS Decoeur </div>

@@ -268,9 +268,9 @@
 
         <!-- D-LYS Decoeur -->
 <div class="carousel-item">
-            <a href="ficheD-LysDeCoeur.php">
+            <a href="fichePatriciaScharff.php">
                 <div class="person">
-                    <img src="images/d-LysDeCoeur/D-LYS Decoeur.webp" alt="Photo de SCHARFF PATRICIA" class="photo">
+                    <img src="images/patriciaScharff/patriciaScharff.webp" alt="Photo de SCHARFF PATRICIA" class="photo">
                     <p class="name">D-LYS Decoeur</p>
                 </div>
             </a>
@@ -541,16 +541,6 @@
         </div>
         <div class="details mb-3">
           <h2>SCHARFF PATRICIA</h2>
-        </div>
-      </a>
-
-       <!-- D-LYS Decoeur-->
-       <a href="icheD-LysDeCoeur.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/d-LysDeCoeur/D-LYS Decoeur.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
-        </div>
-        <div class="details mb-3">
-          <h2>D-LYS Decoeur</h2>
         </div>
       </a>
 
