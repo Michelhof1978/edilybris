@@ -19,23 +19,7 @@
     Pour tout projet autour de l’image, D-Lys vous conseille et agit avec l’un de ses photographes.<br>
      Ainsi, D-Lys assure les prestations des assemblées générales, des photos de classe, des photos de nouveau-nés en maternité ou au domicile, maison de retraite, etc.<br>
     Pour en savoir plus, n’hésitez pas à <a href="https://d-lysdecoeur.com/" target="_blank" rel="noopener noreferrer" class="coloryellow"><strong> sur la page dédiée</strong></a> et partagez !<br>
-   
-    <img src="images/d-LysDeCoeur/articleLNR-DLYSDECOEUR_11zon.webp" alt="Article journal" class="w-25 m-5">
-
-<p><h4 class="coloryellow"><strong>Prestation Modèle</strong></h4> 
-Photographes, venez faire vos sessions photos avec D-Lys</p>
-
-<p><h4 class="coloryellow"><strong>Sessions Photos</strong></h4> 
-Venez réaliser portraits homme ou femme, enfants, couple, charme, photomontage, mise en situation, tout en vous redonnant confiance en vous..</p>
-
-<p><h4 class="coloryellow"><strong>Personnalisations</strong></h4> 
-Réalisez vos supports visuels de vos sessions photos, avec des calendriers, posters de toutes tailles.</p>
-
-<p><h4 class="coloryellow"><strong>Autres</strong></h4> 
-Réalisation des photos de classe, d’assemblées générales d’associations, de colloques d’entreprises…</p>
-
-    
-    <br>
+    <br><br>
 </div>
 
     </div>

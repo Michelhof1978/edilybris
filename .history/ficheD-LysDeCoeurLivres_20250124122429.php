@@ -20,7 +20,7 @@
      Ainsi, D-Lys assure les prestations des assemblées générales, des photos de classe, des photos de nouveau-nés en maternité ou au domicile, maison de retraite, etc.<br>
     Pour en savoir plus, n’hésitez pas à <a href="https://d-lysdecoeur.com/" target="_blank" rel="noopener noreferrer" class="coloryellow"><strong> sur la page dédiée</strong></a> et partagez !<br>
    
-    <img src="images/d-LysDeCoeur/articleLNR-DLYSDECOEUR_11zon.webp" alt="Article journal" class="w-25 m-5">
+    <img src="images/d-LysDeCoeur/articleLNR-DLYSDECOEUR_11zon.webp" alt="Article journal" width="300" height="200">
 
 <p><h4 class="coloryellow"><strong>Prestation Modèle</strong></h4> 
 Photographes, venez faire vos sessions photos avec D-Lys</p>

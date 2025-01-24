@@ -12,31 +12,14 @@
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
         <div class="text-center m-5">
-    D-Lys vous accompagne dans vos projets photographiques pour lesquels vous pouvez être votre propre acteur : portraits, mise en situation, photos de couple, famille, charme, photomontages. <br>
-    Grâce à l’expérience, le respect et le sourire, D-LYS vous met à l’aise devant l’objectif et vous permet de prendre confiance en vous. <br>
-    Vous pouvez réaliser votre calendrier personnalisé afin de l’offrir à vos proches. Vous pouvez aussi être le héros d’un shooting photo dans différentes ambiances grâce au studio de Niobé. À l’issue, vous pouvez acquérir des photos au format numérique ou papier. <br>
-    Demandez par mail les conditions tarifaires.<br>
-    Pour tout projet autour de l’image, D-Lys vous conseille et agit avec l’un de ses photographes.<br>
-     Ainsi, D-Lys assure les prestations des assemblées générales, des photos de classe, des photos de nouveau-nés en maternité ou au domicile, maison de retraite, etc.<br>
-    Pour en savoir plus, n’hésitez pas à <a href="https://d-lysdecoeur.com/" target="_blank" rel="noopener noreferrer" class="coloryellow"><strong> sur la page dédiée</strong></a> et partagez !<br>
-   
-    <img src="images/d-LysDeCoeur/articleLNR-DLYSDECOEUR_11zon.webp" alt="Article journal" class="w-25 m-5">
-
-<p><h4 class="coloryellow"><strong>Prestation Modèle</strong></h4> 
-Photographes, venez faire vos sessions photos avec D-Lys</p>
-
-<p><h4 class="coloryellow"><strong>Sessions Photos</strong></h4> 
-Venez réaliser portraits homme ou femme, enfants, couple, charme, photomontage, mise en situation, tout en vous redonnant confiance en vous..</p>
-
-<p><h4 class="coloryellow"><strong>Personnalisations</strong></h4> 
-Réalisez vos supports visuels de vos sessions photos, avec des calendriers, posters de toutes tailles.</p>
-
-<p><h4 class="coloryellow"><strong>Autres</strong></h4> 
-Réalisation des photos de classe, d’assemblées générales d’associations, de colloques d’entreprises…</p>
-
-    
-    <br>
+    D-Lys vous accompagne dans vos projets photographiques pour lesquels vous pouvez être votre propre acteur : portraits, mise en situation, photos de couple, famille, charme, photomontages. 
+    Grâce à l’expérience, le respect et le sourire, D-LYS vous met à l’aise devant l’objectif et vous permet de prendre confiance en vous. 
+    Vous pouvez réaliser votre calendrier personnalisé afin de l’offrir à vos proches. Vous pouvez aussi être le héros d’un shooting photo dans différentes ambiances grâce au studio de Niobé. À l’issue, vous pouvez acquérir des photos au format numérique ou papier. Demandez par mail les conditions tarifaires.
+    Pour tout projet autour de l’image, D-Lys vous conseille et agit avec l’un de ses photographes. Ainsi, D-Lys assure les prestations des assemblées générales, des photos de classe, des photos de nouveau-nés en maternité ou au domicile, maison de retraite, etc.
+    Pour en savoir plus, n’hésitez pas à <a href="https://d-lysdecoeur.com/" target="_blank" rel="noopener noreferrer" class="coloryellow;">cliquer sur la page dédiée</a> et partagez !
+    <br><br>
 </div>
+
 
     </div>
 </div>
