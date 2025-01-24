@@ -36,7 +36,7 @@
                     <strong class="h2Jaune">Référence :</strong> 9782363440792               
                  </p>
                  <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong> Par Dany Le Du, de la maison secrète
+                        <strong class="h2Jaune">Résumé :</strong>Par Dany Le Du, de la maison secrète
 
 Lire les poèmes d’Emmanuel Trouvé, c’est se laisser bercer par celui qui dit : « Je ne suis qu’un conteur, un inventeur d’histoires... Je cherche les mots de bonheur pour vous distraire le soir.»
 
@@ -203,7 +203,7 @@ Pour déclarer mon amour,<br>
 
 
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
-<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
+<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-25" alt="photo">
 
                     <p>
 <P  class="coloryellow">Edi’lybris : Bonjour Manu.<br>
@@ -250,16 +250,6 @@ Réponse : Bonjour Pierre !</P>
 
 </p>
  
-<h3 class="h2Jaune text-center m-3">ET LA PRESSE...</h3>
-                    <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-
-
-                </p>
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white mt-4" download>Télécharger le bon de commande</a>
                     </div>
@@ -290,7 +280,7 @@ Réponse : Bonjour Pierre !</P>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 152</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440600</p>
                         <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong> Par Dany Le Du, de la maison secrète
+                        <strong class="h2Jaune">Résumé :</strong>Par Dany Le Du, de la maison secrète
 
 Lire les poèmes d’Emmanuel Trouvé, c’est se laisser bercer par celui qui dit : « Je ne suis qu’un conteur, un inventeur d’histoires... Je cherche les mots de bonheur pour vous distraire le soir.»
 
@@ -300,7 +290,7 @@ De l’enfant gourmand à la femme blessée, des falaise d’Étretat au marais 
 
 «Je suis la colère et la douceur… », écrit le poète qui refuse de choisir entre rêve et réalité, ENTRE VIE …ET POÉSIE.
 
-(Retrouvez Dany Le Du sur  facebook)
+(Retrouvez Dany Le Du sur 
                     </p>
                    
                     
@@ -455,7 +445,7 @@ Pour déclarer mon amour,<br>
 
 
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
-<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
+<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-25" alt="photo">
 
                     <p>
 <P  class="coloryellow">Edi’lybris : Bonjour Manu.<br>
@@ -501,17 +491,6 @@ Réponse : Bonjour Pierre !</P>
 <p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !<br></p>
 
 </p>
-
-<h3 class="h2Jaune text-center m-5">ET LA PRESSE...</h3>
-                    <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
-
-
-                </p>
-
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

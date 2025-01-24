@@ -253,8 +253,6 @@ Réponse : Bonjour Pierre !</P>
 <h3 class="h2Jaune text-center m-3">ET LA PRESSE...</h3>
                     <p class="text-center">
                     <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
                     <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
 
 
@@ -502,12 +500,11 @@ Réponse : Bonjour Pierre !</P>
 
 </p>
 
-<h3 class="h2Jaune text-center m-5">ET LA PRESSE...</h3>
+<h3 class="h2Jaune text-center m-3">ET LA PRESSE...</h3>
                     <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
                     Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
+                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
+                    <img src="images/emmanuelTrouve/photo54.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
 
 
                 </p>

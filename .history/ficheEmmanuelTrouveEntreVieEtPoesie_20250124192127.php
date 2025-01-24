@@ -250,16 +250,6 @@ Réponse : Bonjour Pierre !</P>
 
 </p>
  
-<h3 class="h2Jaune text-center m-3">ET LA PRESSE...</h3>
-                    <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-
-
-                </p>
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white mt-4" download>Télécharger le bon de commande</a>
                     </div>
@@ -502,15 +492,73 @@ Réponse : Bonjour Pierre !</P>
 
 </p>
 
-<h3 class="h2Jaune text-center m-5">ET LA PRESSE...</h3>
+<h3 class="h2Jaune text-center m-3">LE PASSEUR</h3>
                     <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
+Je ne suis qu’un conteur,<br>
+Un inventeur histoires...<br>
+Je cherche les mots de bonheur,<br>
+Pour vous distraire le soir.<br><br>
 
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
+J’invente des récits,<br>
+J’imagine des visages,<br>
+Des petites poésies<br>
+Que je couche sur la page.<br><br>
 
 
-                </p>
+Je fais cela...<br>
+Pour vous plaire,<br>
+Parce que c’est en moi.<br>
+Je joue... tel Molière,<br>
+Dans un univers,<br>
+Étrange quelquefois.<br>
+Il est des fois...<br>
+Je me mets dans la peau<br>
+De ces personnages,<br>
+Pour mieux ressentir leurs maux,<br>
+Ou souligner leur courage,<br>
+Puis je redeviens moi.<br><br>
+
+
+Parfois...<br>
+J’ai vécu,<br>
+Parfois...<br>
+J’ai ressenti.<br>
+D’autres fois...<br>
+J’ai vu<br>
+Ou bien j’ai subi.<br>
+Je me garde le droit,<br>
+De conserver le mystère...<br>
+Écrire est une manière<br>
+De faire le vide en soi,<br>
+De cracher son désarroi...<br>
+Et d’avancer vers la lumière.<br><br>
+
+
+Comprenez-moi,<br>
+Je ne suis qu’un passeur,<br>
+Un conteur...<br>
+Comme le trouvère<br>
+D’autrefois<br>
+Nous contait naguère<br>
+Misère et joie.<br>
+Je suis moi...<br>
+Tous ces personnages<br>
+Et ces visages<br>
+À la fois<br>
+Coulent dans mes veines.<br>
+J’explore leur peine,<br>
+Je crie leur joie,<br>
+L’amour, la haine<br>
+Et le désespoir...<br>
+Parfois.<br><br>
+
+
+J’écris des récits,<br>
+Je fais des rêves,<br>
+Du rêve... à la poésie.<br>
+Je ne vis pas ma vie,<br>
+Je la rêve.<br>
+</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

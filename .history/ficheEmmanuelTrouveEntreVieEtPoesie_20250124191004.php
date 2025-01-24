@@ -36,7 +36,7 @@
                     <strong class="h2Jaune">Référence :</strong> 9782363440792               
                  </p>
                  <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong> Par Dany Le Du, de la maison secrète
+                        <strong class="h2Jaune">Résumé :</strong>Par Dany Le Du, de la maison secrète
 
 Lire les poèmes d’Emmanuel Trouvé, c’est se laisser bercer par celui qui dit : « Je ne suis qu’un conteur, un inventeur d’histoires... Je cherche les mots de bonheur pour vous distraire le soir.»
 
@@ -203,63 +203,43 @@ Pour déclarer mon amour,<br>
 
 
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
-<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-
                     <p>
-<P  class="coloryellow">Edi’lybris : Bonjour Manu.<br>
+<P  class="coloryellow">Edi’lybris : Bonjour  Jocelyne<br>
 Réponse : Bonjour Pierre !</P>
 
-<P class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ?<br> </p>
+<P class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ?<br> </p>
 <P class="coloryellow">Tu te souviens en quelle année ?<br> </p>
 
-<p>J'ai connu Edi'Lybris, le jour où j'ai rencontré Pierre Brandao, en 2022 il me semble. </p>
+<p>J’ai fait la connaissance d’Edi’Lybris en 2020… par erreur ! Tu étais en dédicace à Intermarché. Curieusement, j’avais juste remarqué ton nom, que je prenais pour un nom gallo. <br>
+Or, j’ai appris cette langue bretonne non celtique, où « ao » correspond à notre « an ».<br>
+ J’ai cru par ailleurs, vu que tu étais adossé contre ses ouvrages, que tu représentais un éditeur régional bien connu. <br>
+ Et j’ai osé m’approcher pour te demander si réellement  tu portais un nom gallo, et me proposer comme relectrice bénévole car j’avais remarqué le nombre toujours croissant d’erreurs d’orthographe de l’éditeur pour lequel je te prenais…</p>
 
- <P class="coloryellow">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p>
+ <P class="coloryellow">Edi’lybris : Être acceptée par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris.<br>
+ Comment cela s’est-il passé pour ton premier roman qui va être édité « Le mystère de l’Hometrou » ?</p>
 
-<p>Cela s'est très bien passé, grâce à quelques extraits de "entre vie et poésie", le comité de lecture a pu se faire une idée du contenu de mon manuscrit.<br> </p>
+<p>Le Comité de lecture d’Edi’Lybris est bienveillant… et averti, puisqu’il est amené à donner son avis sur un nombre conséquent d’ouvrages chaque année.<br>
+ J’avais donc confiance. Et puis, j’ai écrit « Le mystère de l’Hometrou » avec tout mon cœur, puisque c’était une « commande » de ma fille.<br> </p>
 
-  <P class="coloryellow">Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?<br></p>
+  <P class="coloryellow">Edi’lybris : Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ? Les conseils prodigués ont-ils été à la hauteur de tes attentes ?<br></p>
 
-<p>Oui les conseils sont très profitables, et ont permis de trouver de nouvelles solutions à mes nombreuses erreurs.<br> </p>
+<p>Je dois dire, cher Pierre, que je suis contre tous les logiciels de correction, y compris celui que tu utilises ! Un seul avis m’importe : celui de relecteurs bienveillants, de bon sens et de bonne volonté, seuls capables de détecter des incohérences, des erreurs d’accord sujet-verbe, des lourdeurs, des hiatus, des mots mal-sonnants… <br> 
+J’ai, dans un premier temps, accepté de réécrire entièrement le livre – dont il n’existait qu’un exemplaire papier, le texte en ligne ayant disparu avec mon disque dur  -en changeant les noms-  et, dans un second temps, de supprimer les répétitions, les coquilles qui restaient, quelques incohérences… Un très long travail, que je n’aurais pas entrepris si je n’avais pas eu les encouragements de personnes que j’estime !<br> </p>
 
- <P class="coloryellow">Parlons du livre à paraître. Comment t’est venue l’idée d’écrire sur ce sujet ?<br></p>
+ <P class="coloryellow">Edi’lybris : Parlons du livre à paraître… Comment l’idée de l’écrire t’est-elle venue ?  Le titre recèle-t-il un sens caché ?<br></p>
 
- <p>Cela fait maintenant quelques années, que j'invente régulièrement des histoires poétiques.<br> </p>
+ <p>Bien sûr, sinon, il ne s'appellerait pas "Le mystère de l'Hometrou" ! <br> 
+<p>Je laisse le lecteur découvrir ce qui se cache dans la cave et le jardin de la narratrice ! Et tout ce que ça va entraîner pour elle ! L’idée d’écrire, je l’ai en permanence, depuis mon tout jeune âge, et de fait, j’ai bien dû écrire une quarantaine de livres, dont la moitié est définitivement perdue, et l’autre moitié n’existe que sous forme d’exemplaires papier, tirés par moi, destinés à mon petit-fils...<br> </p>
 
-<P class="coloryellow">Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?!<br></p>
+<P class="coloryellow">Edi’lybris : Peux-tu résumer en quelques mots l’esprit de ton roman ?<br></p>
 
-<p>Les histoires de « Entre vie et poésie» sont inspirées de tout ce qui m'entoure, me touche, me blesse ou me fait rêver. Certaines sont ma vie, d'autres viennent de mon imaginaire.</p>
+<p></p>Oui, en citant Ethel, une des filles de la narratrice du « Mystère de l’Hometrou » : quand on cherche, on finit par trouver.</p>
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?<br></p>
+<P class="coloryellow">Edi’lybris : La couverture : qui t’a fourni l’illustration ?<br></p>
 
-<p>Oui cela est très émouvant de voir naître la couverture que l'on a rêvée.</p>
-
-<p class="coloryellow">Quel message souhaites-tu délivrer à travers ton récit ?<br></p>
-
-<p>Les poèmes de « entre vie et poésie» sont très variés, il n'y a pas vraiment de message, juste faire voyager et rêver les lecteurs..</p>
-
-<p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?<br></p>
-
-<p>Pour le moment je n'ai pas de projet, je vais continuer à écrire, chaque fois que l'inspiration sera au rendez-vous.</p>
-
-<p class="coloryellow">Un dernier mot à l’attention des lecteurs ?<br></p>
-
-<p>À tous les lecteurs, je vous souhaite un bon voyage au pays de mes rêves et mes sentiments. Un voyage juste« entre vie et poésie».</p>
-
-<p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !<br></p>
-
-</p>
+<p>Tout le monde dessinant dans ma famille paternelle, c’est moi qui ai fourni le dessin… Mais le fond noir le mettant en valeur, c’est toi, Pierre, et ta bécane magique ! 
+    Et j’aime beaucoup ce que tu as fait à partir de quelques traits au pastel…</p>
  
-<h3 class="h2Jaune text-center m-3">ET LA PRESSE...</h3>
-                    <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-75" alt="photo">
-
-
-                </p>
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white mt-4" download>Télécharger le bon de commande</a>
                     </div>
@@ -290,7 +270,7 @@ Réponse : Bonjour Pierre !</P>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 152</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440600</p>
                         <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong> Par Dany Le Du, de la maison secrète
+                        <strong class="h2Jaune">Résumé :</strong>Par Dany Le Du, de la maison secrète
 
 Lire les poèmes d’Emmanuel Trouvé, c’est se laisser bercer par celui qui dit : « Je ne suis qu’un conteur, un inventeur d’histoires... Je cherche les mots de bonheur pour vous distraire le soir.»
 
@@ -300,7 +280,7 @@ De l’enfant gourmand à la femme blessée, des falaise d’Étretat au marais 
 
 «Je suis la colère et la douceur… », écrit le poète qui refuse de choisir entre rêve et réalité, ENTRE VIE …ET POÉSIE.
 
-(Retrouvez Dany Le Du sur  facebook)
+(Retrouvez Dany Le Du sur 
                     </p>
                    
                     
@@ -455,7 +435,7 @@ Pour déclarer mon amour,<br>
 
 
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
-<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
+<img src="images/emmanuelTrouve/photo5.webp" class="img-fluid m-3 d-block mx-auto w-25" alt="photo">
 
                     <p>
 <P  class="coloryellow">Edi’lybris : Bonjour Manu.<br>
@@ -482,36 +462,11 @@ Réponse : Bonjour Pierre !</P>
 
 <p>Les histoires de « Entre vie et poésie» sont inspirées de tout ce qui m'entoure, me touche, me blesse ou me fait rêver. Certaines sont ma vie, d'autres viennent de mon imaginaire.</p>
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?<br></p>
+<P class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?<br></p>
 
-<p>Oui cela est très émouvant de voir naître la couverture que l'on a rêvée.</p>
-
-<p class="coloryellow">Quel message souhaites-tu délivrer à travers ton récit ?<br></p>
-
-<p>Les poèmes de « entre vie et poésie» sont très variés, il n'y a pas vraiment de message, juste faire voyager et rêver les lecteurs..</p>
-
-<p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?<br></p>
-
-<p>Pour le moment je n'ai pas de projet, je vais continuer à écrire, chaque fois que l'inspiration sera au rendez-vous.</p>
-
-<p class="coloryellow">Un dernier mot à l’attention des lecteurs ?<br></p>
-
-<p>À tous les lecteurs, je vous souhaite un bon voyage au pays de mes rêves et mes sentiments. Un voyage juste« entre vie et poésie».</p>
-
-<p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !<br></p>
-
+<p>Tout le monde dessinant dans ma famille paternelle, c’est moi qui ai fourni le dessin… Mais le fond noir le mettant en valeur, c’est toi, Pierre, et ta bécane magique ! 
+    Et j’aime beaucoup ce que tu as fait à partir de quelques traits au pastel…</p>
 </p>
-
-<h3 class="h2Jaune text-center m-5">ET LA PRESSE...</h3>
-                    <p class="text-center">
-                    <img src="images/emmanuelTrouve/photo3.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
-                    Un premier ouvrage a déjà été publié, intitulé "Entre rêve et poésie". La presse s'en était fait l'écho : 
-
-                    <img src="images/emmanuelTrouve/photo4.webp" class="img-fluid m-3 d-block mx-auto w-50" alt="photo">
-
-
-                </p>
-
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
