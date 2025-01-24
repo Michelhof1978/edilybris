@@ -500,7 +500,7 @@
       <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheD-LysDeCoeurPhotosNormalesCharmeMural.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Calendrier">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur </div>
                     <div class="mobile-book-price">29,00 €</div>
@@ -513,7 +513,7 @@
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Calendrier">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur  </div>
                     <div class="mobile-book-price">29,00 €</div>
@@ -526,7 +526,7 @@
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheVeroniqueAshPetitPaquetOublie.php">
-                <img src="Calendrier fantasy chevalet janvier_11zon.webp" class="img-fluid" alt="Calendrier">
+                <img src="Calendrier fantasy chevalet janvier_11zon.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur </div>
                     <div class="mobile-book-price">20,00 €</div>
@@ -539,7 +539,7 @@
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="D-LysDeCoeur-photos-fantasy-chevalet.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Calendrier">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur  </div>
                     <div class="mobile-book-price">20,00 €</div>

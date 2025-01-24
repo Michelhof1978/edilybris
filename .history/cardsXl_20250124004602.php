@@ -499,8 +499,8 @@
       <!-- Groupe 40 D-LysDeCoeur photos normales/charme mural -->
       <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheD-LysDeCoeurPhotosNormalesCharmeMural.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur </div>
                     <div class="mobile-book-price">29,00 €</div>
@@ -512,8 +512,8 @@
     <!-- Groupe 41 D-LysDeCoeur photos normales/charme chevalet -->
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur  </div>
                     <div class="mobile-book-price">29,00 €</div>
@@ -526,7 +526,7 @@
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="ficheVeroniqueAshPetitPaquetOublie.php">
-                <img src="Calendrier fantasy chevalet janvier_11zon.webp" class="img-fluid" alt="Calendrier">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur </div>
                     <div class="mobile-book-price">20,00 €</div>
@@ -538,8 +538,8 @@
     <!-- Groupe 43 D-LysDeCoeur photos fantasy chevalet -->
     <div id="mobile-group38" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="D-LysDeCoeur-photos-fantasy-chevalet.php">
-                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheVeroniqueAshPetitPaquetOublie.php">
+                <img src="images/veroniqueAsh/petitPaquet.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author"> D-LYS Decoeur  </div>
                     <div class="mobile-book-price">20,00 €</div>
@@ -1101,7 +1101,7 @@
            <!-- carte 47 Hervé Gilles -->
            <div class="new-card">
             <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="new-card-content">
                     <div class="new-card-author">Hervé Gilles</div>
                     <div class="new-card-price">8,00 €</div>
@@ -1111,8 +1111,8 @@
 
           <!-- carte 48 D-LysDeCoeur photos normales/charme mural -->
           <div class="new-card">
-            <a href="ficheD-LysDeCoeurPhotosNormalesCharmeMural.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="new-card-content">
                     <div class="new-card-author">D-LYS Decoeur </div>
                     <div class="new-card-price">29,00 €</div>
@@ -1122,8 +1122,8 @@
 
           <!-- carte 49 D-LysDeCoeur photos normales/charme chevalet-->
           <div class="new-card">
-            <a href="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="new-card-content">
                     <div class="new-card-author">D-LYS Decoeur </div>
                     <div class="new-card-price">29,00 €</div>
@@ -1133,10 +1133,10 @@
 
           <!-- carte 50  D-LysDeCoeur photos fantasy mural-->
           <div class="new-card">
-            <a href="ficheD-LysDeCoeur-photos-fantasy-mural.php">
-                <img src="Calendrier fantasy chevalet janvier_11zon.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="new-card-content">
-                    <div class="new-card-author">D-LYS Decoeur</div>
+                    <div class="new-card-author">Hervé Gilles</div>
                     <div class="new-card-price">20,00 €</div>
                 </div>
             </a>
@@ -1144,8 +1144,8 @@
 
           <!-- carte 51 D-LysDeCoeur photos fantasy chevalet-->
           <div class="new-card">
-            <a href="D-LysDeCoeur-photos-fantasy-chevalet.php">
-                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Calendrier">
+            <a href="ficheficheGillesHervePourquoiEcrivezVous.php">
+                <img src="images/gillesHerve/couv-pourquoi-ecrit-on-gilles-herve.webp" class="img-fluid" alt="Couverture de livre Pourquoi écrivez-vous?">
                 <div class="new-card-content">
                     <div class="new-card-author">D-LYS Decoeur </div>
                     <div class="new-card-price">20,00 €</div>
