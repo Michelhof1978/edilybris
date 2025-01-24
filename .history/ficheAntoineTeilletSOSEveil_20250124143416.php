@@ -1,36 +1,36 @@
 <?php include("head.php"); ?>
 
-<title>Guy Lopinto - Auteur</title>
-<meta name="description" content="Le livre de Guy Lopinto. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Antoine Teillet - Auteur</title>
+<meta name="description" content="Le livre de Antoine Teillet. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 
 <?php include("header.php"); ?>
 
 <main>
     <!-- MODE MOBILE--> 
-    <!-- Au-delà De L'intime -->
+    <!-- SOS Eveil -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Guy Lopinto</h2>
+            <h2 class="text-center text-white">Le livre d'Antoine Teillet</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre Au-delà De L'intime">
-                    <p class="fw-bold coloryellow fs-5">14,00 €</p>
+                    <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre Au-delà De L'intime">
+                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Au-delà De L'intime </h3>
+                    <h3 class="h2Jaune text-center">SOS Eveil </h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
+                        <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 72
+                        <strong class="h2Jaune">Nombre de pages :</strong> 262
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Poésie
+                        <strong class="h2Jaune">Genre :</strong> Essai
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440662
+                        <strong class="h2Jaune">Référence :</strong> 9782363440556
                     </p>
                     
                     
@@ -198,7 +198,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p> 
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -222,39 +222,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               <!--Carousel-->
-                   
-               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
+               
 </div>
                   
   
@@ -273,24 +241,32 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Guy Lopinto</h2>
-            <!-- Au-delà De L'intime -->
+            <h2>Les livres Antoine Teillet</h2>
+            <!-- SOS Eveil -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture du livre Au-delà De L'intime">
+                        <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture du livre Au-delà De L'intime">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Au-delà De L'intime</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 72</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440662</p>
+                        <h3 class="h2Jaune">SOS Eveil</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Essai</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 262</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440556</p>
+                        <p class="lead">
+                        <strong class="h2Jaune">Résumé :</strong>Printemps 1917, quelque part en Allemagne. Loin de chez lui, l’artiflot, un artilleur blessé à la tête et dépourvu de sa mémoire est dérouté dans un camp de prisonniers, un camp froid et gris, très gris, noir même. Dénutritions, punitions, travaux forcés, maladies, sont des mots qui reviennent sans cesse nourrir le quotidien de ces hommes fragilisés par la détention. Ils s’efforcent de vivre dans des conditions détestables et immorales. Malgré tout, la captivité s’organise avec des camarades sincères et précieux.
 
+Plus que tout autre, cet artiflot s’interroge sur son sort. Que fait-il là ? Qui est cette Marie dont le nom gravé sur sa bague évoque l’existence d’une femme, sa femme ?
+
+Pour rester debout, un besoin nécessaire d’écrire le saisit. Cela ranimera-t-il en lui des souvenirs ? Seulement, à qui et où adresser ses lettres ? Sont-elles condamnées à ne jamais franchir la clôture de fils de fer barbelés qui lui tiennent lieu de résidence forcée ?
+
+Alors, dans ce contexte, comment résister à de telles épreuves ? Comment éviter de se faire remarquer ? Comment survivre, tout simplement, lorsque la crainte des geôliers allemands vous habite à chaque instant ?
+                    </p>
                         <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -457,7 +433,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p>
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -477,38 +453,6 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
- <!--Carousel-->
-                   
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
    
 </div>
 

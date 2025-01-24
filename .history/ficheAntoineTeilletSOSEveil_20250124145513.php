@@ -1,63 +1,62 @@
 <?php include("head.php"); ?>
 
-<title>Guy Lopinto - Auteur</title>
-<meta name="description" content="Le livre de Guy Lopinto. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Antoine Teillet - Auteur</title>
+<meta name="description" content="Le livre de Antoine Teillet. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 
 <?php include("header.php"); ?>
 
 <main>
     <!-- MODE MOBILE--> 
-    <!-- Au-delà De L'intime -->
+    <!-- SOS Eveil -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Guy Lopinto</h2>
+            <h2 class="text-center text-white">Le livre d'Antoine Teillet</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre Au-delà De L'intime">
-                    <p class="fw-bold coloryellow fs-5">14,00 €</p>
+                    <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid w-50 mb-3" alt="Couverture du livre Au-delà De L'intime">
+                    <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Au-delà De L'intime </h3>
+                    <h3 class="h2Jaune text-center">SOS Eveil </h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
+                        <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 72
+                        <strong class="h2Jaune">Nombre de pages :</strong> 262
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Poésie
+                        <strong class="h2Jaune">Genre :</strong> Essai
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440662
+                        <strong class="h2Jaune">Référence :</strong> 9782363440556
                     </p>
                     
-                    
+                    <p class="lead">
+                        <strong class="h2Jaune">Résumé :</strong>Antoine Teillet, avec SOS Éveil, s’adresse à un public averti : celui pour qui le monde politique, associatif, gouvernemental, humain a un sens certain.
+
+Antoine décortique tous les aspects de notre société, de France et d’ailleurs. Il  dénonce certains comportements de personnalités politiques, souligne à l’inverse l’action de dirigeants responsables, évoque le malaise des gilets jaunes. En tout, neuf sujets qui trouveront un écho chez le lecteur sensible aux problématiques sociétales.
+
+Par des tableaux simples et évocateurs, par des schémas lucides, par une conviction hors du commun, l’auteur vous entraîne et vous propose d’adhérer -ou non !- à son concept d’une vie basée sur un principe fondamental : l’Humain !
+
+L’image de couverture souligne l’esprit de ce livre profondément optimiste : à chaque problème son rayon d’espoir !
+                    </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
-                    <p class="lead">
-                       
-                    </p>
 <!-------------------------------------------------------------------------------------->
 
                     <div class="text-center">
-                    <h3 class="h2Jaune text-center m-3">LA PRÉFACIÈRE : Emmanuelle DE BOYSSON</h3>
-                    <h4 class="h2Jaune text-center m-3">Emmanuelle de Boysson : en quelques mots...</h4>
+                    <h3 class="h2Jaune text-center m-3">SOS EVEIL : SYNOPSIS</h3>
 
-                    <img src="images/guyLopinto/photo2.webp" alt="Photo de Emmanuelle de Boysson" class="w-50 m-5 rounded">
+                    <img src="images/antoineTeillet/photo2.webp" alt="Photo " class="w-50 m-5 rounded">
                     
                     <p>
-                    Emmanuelle de Boysson est une romancière et essayiste à succès, auteure de vingt cinq livres dont  quinze romans.<br>
-
-Elle est également une critique et chroniqueuse littéraire très connue.<br>
-
-Elle fait partie de jurys de nombreux prix littéraires et notamment le Prix de la Closerie des Lilas dont elle est la cofondatrice .<br>
-
-Quelques uns de ses ouvrages parus : Les grandes bourgeoises et Les nouvelles provinciales (J-C Lattès),  sa trilogie, Le temps des femmes, (Flammarion. Prix Simone Veil 2017), Les années solex (prix Jacques Chabannes), Que tout soit à la joie, (Ed Héloïse d’Ormesson),  Je ne vis que pour vous (Calmann-Lévy). Son dernier roman, June est également édité par Calmann-Lévy.</p><br>
-                    
+                    Une radiographie synthétisée de l'érosion du monde politique, des vagues de gilets jaunes, des coraux démographiques, climatiques, angoissés, libéraux, écologiques nourrissant les océans qui nous entourent. Mais aussi la présence de problématiques auxquelles sont adossées des sources d'ouverture. Une introduction dans les rouages de notre société, agrémentée de photographies. Un parti pris, celui d'une quête de justesse, de sens, celui qui fait battre mon cœur d'idéalisme romantique, de puissance naïve.</p><br>
+                    <h4 class="h2Jaune text-center m-3">Mon manuscrit est composé de 10 parties :</h4>
+                    <p></p>
                     </div>
 
 <!-------------------------------------------------------------------------------------->
@@ -73,94 +72,6 @@ Quelques uns de ses ouvrages parus : Les grandes bourgeoises et Les nouvelles pr
 
 Emmanuelle de Boysson           
 </div>
-<h3 class="h2Jaune text-center m-3">Quelques poémes...</h3>
-
-                    <h4 class="h2Jaune text-center m-3">Coup de Lune</h4>
-
-                    <p >
-                    <blockquote class="text-center"> si un beau matin<br>
-Je me levais de travers<br>
-Comme un bateau sans la mer<br>
-Comme une étoile à l’envers<br>
-Comme une rose piquée<br>
-Qui cherche en vain le soleil<br>
-Comme un orage sans fin<br>
-Sorti d’un ciel sans nuages<br><br>
-
-J’ai dans ma tête un rocher<br>
-J’ai dans mon coeur un essaim<br>
-Et même si je m’endors<br>
-Je vois le feu du soleil<br>
-Et j’ai besoin de courir<br>
-De dépasser le temps<br>
-J’ai beau ouvrir les yeux<br>
-J’ai perdu mon chemin<br>
-
-Un coup de lune<br>
-
-Un coup de lune m’atteint.<br><br>
-</blockquote>
-
-
-</p>
-
-<h4 class="h2Jaune text-center m-3">Café de Flore</h4>
-
-<p>
-<blockquote class="text-center"> Dense flot lumineux<br>
-En cristal jaune et bleu<br>
-Où la foule passe et repasse<br>
-Caresse mon angoisse lisse<br>
-Et me ramène à toi<br>
-
-<p>Uniquement toi<br>
-
-<p>Intense odeur d’une tasse Brûlante<br>
-
-<p>Comme l’était ta main<br>
-Si tendre si forte<br>
-Et tes yeux dans le froid<br>
-Me guident lentement<br>
-Vers ce que tu veux voir 
-Revivre<br>
-
-<p>Saint-Germain sent le soir<br>
-Et tout mon coeur se tend<br>
-
-<p>À éclater<br>
-
-<p>De fines particules grises<br>
-Envahissent mes sens<br>
-Les portent loin de moi<br>
-Et c’est aussi Paris<br>
-Qui se met à rêver<br>
-
-<p>De ton infinie...<br>
-
-<p>Douceur <br> </blockquote></p>
-
-<h4 class="h2Jaune text-center m-3">Mauritanie</h4>
-
-<p>
-<blockquote class="text-center">J’atteindrai la Mauritanie<br>
-Au détour de mes pas brisés
-Quand le soleil parvenu au zénith
-Saluera étonné mon bâton.
-Je poserai mes oripeaux
-Étendrai mon corps brûlant
-Et pousserai mon chant divin
-Pour donner le change au vent.
-Je mettrai mon coeur en prières
-Juste un moment comme fait Dieu
-Pour attirer les âmes bleues
-Émergeant des dunes rousses.
-Joignant les mains les yeux ouverts
-Je humerai tout simplement
-Au-delà de toutes frontières
-La liberté<br>
-
-Ma liberté</blockquote><br></p>
-
 
 <!-------------------------------------------------------------------------------------->
 
@@ -198,7 +109,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p> 
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -222,39 +133,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               <!--Carousel-->
-                   
-               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
+               
 </div>
                   
   
@@ -273,24 +152,32 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Guy Lopinto</h2>
-            <!-- Au-delà De L'intime -->
+            <h2>Les livres Antoine Teillet</h2>
+            <!-- SOS Eveil -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/guyLopinto/couv-au-dela-de-l-intime-recto-br (1)-min.webp" class="img-fluid" alt="Couverture du livre Au-delà De L'intime">
+                        <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture du livre Au-delà De L'intime">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">14,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Au-delà De L'intime</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 72</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440662</p>
+                        <h3 class="h2Jaune">SOS Eveil</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Essai</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 262</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440556</p>
+                        <p class="lead">
+                        <strong class="h2Jaune">Résumé :</strong>Antoine Teillet, avec SOS Éveil, s’adresse à un public averti : celui pour qui le monde politique, associatif, gouvernemental, humain a un sens certain.
 
+Antoine décortique tous les aspects de notre société, de France et d’ailleurs. Il  dénonce certains comportements de personnalités politiques, souligne à l’inverse l’action de dirigeants responsables, évoque le malaise des gilets jaunes. En tout, neuf sujets qui trouveront un écho chez le lecteur sensible aux problématiques sociétales.
+
+Par des tableaux simples et évocateurs, par des schémas lucides, par une conviction hors du commun, l’auteur vous entraîne et vous propose d’adhérer -ou non !- à son concept d’une vie basée sur un principe fondamental : l’Humain !
+
+L’image de couverture souligne l’esprit de ce livre profondément optimiste : à chaque problème son rayon d’espoir !
+                    </p>
                         <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -299,19 +186,12 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
                   
 <div class="text-center">
-                    <h3 class="h2Jaune text-center m-3">LA PRÉFACIÈRE : Emmanuelle DE BOYSSON</h3>
-                    <h4 class="h2Jaune text-center m-3">Emmanuelle de Boysson : en quelques mots...</h4>
+                    <h3 class="h2Jaune text-center m-3">SOS EVEIL : SYNOPSIS</h3>
 
-                    <img src="images/guyLopinto/photo2.webp" alt="Photo de Emmanuelle de Boysson" class="w-50 m-5 rounded">
+                    <img src="images/antoineTeillet/photo2.webp" alt="Photo " class="w-50 m-5 rounded">
                     
                     <p>
-                    Emmanuelle de Boysson est une romancière et essayiste à succès, auteure de vingt cinq livres dont  quinze romans.<br>
-
-Elle est également une critique et chroniqueuse littéraire très connue.<br>
-
-Elle fait partie de jurys de nombreux prix littéraires et notamment le Prix de la Closerie des Lilas dont elle est la cofondatrice .<br>
-
-Quelques uns de ses ouvrages parus : Les grandes bourgeoises et Les nouvelles provinciales (J-C Lattès),  sa trilogie, Le temps des femmes, (Flammarion. Prix Simone Veil 2017), Les années solex (prix Jacques Chabannes), Que tout soit à la joie, (Ed Héloïse d’Ormesson),  Je ne vis que pour vous (Calmann-Lévy). Son dernier roman, June est également édité par Calmann-Lévy.</p><br>
+                    Une radiographie synthétisée de l'érosion du monde politique, des vagues de gilets jaunes, des coraux démographiques, climatiques, angoissés, libéraux, écologiques nourrissant les océans qui nous entourent. Mais aussi la présence de problématiques auxquelles sont adossées des sources d'ouverture. Une introduction dans les rouages de notre société, agrémentée de photographies. Un parti pris, celui d'une quête de justesse, de sens, celui qui fait battre mon cœur d'idéalisme romantique, de puissance naïve.</p><br>
                     
                     </div>
 
@@ -330,93 +210,7 @@ Emmanuelle de Boysson
 </div>
 <!-------------------------------------------------------------------------------------->
 
-<h3 class="h2Jaune text-center m-3">Quelques poémes...</h3>
 
-                    <h4 class="h2Jaune text-center m-3">Coup de Lune</h4>
-
-                    <p >
-                    <blockquote class="text-center"> si un beau matin<br>
-Je me levais de travers<br>
-Comme un bateau sans la mer<br>
-Comme une étoile à l’envers<br>
-Comme une rose piquée<br>
-Qui cherche en vain le soleil<br>
-Comme un orage sans fin<br>
-Sorti d’un ciel sans nuages<br><br>
-
-J’ai dans ma tête un rocher<br>
-J’ai dans mon coeur un essaim<br>
-Et même si je m’endors<br>
-Je vois le feu du soleil<br>
-Et j’ai besoin de courir<br>
-De dépasser le temps<br>
-J’ai beau ouvrir les yeux<br>
-J’ai perdu mon chemin<br>
-
-Un coup de lune<br>
-
-Un coup de lune m’atteint.<br><br>
-</blockquote>
-
-
-</p>
-
-<h4 class="h2Jaune text-center m-3">Café de Flore</h4>
-
-<p>
-<blockquote class="text-center"> Dense flot lumineux<br>
-En cristal jaune et bleu<br>
-Où la foule passe et repasse<br>
-Caresse mon angoisse lisse<br>
-Et me ramène à toi<br>
-
-<p>Uniquement toi<br>
-
-<p>Intense odeur d’une tasse Brûlante<br>
-
-<p>Comme l’était ta main<br>
-Si tendre si forte<br>
-Et tes yeux dans le froid<br>
-Me guident lentement<br>
-Vers ce que tu veux voir 
-Revivre<br>
-
-<p>Saint-Germain sent le soir<br>
-Et tout mon coeur se tend<br>
-
-<p>À éclater<br>
-
-<p>De fines particules grises<br>
-Envahissent mes sens<br>
-Les portent loin de moi<br>
-Et c’est aussi Paris<br>
-Qui se met à rêver<br>
-
-<p>De ton infinie...<br>
-
-<p>Douceur <br> </blockquote></p>
-
-<h4 class="h2Jaune text-center m-3">Mauritanie</h4>
-
-<p>
-<blockquote class="text-center">J’atteindrai la Mauritanie<br>
-Au détour de mes pas brisés
-Quand le soleil parvenu au zénith
-Saluera étonné mon bâton.
-Je poserai mes oripeaux
-Étendrai mon corps brûlant
-Et pousserai mon chant divin
-Pour donner le change au vent.
-Je mettrai mon coeur en prières
-Juste un moment comme fait Dieu
-Pour attirer les âmes bleues
-Émergeant des dunes rousses.
-Joignant les mains les yeux ouverts
-Je humerai tout simplement
-Au-delà de toutes frontières
-La liberté<br>
-
-Ma liberté</blockquote><br></p>
 
 <!-------------------------------------------------------------------------------------->
 
@@ -457,7 +251,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p>
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -477,38 +271,6 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
- <!--Carousel-->
-                   
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
    
 </div>
 

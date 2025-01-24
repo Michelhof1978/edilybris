@@ -1,17 +1,17 @@
 <?php include("head.php"); ?>
 
-<title>Guy Lopinto - Auteur</title>
-<meta name="description" content="Le livre de Guy Lopinto. Découvrez ses œuvres et téléchargez un bon de commande.">
+<title>Antoine Teillet - Auteur</title>
+<meta name="description" content="Le livre de Antoine Teillet. Découvrez ses œuvres et téléchargez un bon de commande.">
 </head> 
 
 <?php include("header.php"); ?>
 
 <main>
     <!-- MODE MOBILE--> 
-    <!-- Au-delà De L'intime -->
+    <!-- SOS Eveil -->
     <section class="livres-mobile d-block d-md-none py-4">
         <div class="container">
-            <h2 class="text-center text-white">Le livre de Guy Lopinto</h2>
+            <h2 class="text-center text-white">Le livre d'Antoine Teillet</h2>
 
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
@@ -19,12 +19,12 @@
                     <p class="fw-bold coloryellow fs-5">14,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">Au-delà De L'intime </h3>
+                    <h3 class="h2Jaune text-center">SOS Eveil </h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
+                        <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 72
+                        <strong class="h2Jaune">Nombre de pages :</strong> 262
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Poésie
@@ -198,7 +198,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p> 
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -222,39 +222,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
                     </div>
 
                      <!-------------------------------------------------------------------------------------->
-               <!--Carousel-->
-                   
-               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
-   
+               
 </div>
                   
   
@@ -273,8 +241,8 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
     <!-- MODE DESKTOP--> 
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
-            <h2>Les livres de Guy Lopinto</h2>
-            <!-- Au-delà De L'intime -->
+            <h2>Les livres Antoine Teillet</h2>
+            <!-- SOS Eveil -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
@@ -457,7 +425,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p>
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -477,38 +445,6 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
 
- <!--Carousel-->
-                   
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="2000">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel1.webp" alt="Photos de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel2.webp" alt="Photo ancienne de Veronique Ash">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel4.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel5.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel6.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel3.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel7.webp" alt="Peinture artistique">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-75 mx-auto" src="images/guyLopinto/carousel8.webp" alt="Peinture artistique">
-        </div>
-    </div>
    
 </div>
 

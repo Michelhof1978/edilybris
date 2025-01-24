@@ -1053,7 +1053,7 @@
      <div id="desktop-group8" class="new-card-container new-hidden">
         <!-- carte 45 ANTOINE TEILLET -->
         <div class="new-card">
-            <a href="ficheAntoineTeilletSOSEveil.php">
+            <a href="link_to_book_F.html">
                 <img src="images/antoineTeillet/couv-recto-seul-sos-eveil-antoine-teillet (1)_11zon.webp" class="img-fluid" alt="Couverture de livre SOS Eveil">
                 <div class="new-card-content">
                     <div class="new-card-author">Thellet Antoine</div>

@@ -198,7 +198,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p> 
+</p> La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
@@ -457,7 +457,7 @@ C’est une sorte de « patchwork » par les thèmes évoqués, les styles diff�
 
 
 
-<p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p>
+La couverture : du projet à l’étape finale, une aventure ?
 <p>Non, pas du tout ! Comme je le disais, je suis artiste peintre et le travail s’est borné à choisir avec l’éditeur le tableau qui « collait » le plus avec les poèmes présentés dans « Au-delà de l’intime ».</p>
 
 
