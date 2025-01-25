@@ -18,7 +18,7 @@
                 </p>
             </article>
 
-            <article class="text-center">
+            <article>
                 <h2 class="h2Jaune">Ses romans policiers</h2>
                 <p>
                     L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>
@@ -27,10 +27,10 @@
                 </p>
             </article>
 
-            <div class="text-center">
+            <div>
                 <h3>LA PRESSE EN PARLE !</h3>
-                <h4>Articles de presse sur Jannick Weber-Denéchaud</h4>
-                <table class="mt-4">
+                <table>
+                    <caption>Articles de presse sur Jannick Weber-Denéchaud</caption>
                     <thead>
                         <tr>
                             <th class="text-center">NOM DU JOURNAL</th>
@@ -68,9 +68,11 @@
                 </table>
             </div>
         </div>
+    </section>
    
-   
-            
+                </div>
+            </div>
+            </section>
             <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
     <!-- Groupe 1  Amour tragique en pays rochefortais-->
@@ -300,5 +302,5 @@
     </div>
 </div>
 
-</section>
+
 

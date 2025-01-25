@@ -18,7 +18,7 @@
                 </p>
             </article>
 
-            <article class="text-center">
+            <article>
                 <h2 class="h2Jaune">Ses romans policiers</h2>
                 <p>
                     L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>
@@ -27,10 +27,10 @@
                 </p>
             </article>
 
-            <div class="text-center">
+            <div>
                 <h3>LA PRESSE EN PARLE !</h3>
-                <h4>Articles de presse sur Jannick Weber-Denéchaud</h4>
-                <table class="mt-4">
+                <table>
+                    <caption>Articles de presse sur Jannick Weber-Denéchaud</caption>
                     <thead>
                         <tr>
                             <th class="text-center">NOM DU JOURNAL</th>
@@ -64,13 +64,13 @@
                 <td>22 Mai 2012</td>
                 <td class="coloyellow"><a href="http://www.sudouest.fr/2012/05/22/des-meurtres-elucides-en-saintonge-721750-4720.php" target="_blank">Voir l'article</a></td>
             </tr>
-            </tbody>
-                </table>
+        </tbody>
+    </table>
+    </div>
+   
+                </div>
             </div>
-        </div>
-   
-   
-            
+            </section>
             <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
     <!-- Groupe 1  Amour tragique en pays rochefortais-->
@@ -300,5 +300,5 @@
     </div>
 </div>
 
-</section>
+
 

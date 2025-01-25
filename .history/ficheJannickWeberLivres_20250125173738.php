@@ -18,7 +18,7 @@
                 </p>
             </article>
 
-            <article class="text-center">
+            <article>
                 <h2 class="h2Jaune">Ses romans policiers</h2>
                 <p>
                     L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>
@@ -29,8 +29,9 @@
 
             <div class="text-center">
                 <h3>LA PRESSE EN PARLE !</h3>
-                <h4>Articles de presse sur Jannick Weber-Denéchaud</h4>
-                <table class="mt-4">
+                <h'
+                <table>
+                    <caption>Articles de presse sur Jannick Weber-Denéchaud</caption>
                     <thead>
                         <tr>
                             <th class="text-center">NOM DU JOURNAL</th>

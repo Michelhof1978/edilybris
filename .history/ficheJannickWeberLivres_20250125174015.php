@@ -18,7 +18,7 @@
                 </p>
             </article>
 
-            <article class="text-center">
+            <article class="text">
                 <h2 class="h2Jaune">Ses romans policiers</h2>
                 <p>
                     L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>

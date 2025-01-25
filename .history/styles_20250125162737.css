@@ -1780,7 +1780,10 @@ input[type="email"]:focus {
   align-items: center;
   justify-content: space-between;
   margin-top: 30px;
+  overflow: hidden; /* Empêche le contenu de dépasser */
+  flex-wrap: wrap; /* Permet au contenu de passer à une nouvelle ligne si nécessaire */
 }
+
 
 .bio-image {
   width: 150px;
@@ -1788,6 +1791,11 @@ input[type="email"]:focus {
   border-radius: 50%;
   object-fit: cover;
   margin-right: 20px;
+}
+
+.bio-text {
+  max-width: 70%; /* Ajustez en fonction de vos besoins */
+  word-wrap: break-word; /* Gère les mots longs */
 }
 
 .bio-text p {
@@ -2332,6 +2340,7 @@ input[type="email"]:focus {
 }
 /* Fin Video youtube joel berthelot*/
 
+/* Tableau janick weber*/
 table {
   margin: 0 auto;
   border-collapse: collapse;
@@ -2383,7 +2392,7 @@ a:active {
   color: #ffcc00  !important; /* Couleur jaune lors du clic */
 }
 
-
+/* Fin Tableau janick weber*/
 
 
 

@@ -6,44 +6,40 @@
     </div>
 </div>
 
-<main>
+
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
-            <article class="bio-content">
-                <p class="lead text-white text-center m-4">
+            <div class="bio-content">
+                <div class="bio-text">
+                    <p class="lead text-white text-center m-4">
                     L'auteure saintongeaise vit à Saint-Porchaire en Charente Maritime. <br>
-                    Secrétaire Générale de Mairie en retraite, atteinte d’une dégénérescence de la rétine, elle consacre son temps à l’écriture (avec un matériel adapté) et à l’enregistrement audio de livres pour la Bibliothèque Sonore Départementale.<br>
-                    Vice-présidente de l'association Edi'lybris, elle s'attache à faire connaître au plus grand nombre les avantages proposés par Edi'lybris.<br>
-                </p>
-            </article>
+                     Secrétaire Générale de Mairie en retraite, atteinte d’une dégénérescence de la rétine, elle  consacre son temps à l’écriture (avec un matériel adapté) et à l’enregistrement audio de livres pour la Bibliothèque Sonore Départementale.<br>
 
-            <article class="text-center">
-                <h2 class="h2Jaune">Ses romans policiers</h2>
-                <p>
-                    L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>
-                    Découvrez *Meurtres en Saintonge*, *Amours tragiques en pays rochefortais*, *Escapades fatales de Saintonge en Alsace*, et bien d'autres !<br>
-                    <strong>Attention :</strong> Certains titres étant épuisés, rapprochez-vous d'Edi'lybris pour en obtenir une copie numérique ! Nous vous le ferons à moitié prix du neuf !
-                </p>
-            </article>
+Vice-présidente de l'association Edi'lybris, elle s'attache à faire connaitre au plus grand nombre les avantages proposés par Edi'lybris.<br>
+                    </p>
+                    <h2 class="h2Jaune">Ses romans policiers</h2>
+                    <p>
+L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !
+Découvrez Meurtres en Saintonge, Amours tragiques en pays rochefortais, Escapades fatales de Saintonge en Alsace, et bien d'autres ! 
+Attention : certains titres étant épuisés, rapprochez-vous d'Edi'lybris pour en obtenir une copie numérique ! Nous vous le ferons à moitié prix du neuf !
+</p>
 
-            <div class="text-center">
-                <h3>LA PRESSE EN PARLE !</h3>
-                <h4>Articles de presse sur Jannick Weber-Denéchaud</h4>
-                <table class="mt-4">
-                    <thead>
-                        <tr>
-                            <th class="text-center">NOM DU JOURNAL</th>
-                            <th class="text-center">ÉDITION ET DATE</th>
-                            <th class="text-center">LIEN</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>SUD-OUEST</td>
-                            <td>11 Septembre 2013</td>
-                            <td><a href="http://www.sudouest.fr/2013/09/11/amour-tragique-au-pays-1165403-1586.php" target="_blank" rel="noopener noreferrer">Voir l'article</a></td>
-                        </tr>
+                    <h3>LA PRESSE EN PARLE !</h>
+    <table>
+        <thead>
+            <tr>
+                <th class="text-center">NOM DU JOURNAL</th>
+                <th class="text-center">ÉDITION ET DATE</th>
+                <th class="text-center">LIEN</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>SUD-OUEST</td>
+                <td>11 Septembre 2013</td>
+                <td><a href="http://www.sudouest.fr/2013/09/11/amour-tragique-au-pays-1165403-1586.php" target="_blank">Voir l'article</a></td>
+            </tr>
             <tr>
                 <td>SUD-OUEST</td>
                 <td>04 Décembre 2012</td>
@@ -64,12 +60,11 @@
                 <td>22 Mai 2012</td>
                 <td class="coloyellow"><a href="http://www.sudouest.fr/2012/05/22/des-meurtres-elucides-en-saintonge-721750-4720.php" target="_blank">Voir l'article</a></td>
             </tr>
-            </tbody>
-                </table>
+        </tbody>
+    </table>
+
+                </div>
             </div>
-        </div>
-   
-   
             
             <!-- MODE MOBILE -->
 <div class="d-block d-md-none">

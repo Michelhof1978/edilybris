@@ -18,7 +18,7 @@
                 </p>
             </article>
 
-            <article class="text-center">
+            <article>
                 <h2 class="h2Jaune">Ses romans policiers</h2>
                 <p>
                     L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>
@@ -27,10 +27,10 @@
                 </p>
             </article>
 
-            <div class="text-center">
+            <div>
                 <h3>LA PRESSE EN PARLE !</h3>
-                <h4>Articles de presse sur Jannick Weber-Denéchaud</h4>
-                <table class="mt-4">
+                <table>
+                    <caption>Articles de presse sur Jannick Weber-Denéchaud</caption>
                     <thead>
                         <tr>
                             <th class="text-center">NOM DU JOURNAL</th>
@@ -44,6 +44,60 @@
                             <td>11 Septembre 2013</td>
                             <td><a href="http://www.sudouest.fr/2013/09/11/amour-tragique-au-pays-1165403-1586.php" target="_blank" rel="noopener noreferrer">Voir l'article</a></td>
                         </tr>
+                        <!-- Ajoutez les autres articles ici -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mode mobile -->
+    <section class="d-block d-md-none">
+        <div id="mobile-group1" class="mobile-books-container">
+            <div class="mobile-book-card">
+                <a href="ficheJannickWeberAmourTreagique.php">
+                    <img src="images/jannickWeber/couv-amour-tragique.webp" class="img-fluid" alt="Couverture de Amour tragique en pays rochefortais">
+                    <div class="mobile-book-details">
+                        <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
+                        <div class="mobile-book-price">18,00 €</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- Répétez pour les autres livres -->
+        <nav aria-label="Navigation des livres">
+            <button id="mobile-back-btn" class="mobile-button" disabled>Précédent</button>
+            <button id="mobile-next-btn" class="mobile-button">Suivant</button>
+        </nav>
+    </section>
+
+    <!-- Mode desktop -->
+    <section class="d-none d-md-block">
+        <div id="desktop-group1" class="new-card-container">
+            <div class="new-card">
+                <a href="ficheJannickWeberAmourTreagique.php">
+                    <img src="images/jannickWeber/couv-amour-tragique.webp" class="img-fluid" alt="Couverture de Amour tragique en pays rochefortais">
+                    <div class="new-card-content">
+                        <div class="new-card-author">Jannick Weber-Denéchaud</div>
+                        <div class="new-card-price">18,00 €</div>
+                    </div>
+                </a>
+            </div>
+            <!-- Répétez pour les autres livres -->
+        </div>
+    </section>
+</main>
+
+                <th class="text-center">ÉDITION ET DATE</th>
+                <th class="text-center">LIEN</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>SUD-OUEST</td>
+                <td>11 Septembre 2013</td>
+                <td><a href="http://www.sudouest.fr/2013/09/11/amour-tragique-au-pays-1165403-1586.php" target="_blank">Voir l'article</a></td>
+            </tr>
             <tr>
                 <td>SUD-OUEST</td>
                 <td>04 Décembre 2012</td>
@@ -64,13 +118,13 @@
                 <td>22 Mai 2012</td>
                 <td class="coloyellow"><a href="http://www.sudouest.fr/2012/05/22/des-meurtres-elucides-en-saintonge-721750-4720.php" target="_blank">Voir l'article</a></td>
             </tr>
-            </tbody>
-                </table>
+        </tbody>
+    </table>
+    </div>
+   
+                </div>
             </div>
-        </div>
-   
-   
-            
+            </section>
             <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
     <!-- Groupe 1  Amour tragique en pays rochefortais-->
@@ -300,5 +354,5 @@
     </div>
 </div>
 
-</section>
+
 

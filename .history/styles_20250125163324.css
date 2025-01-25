@@ -1780,7 +1780,10 @@ input[type="email"]:focus {
   align-items: center;
   justify-content: space-between;
   margin-top: 30px;
+  overflow: hidden; /* Empêche le contenu de dépasser */
+  flex-wrap: wrap; /* Permet au contenu de passer à une nouvelle ligne si nécessaire */
 }
+
 
 .bio-image {
   width: 150px;
@@ -1789,6 +1792,13 @@ input[type="email"]:focus {
   object-fit: cover;
   margin-right: 20px;
 }
+
+.bio-image {
+  max-width: 100%; /* Garantit que l'image ne dépasse pas le conteneur */
+  height: auto; /* Garde le ratio d'aspect */
+  flex-shrink: 0; /* Évite que l'image se réduise trop */
+}
+
 
 .bio-text p {
   font-size: 1.1rem;
@@ -2332,11 +2342,15 @@ input[type="email"]:focus {
 }
 /* Fin Video youtube joel berthelot*/
 
+/* Tableau janick weber*/²
+.containerAuteur {
+  padding: 20px;
+}
+
 table {
-  margin: 0 auto;
-  border-collapse: collapse;
-  width: 80%;
-  border: 1px solid #ccc;
+  width: 100%; /* S'adapte à la largeur du conteneur */
+  overflow-x: auto; /* Permet le défilement horizontal */
+  display: block; /* Nécessaire pour l'overflow */
 }
 
 th, td {
@@ -2383,7 +2397,7 @@ a:active {
   color: #ffcc00  !important; /* Couleur jaune lors du clic */
 }
 
-
+/* Fin Tableau janick weber*/
 
 
 
