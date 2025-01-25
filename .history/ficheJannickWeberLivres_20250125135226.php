@@ -37,7 +37,7 @@
     <!-- Groupe 2 Meurtres en Saintonge ou l'impossible descendance-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJannickWeberMeurtresEnSaintonge.php">
+            <a href="fichePierreBrandaoSavGendarmerieBonjour2.php">
                 <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 2 ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
@@ -50,7 +50,7 @@
     <!-- Groupe 3 Le carnassier saintongeais-->
     <div id="mobile-group3PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJannickWeberLeCarnassierSaintongeais.php">
+            <a href="fichePierreBrandaoLenlevement.php">
                 <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
@@ -63,7 +63,7 @@
     <!-- Groupe 4 Maxime-Félicien Denéchaud, mémoire sauvegardée-->
     <div id="mobile-group4PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJannickWeberMaximeFelicienDenechaud.php">
+            <a href="fichePierreBrandaoQuelleTuile.php">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
@@ -76,7 +76,7 @@
     <!-- Groupe Fils de Coco-->
     <div id="mobile-group5PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJannickWeberFilsDeCoco.php">
+            <a href="fichePierreBrandaoMeurtreALaMicroCarte.php">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre meurtre à la micro carte">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
@@ -102,7 +102,7 @@
     <!-- Groupe 7 Jamba, chien-guide de la race des seigneurs-->
     <div id="mobile-group7PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJannickWeberJambaChien.php">
+            <a href="fichePierreBrandaoVeangeanceSeculaire.php">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre VENGEANCE SECULAIRE">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
@@ -163,7 +163,7 @@
         </div>
         <!-- Carte 2 : Meurtres en Saintonge ou l'impossible descendance-->
         <div class="new-card">
-            <a href="ficheJannickWeberMeurtresEnSaintonge.php">
+            <a href="fichePierreBrandaoSavGendarmerieBonjour2.php">
                 <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV Bonjour Gendarmerie 2">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
@@ -173,7 +173,7 @@
         </div>
         <!-- Carte 3 : Le carnassier saintongeais -->
         <div class="new-card">
-            <a href="ficheJannickWeberLeCarnassierSaintongeais.php">
+            <a href="fichePierreBrandaoLenlevement.php">
                 <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
@@ -183,7 +183,7 @@
         </div>
         <!-- Carte 4 : Maxime-Félicien Denéchaud, mémoire sauvegardée-->
         <div class="new-card">
-            <a href="ficheJannickWeberMaximeFelicienDenechaud.php">
+            <a href="fichePierreBrandaoQuelleTuile.php">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
@@ -193,7 +193,7 @@
         </div>
         <!-- Carte 5 : Fils de Coco-->
         <div class="new-card">
-            <a href="ficheJannickWeberFilsDeCoco.php">
+            <a href="fichePierreBrandaoMeurtreALaMicroCarte.php">
                 <img src="images/pierreBrandao/couv-recto-malmc-pour-internet-br-2-min-min.webp" class="img-fluid" alt="Couverture de livre Meurtre à la micro carte">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
@@ -207,7 +207,7 @@
     <div id="desktop-group2PierreBrandao" class="new-card-container">
         <!-- Carte 6 : Jamba, chien-guide de la race des seigneurs -->
         <div class="new-card">
-            <a href="ficheJannickWeberJambaChien.php">
+            <a href="fichePierreBrandaoSavGendarmerie1.php">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV Gendarmerie Bonjour 1">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>

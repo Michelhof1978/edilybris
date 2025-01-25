@@ -163,7 +163,7 @@
         </div>
         <!-- Carte 2 : Meurtres en Saintonge ou l'impossible descendance-->
         <div class="new-card">
-            <a href="ficheJannickWeberMeurtresEnSaintonge.php">
+            <a href="ficheJannickWeberMeurtresEnSaintonge.php>
                 <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV Bonjour Gendarmerie 2">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
