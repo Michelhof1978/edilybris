@@ -19,13 +19,13 @@
 Vice-présidente de l'association Edi'lybris, elle s'attache à faire connaitre au plus grand nombre les avantages proposés par Edi'lybris.<br>
                     </p>
 
-                    <h2>LA PRESSE EN PARLE !</h2>
+                    <h1>LA PRESSE EN PARLE !</h1>
     <table>
         <thead>
             <tr>
-                <th class="text-center">NOM DU JOURNAL</th>
-                <th class="text-center">ÉDITION ET DATE</th>
-                <th class="text-center">LIEN</th>
+                <th>NOM DU JOURNAL</th>
+                <th>ÉDITION ET DATE</th>
+                <th>LIEN</th>
             </tr>
         </thead>
         <tbody>
@@ -52,7 +52,7 @@ Vice-présidente de l'association Edi'lybris, elle s'attache à faire connaitre 
             <tr>
                 <td>SUD-OUEST</td>
                 <td>22 Mai 2012</td>
-                <td class="coloyellow"><a href="http://www.sudouest.fr/2012/05/22/des-meurtres-elucides-en-saintonge-721750-4720.php" target="_blank">Voir l'article</a></td>
+                <td class=""><a href="http://www.sudouest.fr/2012/05/22/des-meurtres-elucides-en-saintonge-721750-4720.php" target="_blank">Voir l'article</a></td>
             </tr>
         </tbody>
     </table>

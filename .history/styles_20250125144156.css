@@ -2320,7 +2320,6 @@ input[type="email"]:focus {
 /* FIN PierreBandao Fiche cards*/
 
 /* Video youtube joel berthelot*/
-
 .bio-content {
   margin: 0;
   padding: 0;
@@ -2331,8 +2330,6 @@ input[type="email"]:focus {
   align-items: center;
 }
 /* Fin Video youtube joel berthelot*/
-
-/* Tableau janick weber*/
 table {
   margin: 0 auto;
   border-collapse: collapse;
@@ -2357,7 +2354,7 @@ a {
 }
 
 a:hover {
-  color: #ffcc00 ; /* Couleur jaune au survol */
+  color: yellow; /* Couleur jaune au survol */
   text-decoration: underline;
 }
 
@@ -2376,15 +2373,15 @@ a:visited {
 }
 
 a:hover {
-  color: #ffcc00 !important; /* Couleur jaune au survol */
+  color: yellow !important; /* Couleur jaune au survol */
   text-decoration: underline;
 }
 
 a:active {
-  color: #ffcc00  !important; /* Couleur jaune lors du clic */
+  color: yellow !important; /* Couleur jaune lors du clic */
 }
 
-/* Fin Tableau janick weber*/
+
 
 
 

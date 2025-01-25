@@ -19,7 +19,7 @@
 Vice-présidente de l'association Edi'lybris, elle s'attache à faire connaitre au plus grand nombre les avantages proposés par Edi'lybris.<br>
                     </p>
 
-                    <h2>LA PRESSE EN PARLE !</h2>
+                    <h2>LA PRESSE EN PARLE !</h1>
     <table>
         <thead>
             <tr>

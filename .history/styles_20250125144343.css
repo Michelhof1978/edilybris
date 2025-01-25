@@ -2321,6 +2321,7 @@ input[type="email"]:focus {
 
 /* Video youtube joel berthelot*/
 
+/* Tableau janick weber*/
 .bio-content {
   margin: 0;
   padding: 0;
@@ -2331,8 +2332,6 @@ input[type="email"]:focus {
   align-items: center;
 }
 /* Fin Video youtube joel berthelot*/
-
-/* Tableau janick weber*/
 table {
   margin: 0 auto;
   border-collapse: collapse;
@@ -2384,7 +2383,7 @@ a:active {
   color: #ffcc00  !important; /* Couleur jaune lors du clic */
 }
 
-/* Fin Tableau janick weber*/
+
 
 
 
