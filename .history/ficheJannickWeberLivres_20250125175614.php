@@ -10,10 +10,7 @@
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
-            <img src="images/jannickWeber/photo2.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto w-25 " alt="photo">
-
             <article class="bio-content">
-
                 <p class="lead text-white text-center m-4">
                     L'auteure saintongeaise vit à Saint-Porchaire en Charente Maritime. <br>
                     Secrétaire Générale de Mairie en retraite, atteinte d’une dégénérescence de la rétine, elle consacre son temps à l’écriture (avec un matériel adapté) et à l’enregistrement audio de livres pour la Bibliothèque Sonore Départementale.<br>
@@ -25,7 +22,6 @@
                 <h2 class="h2Jaune">Ses romans policiers</h2>
                 <img src="images/jannickWeber/photo1.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto w-25" alt="photo">
 
-
                 <p>
                     L'imagination fertile de Jannick nécessite de créer une page exclusive pour ses romans policiers. Si vous recherchez un titre dans cette collection, vous êtes au bon endroit !<br>
                     Découvrez *Meurtres en Saintonge*, *Amours tragiques en pays rochefortais*, *Escapades fatales de Saintonge en Alsace*, et bien d'autres !<br>
@@ -35,6 +31,7 @@
 
             <div class="text-center mb-5">
                 <h3>LA PRESSE EN PARLE !</h3>
+                <img src="images/jannickWeber/photo2.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto w-25 " alt="photo">
 
                 <h4>Articles de presse sur Jannick Weber-Denéchaud</h4>
                 <table class="mt-4">

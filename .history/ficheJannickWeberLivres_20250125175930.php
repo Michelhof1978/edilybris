@@ -10,7 +10,6 @@
     <section class="biographie">
         <div class="containerAuteur">
             <h2 class="h2Jaune">Biographie</h2>
-            <img src="images/jannickWeber/photo2.webp" class="img-fluid w-50 mb-5 rounded mb-3 d-block mx-auto w-25 " alt="photo">
 
             <article class="bio-content">
 
