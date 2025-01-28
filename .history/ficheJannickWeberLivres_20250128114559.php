@@ -120,8 +120,8 @@
     <!-- Groupe 4 Maxime-Félicien Denéchaud, mémoire sauvegardée-->
     <div id="mobile-group4PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="ficheJannickWeberMaximeFelicien.php">
-                <img src="images/jannickWeber/maximeFelicien.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
+            <a href="ficheJannickWeberMaximeFelicienDenechaud.php">
+                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuile">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
                     <div class="mobile-book-price">17,00 €</div>
@@ -230,15 +230,15 @@
         </div>
        
         <!-- Carte 4 : Maxime-Félicien Denéchaud, mémoire sauvegardée-->
-        <div class="new-card">
-            <a href="ficheJannickWeberMaximeFelicien.php">
-                <img src="images/jannickWeber/maximeFelicien.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
+        <!-- <div class="new-card">
+            <a href="ficheJannickWeberMaximeFelicienDenechaud.php">
+                <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
                     <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
-        </div>
+        </div> -->
          <!-- Carte 9 : Amour, haine et crustacés -->
          <div class="new-card">
             <a href="ficheJannickWeberAmourHaineEtCrustace.php">

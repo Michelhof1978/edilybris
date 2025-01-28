@@ -231,7 +231,7 @@
        
         <!-- Carte 4 : Maxime-Félicien Denéchaud, mémoire sauvegardée-->
         <div class="new-card">
-            <a href="ficheJannickWeberMaximeFelicien.php">
+            <a href="ficheJannickWeberMaximeFelicienDenechaud.php">
                 <img src="images/jannickWeber/maximeFelicien.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
