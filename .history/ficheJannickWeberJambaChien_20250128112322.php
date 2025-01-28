@@ -50,16 +50,16 @@ Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous a
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
                     <h4 class="h2Jaune text-center m-3 ">Quatrième de couverture :</h4>
 
-                   
-<p class=" lead text-center">Cela vous dirait d’entendre dix fois par jour « arrête de trainer dans mes pattes » ? Je sais bien que ce n’est pas recommandé, mais dans mon cas, ça devient salutaire ! En effet, je prête mes yeux à ma maîtresse et je la conduis là où elle le désire en la sécurisant le plus possible...<br>
+                    <p class="colorYellow lead text-center">
+<p class="coloryellow lead text-center">Cela vous dirait d’entendre dix fois par jour « arrête de trainer dans mes pattes » ? Je sais bien que ce n’est pas recommandé, mais dans mon cas, ça devient salutaire ! En effet, je prête mes yeux à ma maîtresse et je la conduis là où elle le désire en la sécurisant le plus possible...<br>
  Mais avant d’en arriver là, il m’en a fallu du chemin ! <br>
-Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !<br></p>
+Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !<br>
 
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 <h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
 
-<p class="lead text-center">
-<p class=" lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>
+<p class="colorYellow lead text-center">
+<p class="coloryellow lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>
 Je vais oser vous livrer en avant-première ma future vie en commençant par vous confier le nom qui m’est prédestiné : « JAMBA ». Ma maîtresse dira, un jour : « c’est « une jambe avec un A ».<br>
 Avant de devenir l’être exceptionnel que je suis, il m’est arrivé des aventures originales. Je vous assure, tout n’a pas été un long fleuve tranquille.
 Pour autant, tout a commencé par une vague sensation cotonneuse comparable à des nuages blancs traversés régulièrement par un rayon lumineux. J’avais l’impression de flirter avec les étoiles, la lune, le soleil… bref, je ne sais plus trop ! <br>
@@ -119,10 +119,10 @@ Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous a
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
                     <h4 class="h2Jaune text-center m-3 ">Quatrième de couverture :</h4>
 
-                   
+                    <p class="colorYellow lead text-center">
 <p class="lead text-center">Cela vous dirait d’entendre dix fois par jour « arrête de trainer dans mes pattes » ? Je sais bien que ce n’est pas recommandé, mais dans mon cas, ça devient salutaire ! En effet, je prête mes yeux à ma maîtresse et je la conduis là où elle le désire en la sécurisant le plus possible...<br>
  Mais avant d’en arriver là, il m’en a fallu du chemin ! <br>
-Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !</p><br>
+Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !<br>
 
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 <h4 class="h2Jaune text-center m-3 ">La Genèse</h4>

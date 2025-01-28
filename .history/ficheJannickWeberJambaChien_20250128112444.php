@@ -122,7 +122,7 @@ Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous a
                    
 <p class="lead text-center">Cela vous dirait d’entendre dix fois par jour « arrête de trainer dans mes pattes » ? Je sais bien que ce n’est pas recommandé, mais dans mon cas, ça devient salutaire ! En effet, je prête mes yeux à ma maîtresse et je la conduis là où elle le désire en la sécurisant le plus possible...<br>
  Mais avant d’en arriver là, il m’en a fallu du chemin ! <br>
-Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !</p><br>
+Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !<br>
 
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 <h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
