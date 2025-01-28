@@ -71,7 +71,7 @@ Je me tapis dans un coin et constate que je suis dans un immense tunnel, entour�
 Occupée à réviser mes leçons de mathématiques, les copains continuent de s’exciter et le carnage auquel j’assiste me laisse pantoise.
 Des milliers d’entre eux sont déjà hors course, épuisés, gisant le ventre en l’air comme des moribonds. Au fil du temps, leur nombre s’accroît de manière inquiétante. Je suis maintenant entourée de malfaisants dont les membranes essayent de m’agripper mais je me défends. Je louvoie doucement et je navigue à vue dans toute cette marée de bêtes microscopiques. Au fil du temps, ils disparaissent presque tous. Il en reste plusieurs dizaines, fatiguées ou amochées.<br>
 Cette affaire a commencé depuis plusieurs heures et seuls quelques-uns restent combatifs. Je m’approche tout doucement, en faisant le moins de bruit possible et, mue par un espoir insensé, je profite d’un passage et m’y engouffre à toute vitesse. Je m’enfonce alors dans une sorte de texture exhalant de divines senteurs.
-Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…</p>
+Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>

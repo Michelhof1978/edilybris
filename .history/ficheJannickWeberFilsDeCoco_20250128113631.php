@@ -20,7 +20,7 @@
                     <p class="fw-bold coloryellow fs-5">17,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h4 class="h2Jaune text-center">JAMBA Chien guide de la race des Seigneurs</h4>
+                    <h4 class="h2Jaune text-center">FILS DE COCO</h4>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2018
                     </p>
@@ -34,30 +34,14 @@
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>
-                        Dans la présentation de l'auteure, il est évoqué la dégénérescence rétinienne dont Jannick Weber-Denéchaud est atteinte. Ses difficultés pour voir l'ont amenée à se rapprocher d'une école de chiens-guides pour mal ou non-voyants. Il lui a été attribué une chienne flat-coated, afin de répondre à ses besoins.<br><br>
-
-JAMBA, chien-guide de la race des Seigneurs, raconte, de la naissance à aujourd'hui, le parcours de cette aventure extra-ordinaire vécue par l'animal et sa maîtresse.<br>
-
-En avant-première, voici le premier chapitre.<br>
-
-Le livre vous intéresse ? N'hésitez pas à imprimer le bon de commande et à bénéficier de la réduction consentie pendant la période de souscription ! Attention : le module Paypal n'est pas opérant actuellement, il faut passer par la bonne vieille méthode de l'impression et de l'envoi par courrier du bon accompagné du règlement.<br><br>
-
-Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous avons décidé de maintenir le coût de l'an passé, soit 3,90€ l'envoi d'un exemplaire. Profitez en !<br>
+                        Être fier de ses convictions, porter haut ses couleurs, partager la même motivation et la même espérance, c’est à la fois noble et dangereux durant les années d’Occupation ! Vladimir en fera l’amère expérience, surtout lorsque par un concours de circonstances, il se retrouve prisonnier dans un goulag stalinien ! Le parti dont il était si friand l’avait récompensé à sa façon ! Mais de là à se faire bedeau dans une petite commune de Saintonge... allez comprendre...<br>
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
-                    <h4 class="h2Jaune text-center m-3 ">Quatrième de couverture :</h4>
-
-                   
-<p class=" lead text-center">Cela vous dirait d’entendre dix fois par jour « arrête de trainer dans mes pattes » ? Je sais bien que ce n’est pas recommandé, mais dans mon cas, ça devient salutaire ! En effet, je prête mes yeux à ma maîtresse et je la conduis là où elle le désire en la sécurisant le plus possible...<br>
- Mais avant d’en arriver là, il m’en a fallu du chemin ! <br>
-Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !<br></p>
-
+                  
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
-<h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
-
 
 <p class=" lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>
 Je vais oser vous livrer en avant-première ma future vie en commençant par vous confier le nom qui m’est prédestiné : « JAMBA ». Ma maîtresse dira, un jour : « c’est « une jambe avec un A ».<br>
@@ -95,7 +79,7 @@ Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spe
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">JAMBA Chien guide de la race des Seigneurs</h3>
+                        <h3 class="h2Jaune">FILS DE COCO</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 266</p><br><br>
@@ -104,28 +88,10 @@ Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spe
 
                         <p class="lead text-white">
                        
+                        Être fier de ses convictions, porter haut ses couleurs, partager la même motivation et la même espérance, c’est à la fois noble et dangereux durant les années d’Occupation ! Vladimir en fera l’amère expérience, surtout lorsque par un concours de circonstances, il se retrouve prisonnier dans un goulag stalinien ! Le parti dont il était si friand l’avait récompensé à sa façon ! Mais de là à se faire bedeau dans une petite commune de Saintonge... allez comprendre...<br>
 
-                        Dans la présentation de l'auteure, il est évoqué la dégénérescence rétinienne dont Jannick Weber-Denéchaud est atteinte. Ses difficultés pour voir l'ont amenée à se rapprocher d'une école de chiens-guides pour mal ou non-voyants. Il lui a été attribué une chienne flat-coated, afin de répondre à ses besoins.<br><br>
-
-JAMBA, chien-guide de la race des Seigneurs, raconte, de la naissance à aujourd'hui, le parcours de cette aventure extra-ordinaire vécue par l'animal et sa maîtresse.<br>
-
-En avant-première, voici le premier chapitre.<br>
-
-Le livre vous intéresse ? N'hésitez pas à imprimer le bon de commande et à bénéficier de la réduction consentie pendant la période de souscription ! Attention : le module Paypal n'est pas opérant actuellement, il faut passer par la bonne vieille méthode de l'impression et de l'envoi par courrier du bon accompagné du règlement.<br><br>
-
-Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous avons décidé de maintenir le coût de l'an passé, soit 3,90€ l'envoi d'un exemplaire. Profitez en !<br>
-
-
-<h3 class="h2Jaune text-center m-3">Extrait</h3>
-                    <h4 class="h2Jaune text-center m-3 ">Quatrième de couverture :</h4>
-
-                   
-<p class="lead text-center">Cela vous dirait d’entendre dix fois par jour « arrête de trainer dans mes pattes » ? Je sais bien que ce n’est pas recommandé, mais dans mon cas, ça devient salutaire ! En effet, je prête mes yeux à ma maîtresse et je la conduis là où elle le désire en la sécurisant le plus possible...<br>
- Mais avant d’en arriver là, il m’en a fallu du chemin ! <br>
-Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence de chienne destinée à aider les personnes mal-voyantes ou aveugles... Plongez dans mon intimité timide et dévouée, vous craquerez, à coup sûr !</p><br>
 
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
-<h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
 
 
 <p class=" lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>

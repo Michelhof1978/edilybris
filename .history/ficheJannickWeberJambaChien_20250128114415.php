@@ -58,7 +58,7 @@ Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 <h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
 
-
+<p class="lead text-center">
 <p class=" lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>
 Je vais oser vous livrer en avant-première ma future vie en commençant par vous confier le nom qui m’est prédestiné : « JAMBA ». Ma maîtresse dira, un jour : « c’est « une jambe avec un A ».<br>
 Avant de devenir l’être exceptionnel que je suis, il m’est arrivé des aventures originales. Je vous assure, tout n’a pas été un long fleuve tranquille.
@@ -71,7 +71,7 @@ Je me tapis dans un coin et constate que je suis dans un immense tunnel, entour�
 Occupée à réviser mes leçons de mathématiques, les copains continuent de s’exciter et le carnage auquel j’assiste me laisse pantoise.
 Des milliers d’entre eux sont déjà hors course, épuisés, gisant le ventre en l’air comme des moribonds. Au fil du temps, leur nombre s’accroît de manière inquiétante. Je suis maintenant entourée de malfaisants dont les membranes essayent de m’agripper mais je me défends. Je louvoie doucement et je navigue à vue dans toute cette marée de bêtes microscopiques. Au fil du temps, ils disparaissent presque tous. Il en reste plusieurs dizaines, fatiguées ou amochées.<br>
 Cette affaire a commencé depuis plusieurs heures et seuls quelques-uns restent combatifs. Je m’approche tout doucement, en faisant le moins de bruit possible et, mue par un espoir insensé, je profite d’un passage et m’y engouffre à toute vitesse. Je m’enfonce alors dans une sorte de texture exhalant de divines senteurs.
-Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…</p>
+Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -140,7 +140,7 @@ Je me tapis dans un coin et constate que je suis dans un immense tunnel, entour�
 Occupée à réviser mes leçons de mathématiques, les copains continuent de s’exciter et le carnage auquel j’assiste me laisse pantoise.
 Des milliers d’entre eux sont déjà hors course, épuisés, gisant le ventre en l’air comme des moribonds. Au fil du temps, leur nombre s’accroît de manière inquiétante. Je suis maintenant entourée de malfaisants dont les membranes essayent de m’agripper mais je me défends. Je louvoie doucement et je navigue à vue dans toute cette marée de bêtes microscopiques. Au fil du temps, ils disparaissent presque tous. Il en reste plusieurs dizaines, fatiguées ou amochées.<br>
 Cette affaire a commencé depuis plusieurs heures et seuls quelques-uns restent combatifs. Je m’approche tout doucement, en faisant le moins de bruit possible et, mue par un espoir insensé, je profite d’un passage et m’y engouffre à toute vitesse. Je m’enfonce alors dans une sorte de texture exhalant de divines senteurs.
-Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…</p>
+Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…<
 
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

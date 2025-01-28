@@ -15,7 +15,7 @@
             <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre                 <div class="col-12 text-white">
+                    <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre                 <div class="col-12 text-white">
 ">
                     <p class="fw-bold coloryellow fs-5">15,00 €</p>
                 </div>
@@ -71,17 +71,17 @@ Ce fut tout. Le battant de la porte se referma presque aussitôt sur la respirat
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
+                        <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
-                        <p class="fw-bold coloryellow mt-3 fs-4 lead">15,00 €</p>
+                        <p class="fw-bold coloryellow mt-3 fs-4 lead">17,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">FILS DE COCO</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2016</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 254</p><br><br>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 266</p><br><br>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440242</p>
 
 

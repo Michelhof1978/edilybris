@@ -15,7 +15,7 @@
             <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jannickWeber/fils-de-coco-pour-site-edilybris.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre                 <div class="col-12 text-white">
+                    <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre                 <div class="col-12 text-white">
 ">
                     <p class="fw-bold coloryellow fs-5">15,00 €</p>
                 </div>

@@ -20,7 +20,7 @@
                     <p class="fw-bold coloryellow fs-5">17,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h4 class="h2Jaune text-center">JAMBA Chien guide de la race des Seigneurs</h4>
+                    <h4 class="h2Jaune text-center">FILS DE COCO</h4>
                     <p>
                         <strong class="h2Jaune">Année de publication :</strong> 2018
                     </p>
@@ -34,15 +34,7 @@
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>
-                        Dans la présentation de l'auteure, il est évoqué la dégénérescence rétinienne dont Jannick Weber-Denéchaud est atteinte. Ses difficultés pour voir l'ont amenée à se rapprocher d'une école de chiens-guides pour mal ou non-voyants. Il lui a été attribué une chienne flat-coated, afin de répondre à ses besoins.<br><br>
-
-JAMBA, chien-guide de la race des Seigneurs, raconte, de la naissance à aujourd'hui, le parcours de cette aventure extra-ordinaire vécue par l'animal et sa maîtresse.<br>
-
-En avant-première, voici le premier chapitre.<br>
-
-Le livre vous intéresse ? N'hésitez pas à imprimer le bon de commande et à bénéficier de la réduction consentie pendant la période de souscription ! Attention : le module Paypal n'est pas opérant actuellement, il faut passer par la bonne vieille méthode de l'impression et de l'envoi par courrier du bon accompagné du règlement.<br><br>
-
-Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous avons décidé de maintenir le coût de l'an passé, soit 3,90€ l'envoi d'un exemplaire. Profitez en !<br>
+                        Être fier de ses convictions, porter haut ses couleurs, partager la même motivation et la même espérance, c’est à la fois noble et dangereux durant les années d’Occupation ! Vladimir en fera l’amère expérience, surtout lorsque par un concours de circonstances, il se retrouve prisonnier dans un goulag stalinien ! Le parti dont il était si friand l’avait récompensé à sa façon ! Mais de là à se faire bedeau dans une petite commune de Saintonge... allez comprendre...<br>
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -58,7 +50,7 @@ Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 <h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
 
-
+<p class="lead text-center">
 <p class=" lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>
 Je vais oser vous livrer en avant-première ma future vie en commençant par vous confier le nom qui m’est prédestiné : « JAMBA ». Ma maîtresse dira, un jour : « c’est « une jambe avec un A ».<br>
 Avant de devenir l’être exceptionnel que je suis, il m’est arrivé des aventures originales. Je vous assure, tout n’a pas été un long fleuve tranquille.
@@ -71,7 +63,7 @@ Je me tapis dans un coin et constate que je suis dans un immense tunnel, entour�
 Occupée à réviser mes leçons de mathématiques, les copains continuent de s’exciter et le carnage auquel j’assiste me laisse pantoise.
 Des milliers d’entre eux sont déjà hors course, épuisés, gisant le ventre en l’air comme des moribonds. Au fil du temps, leur nombre s’accroît de manière inquiétante. Je suis maintenant entourée de malfaisants dont les membranes essayent de m’agripper mais je me défends. Je louvoie doucement et je navigue à vue dans toute cette marée de bêtes microscopiques. Au fil du temps, ils disparaissent presque tous. Il en reste plusieurs dizaines, fatiguées ou amochées.<br>
 Cette affaire a commencé depuis plusieurs heures et seuls quelques-uns restent combatifs. Je m’approche tout doucement, en faisant le moins de bruit possible et, mue par un espoir insensé, je profite d’un passage et m’y engouffre à toute vitesse. Je m’enfonce alors dans une sorte de texture exhalant de divines senteurs.
-Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…</p>
+Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -95,7 +87,7 @@ Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spe
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">JAMBA Chien guide de la race des Seigneurs</h3>
+                        <h3 class="h2Jaune">FILS DE COCO</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2018</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Roman</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 266</p><br><br>
@@ -104,16 +96,7 @@ Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spe
 
                         <p class="lead text-white">
                        
-
-                        Dans la présentation de l'auteure, il est évoqué la dégénérescence rétinienne dont Jannick Weber-Denéchaud est atteinte. Ses difficultés pour voir l'ont amenée à se rapprocher d'une école de chiens-guides pour mal ou non-voyants. Il lui a été attribué une chienne flat-coated, afin de répondre à ses besoins.<br><br>
-
-JAMBA, chien-guide de la race des Seigneurs, raconte, de la naissance à aujourd'hui, le parcours de cette aventure extra-ordinaire vécue par l'animal et sa maîtresse.<br>
-
-En avant-première, voici le premier chapitre.<br>
-
-Le livre vous intéresse ? N'hésitez pas à imprimer le bon de commande et à bénéficier de la réduction consentie pendant la période de souscription ! Attention : le module Paypal n'est pas opérant actuellement, il faut passer par la bonne vieille méthode de l'impression et de l'envoi par courrier du bon accompagné du règlement.<br><br>
-
-Nota : les frais de port ont encore été augmentés par la Poste  ;  or, nous avons décidé de maintenir le coût de l'an passé, soit 3,90€ l'envoi d'un exemplaire. Profitez en !<br>
+                        Être fier de ses convictions, porter haut ses couleurs, partager la même motivation et la même espérance, c’est à la fois noble et dangereux durant les années d’Occupation ! Vladimir en fera l’amère expérience, surtout lorsque par un concours de circonstances, il se retrouve prisonnier dans un goulag stalinien ! Le parti dont il était si friand l’avait récompensé à sa façon ! Mais de là à se faire bedeau dans une petite commune de Saintonge... allez comprendre...<br>
 
 
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
@@ -127,7 +110,7 @@ Je vous propose d’en faire un bout avec moi, tout en découvrant mon existence
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 <h4 class="h2Jaune text-center m-3 ">La Genèse</h4>
 
-
+<p class=" lead text-center">
 <p class=" lead text-center">Vous ne me connaissez pas encore, et pour cause ! J’insiste sur le mot « encore » car, en effet, je ne suis pas née. Je n’en suis même pas au stade de la rencontre du spermatozoïde et de l’ovule, alors vous pensez ! …<br>
 Je vais oser vous livrer en avant-première ma future vie en commençant par vous confier le nom qui m’est prédestiné : « JAMBA ». Ma maîtresse dira, un jour : « c’est « une jambe avec un A ».<br>
 Avant de devenir l’être exceptionnel que je suis, il m’est arrivé des aventures originales. Je vous assure, tout n’a pas été un long fleuve tranquille.
@@ -140,7 +123,7 @@ Je me tapis dans un coin et constate que je suis dans un immense tunnel, entour�
 Occupée à réviser mes leçons de mathématiques, les copains continuent de s’exciter et le carnage auquel j’assiste me laisse pantoise.
 Des milliers d’entre eux sont déjà hors course, épuisés, gisant le ventre en l’air comme des moribonds. Au fil du temps, leur nombre s’accroît de manière inquiétante. Je suis maintenant entourée de malfaisants dont les membranes essayent de m’agripper mais je me défends. Je louvoie doucement et je navigue à vue dans toute cette marée de bêtes microscopiques. Au fil du temps, ils disparaissent presque tous. Il en reste plusieurs dizaines, fatiguées ou amochées.<br>
 Cette affaire a commencé depuis plusieurs heures et seuls quelques-uns restent combatifs. Je m’approche tout doucement, en faisant le moins de bruit possible et, mue par un espoir insensé, je profite d’un passage et m’y engouffre à toute vitesse. Je m’enfonce alors dans une sorte de texture exhalant de divines senteurs.
-Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…</p>
+Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spermatozoïdes et nous nous trouvons dans un ovule. J’en déduis être déjà dotée d’intelligence. Bizarre…
 
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
