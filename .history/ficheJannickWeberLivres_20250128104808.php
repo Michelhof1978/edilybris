@@ -228,9 +228,18 @@
                 </div>
             </a>
         </div>
-       
+        <!-- Carte 3 : Le carnassier saintongeais -->
+        <div class="new-card">
+            <a href="ficheJannickWeberLeCarnassierSaintongeais.php">
+                <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
+                <div class="new-card-content">
+                    <div class="new-card-author">Jannick Weber-Denéchaud</div>
+                    <div class="new-card-price">15,00 €</div>
+                </div>
+            </a>
+        </div>
         <!-- Carte 4 : Maxime-Félicien Denéchaud, mémoire sauvegardée-->
-        <!-- <div class="new-card">
+        <div class="new-card">
             <a href="ficheJannickWeberMaximeFelicienDenechaud.php">
                 <img src="images/pierreBrandao/quelle-tuile-couv-recto-2-min.webp" class="img-fluid" alt="Couverture de livre Quelle tuiles">
                 <div class="new-card-content">
@@ -238,18 +247,7 @@
                     <div class="new-card-price">17,00 €</div>
                 </div>
             </a>
-        </div> -->
-         <!-- Carte 9 : Amour, haine et crustacés -->
-         <div class="new-card">
-            <a href="ficheJannickWeberAmourHaineEtCrustace.php">
-                <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1er mai">
-                <div class="new-card-content">
-                    <div class="new-card-author">Jannick Weber-Denéchaud</div>
-                    <div class="new-card-price">16,00 €</div>
-                </div>
-            </a>
         </div>
-        
         <!-- Carte 5 : Fils de Coco-->
         <div class="new-card">
             <a href="ficheJannickWeberFilsDeCoco.php">
@@ -294,15 +292,13 @@
                 </div>
             </a>
         </div>
-       
-
-         <!-- Carte 3 : Le carnassier saintongeais -->
-         <div class="new-card">
-            <a href="ficheJannickWeberLeCarnassierSaintongeais.php">
-                <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
+        <!-- Carte 9 : Amour, haine et crustacés -->
+        <div class="new-card">
+            <a href="ficheJannickWeberAmourHaineEtCrustace.php">
+                <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1er mai">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
-                    <div class="new-card-price">15,00 €</div>
+                    <div class="new-card-price">16,00 €</div>
                 </div>
             </a>
         </div>

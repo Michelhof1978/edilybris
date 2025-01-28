@@ -249,7 +249,6 @@
                 </div>
             </a>
         </div>
-        
         <!-- Carte 5 : Fils de Coco-->
         <div class="new-card">
             <a href="ficheJannickWeberFilsDeCoco.php">

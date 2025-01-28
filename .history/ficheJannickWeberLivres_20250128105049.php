@@ -239,17 +239,6 @@
                 </div>
             </a>
         </div> -->
-         <!-- Carte 9 : Amour, haine et crustacés -->
-         <div class="new-card">
-            <a href="ficheJannickWeberAmourHaineEtCrustace.php">
-                <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid" alt="Couverture de livre L'assassin du 1er mai">
-                <div class="new-card-content">
-                    <div class="new-card-author">Jannick Weber-Denéchaud</div>
-                    <div class="new-card-price">16,00 €</div>
-                </div>
-            </a>
-        </div>
-        
         <!-- Carte 5 : Fils de Coco-->
         <div class="new-card">
             <a href="ficheJannickWeberFilsDeCoco.php">
