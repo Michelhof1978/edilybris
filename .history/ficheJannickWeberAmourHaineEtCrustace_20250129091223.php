@@ -46,23 +46,11 @@ Parfois, l’homme est insensé... Car lorsque l’amour porté à la crevette e
                   
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 
-<p class=" lead text-center"> À soixante-trois ans, Jacques décide de prendre sa retraite. Des rentes intéressantes, complétées par une pension confortable, lui assurent une existence sans problème. En effet, au décès de ses parents en 2009, il a hérité d’une demeure et d’un domaine de parcs à huîtres qu’il agrandit régulièrement. Depuis sa cessation d’activité, il achète des clayères alentour, de part et d’autre de la Seudre et surtout à Chaillevette.<br>
-
-<img src="images/jannickWeber/crustace1.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
+<p class=" lead text-center">À soixante-trois ans, Jacques décide de prendre sa retraite. Des rentes intéressantes, complétées par une pension confortable, lui assurent une existence sans problème. En effet, au décès de ses parents en 2009, il a hérité d’une demeure et d’un domaine de parcs à huîtres qu’il agrandit régulièrement. Depuis sa cessation d’activité, il achète des clayères alentour, de part et d’autre de la Seudre et surtout à Chaillevette.<br>
 
 Il affectionne cette commune, située au nord de la presqu’île d’Arvert. Son territoire constitué de marais salés s’étend sur de vastes superficies verdoyantes, ponctuées de haies de roseaux et de hautes herbes en constant mouvement. Les cours d’eau des Boisnards, l’Envie, Bel-Air et Chatressac, bordés de cabanes ostréicoles en planches goudronnées, surmontées de tuiles rouges, lui donnent l’impression de vivre dans un monde enchanté. Il adore cet endroit, qui lui rappelle ses vacances d’adolescent, ses balades à bicyclette avec son ami Claude, et ses copines qu’il honorait allégrement dans les joncs.<br>
 
-<img src="images/jannickWeber/crustace2.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
-
-Dès qu’il prend sa retraite en 2011, et contre la volonté de sa femme, il s’installe au pays. Solange appréciait la vie parisienne, et venir en Charente-Maritime ne l’enthousiasme pas. Mais pour lui, la décision ne fait l’objet d’aucune discussion. Leur histoire continue, un peu trop tranquillement pour elle qui joue à la pimbêche, et sereinement pour lui, ravi de retrouver ses racines.<br>
-
-Après le décès de ses parents, Jacques a procédé à d’importants travaux de rénovation dans la maison familiale, située au centre des marais qui sentent bon les embruns. Sollicité à plusieurs reprises pour rejoindre l’équipe municipale, il a toujours refusé cet engagement afin de préserver sa liberté de mouvement et de pensée. Son franc-parler constitue en effet un certain handicap pour exercer des fonctions à caractère politique.<br>
-
-<img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
-
-Qualifié d’homme dynamique, il se consacre à l’élevage des crevettes royales, dont les « bébés » prospèrent dans des conditions optimales. Les anciens marais salants, reliés à la mer par un dédale inextricable de canaux, bénéficient d’une eau à température constante supérieure à 15°, propice à l’aquaculture. Il insiste toujours sur la qualité de sa production, et sur le fait que ses gambas sont nourries naturellement, sans ajout de soja, blé, et farine de poisson. Il se forge rapidement une solide réputation, et s’enorgueillit d’une telle réussite !<br>
-
-Ses journées s’écoulent donc au gré de ses nombreuses occupations, surtout celles liées à l’agrandissement de son exploitation sur la commune de Chaillevette. Solange n’apprécie pas ces investissements, et ces acquisitions entraînent de violentes disputes, mais il tient bon. D’ailleurs, dès que l’occasion se présente, il ne manque pas de rappeler à sa chère épouse que tout lui appartient, et qu’elle ne vit que grâce à ses largesses.</p><br>
+Dès qu’il prend sa retraite en 2011, et contre la volonté de sa femme, il s’installe au pays. Solange appréciait la vie parisienne, et venir en Charente-Maritime ne l’enthousiasme pas. Mais pour lui, la décision ne fait l’objet d’aucune discussion. Leur histoire continue, un peu trop tranquillement pour elle qui joue à la pimbêche, et sereinement pour lui, ravi de retrouver ses racines.</p><br>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -117,7 +105,7 @@ Parfois, l’homme est insensé... Car lorsque l’amour porté à la crevette e
 
     Après le décès de ses parents, Jacques a procédé à d’importants travaux de rénovation dans la maison familiale, située au centre des marais qui sentent bon les embruns. Sollicité à plusieurs reprises pour rejoindre l’équipe municipale, il a toujours refusé cet engagement afin de préserver sa liberté de mouvement et de pensée. Son franc-parler constitue en effet un certain handicap pour exercer des fonctions à caractère politique.<br>
 
-    <img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3" alt="illustration">
+    <img src="images/jannickWeber/" class="d-block mx-auto my-3" alt="illustration">
 
     Qualifié d’homme dynamique, il se consacre à l’élevage des crevettes royales, dont les « bébés » prospèrent dans des conditions optimales. Les anciens marais salants, reliés à la mer par un dédale inextricable de canaux, bénéficient d’une eau à température constante supérieure à 15°, propice à l’aquaculture. Il insiste toujours sur la qualité de sa production, et sur le fait que ses gambas sont nourries naturellement, sans ajout de soja, blé, et farine de poisson. Il se forge rapidement une solide réputation, et s’enorgueillit d’une telle réussite !<br>
 

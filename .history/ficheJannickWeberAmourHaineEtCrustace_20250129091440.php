@@ -58,7 +58,7 @@ Dès qu’il prend sa retraite en 2011, et contre la volonté de sa femme, il s�
 
 Après le décès de ses parents, Jacques a procédé à d’importants travaux de rénovation dans la maison familiale, située au centre des marais qui sentent bon les embruns. Sollicité à plusieurs reprises pour rejoindre l’équipe municipale, il a toujours refusé cet engagement afin de préserver sa liberté de mouvement et de pensée. Son franc-parler constitue en effet un certain handicap pour exercer des fonctions à caractère politique.<br>
 
-<img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
+<img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3" alt="illustration">
 
 Qualifié d’homme dynamique, il se consacre à l’élevage des crevettes royales, dont les « bébés » prospèrent dans des conditions optimales. Les anciens marais salants, reliés à la mer par un dédale inextricable de canaux, bénéficient d’une eau à température constante supérieure à 15°, propice à l’aquaculture. Il insiste toujours sur la qualité de sa production, et sur le fait que ses gambas sont nourries naturellement, sans ajout de soja, blé, et farine de poisson. Il se forge rapidement une solide réputation, et s’enorgueillit d’une telle réussite !<br>
 

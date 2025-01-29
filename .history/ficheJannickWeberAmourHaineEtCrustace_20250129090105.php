@@ -46,23 +46,11 @@ Parfois, l’homme est insensé... Car lorsque l’amour porté à la crevette e
                   
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 
-<p class=" lead text-center"> À soixante-trois ans, Jacques décide de prendre sa retraite. Des rentes intéressantes, complétées par une pension confortable, lui assurent une existence sans problème. En effet, au décès de ses parents en 2009, il a hérité d’une demeure et d’un domaine de parcs à huîtres qu’il agrandit régulièrement. Depuis sa cessation d’activité, il achète des clayères alentour, de part et d’autre de la Seudre et surtout à Chaillevette.<br>
-
-<img src="images/jannickWeber/crustace1.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
+<p class=" lead text-center">À soixante-trois ans, Jacques décide de prendre sa retraite. Des rentes intéressantes, complétées par une pension confortable, lui assurent une existence sans problème. En effet, au décès de ses parents en 2009, il a hérité d’une demeure et d’un domaine de parcs à huîtres qu’il agrandit régulièrement. Depuis sa cessation d’activité, il achète des clayères alentour, de part et d’autre de la Seudre et surtout à Chaillevette.<br>
 
 Il affectionne cette commune, située au nord de la presqu’île d’Arvert. Son territoire constitué de marais salés s’étend sur de vastes superficies verdoyantes, ponctuées de haies de roseaux et de hautes herbes en constant mouvement. Les cours d’eau des Boisnards, l’Envie, Bel-Air et Chatressac, bordés de cabanes ostréicoles en planches goudronnées, surmontées de tuiles rouges, lui donnent l’impression de vivre dans un monde enchanté. Il adore cet endroit, qui lui rappelle ses vacances d’adolescent, ses balades à bicyclette avec son ami Claude, et ses copines qu’il honorait allégrement dans les joncs.<br>
 
-<img src="images/jannickWeber/crustace2.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
-
-Dès qu’il prend sa retraite en 2011, et contre la volonté de sa femme, il s’installe au pays. Solange appréciait la vie parisienne, et venir en Charente-Maritime ne l’enthousiasme pas. Mais pour lui, la décision ne fait l’objet d’aucune discussion. Leur histoire continue, un peu trop tranquillement pour elle qui joue à la pimbêche, et sereinement pour lui, ravi de retrouver ses racines.<br>
-
-Après le décès de ses parents, Jacques a procédé à d’importants travaux de rénovation dans la maison familiale, située au centre des marais qui sentent bon les embruns. Sollicité à plusieurs reprises pour rejoindre l’équipe municipale, il a toujours refusé cet engagement afin de préserver sa liberté de mouvement et de pensée. Son franc-parler constitue en effet un certain handicap pour exercer des fonctions à caractère politique.<br>
-
-<img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
-
-Qualifié d’homme dynamique, il se consacre à l’élevage des crevettes royales, dont les « bébés » prospèrent dans des conditions optimales. Les anciens marais salants, reliés à la mer par un dédale inextricable de canaux, bénéficient d’une eau à température constante supérieure à 15°, propice à l’aquaculture. Il insiste toujours sur la qualité de sa production, et sur le fait que ses gambas sont nourries naturellement, sans ajout de soja, blé, et farine de poisson. Il se forge rapidement une solide réputation, et s’enorgueillit d’une telle réussite !<br>
-
-Ses journées s’écoulent donc au gré de ses nombreuses occupations, surtout celles liées à l’agrandissement de son exploitation sur la commune de Chaillevette. Solange n’apprécie pas ces investissements, et ces acquisitions entraînent de violentes disputes, mais il tient bon. D’ailleurs, dès que l’occasion se présente, il ne manque pas de rappeler à sa chère épouse que tout lui appartient, et qu’elle ne vit que grâce à ses largesses.</p><br>
+Dès qu’il prend sa retraite en 2011, et contre la volonté de sa femme, il s’installe au pays. Solange appréciait la vie parisienne, et venir en Charente-Maritime ne l’enthousiasme pas. Mais pour lui, la décision ne fait l’objet d’aucune discussion. Leur histoire continue, un peu trop tranquillement pour elle qui joue à la pimbêche, et sereinement pour lui, ravi de retrouver ses racines.</p><br>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -104,26 +92,18 @@ Parfois, l’homme est insensé... Car lorsque l’amour porté à la crevette e
 <h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 
 
-<p class="lead text-center">
-    À soixante-trois ans, Jacques décide de prendre sa retraite. Des rentes intéressantes, complétées par une pension confortable, lui assurent une existence sans problème. En effet, au décès de ses parents en 2009, il a hérité d’une demeure et d’un domaine de parcs à huîtres qu’il agrandit régulièrement. Depuis sa cessation d’activité, il achète des clayères alentour, de part et d’autre de la Seudre et surtout à Chaillevette.<br>
-
-    <img src="images/jannickWeber/crustace1.webp" class="d-block mx-auto my-3" alt="illustration">
-
-    Il affectionne cette commune, située au nord de la presqu’île d’Arvert. Son territoire constitué de marais salés s’étend sur de vastes superficies verdoyantes, ponctuées de haies de roseaux et de hautes herbes en constant mouvement. Les cours d’eau des Boisnards, l’Envie, Bel-Air et Chatressac, bordés de cabanes ostréicoles en planches goudronnées, surmontées de tuiles rouges, lui donnent l’impression de vivre dans un monde enchanté. Il adore cet endroit, qui lui rappelle ses vacances d’adolescent, ses balades à bicyclette avec son ami Claude, et ses copines qu’il honorait allégrement dans les joncs.<br>
-
-    <img src="images/jannickWeber/crustace2.webp" class="d-block mx-auto my-3" alt="illustration">
-
-    Dès qu’il prend sa retraite en 2011, et contre la volonté de sa femme, il s’installe au pays. Solange appréciait la vie parisienne, et venir en Charente-Maritime ne l’enthousiasme pas. Mais pour lui, la décision ne fait l’objet d’aucune discussion. Leur histoire continue, un peu trop tranquillement pour elle qui joue à la pimbêche, et sereinement pour lui, ravi de retrouver ses racines.<br>
-
-    Après le décès de ses parents, Jacques a procédé à d’importants travaux de rénovation dans la maison familiale, située au centre des marais qui sentent bon les embruns. Sollicité à plusieurs reprises pour rejoindre l’équipe municipale, il a toujours refusé cet engagement afin de préserver sa liberté de mouvement et de pensée. Son franc-parler constitue en effet un certain handicap pour exercer des fonctions à caractère politique.<br>
-
-    <img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3" alt="illustration">
-
-    Qualifié d’homme dynamique, il se consacre à l’élevage des crevettes royales, dont les « bébés » prospèrent dans des conditions optimales. Les anciens marais salants, reliés à la mer par un dédale inextricable de canaux, bénéficient d’une eau à température constante supérieure à 15°, propice à l’aquaculture. Il insiste toujours sur la qualité de sa production, et sur le fait que ses gambas sont nourries naturellement, sans ajout de soja, blé, et farine de poisson. Il se forge rapidement une solide réputation, et s’enorgueillit d’une telle réussite !<br>
-
-    Ses journées s’écoulent donc au gré de ses nombreuses occupations, surtout celles liées à l’agrandissement de son exploitation sur la commune de Chaillevette. Solange n’apprécie pas ces investissements, et ces acquisitions entraînent de violentes disputes, mais il tient bon. D’ailleurs, dès que l’occasion se présente, il ne manque pas de rappeler à sa chère épouse que tout lui appartient, et qu’elle ne vit que grâce à ses largesses.
-</p>
-
+<p class=" lead text-center">Le mois de novembre s’annonçait particulièrement pluvieux et, en cela, collait peu ou prou à la définition étymologique du mois de brumaire, selon le calendrier républicain. Les nuages bas, qui obscurcissaient le ciel dans un voile continu, laissaient présager de nouvelles précipitations, ce qui ne changeait en rien le mauvais temps qui sévissait depuis ces derniers jours. Depuis quand pleuvait-il sur la ville ? Nul n’aurait su le dire avec précision. C’était comme au jour du jugement dernier, le ciel commençait à offrir aux regards le tumulte annonciateur d’un chaos imminent.<br>
+Les premières gouttes de pluie, chassées par un vent tourbillonnant, se mirent à fouetter violemment la fenêtre de la salle à manger. Un rideau en plastique transparent constellé de déjections de mouches, retenu sur le châssis par des punaises, occultait les vitres poussiéreuses, jamais nettoyées. Le bruit de l’eau projetée violemment sur les carreaux s’intensifiait progressivement et l’intérieur de l’appartement, simplement éclairé par une ampoule nue pendant au bout d’un fil, s’assombrit singulièrement. L’atmosphère glauque sur fond de tons grisâtres qui se dégageait de cet endroit reflétait l’apparence de tristesse, de misère et de solitude de ses occupants.  <br>
+Accroché au mur de la cuisine avec une pointe rouillée, un calendrier publicitaire de la marque « Suze », se balançait au gré des courants d’air, semblant attendre qu’on le débarrasse de sa feuille du mois pour enfin dévoiler l’image des paysages enneigés de décembre. Sur le côté, on pouvait y voir la photo d’un paysan muni d’une sorte de pic, appelé « fourche du diable » en train d’extraire les racines de la gentiane qui, macérées et distillées produisaient ce fameux apéritif au goût amer qu’est la Suze. Il s’agissait d’une reproduction en miniature de l’œuvre d’André Roz, peintre du Haut Doubs, primé pour plusieurs de ses œuvres rurales. <br>
+De petites taches de gras apparaissaient de ci, de là, montrant que l’almanach était feuilleté régulièrement. Ce jour-là, il indiquait : mardi 2 Novembre 1931, fête des défunts et de Victorin.<br>
+Encore enfoui sous l’édredon rouge délavé rempli de plumes d’oie, et peu enclin à s’extirper de cet endroit douillet, Vladimir se demanda si le père allait se souvenir du jour de son anniversaire et murmura : « Ce serait étonnant, il oublie toujours ! »<br>
+La porte d’un placard se ferma en grinçant sur ses gonds non huilés depuis des lustres. Vladimir sursauta et s’entendit interpeller :<br>
+— Dépêche-toi, tu vas être en retard à l’école … et tâche de ne pas te bagarrer.<br>
+— Ouais, P’pa ! ... Tu sais quel jour on est ?<br>
+— Mardi, pourquoi cette question ?<br>
+— Eh bien, parce que j’ai dix ans aujourd’hui.<br>
+— Ah, bon ! C‘est bien.<br>
+Ce fut tout. Le battant de la porte se referma presque aussitôt sur la respiration rauque et saccadée de Laurent Jamin, son père.</p><br>
 
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
