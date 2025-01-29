@@ -195,33 +195,6 @@
         </div>
     </div>
 
-    <!-- Groupe 10 Le secret de la voie romaine-->
-    <div id="mobile-group9PierreBrandao" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="ficheJannickWeberLesecretDeLaVoieRomaine.php">
-                <img src="images/jannickWeber/LeSecretDeLaVoieRomaine.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
-                    <div class="mobile-book-price">16,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-    <!-- Groupe 11 Le coq chante et la mafia s'invite-->
-    <div id="mobile-group9PierreBrandao" class="mobile-books-container mobile-hidden">
-        <div class="mobile-book-card">
-            <a href="ficheJannickWeberLeCoqChante.php">
-                <img src="images/jannickWeber/leCoqChante.webp" class="img-fluid" alt="Couverture de livre L'ASSASSIN DU 1 ER MAI">
-                <div class="mobile-book-details">
-                    <div class="mobile-book-author">Jannick Weber-Denéchaud</div>
-                    <div class="mobile-book-price">18,00 €</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
-
 
 
     <!-- Boutons de navigation -->
@@ -339,7 +312,7 @@
      <div id="desktop-group2PierreBrandao" class="new-card-container">
         <!-- Carte 10 Le secret de la voie romaine -->
         <div class="new-card">
-            <a href="ficheJannickWeberLesecretDeLaVoieRomaine.php">
+            <a href="ficheJannickWeberJambaChien.php">
                 <img src="images/jannickWeber/LeSecretDeLaVoieRomaine.webp" class="img-fluid" alt="Couverture de livre SAV Gendarmerie Bonjour 1">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
@@ -349,16 +322,16 @@
         </div>
         <!-- Carte 11 : Le coq chante et la mafia s'invite-->
         <div class="new-card">
-            <a href="ficheJannickWeberLeCoqChante.php">
-                <img src="images/jannickWeber/leCoqChante.webp" class="img-fluid" alt="Couverture de livre Vengeance Séculaire">
+            <a href="ficheJannickWeberEscapadeFatales.php">
+                <img src="images/jannickWeber/escapadeFatale.jpg" class="img-fluid" alt="Couverture de livre Vengeance Séculaire">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
                     <div class="new-card-price">18,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- Carte 12 :Les aventures de Mael, Clémentine, Brann et Julia -->
-        <!-- <div class="new-card">
+        <!-- Carte 9 :Les aventures de Mael, Clémentine, Brann et Julia -->
+        <div class="new-card">
             <a href="ficheJannickWeberFeuDeToutBois.php">
                 <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid" alt="Couverture de livre Quai des cicatrices">
                 <div class="new-card-content">
@@ -366,19 +339,19 @@
                     <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
-        </div> -->
+        </div>
        
 
-         <!-- Carte 13 : La plaine de jeux -->
-         <!-- <div class="new-card">
+         <!-- Carte 3 : Le carnassier saintongeais -->
+         <div class="new-card">
             <a href="ficheJannickWeberLeCarnassierSaintongeais.php">
                 <img src="images/jannickWeber/carnassier-saintongeais-recto-br-min.webp" class="img-fluid" alt="Couverture de livre L'enlèvement">
                 <div class="new-card-content">
                     <div class="new-card-author">Jannick Weber-Denéchaud</div>
-                    <div class="new-card-price">10,00 €</div>
+                    <div class="new-card-price">15,00 €</div>
                 </div>
             </a>
-        </div> -->
+        </div>
     </div>
 
 </div>
