@@ -97,7 +97,7 @@ Il n’avait effectivement pas tort. Après avoir ôté leurs équipements de ja
                         <h3 class="h2Jaune">AMOUR TRAGIQUE EN PAYS ROCHEFORTAIS</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 230</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 230</p><br><br>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440044</p>
 
 

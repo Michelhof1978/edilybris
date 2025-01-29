@@ -97,7 +97,7 @@ Il n’avait effectivement pas tort. Après avoir ôté leurs équipements de ja
                         <h3 class="h2Jaune">AMOUR TRAGIQUE EN PAYS ROCHEFORTAIS</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 230</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 230</p><br><br>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440044</p>
 
 
@@ -135,7 +135,7 @@ Et il se retourna pour vomir, laissant son père complètement éberlué. Quelqu
 — On n’a pas fini d’être enquiquinés ! répondit son père qui, subitement, retrouvait l’usage de la langue française.<br>
 Il n’avait effectivement pas tort. Après avoir ôté leurs équipements de jardiniers, les deux hommes rentrèrent dans la maison et s’accordèrent un moment de répit avant de téléphoner. Un petit Cognac leur redonnerait du courage ! Michel appela le 17 et expliqua brièvement la situation :<br>
 — Ne touchez plus à rien, on arrive ! fit son interlocuteur.<br>
-— Et le saule qui n’est toujours pas planté ! se plaignit Georges…</p><br>
+— Et le saule qui n’est toujours pas planté ! se plaignit Georges…<br></p><br>
 
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
