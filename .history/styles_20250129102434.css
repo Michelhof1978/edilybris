@@ -191,10 +191,10 @@ header {
     color: #083b7a;
 }
 
+* Changer la couleur en bleu au survol */
 .navbar-nav .nav-link:hover {
-  color: #083b7a !important;
+    color: blue; /* Couleur bleue au survol */
 }
-
 
 .nav-item a:hover {
     color: #e4e9ed;

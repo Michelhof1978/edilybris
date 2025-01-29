@@ -63,22 +63,7 @@ Afin d’estimer la distance qu’il lui restait encore à parcourir, Paul jeta 
 Avant de bifurquer sur sa gauche pour aller dans son coin secret ramasser ses « moussirons », il décida d’aller voir « cette chose » de plus près, pour en avoir le cœur net. Ses pas foulaient l’herbe bien verte et, au fur et à mesure qu’il avançait, il fut pris d’une sorte d’angoisse inexplicable. La forme ne bougeait pas alors qu’il y avait une légère brise, ce qui excluait une bâche, un morceau de plastique ou un chiffon. Et puis, à présent il en était certain, l’odeur provenait de cet endroit et il eut subitement un pressentiment, cette vague impression qui fait prévoir ce qui va arriver.<br>
 La pluie s’était enfin arrêtée et, subitement, ses yeux horrifiés s’arrêtèrent sur une forme qui, très vite, se révéla être celle d’un homme. L’idée qu’il pouvait s’agir d’une femme ne l’avait même pas effleuré bien qu’elles s’habillent maintenant en pantalon. La morphologie peut-être de l’individu ou, tout simplement, une sorte d’intuition ?<br>
 Quoi qu’il en soit, Paul resta un instant figé sur place, la bouche ouverte, les yeux exorbités, le cœur battant à cent à l’heure. Sans qu’il en ait vraiment conscience, il recula doucement, très doucement comme pour ne pas réveiller le mort,  fit volte face et se mit à courir comme un fou et ne s’aperçut même pas qu’il laissait tomber son sac. Il traversa à nouveau le bois Nair dans le sens inverse en ignorant le petit sentier. Il courait à perdre haleine et écartait machinalement les feuillus, sans prêter attention aux griffures que lui infligeaient les branches et les ronces. Son cerveau était vide. Il fallait simplement qu’il s’échappe de cet endroit, qu’il se débarrasse de cette odeur et de cette vision d’horreur.</p><br>
-                    
-<div class="container mt-4">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/4kWeJnRPvCs?si=OnTGdWufNhRKX4if" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/viXvKO5IfGU?si=Ftp2DYRzowZBB2BX" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-<div class="text-center mt-3">
+                    <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
@@ -139,21 +124,7 @@ La pluie s’était enfin arrêtée et, subitement, ses yeux horrifiés s’arr�
 Quoi qu’il en soit, Paul resta un instant figé sur place, la bouche ouverte, les yeux exorbités, le cœur battant à cent à l’heure. Sans qu’il en ait vraiment conscience, il recula doucement, très doucement comme pour ne pas réveiller le mort,  fit volte face et se mit à courir comme un fou et ne s’aperçut même pas qu’il laissait tomber son sac. Il traversa à nouveau le bois Nair dans le sens inverse en ignorant le petit sentier. Il courait à perdre haleine et écartait machinalement les feuillus, sans prêter attention aux griffures que lui infligeaient les branches et les ronces. Son cerveau était vide. Il fallait simplement qu’il s’échappe de cet endroit, qu’il se débarrasse de cette odeur et de cette vision d’horreur.</p><br>
 
 
-<div class="container mt-4">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/4kWeJnRPvCs?si=OnTGdWufNhRKX4if" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/viXvKO5IfGU?si=Ftp2DYRzowZBB2BX" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4kWeJnRPvCs?si=OnTGdWufNhRKX4if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>                    </div>

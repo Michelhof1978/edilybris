@@ -57,28 +57,21 @@ Au travers de cette saga prenante à plus d’un titre, Jannick Weber-Denéchaud
                     </div>
                     <h3 class="h2Jaune text-center m-3">Extrait</h3>
                   
+<h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 
-<p class=" lead text-center">La cueillette des champignons était toujours, pour lui, un moment privilégié. Il était près de la nature, il caressait leur peau délicate, il humait leur parfum. Dieu que c’était bon ! Mais, pour l’instant, que nenni ! Cette vieille expression négative lui fit penser à sa mère qui l’employait fréquemment. La pauvre, ses os ne lui faisaient plus mal depuis longtemps ! Tout cela était bien loin !<br>
-Afin d’estimer la distance qu’il lui restait encore à parcourir, Paul jeta un coup d’œil devant lui et distingua l’orée sud-est du bois. Son attention fut attirée par une tache de couleur bleue qui paraissait saugrenue dans cet univers boisé aux teintes olivâtres dominantes. C’était insolite mais il s’agissait vraisemblablement d’un sac en plastique  qui s’était envolé de l’exploitation agricole voisine ! Ces nouveaux agriculteurs, qui revendiquent l’appellation de chefs d’exploitation, en prenaient bien souvent à leur aise ! Il se reprocha de devenir grincheux ; après tout, il s’agissait de ses pairs ! Mis à part « le Toulardeau », Paul défendrait toujours les gens de sa corporation. C’était sans doute cette odeur épouvantable et la pluie incessante qui influaient sur son caractère. Il écarta les dernières branches avant d’atteindre la clairière sans avoir rencontré un quelconque animal mort… mais, peut-être avait-il pu se cacher dans les fourrés ? Cette forme bizarre de l’autre côté de la clairière, comme suspendue au seul grand chêne vert haut d’une quinzaine de mètres, l’intriguait. Et toujours cette odeur nauséabonde qui l’indisposait !<br>
-Avant de bifurquer sur sa gauche pour aller dans son coin secret ramasser ses « moussirons », il décida d’aller voir « cette chose » de plus près, pour en avoir le cœur net. Ses pas foulaient l’herbe bien verte et, au fur et à mesure qu’il avançait, il fut pris d’une sorte d’angoisse inexplicable. La forme ne bougeait pas alors qu’il y avait une légère brise, ce qui excluait une bâche, un morceau de plastique ou un chiffon. Et puis, à présent il en était certain, l’odeur provenait de cet endroit et il eut subitement un pressentiment, cette vague impression qui fait prévoir ce qui va arriver.<br>
-La pluie s’était enfin arrêtée et, subitement, ses yeux horrifiés s’arrêtèrent sur une forme qui, très vite, se révéla être celle d’un homme. L’idée qu’il pouvait s’agir d’une femme ne l’avait même pas effleuré bien qu’elles s’habillent maintenant en pantalon. La morphologie peut-être de l’individu ou, tout simplement, une sorte d’intuition ?<br>
-Quoi qu’il en soit, Paul resta un instant figé sur place, la bouche ouverte, les yeux exorbités, le cœur battant à cent à l’heure. Sans qu’il en ait vraiment conscience, il recula doucement, très doucement comme pour ne pas réveiller le mort,  fit volte face et se mit à courir comme un fou et ne s’aperçut même pas qu’il laissait tomber son sac. Il traversa à nouveau le bois Nair dans le sens inverse en ignorant le petit sentier. Il courait à perdre haleine et écartait machinalement les feuillus, sans prêter attention aux griffures que lui infligeaient les branches et les ronces. Son cerveau était vide. Il fallait simplement qu’il s’échappe de cet endroit, qu’il se débarrasse de cette odeur et de cette vision d’horreur.</p><br>
-                    
-<div class="container mt-4">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/4kWeJnRPvCs?si=OnTGdWufNhRKX4if" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/viXvKO5IfGU?si=Ftp2DYRzowZBB2BX" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-<div class="text-center mt-3">
+<p class=" lead text-center">Le mois de novembre s’annonçait particulièrement pluvieux et, en cela, collait peu ou prou à la définition étymologique du mois de brumaire, selon le calendrier républicain. Les nuages bas, qui obscurcissaient le ciel dans un voile continu, laissaient présager de nouvelles précipitations, ce qui ne changeait en rien le mauvais temps qui sévissait depuis ces derniers jours. Depuis quand pleuvait-il sur la ville ? Nul n’aurait su le dire avec précision. C’était comme au jour du jugement dernier, le ciel commençait à offrir aux regards le tumulte annonciateur d’un chaos imminent.<br>
+Les premières gouttes de pluie, chassées par un vent tourbillonnant, se mirent à fouetter violemment la fenêtre de la salle à manger. Un rideau en plastique transparent constellé de déjections de mouches, retenu sur le châssis par des punaises, occultait les vitres poussiéreuses, jamais nettoyées. Le bruit de l’eau projetée violemment sur les carreaux s’intensifiait progressivement et l’intérieur de l’appartement, simplement éclairé par une ampoule nue pendant au bout d’un fil, s’assombrit singulièrement. L’atmosphère glauque sur fond de tons grisâtres qui se dégageait de cet endroit reflétait l’apparence de tristesse, de misère et de solitude de ses occupants.  <br>
+Accroché au mur de la cuisine avec une pointe rouillée, un calendrier publicitaire de la marque « Suze », se balançait au gré des courants d’air, semblant attendre qu’on le débarrasse de sa feuille du mois pour enfin dévoiler l’image des paysages enneigés de décembre. Sur le côté, on pouvait y voir la photo d’un paysan muni d’une sorte de pic, appelé « fourche du diable » en train d’extraire les racines de la gentiane qui, macérées et distillées produisaient ce fameux apéritif au goût amer qu’est la Suze. Il s’agissait d’une reproduction en miniature de l’œuvre d’André Roz, peintre du Haut Doubs, primé pour plusieurs de ses œuvres rurales. <br>
+De petites taches de gras apparaissaient de ci, de là, montrant que l’almanach était feuilleté régulièrement. Ce jour-là, il indiquait : mardi 2 Novembre 1931, fête des défunts et de Victorin.<br>
+Encore enfoui sous l’édredon rouge délavé rempli de plumes d’oie, et peu enclin à s’extirper de cet endroit douillet, Vladimir se demanda si le père allait se souvenir du jour de son anniversaire et murmura : « Ce serait étonnant, il oublie toujours ! »<br>
+La porte d’un placard se ferma en grinçant sur ses gonds non huilés depuis des lustres. Vladimir sursauta et s’entendit interpeller :<br>
+— Dépêche-toi, tu vas être en retard à l’école … et tâche de ne pas te bagarrer.<br>
+— Ouais, P’pa ! ... Tu sais quel jour on est ?<br>
+— Mardi, pourquoi cette question ?<br>
+— Eh bien, parce que j’ai dix ans aujourd’hui.<br>
+— Ah, bon ! C‘est bien.<br>
+Ce fut tout. Le battant de la porte se referma presque aussitôt sur la respiration rauque et saccadée de Laurent Jamin, son père.</p><br>
+                    <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
@@ -135,25 +128,9 @@ Au travers de cette saga prenante à plus d’un titre, Jannick Weber-Denéchaud
 <p class=" lead text-center">La cueillette des champignons était toujours, pour lui, un moment privilégié. Il était près de la nature, il caressait leur peau délicate, il humait leur parfum. Dieu que c’était bon ! Mais, pour l’instant, que nenni ! Cette vieille expression négative lui fit penser à sa mère qui l’employait fréquemment. La pauvre, ses os ne lui faisaient plus mal depuis longtemps ! Tout cela était bien loin !<br>
 Afin d’estimer la distance qu’il lui restait encore à parcourir, Paul jeta un coup d’œil devant lui et distingua l’orée sud-est du bois. Son attention fut attirée par une tache de couleur bleue qui paraissait saugrenue dans cet univers boisé aux teintes olivâtres dominantes. C’était insolite mais il s’agissait vraisemblablement d’un sac en plastique  qui s’était envolé de l’exploitation agricole voisine ! Ces nouveaux agriculteurs, qui revendiquent l’appellation de chefs d’exploitation, en prenaient bien souvent à leur aise ! Il se reprocha de devenir grincheux ; après tout, il s’agissait de ses pairs ! Mis à part « le Toulardeau », Paul défendrait toujours les gens de sa corporation. C’était sans doute cette odeur épouvantable et la pluie incessante qui influaient sur son caractère. Il écarta les dernières branches avant d’atteindre la clairière sans avoir rencontré un quelconque animal mort… mais, peut-être avait-il pu se cacher dans les fourrés ? Cette forme bizarre de l’autre côté de la clairière, comme suspendue au seul grand chêne vert haut d’une quinzaine de mètres, l’intriguait. Et toujours cette odeur nauséabonde qui l’indisposait !<br>
 Avant de bifurquer sur sa gauche pour aller dans son coin secret ramasser ses « moussirons », il décida d’aller voir « cette chose » de plus près, pour en avoir le cœur net. Ses pas foulaient l’herbe bien verte et, au fur et à mesure qu’il avançait, il fut pris d’une sorte d’angoisse inexplicable. La forme ne bougeait pas alors qu’il y avait une légère brise, ce qui excluait une bâche, un morceau de plastique ou un chiffon. Et puis, à présent il en était certain, l’odeur provenait de cet endroit et il eut subitement un pressentiment, cette vague impression qui fait prévoir ce qui va arriver.<br>
-La pluie s’était enfin arrêtée et, subitement, ses yeux horrifiés s’arrêtèrent sur une forme qui, très vite, se révéla être celle d’un homme. L’idée qu’il pouvait s’agir d’une femme ne l’avait même pas effleuré bien qu’elles s’habillent maintenant en pantalon. La morphologie peut-être de l’individu ou, tout simplement, une sorte d’intuition ?<br>
+La pluie s’était enfin arrêtée et, subitement, ses yeux horrifiés s’arrêtèrent sur une forme qui, très vite, se révéla être celle d’un homme. L’idée qu’il pouvait s’agir d’une femme ne l’avait même pas effleuré bien qu’elles s’habillent maintenant en pantalon. La morphologie peut-être de l’individu ou, tout simplement, une sorte d’intuition ?
 Quoi qu’il en soit, Paul resta un instant figé sur place, la bouche ouverte, les yeux exorbités, le cœur battant à cent à l’heure. Sans qu’il en ait vraiment conscience, il recula doucement, très doucement comme pour ne pas réveiller le mort,  fit volte face et se mit à courir comme un fou et ne s’aperçut même pas qu’il laissait tomber son sac. Il traversa à nouveau le bois Nair dans le sens inverse en ignorant le petit sentier. Il courait à perdre haleine et écartait machinalement les feuillus, sans prêter attention aux griffures que lui infligeaient les branches et les ronces. Son cerveau était vide. Il fallait simplement qu’il s’échappe de cet endroit, qu’il se débarrasse de cette odeur et de cette vision d’horreur.</p><br>
 
-
-<div class="container mt-4">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/4kWeJnRPvCs?si=OnTGdWufNhRKX4if" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/viXvKO5IfGU?si=Ftp2DYRzowZBB2BX" title="YouTube video player" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-    
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>                    </div>
