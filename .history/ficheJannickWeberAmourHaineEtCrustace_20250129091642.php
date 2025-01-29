@@ -64,7 +64,8 @@ Qualifié d’homme dynamique, il se consacre à l’élevage des crevettes roya
 
 Ses journées s’écoulent donc au gré de ses nombreuses occupations, surtout celles liées à l’agrandissement de son exploitation sur la commune de Chaillevette. Solange n’apprécie pas ces investissements, et ces acquisitions entraînent de violentes disputes, mais il tient bon. D’ailleurs, dès que l’occasion se présente, il ne manque pas de rappeler à sa chère épouse que tout lui appartient, et qu’elle ne vit que grâce à ses largesses.</p><br>
  
-
+<h3 class="h2Jaune text-center m-3">Extrait</h3>
+<img src="images/jannickWeber/crustace3.webp" class="d-block mx-auto my-3 w-50" alt="illustration">
 
 <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>

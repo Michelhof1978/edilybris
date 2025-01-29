@@ -109,7 +109,7 @@ Jean avait donné son accord, trop heureux de trouver un travail aussi rapidemen
 Découvrez l’histoire de cet homme porté par son nombril qui n’a de cesse de faire des malheureux autour de lui... Ce sera à Gérard Masselin, lieutenant de gendarmerie, d’allumer l’ombre assassine pour que la vérité éclaire le chemin de la Justice !</p><br>
 
 
-<h4 class="h2Jaune text-center m-3 ">EXTRAIT CHAPITRE 1</h4>
+<h4 class="h2Jaune text-center m-3 ">CHAPITRE 1</h4>
 
 
 <p class=" lead text-center">Jean était un homme heureux. Il vivait dans un bourg de Charente-Maritime, plus particulièrement en Saintonge, et rien ni personne n’aurait pu le persuader de changer de région. Pour lui, une nouvelle vie en Espagne ou au Portugal n’était pas prévue au programme. Il dirigeait d’une main de fer une entreprise de menuiserie de cinquante-cinq employés et, depuis ces dernières années, il s’était introduit dans les milieux ouverts aux marchés publics. Il n’était pas né philanthrope et s’enorgueillissait de ce trait de caractère qu’il tenait, aux dires de sa mère, d’un de ses aïeux, réputé pour son côté mercantile. Depuis son élection en qualité de président de l’organisation patronale de l’arrondissement, il participait à bon nombre de manifestations et commençait à s’intégrer dans la petite bourgeoisie locale.  <br>
