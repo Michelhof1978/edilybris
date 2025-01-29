@@ -15,17 +15,17 @@
             <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre">
+                    <img src="images/jannickWeber/LeSecretDeLaVoieRomaine.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre"               
 ">
                     <p class="fw-bold coloryellow fs-5">16,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h4 class="h2Jaune text-center">Feu de tout bois</h4>
+                    <h4 class="h2Jaune text-center">LE SECRET DE LA VOIE ROMAINE</h4>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2020
+                        <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 200<br><br>
+                        <strong class="h2Jaune">Nombre de pages :</strong> 190<br><br>
                         <strong class="h2Jaune">Référence :</strong> 9782363440310
                     </p>
                     <p>
@@ -88,18 +88,18 @@ Jean avait donné son accord, trop heureux de trouver un travail aussi rapidemen
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid" alt="Couverture du livre ">
+                        <img src="images/jannickWeber/LeSecretDeLaVoieRomaine.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">16,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Feu de tout bois</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
+                        <h3 class="h2Jaune">LE SECRET DE LA VOIE ROMAINE</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 200</p><br><br>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440310</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 190</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440624</p>
 
 
                         <p class="lead text-white">

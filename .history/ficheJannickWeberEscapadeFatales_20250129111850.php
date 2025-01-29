@@ -91,7 +91,7 @@ L’instant magique s’était estompé. L’homme prit l’initiative de se pr�
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/escapadeFatale.jpg" class="img-fluid" alt="Couverture du livre ">
+                        <img src="images/jannickWeber/escapadeFatale.jpg" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">17,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">

@@ -15,7 +15,7 @@
             <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre" >               
+                    <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre"                
 ">
                     <p class="fw-bold coloryellow fs-5">16,00 €</p>
                 </div>
@@ -82,7 +82,7 @@ Ses journées s’écoulent donc au gré de ses nombreuses occupations, surtout 
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid" alt="Couverture du livre ">
+                        <img src="images/jannickWeber/amourHaineEtCrustaces.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">16,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">

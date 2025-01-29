@@ -88,7 +88,7 @@ Sans que je puisse en expliquer les raisons, je comprends… Nous sommes des spe
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture du livre">
+                        <img src="images/jannickWeber/couverture-recto-jamba-pour-internet-min.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">17,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">

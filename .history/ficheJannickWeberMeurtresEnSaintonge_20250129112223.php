@@ -94,7 +94,7 @@ Quoi qu’il en soit, Paul resta un instant figé sur place, la bouche ouverte, 
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/meurtreEnSaintonge.webp" class="img-fluid" alt="Couverture du livre ">
+                        <img src="images/jannickWeber/meurtreEnSaintonge.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">18,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">

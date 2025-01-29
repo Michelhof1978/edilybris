@@ -15,7 +15,7 @@
             <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre">
+                    <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre                 <div class="col-12 text-white">
 ">
                     <p class="fw-bold coloryellow fs-5">16,00 €</p>
                 </div>

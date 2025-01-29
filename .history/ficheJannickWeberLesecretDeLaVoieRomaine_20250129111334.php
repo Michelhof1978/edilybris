@@ -15,18 +15,18 @@
             <!-- Livre 1 : Nouvelles D Ici Et Nulle Part -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                    <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre">
+                    <img src="images/jannickWeber/LeSecretDeLaVoieRomaine.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre"               
 ">
                     <p class="fw-bold coloryellow fs-5">16,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h4 class="h2Jaune text-center">Feu de tout bois</h4>
+                    <h4 class="h2Jaune text-center">LE SECRET DE LA VOIE ROMAINE</h4>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2020
+                        <strong class="h2Jaune">Année de publication :</strong> 2023
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 200<br><br>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440310
+                        <strong class="h2Jaune">Nombre de pages :</strong> 190<br><br>
+                        <strong class="h2Jaune">Référence :</strong> 9782363440624
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Policier
@@ -34,9 +34,11 @@
 
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong>
-                        La vengeance d’une femme est toujours terrible... Mais lorsqu’il s’agit de trois protagonistes, imaginez l’enfer de celui qui en subit les conséquences ! Dans ce trio infernal, Jean est l’objet de toutes les attentions perfides, mais l’une en particulier pourrait lui être fatale !<br>
+                        Les vestiges du passé restent le socle des mystères du présent. Gérard Masselin en est persuadé lorsqu’il est amené à revenir en terre saintongeaise pour enquêter sur des crimes dont le lien n’est pas si apparent...<br>
 
-Découvrez l’histoire de cet homme porté par son nombril qui n’a de cesse de faire des malheureux autour de lui... Ce sera à Gérard Masselin, lieutenant de gendarmerie, d’allumer l’ombre assassine pour que la vérité éclaire le chemin de la Justice !</p><br>
+Pensez donc... un pauvre hére empoisonné, un second enterré sur la voie mythique romaine, deux frères que tout réunit... ou oppose... Et l’ensemble sur fond d’oenologie... Il y a là de quoi passer un bon moment !<br>
+
+Cette nouvelle aventure de Jannick Weber-Denéchaud ancre l’intrigue dans plusieurs terroirs originaux : Port d’Envaux, Taillebourg, Saint-James, Saint-Saturnin, Crazannes, Le Mung... Le lecteur du crû s’y retrouvera certainement... </p><br>
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -88,18 +90,18 @@ Jean avait donné son accord, trop heureux de trouver un travail aussi rapidemen
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
-                        <img src="images/jannickWeber/feuDeToutBois.webp" class="img-fluid" alt="Couverture du livre ">
+                        <img src="images/jannickWeber/LeSecretDeLaVoieRomaine.webp" class="img-fluid" alt="Couverture du livre CISAILLER DU ROCHER">
 
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">16,00 €</p>
                         <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">Feu de tout bois</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2020</p>
+                        <h3 class="h2Jaune">LE SECRET DE LA VOIE ROMAINE</h3>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 200</p><br><br>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440310</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 190</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440624</p>
 
 
                         <p class="lead text-white">
