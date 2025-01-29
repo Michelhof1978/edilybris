@@ -73,7 +73,7 @@ France reprend lentement ses esprits, mais dès le départ des agents, elle lanc
 Dans la soirée, Pascal, sans doute certain de son ascendance sur la jeune fille, tambourine à la porte pour rentrer au bercail, mais que nenni, elle ne l’entend pas de cette oreille.
 
 En attendant que les choses se calment, il demande l’hospitalité à un de ses camarades. Le lendemain, France l’informe que ses affaires, jetées pêle-mêle dans une valise, sont déposées dans le local à ordures ménagères. Cet homme, trop sûr de lui, avait juste oublié que la location était au nom de France. Malgré ses regrets, elle ne cède pas. Il se retrouve alors à la rue. Heureusement, la fin de l’année universitaire approche, elle revient au bercail, titulaire d’un doctorat en physique et photonique.<br>
-<img src="images/jannickWeber/coq3.webp" alt="Image 1" class="mx-auto d-block w-50">
+<img src="images/jannickWeber/coq3.webp" alt="Image 1" class="mx-auto d-block">
 
 France décide de s’inscrire à la California Institut, université privée américaine très prisée, créée en 1891. Situé à Pasadena dans la banlieue de Los Angeles, en Californie, cet établissement se distingue dans les domaines de la science, de la technologie et l’ingénierie. France ira donc rejoindre les deux mille sept cents étudiants déjà enregistrés sur ce campus.
 
@@ -85,7 +85,7 @@ La jeune charentaise aime ce village et sa douceur de vivre, mais souffre d’un
 
 — Lorsque cela touche la terre et l’argent, lui répond son père, les rancœurs remontent à la surface. Tu dois apprendre à en faire abstraction.<br>
 Le patronyme de Maraudes est souvent galvaudé et remplacé par Volnoré (voleur d’Honoré). L’implantation de cette famille dans ce village date de 1648, période où les hommes du petit peuple vivaient de peu.<br>
-<img src="images/jannickWeber/coq4.webp" alt="Image 1" class="mx-auto d-block w-50">
+<img src="images/jannickWeber/coq4.webp" alt="Image 1" class="mx-auto d-block">
 
 Comme beaucoup de gens à cette époque, les Maraudes chapardaient de temps en temps pour survivre. En 1789, Honoré Maraudes prend fait et cause pour les révolutionnaires et lutte contre les Chouans, royalistes convaincus. Avec une bande de coquins, il sillonne les contrées aunissoises et saintongeaises, pillant allègrement. À partir de mi-1792, pro-Robespierre, mais surtout voleur, il accentue encore ses razzias chez les hobereaux. Sentant le vent tourner, pendant les six ans qui suivent, il fait profil bas et commence à acquérir quelques lopins de terre ainsi que des bovins de race limousine. Les habitants se posent toujours la même question :<br>
 
@@ -102,7 +102,7 @@ La fortune des Maraudes date donc de cette époque, au cours de laquelle Honoré
 — Un cul salé d’moins, o’y’a qu’son zgueil qui fait pas zire sa fumelle.
 
 En 1809, une tuberculose foudroyante emporte Hortense qui n’a pas le temps de révéler la cachette du trésor. L’ensemble de la famille entreprend de vastes recherches, mais se déclare vaincue. Le mystère demeure entier et la quête du magot hante toujours ses descendants.<br>
-<img src="images/jannickWeber/coq5.webp" alt="Image 1" class="mx-auto d-block w-50">
+<img src="images/jannickWeber/coq5.webp" alt="Image 1" class="mx-auto d-block">
 
 Justin, l’aîné de la fratrie de huit enfants (cinq sont décédés en bas âge) assure la relève, et l’exploitation prospère. Imbu de lui-même et soucieux d’afficher son opulence, il ajoute une tourelle à la bâtisse ainsi que de nombreuses dépendances. En 1831, alcoolisé et très diminué, il meurt dans une prairie, embroché par la corne d’un bouc devenu fou. Les générations suivantes qui se sont lancées dans le maquignonnage continuent de s’enrichir, et ce, jusqu’au milieu du XXe siècle.<br>
 
