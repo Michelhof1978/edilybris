@@ -106,7 +106,7 @@
     </div>
   </div>
 
-<!-- Groupe 9 JOCELYN MAILY-->
+<!-- Groupe 12 JOCELYN MAILY-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheJocelynMailyLoozanaBlues.php">
@@ -119,7 +119,7 @@
     </div>
   </div>
 
-  <!-- Groupe 10 D-LYS Decoeur-->
+  <!-- Groupe 12 D-LYS Decoeur-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php">
@@ -132,7 +132,7 @@
     </div>
   </div>
 
-  <!-- Groupe 11 D-LYS Decoeur-->
+  <!-- Groupe 12 D-LYS Decoeur-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheD-LysDeCoeur-photos-fantasy-chevalet.php">

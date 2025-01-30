@@ -55,7 +55,7 @@
   <!-- Groupe 5 PIERRE BRANDAO-->
   <div id="new-group5" class="new-card-container new-hidden">
     <div class="new-card">
-      <a href="fichePierreBrandaoLuciolesMagiques.php">
+      <a href="<strong>Miroir de mes saisons </strong>">
         <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre Lucioles Magiques">
         <div class="new-card-content">
           <div class="new-card-author">Brandao Pierre</div>
@@ -91,9 +91,46 @@
     </div>
   </div>
 
-  
+  <!-- Groupe 8 -->
+  <div id="new-group8" class="new-card-container new-hidden">
+    <div class="new-card">
+      <a href="link_to_book_H.html">
+        <img src="images/AuthorH/bookH-cover.webp" class="img-fluid" alt="Couverture de livre H">
+        <div class="new-card-content">
+          <div class="new-card-author">Author H</div>
+          <div class="new-card-price">23,00 €</div>
+        </div>
+      </a>
+    </div>
+  </div>
 
-  <!-- Groupe 8 ARLETTE BESSEDE -->
+  <!-- Groupe 9 -->
+  <div id="new-group9" class="new-card-container new-hidden">
+    <div class="new-card">
+      <a href="link_to_book_I.html">
+        <img src="images/AuthorI/bookI-cover.webp" class="img-fluid" alt="Couverture de livre I">
+        <div class="new-card-content">
+          <div class="new-card-author">Author I</div>
+          <div class="new-card-price">15,00 €</div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Groupe 10 -->
+  <div id="new-group10" class="new-card-container new-hidden">
+    <div class="new-card">
+      <a href="link_to_book_J.html">
+        <img src="images/AuthorJ/bookJ-cover.webp" class="img-fluid" alt="Couverture de livre J">
+        <div class="new-card-content">
+          <div class="new-card-author">Author J</div>
+          <div class="new-card-price">24,00 €</div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Groupe 11 ARLETTE BESSEDE -->
   <div id="new-group11" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheArletteBessedeElleCommeLiberte.php">
@@ -106,7 +143,7 @@
     </div>
   </div>
 
-<!-- Groupe 9 JOCELYN MAILY-->
+<!-- Groupe 12 JOCELYN MAILY-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheJocelynMailyLoozanaBlues.php">
@@ -119,7 +156,7 @@
     </div>
   </div>
 
-  <!-- Groupe 10 D-LYS Decoeur-->
+  <!-- Groupe 12 D-LYS Decoeur-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php">
@@ -132,7 +169,7 @@
     </div>
   </div>
 
-  <!-- Groupe 11 D-LYS Decoeur-->
+  <!-- Groupe 12 D-LYS Decoeur-->
 <div id="new-group12" class="new-card-container new-hidden">
     <div class="new-card">
       <a href="ficheD-LysDeCoeur-photos-fantasy-chevalet.php">
