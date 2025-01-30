@@ -244,7 +244,7 @@
 
         <!-- Carte 8 D-LYS Decoeur -->
         <div class="L-card">
-            <a href="ficheD-LysDeCoeur-photos-normales-charme-chevalet.php">
+            <a href="ficheDLysDecoeurPhotosNormalesChevalet.php">
                 <img src="images/d-LysDeCoeur/calendrier-normal-janvie- chevalet_11zon.webp" class="img-fluid" alt="calendrier Photos Normales Chevalet">
                 <div class="L-card-content">
                     <div class="L-card-author">D-LYS Decoeur</div>
