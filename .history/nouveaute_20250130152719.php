@@ -155,7 +155,7 @@
 <div class="L-card-container L-hidden" id="L-group2">
    <!-- Carte 4 Cretel Jean-Pierre-->
     <div class="L-card">
-        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
+        <a href="link_to_book_F.html">
             <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
             <div class="L-card-content">
                 <div class="L-card-author">Cretel Jean-Pierre</div>

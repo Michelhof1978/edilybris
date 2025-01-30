@@ -72,7 +72,7 @@
     <!-- Carte 4 Cretel Jean-Pierre-->
     <div class="carousel-item">
       <div class="book-card">
-        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
+        <a href="link_to_book_G.html">
           <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
           <div class="book-card-content">
             <div class="book-card-author">Cretel Jean-Pierre</div>
@@ -85,7 +85,7 @@
     <!-- Carte 5 Brandao Pierre-->
     <div class="carousel-item">
       <div class="book-card">
-        <a href="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp">
+        <a href="link_to_book_D.html">
           <img src="images/pierreBrandao/couv-sav-gie-bjr-2-recto.webp" class="img-fluid" alt="Couverture de livre SAV gendarmerie bonjour 2">
           <div class="book-card-content">
             <div class="book-card-author">Brandao Pierre</div>
@@ -155,7 +155,7 @@
 <div class="L-card-container L-hidden" id="L-group2">
    <!-- Carte 4 Cretel Jean-Pierre-->
     <div class="L-card">
-        <a href="ficheJeanPierreCretelCisaillerDuRocher.php">
+        <a href="link_to_book_F.html">
             <img src="images/jeanPierreCretel/couv-recto-cdr.webp" class="img-fluid" alt="Couverture de livre Cisailler du rocher">
             <div class="L-card-content">
                 <div class="L-card-author">Cretel Jean-Pierre</div>
