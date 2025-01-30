@@ -717,7 +717,7 @@
 
         <!-- carte 17 VERONOIQUE ASH-->
         <div class="new-card">
-            <a href="ficheVeroniqueAshCabosses.php">
+            <a href="link_to_book_H.html">
                 <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="new-card-content">
                     <div class="new-card-author">Ash Véronique </div>
@@ -728,7 +728,7 @@
         
         <!-- carte 18 VERONOIQUE ASH-->
         <div class="new-card">
-            <a href="ficheVeroniqueAshMesCrabistouilles.php">
+            <a href="link_to_book_J.html">
                 <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Mes caribistouilles">
                 <div class="new-card-content">
                     <div class="new-card-author">Ash Véronique </div>
@@ -846,7 +846,7 @@
 
         <!-- carte 27 DAVID BEAULIEU-->
         <div class="new-card">
-            <a href="fichedavidBeaulieuLeSillageDeLEncre.php">
+            <a href="link_to_book_H.html">
                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de livre Le sillage de l'encre">
                 <div class="new-card-content">
                     <div class="new-card-author">Beaulieu David </div>
@@ -939,7 +939,7 @@
      <div id="desktop-group6" class="new-card-container new-hidden">
         <!-- carte 35 ARLETTE BESSEDE-->
         <div class="new-card">
-            <a href="ficheArletteBessedeMesMotsSontDesPaysage.php">
+            <a href="link_to_book_F.html">
                 <img src="images/arletteBessede/mesMotsSontDesPaysages.webp" class="img-fluid" alt="Couverture de livre Mes mots sont des paysages">
                 <div class="new-card-content">
                     <div class="new-card-author">Bessède Arlette </div>
@@ -949,7 +949,7 @@
         </div>
         <!-- carte 36 ARLETTE BESSEDE-->
         <div class="new-card">
-            <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
+            <a href="link_to_book_G.html">
                 <img src="images/arletteBessede/surLeVentreIriséDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Sur le ventre irisé de nos rivières">
                 <div class="new-card-content">
                     <div class="new-card-author">Bessède Arlette </div>
@@ -971,7 +971,7 @@
         
          <!-- carte 38 PIERRE BRANDAO-->
          <div class="new-card">
-            <a href="fichePierreBrandaoSavGendarmerieBonjour1.php">
+            <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre sav gendarmerie bonjour 1 ">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
@@ -982,7 +982,7 @@
 
          <!-- carte 39 PIERRE BRANDAO-->
          <div class="new-card">
-            <a href="fichePierreBrandaoVeangeanceSeculaire.php">
+            <a href="link_to_book_F.html">
                 <img src="images/pierreBrandao/vengeanceSeculaire (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Vengeance séculaire">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>
@@ -996,7 +996,7 @@
      <div id="desktop-group7" class="new-card-container new-hidden">
         <!-- carte 40 JOCELYN MAILY -->
         <div class="new-card">
-            <a href="ficheJocelynMailyDesOsEtDesAiles.php">
+            <a href="link_to_book_F.html">
                 <img src="images/JocelynMailly/des-os-et-des-ailes-pourweb-1.webp" class="img-fluid" alt="Couverture de livre Des os et des ailes">
                 <div class="new-card-content">
                     <div class="new-card-author">Maily Jocelyn</div>
@@ -1006,7 +1006,7 @@
         </div>
         <!-- carte 41 ABDEL FRANCOIS NADINI-->
         <div class="new-card">
-            <a href="ficheAbdelFrancoisNadiniDeLaBougieAuxProjecteur.php">
+            <a href="link_to_book_G.html">
                 <img src="images/abdelFrançoisNadini/dlball-recto-seul-br (1)_11zon.webp" class="img-fluid" alt="Couverture de livre De la bougie aux projecteurs ">
                 <div class="new-card-content">
                     <div class="new-card-author">Nadini Abdel François </div>
@@ -1017,7 +1017,7 @@
 
         <!-- carte 42 ALAIN TAHET Un cadre pour la vie-->
         <div class="new-card">
-            <a href="ficheAlainTahetUnCadrePourLaVie.php">
+            <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couv-recto-lcadli (1)_11zon_11zon.webp" class="img-fluid" alt="Couverture de livre La caresse acerbe de l'indigence">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>
@@ -1028,7 +1028,7 @@
         
           <!-- carte 43 ALAIN TAHET La caresse acerbe de l'indigence-->
         <div class="new-card">
-            <a href="ficheAlainTahetLaCaresseAcerbeDeLIndigence.php">
+            <a href="link_to_book_H.html">
                 <img src="images/alainTahet/vireOuSurvivre.webp" class="img-fluid" alt="Couverture de livre Vivre ou survivre">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>
@@ -1039,7 +1039,7 @@
 
          <!-- carte 44 ALAIN TAHET Fodé Mabinty Camara, vivre ou survivre-->
          <div class="new-card">
-            <a href="ficheAlainTahetFodeMabinty.php">
+            <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>

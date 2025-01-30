@@ -1039,7 +1039,7 @@
 
          <!-- carte 44 ALAIN TAHET Fodé Mabinty Camara, vivre ou survivre-->
          <div class="new-card">
-            <a href="ficheAlainTahetFodeMabinty.php">
+            <a href="link_to_book_H.html">
                 <img src="images/alainTahet/couverture-un-cadre-pour-la-vie-alain-tahet (1) (1)_11zon.webp" class="img-fluid" alt="Couverture de livre Un cadre pour la vie">
                 <div class="new-card-content">
                     <div class="new-card-author">Tahet Alain </div>
