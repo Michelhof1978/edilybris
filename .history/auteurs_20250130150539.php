@@ -2,15 +2,7 @@
 
 <title></title>
 <meta name="description" content="">
-<style>
-body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-image: url('images/fondBleu.webp') !important;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;   
-}
-</style>
+
 </head>
 
 <body>
