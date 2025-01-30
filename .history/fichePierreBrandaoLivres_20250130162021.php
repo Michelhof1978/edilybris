@@ -167,7 +167,7 @@
     <!-- Groupe 12 LUCIOLES MAGIQUES-->
     <div id="mobile-group12PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLuciolesMagiques.php">
+            <a href="fichePierreBrandaoLuciloesMagiques.php">
                 <img src="fichePierreBrandaoLuciolesMagiques.php" class="img-fluid w-75" alt="Couverture de livre LUCIOLES MAGIQUES ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
@@ -272,7 +272,7 @@
     <div id="desktop-group2PierreBrandao" class="new-card-container new-hidden">
         <!-- carte 6  SAV GENDARMERIE BONJOUR 1-->
         <div class="new-card">
-            <a href="fichePierreBrandaoSavGendarmerieBonjour1.php">
+            <a href="fichePierreBrandaoSavGendarmerie1.php">
                 <img src="images/pierreBrandao/savGendarmerieBonjour1.webp" class="img-fluid" alt="Couverture de livre SAV GENDARMERIE BONJOUR 1">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre</div>
@@ -329,7 +329,7 @@
      <div id="desktop-group3PierreBrandao" class="new-card-container new-hidden">
         <!-- carte 11 LUCIOLES MAGIQUES -->
         <div class="new-card">
-            <a href="fichePierreBrandaoLuciolesMagiques.php">
+            <a href="fichePierreBrandaoLuciloesMagiques.php">
                 <img src="images/pierreBrandao/luciolesMagiques.webp" class="img-fluid" alt="Couverture de livre LUCIOLES MAGIQUES">
                 <div class="new-card-content">
                     <div class="new-card-author">Brandao Pierre </div>

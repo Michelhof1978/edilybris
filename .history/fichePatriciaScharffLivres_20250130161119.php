@@ -17,14 +17,13 @@
                     </p>
                 </div>
             </div>
-            
             <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
     <!-- Groupe 1  Les aventures de Mael, Clémentine, Brann et Julia-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
-            <a href="fichePatriciaScharffLesAventures.php">
-                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
+            <a href="ficheVeroniqueAshCabosses.php">
+                <img src="images/veroniqueAsh/capture-d-e-cran-2023-08-15-a-10.55.35 (1)-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Patricia Scharff</div>
                     <div class="mobile-book-price">15,00 €</div>
@@ -36,8 +35,8 @@
     <!-- Groupe 2 La plaine de jeux-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePatriciaScharffLesAventures.php">
-                <img src="images/patriciaScharff/couv-les-aventures-de-mael-patricia-scharff_1-min.webp" class="img-fluid" alt="Couverture de livre Mes carabistouilles ">
+            <a href="ficheVeroniqueAshMesCrabistouilles.php">
+                <img src="images/veroniqueAsh/couv-carabistouilles-recto.webp" class="img-fluid" alt="Couverture de livre Mes carabistouilles ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Patricia Scharff</div>
                     <div class="mobile-book-price">10,00 €</div>

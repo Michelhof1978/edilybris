@@ -97,17 +97,17 @@ Personnalité très attachante, Arlette Bessède saura séduire votre âme de po
                 <img src="images/arletteBessede/couv-recto-elles-comme-liberte-br-pour-site.webp" class="img-fluid" alt="Couverture de livre Elle comme liberté--> ">
                 <div class="new-card-content">
                     <div class="new-card-author">Arlette Bessède</div>
-                    <div class="new-card-price">22,00 €</div>
+                    <div class="new-card-price">,00 €</div>
                 </div>
             </a>
         </div>
-        <!-- carte 3 Sur Le Ventre Irise De Nos Riviere-->
+        <!-- carte 3 L'enlèvement-->
         <div class="new-card">
         <a href="ficheArletteBessedeLeVentreIriseDeNosRiviere.php">
         <img src="images/arletteBessede/surLeVentreIriseDeNosRivières.webp" class="img-fluid" alt="Couverture de livre Le ventre irisé de nos rivières">
                 <div class="new-card-content">
-                    <div class="new-card-author">Arlette Bessède</div>
-                    <div class="new-card-price">12,00 €</div>
+                    <div class="new-card-author">Brandao Pierre</div>
+                    <div class="new-card-price">22,00 €</div>
                 </div>
             </a>
         </div>

@@ -24,7 +24,7 @@
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="fichePatriciaScharffLesAventures.php">
-                <img src="images/patriciaScharff/la-plaine-des-jeux-recto-_1_-min.webp" class="img-fluid" alt="Couverture de livre Cabossées">
+                <img src="images/p" class="img-fluid" alt="Couverture de livre Cabossées">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Patricia Scharff</div>
                     <div class="mobile-book-price">15,00 €</div>

@@ -167,7 +167,7 @@
     <!-- Groupe 12 LUCIOLES MAGIQUES-->
     <div id="mobile-group12PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
-            <a href="fichePierreBrandaoLuciolesMagiques.php">
+            <a href="fichePierreBrandaoLuciloesMagiques.php">
                 <img src="fichePierreBrandaoLuciolesMagiques.php" class="img-fluid w-75" alt="Couverture de livre LUCIOLES MAGIQUES ">
                 <div class="mobile-book-details">
                     <div class="mobile-book-author">Brandao Pierre</div>
