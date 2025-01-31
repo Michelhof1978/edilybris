@@ -20,7 +20,7 @@
             
             <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1   La plaine de jeux-->
+    <!-- Groupe 1  Les aventures de Mael, Clémentine, Brann et Julia-->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="fichePatriciaScharffLaPlaineDeJeux .php">
@@ -33,7 +33,7 @@
         </div>
     </div>
 
-    <!-- Groupe 2  Les aventures de Mael, Clémentine, Brann et Julia-->
+    <!-- Groupe 2 La plaine de jeux-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="fichePatriciaScharffLesAventures.php">

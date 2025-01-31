@@ -21,20 +21,21 @@
                 <div class="col-12 text-white">
                     <h3 class="h2Jaune text-center">LES AVENTURES DE MAEL, CLÉMENTINE, BRANN ET JULIA</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2023
+                        <strong class="h2Jaune">Année de publication :</strong> 2013
                     </p>
                     <p>
                         <strong class="h2Jaune">Nombre de pages :</strong> 175
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Jeunesse
+                        <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440655
+                        <strong class="h2Jaune">Référence :</strong> 9782363440082
                     </p>
+                    <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong> Mael et Clémentine, des enfants de 4 et 5 ans et demi, sont cousins et vont vivre ensemble des aventures à partir de faits qui peuvent paraître anodins. La vie qu’ils découvrent prend les couleurs de leur éducation : le respect des animaux sauvages (Les écureuils), les codes de la famille (L’enquête), la tolérance (La petite Bohémienne), la prudence (L’attrape-rêves) et la confiance (Des vacances à l’improviste).
+                        <strong class="h2Jaune">Résumé :</strong>Mael et Clémentine, des enfants de 4 et 5 ans et demi, sont cousins et vont vivre ensemble des aventures à partir de faits qui peuvent paraître anodins. La vie qu’ils découvrent prend les couleurs de leur éducation : le respect des animaux sauvages (Les écureuils), les codes de la famille (L’enquête), la tolérance (La petite Bohémienne), la prudence (L’attrape-rêves) et la confiance (Des vacances à l’improviste).
 
 Ils sont accompagnés au cours de leurs péripéties par Brann et Julia, deux autres enfants avides de suivre le pas de leurs aînés.
 Ma soif »
@@ -46,7 +47,7 @@ Ma soif »
                     <h4 class="h2Jaune text-center m-3">PROLOGUE</h4>
                     <p>
     Mael est un petit garçon de cinq ans et il entend souvent dire qu’il est grand pour son âge, mais bientôt ce ne sera certainement plus vrai, car il va changer d’âge et avoir six ans.<br>
-    <img src="images/patriciaScharff/lesAventures1.webp" class="img-fluid mx-auto d-block w-50 m-4" alt="Image 1"><br>
+    <img src="images/patriciaScharff/lesAventures1.webp" class="img-fluid mx-auto d-block" alt="Image 1"><br>
     Ça s’appelle un anniversaire et c’est l’occasion de faire un goûter avec les camarades de classe qui vont venir avec des bonbons et des petits cadeaux.<br>
     C’est aussi l’occasion d’inviter la famille le dimanche suivant.<br> 
     Les personnes de la famille arrivent par petits groupes à quelques minutes d’intervalle et elles font beaucoup de bruit pour se dire bonjour.<br>
@@ -62,7 +63,7 @@ Ma soif »
     Parmi tous les invités, l’invitée préférée de Mael, c’est sa cousine Clémentine.<br>
     Une cousine, c’est une petite fille qui appelle votre papa « Tonton » et votre maman « Tata » ou « Tatie ».<br>
     On fait la même chose avec son papa et avec sa maman.<br>
-    <img src="images/patriciaScharff/lesAventures2.webp" class="img-fluid mx-auto d-block w-50 m-4" alt="Image 2"><br>
+    <img src="images/patriciaScharff/lesAventures2.webp" class="img-fluid mx-auto d-block" alt="Image 2"><br>
     Mael avait un tout petit peu plus d’un an quand sa cousine Clémentine est née et il ne se souvient pas de la vie avant Clémentine.<br>
     Elle a d’abord été sans intérêt, car elle ne parlait pas, elle faisait des sourires ou elle pleurait avec une voix rauque.<br>
     Elle faisait aussi des bulles et elle régurgitait un peu de lait caillé et aigre.<br>
@@ -106,13 +107,14 @@ Ma soif »
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">LES AVENTURES DE MAEL, CLÉMENTINE, BRANN ET JULIA</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2023</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Jeunesse</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 175</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440655</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 42</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440082</p>
 
+                        <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
 
-                        <strong class="h2Jaune">Résumé :</strong> Mael et Clémentine, des enfants de 4 et 5 ans et demi, sont cousins et vont vivre ensemble des aventures à partir de faits qui peuvent paraître anodins. La vie qu’ils découvrent prend les couleurs de leur éducation : le respect des animaux sauvages (Les écureuils), les codes de la famille (L’enquête), la tolérance (La petite Bohémienne), la prudence (L’attrape-rêves) et la confiance (Des vacances à l’improviste).
+                        <strong class="h2Jaune">Résumé :</strong>Mael et Clémentine, des enfants de 4 et 5 ans et demi, sont cousins et vont vivre ensemble des aventures à partir de faits qui peuvent paraître anodins. La vie qu’ils découvrent prend les couleurs de leur éducation : le respect des animaux sauvages (Les écureuils), les codes de la famille (L’enquête), la tolérance (La petite Bohémienne), la prudence (L’attrape-rêves) et la confiance (Des vacances à l’improviste).
 
 Ils sont accompagnés au cours de leurs péripéties par Brann et Julia, deux autres enfants avides de suivre le pas de leurs aînés.
 Ma soif »
@@ -123,7 +125,7 @@ Ma soif »
                     <h4 class="h2Jaune text-center m-3">PROLOGUE</h4>
                     <p>
     Mael est un petit garçon de cinq ans et il entend souvent dire qu’il est grand pour son âge, mais bientôt ce ne sera certainement plus vrai, car il va changer d’âge et avoir six ans.<br>
-    <img src="images/patriciaScharff/lesAventures1.webp" class="img-fluid mx-auto d-block m-4" alt="Image 1"><br>
+    <img src="images/patriciaScharff/lesAventures1.webp" class="img-fluid mx-auto d-block" alt="Image 1"><br>
     Ça s’appelle un anniversaire et c’est l’occasion de faire un goûter avec les camarades de classe qui vont venir avec des bonbons et des petits cadeaux.<br>
     C’est aussi l’occasion d’inviter la famille le dimanche suivant.<br> 
     Les personnes de la famille arrivent par petits groupes à quelques minutes d’intervalle et elles font beaucoup de bruit pour se dire bonjour.<br>
@@ -139,7 +141,7 @@ Ma soif »
     Parmi tous les invités, l’invitée préférée de Mael, c’est sa cousine Clémentine.<br>
     Une cousine, c’est une petite fille qui appelle votre papa « Tonton » et votre maman « Tata » ou « Tatie ».<br>
     On fait la même chose avec son papa et avec sa maman.<br>
-    <img src="images/patriciaScharff/lesAventures2.webp" class="img-fluid mx-auto d-block m-4" alt="Image 2"><br>
+    <img src="images/patriciaScharff/lesAventures2.webp" class="img-fluid mx-auto d-block" alt="Image 2"><br>
     Mael avait un tout petit peu plus d’un an quand sa cousine Clémentine est née et il ne se souvient pas de la vie avant Clémentine.<br>
     Elle a d’abord été sans intérêt, car elle ne parlait pas, elle faisait des sourires ou elle pleurait avec une voix rauque.<br>
     Elle faisait aussi des bulles et elle régurgitait un peu de lait caillé et aigre.<br>

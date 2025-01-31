@@ -33,7 +33,7 @@
         </div>
     </div>
 
-    <!-- Groupe 2  Les aventures de Mael, Clémentine, Brann et Julia-->
+    <!-- Groupe 2-->
     <div id="mobile-group2PierreBrandao" class="mobile-books-container mobile-hidden">
         <div class="mobile-book-card">
             <a href="fichePatriciaScharffLesAventures.php">

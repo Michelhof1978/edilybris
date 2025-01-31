@@ -66,7 +66,7 @@ Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ troi
 
                     </div>
                     <div class="livre-details">
-                        <h3 class="h2Jaune">La plaine de jeux</h3>
+                        <h3 class="h2Jaune">Mes mots sont des paysages</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Jeunesse</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 74</p>

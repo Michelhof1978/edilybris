@@ -62,7 +62,7 @@ Ma soif »
     Parmi tous les invités, l’invitée préférée de Mael, c’est sa cousine Clémentine.<br>
     Une cousine, c’est une petite fille qui appelle votre papa « Tonton » et votre maman « Tata » ou « Tatie ».<br>
     On fait la même chose avec son papa et avec sa maman.<br>
-    <img src="images/patriciaScharff/lesAventures2.webp" class="img-fluid mx-auto d-block w-50 m-4" alt="Image 2"><br>
+    <img src="images/patriciaScharff/lesAventures2.webp" class="img-fluid mx-auto d-block w-50m-4" alt="Image 2"><br>
     Mael avait un tout petit peu plus d’un an quand sa cousine Clémentine est née et il ne se souvient pas de la vie avant Clémentine.<br>
     Elle a d’abord été sans intérêt, car elle ne parlait pas, elle faisait des sourires ou elle pleurait avec une voix rauque.<br>
     Elle faisait aussi des bulles et elle régurgitait un peu de lait caillé et aigre.<br>
