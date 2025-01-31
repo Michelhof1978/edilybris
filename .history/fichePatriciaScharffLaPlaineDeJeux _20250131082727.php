@@ -35,12 +35,12 @@
                     <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong>Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
-                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...<br><br>
-                        « D’une goutte d’eau j’ai étanché
-Ma soif »
+                        <strong class="h2Jaune">PROLOGUE :</strong>Mael, Clémentine, Brann et Julia vont découvrir une nouvelle plaine de jeux. Ils en connaissent déjà deux ou trois plus ou moins grandes, avec plus ou moins de portiques en plus ou moins bon état, situées à distance raisonnable de leur domicile. D’ailleurs, l’une d’elles ne présente vraiment plus aucun intérêt, car les couleurs des toboggans ont sérieusement pâli, les planches des maisonnettes sont disjointes et la piste de trottinette est irrégulière. De plus, quatre adolescents ont colonisé les lieux et chassent les plus jeunes de ce qu’ils appellent « leur espace ».
 
-écrit-elle dans « l’amie du désert », mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !
+C’est donc avec un certain enthousiasme, teinté de curiosité, que les cousins acceptent la proposition des deux mamans qui ont lancé joyeusement :
+— Nous allons découvrir la plaine de jeux qui vient d’être ouverte dans notre ville à côté du gymnase !
+
+Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ trois kilomètres de la maison de Mael et de Julia. Les enfants sont bien sûr installés à l’arrière de chaque véhicule, l’aîné calé et ceinturé sur un rehausseur et le plus jeune solidement sanglé dans son siège auto. Durant les quelques minutes de trajet, chaque maman explique que cette réalisation est le fruit d’une longue réflexion de la part du conseil municipal, puis de plusieurs mois de travaux. Mael et Clémentine, chacun dans sa voiture, demande à sa maman ce qu’est un conseil municipal et pourquoi il a dû réfléchir longtemps, alors que n’importe quel enfant aurait tout de suite répondu OUI ! à la question : « faut-il construire une nouvelle plaine de jeux ? » Ils sont cependant attentifs à la réponse, car ils veulent être en mesure d’expliquer à leurs camarades de classe qu’un tel aménagement, ça se décide sérieusement à la mairie et ça nécessite des discussions entre des élus qui ont un projet, mais que celui-ci est systématiquement contredit par d’autres conseillers municipaux qui en ont un autre.
                     </p>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
@@ -81,14 +81,14 @@ Ma soif »
 
                         <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
 
-                        <p class="lead text-white">
-                        Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
-                       
-                        Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...<br><br>
-                        « D’une goutte d’eau j’ai étanché
-Ma soif »
+                        <p class="lead">
+                        <strong class="h2Jaune">PROLOGUE :</strong>Mael, Clémentine, Brann et Julia vont découvrir une nouvelle plaine de jeux. Ils en connaissent déjà deux ou trois plus ou moins grandes, avec plus ou moins de portiques en plus ou moins bon état, situées à distance raisonnable de leur domicile. D’ailleurs, l’une d’elles ne présente vraiment plus aucun intérêt, car les couleurs des toboggans ont sérieusement pâli, les planches des maisonnettes sont disjointes et la piste de trottinette est irrégulière. De plus, quatre adolescents ont colonisé les lieux et chassent les plus jeunes de ce qu’ils appellent « leur espace ».
 
-écrit-elle dans « l’amie du désert », mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !
+C’est donc avec un certain enthousiasme, teinté de curiosité, que les cousins acceptent la proposition des deux mamans qui ont lancé joyeusement :
+— Nous allons découvrir la plaine de jeux qui vient d’être ouverte dans notre ville à côté du gymnase !
+
+Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ trois kilomètres de la maison de Mael et de Julia. Les enfants sont bien sûr installés à l’arrière de chaque véhicule, l’aîné calé et ceinturé sur un rehausseur et le plus jeune solidement sanglé dans son siège auto. Durant les quelques minutes de trajet, chaque maman explique que cette réalisation est le fruit d’une longue réflexion de la part du conseil municipal, puis de plusieurs mois de travaux. Mael et Clémentine, chacun dans sa voiture, demande à sa maman ce qu’est un conseil municipal et pourquoi il a dû réfléchir longtemps, alors que n’importe quel enfant aurait tout de suite répondu OUI ! à la question : « faut-il construire une nouvelle plaine de jeux ? » Ils sont cependant attentifs à la réponse, car ils veulent être en mesure d’expliquer à leurs camarades de classe qu’un tel aménagement, ça se décide sérieusement à la mairie et ça nécessite des discussions entre des élus qui ont un projet, mais que celui-ci est systématiquement contredit par d’autres conseillers municipaux qui en ont un autre.
+                    </p>
                        <!-- Bouton citations -->
                 <div class="text-center">
                     <a href="ficheArletteBessedeCitations.php" class="btnCitations mb-5">Découvrir des extraits</a>

@@ -35,7 +35,7 @@
                     <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
-                        <strong class="h2Jaune">Résumé :</strong>Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
+                        <strong class="h2Jaune">PROLOGUE :</strong>Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ; qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ; une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.
                         Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille. Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...<br><br>
                         « D’une goutte d’eau j’ai étanché
 Ma soif »

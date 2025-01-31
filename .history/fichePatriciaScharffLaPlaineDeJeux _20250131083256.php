@@ -19,20 +19,20 @@
                     <p class="fw-bold coloryellow fs-5">10,00 €</p>
                 </div>
                 <div class="col-12 text-white">
-                    <h3 class="h2Jaune text-center">La plaine de jeux</h3>
+                    <h3 class="h2Jaune text-center">Mes mots sont des paysages</h3>
                     <p>
-                        <strong class="h2Jaune">Année de publication :</strong> 2024
+                        <strong class="h2Jaune">Année de publication :</strong> 2013
                     </p>
                     <p>
-                        <strong class="h2Jaune">Nombre de pages :</strong> 74
+                        <strong class="h2Jaune">Nombre de pages :</strong> 42
                     </p>
                     <p>
-                        <strong class="h2Jaune">Genre :</strong> Jeunesse
+                        <strong class="h2Jaune">Genre :</strong> Poésies
                     </p>
                     <p>
-                        <strong class="h2Jaune">Référence :</strong> 9782363440785
+                        <strong class="h2Jaune">Référence :</strong> 9782363440082
                     </p>
-                    <img src="images/patriciaScharff/laPlaineDeJeuVerso.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
+                    <img src="images/arletteBessede/arlette-bessede-6_11zon.webp" class="img-fluid  mb-3 d-block mx-auto" alt="Illustration">
 
                     <p class="lead">
                         <strong class="h2Jaune">PROLOGUE :</strong> Mael, Clémentine, Brann et Julia vont découvrir une nouvelle plaine de jeux. Ils en connaissent déjà deux ou trois plus ou moins grandes, avec plus ou moins de portiques en plus ou moins bon état, situées à distance raisonnable de leur domicile. D’ailleurs, l’une d’elles ne présente vraiment plus aucun intérêt, car les couleurs des toboggans ont sérieusement pâli, les planches des maisonnettes sont disjointes et la piste de trottinette est irrégulière. De plus, quatre adolescents ont colonisé les lieux et chassent les plus jeunes de ce qu’ils appellent « leur espace ».
@@ -45,7 +45,14 @@ Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ troi
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
-                  
+                     <!-- Bouton citations -->
+                <div class="text-center">
+                    <a href="ficheArletteBessedeCitations.php" class="btnCitations">Découvrir des extraits</a>
+                </div>
+                    </p>
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -67,12 +74,12 @@ Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ troi
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">Mes mots sont des paysages</h3>
-                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Jeunesse</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 74</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440785</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2013</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Poésie</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 42</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440082</p>
 
-                        <img src="images/patriciaScharff/laPlaineDeJeuVerso.webp" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
+                        <img src="images/patriciaScharff" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
 
                         <p class="lead">
                         <strong class="h2Jaune">PROLOGUE :</strong> Mael, Clémentine, Brann et Julia vont découvrir une nouvelle plaine de jeux. Ils en connaissent déjà deux ou trois plus ou moins grandes, avec plus ou moins de portiques en plus ou moins bon état, situées à distance raisonnable de leur domicile. D’ailleurs, l’une d’elles ne présente vraiment plus aucun intérêt, car les couleurs des toboggans ont sérieusement pâli, les planches des maisonnettes sont disjointes et la piste de trottinette est irrégulière. De plus, quatre adolescents ont colonisé les lieux et chassent les plus jeunes de ce qu’ils appellent « leur espace ».

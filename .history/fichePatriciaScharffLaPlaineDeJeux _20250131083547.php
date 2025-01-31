@@ -46,6 +46,10 @@ Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ troi
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
                   
+                    </p>
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -70,7 +74,7 @@ Tous se dirigent vers les voitures, car ce nouveau parc se situe à environ troi
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Jeunesse</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 74</p>
-                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440785</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440082</p>
 
                         <img src="images/patriciaScharff/laPlaineDeJeuVerso.webp" class="img-fluid w-50 mb-3 d-block mx-auto" alt="Illustration">
 
