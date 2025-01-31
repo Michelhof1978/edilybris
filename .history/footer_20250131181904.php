@@ -873,48 +873,55 @@ LBackButton.addEventListener('click', () => {
 
 <!-- CARDS  L AUTEUR-->
 <script>
-// Desktop Navigation
-// Récupération des groupes de cartes (desktop)
+// Sélection des groupes de cartes
 const desktopGroups = document.querySelectorAll('.L-card-container');
-let currentDesktopIndex = 2;
+let currentDesktopIndex = 0;
+
 // Boutons de navigation
 const desktopBackButton = document.getElementById('L-backButton2');
 const desktopNextButton = document.getElementById('L-nextGroupButton2');
-// Gestionnaire pour le bouton "Suivant"
-desktopNextButton.addEventListener('click', () => {
-  if (currentDesktopIndex < desktopGroups.length - 1) {
-    // Masque le groupe actuel
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe suivant
-    currentDesktopIndex++;
-    // Affiche le nouveau groupe
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
-    updateDesktopButtons();
-  }
-});
-// Gestionnaire pour le bouton "Précédent"
-desktopBackButton.addEventListener('click', () => {
-  if (currentDesktopIndex > 0) {
-    // Masque le groupe actuel
-    desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe précédent
-    currentDesktopIndex--;
-    // Affiche le nouveau groupe
-    desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
-    updateDesktopButtons();
-  }
-});
-// Fonction pour activer/désactiver les boutons en fonction de l'index actuel
-function updateDesktopButtons() {
-  // Désactive le bouton "Précédent" si on est au premier groupe
-  desktopBackButton.disabled = currentDesktopIndex === 2;
-  // Désactive le bouton "Suivant" si on est au dernier groupe
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2;
+
+// Fonction de mise à jour de l'affichage
+function updateDesktopView(index) {
+    desktopGroups.forEach((group, i) => {
+        if (i === index) {
+            group.classList.remove('L-hidden');
+            group.classList.add('L-active');
+        } else {
+            group.classList.add('L-hidden');
+            group.classList.remove('L-active');
+        }
+    });
 }
-// Initialisation des boutons au chargement
+
+// Gestion des boutons
+function updateDesktopButtons() {
+    desktopBackButton.disabled = currentDesktopIndex === 0;
+    desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - ;
+}
+
+// Gestionnaire du bouton "Suivant"
+desktopNextButton.addEventListener('click', () => {
+    if (currentDesktopIndex < desktopGroups.length - 1) {
+        currentDesktopIndex++;
+        updateDesktopView(currentDesktopIndex);
+        updateDesktopButtons();
+    }
+});
+
+// Gestionnaire du bouton "Précédent"
+desktopBackButton.addEventListener('click', () => {
+    if (currentDesktopIndex > 0) {
+        currentDesktopIndex--;
+        updateDesktopView(currentDesktopIndex);
+        updateDesktopButtons();
+    }
+});
+
+// Initialisation de l'affichage et des boutons
+updateDesktopView(currentDesktopIndex);
 updateDesktopButtons();
+
 </script>
 <!-- _____________________________________________________________________________________ -->
 <!-- TROMBINOSCOPE-->

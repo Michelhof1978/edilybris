@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 
 <title></title>
-<meta name="description" content="Biographie et livres de Madelaine Chargy Dupuis. Découvrez ses œuvres et téléchargez un bon de commande.">
+<meta name="description" content="Biographie et livres de Abdel Francois Nadini. Découvrez ses œuvres et téléchargez un bon de commande.">
 
 <style>
 body {

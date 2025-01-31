@@ -873,48 +873,75 @@ LBackButton.addEventListener('click', () => {
 
 <!-- CARDS  L AUTEUR-->
 <script>
-// Desktop Navigation
-// Récupération des groupes de cartes (desktop)
+// Récupération des groupes de cartes
 const desktopGroups = document.querySelectorAll('.L-card-container');
-let currentDesktopIndex = 2;
+let currentDesktopIndex = 0;
+
 // Boutons de navigation
 const desktopBackButton = document.getElementById('L-backButton2');
 const desktopNextButton = document.getElementById('L-nextGroupButton2');
+
+// Initialisation de l'affichage
+desktopGroups.forEach((group, index) => {
+  if (index === 0) {
+    group.classList.add('L-active');
+    group.classList.remove('L-hidden');
+  } else {
+    group.classList.remove('L-active');
+    group.classList.add('L-hidden');
+  }
+});
+
+// Fonction pour mettre à jour l'affichage
+function updateDesktopView() {
+  desktopGroups.forEach((group, index) => {
+    if (index === currentDesktopIndex) {
+      group.classList.add('L-active');
+      group.classList.remove('L-hidden');
+    } else {
+      group.classList.remove('L-active');
+      group.classList.add('L-hidden');
+    }
+  });
+
+  updateDesktopButtons();
+}
+
+// Fonction pour activer/désactiver les boutons
+function updateDesktopButtons() {
+  desktopBackButton.disabled = currentDesktopIndex === 0;
+  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 1;
+}
+
 // Gestionnaire pour le bouton "Suivant"
 desktopNextButton.addEventListener('click', () => {
   if (currentDesktopIndex < desktopGroups.length - 1) {
-    // Masque le groupe actuel
+    desktopGroups[currentDesktopIndex].classList.remove('L-active');
     desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe suivant
     currentDesktopIndex++;
-    // Affiche le nouveau groupe
+
+    desktopGroups[currentDesktopIndex].classList.add('L-active');
     desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
-    updateDesktopButtons();
   }
+  updateDesktopButtons();
 });
+
 // Gestionnaire pour le bouton "Précédent"
 desktopBackButton.addEventListener('click', () => {
   if (currentDesktopIndex > 0) {
-    // Masque le groupe actuel
+    desktopGroups[currentDesktopIndex].classList.remove('L-active');
     desktopGroups[currentDesktopIndex].classList.add('L-hidden');
-    // Passe au groupe précédent
     currentDesktopIndex--;
-    // Affiche le nouveau groupe
+
+    desktopGroups[currentDesktopIndex].classList.add('L-active');
     desktopGroups[currentDesktopIndex].classList.remove('L-hidden');
-    // Met à jour l'état des boutons
-    updateDesktopButtons();
   }
+  updateDesktopButtons();
 });
-// Fonction pour activer/désactiver les boutons en fonction de l'index actuel
-function updateDesktopButtons() {
-  // Désactive le bouton "Précédent" si on est au premier groupe
-  desktopBackButton.disabled = currentDesktopIndex === 2;
-  // Désactive le bouton "Suivant" si on est au dernier groupe
-  desktopNextButton.disabled = currentDesktopIndex === desktopGroups.length - 2;
-}
-// Initialisation des boutons au chargement
+
+// Initialisation immédiate
 updateDesktopButtons();
+
 </script>
 <!-- _____________________________________________________________________________________ -->
 <!-- TROMBINOSCOPE-->

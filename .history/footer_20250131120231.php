@@ -1,6 +1,6 @@
-<!-- <div class="text-center ">
+<div class="text-center ">
         <img class="img-fluid w-25" src="images/plume.webp" alt="Image centrée">
-    </div> -->
+    </div>
 <!-- FOOTER DESKTOP ET MOBILE -->
 <footer class="footer-section ">
 <div class="container">
@@ -876,7 +876,7 @@ LBackButton.addEventListener('click', () => {
 // Desktop Navigation
 // Récupération des groupes de cartes (desktop)
 const desktopGroups = document.querySelectorAll('.L-card-container');
-let currentDesktopIndex = 2;
+let currentDesktopIndex = 0;
 // Boutons de navigation
 const desktopBackButton = document.getElementById('L-backButton2');
 const desktopNextButton = document.getElementById('L-nextGroupButton2');
