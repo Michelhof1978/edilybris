@@ -1,4 +1,14 @@
-<div class="headerAuteur">
+<?php include("head.php"); ?>
+
+<title></title>
+ <meta name="description" content="">
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Madelaine Chargy Dupuis</h1>
         <img src="images/ChargyDupuisMadelaine/ChargyDupuisMadelaine.webp" alt="Christine Kunz" class="img-fluid bio-image">
@@ -71,3 +81,10 @@
         </div>
     </div>
 </main>
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>

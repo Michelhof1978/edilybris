@@ -458,7 +458,7 @@
       <!-- Kunz Christine-->
       <a href="ficheChristineKunz.php" class="profile-card producer">
         <div class="imgBx">
-          <img src="images/christinekunz/christinekunz1.webp" class="img-fluid" alt=" Photo de LO PINTO GUY">
+          <img src="images/guyLopinto/guyLopinto.webp" class="img-fluid" alt=" Photo de LO PINTO GUY">
         </div>
         <div class="details mb-3">
           <h2>KUNZ CHRISTINE</h2>

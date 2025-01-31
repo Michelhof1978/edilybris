@@ -1,4 +1,24 @@
-<div class="headerAuteur">
+<?php include("head.php"); ?>
+
+<title></title>
+ <meta name="description" content="">
+
+ <style>
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url('images/fondBleu.webp') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+}
+</style>
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Madelaine Chargy Dupuis</h1>
         <img src="images/ChargyDupuisMadelaine/ChargyDupuisMadelaine.webp" alt="Christine Kunz" class="img-fluid bio-image">
@@ -71,3 +91,10 @@
         </div>
     </div>
 </main>
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>

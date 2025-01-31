@@ -166,6 +166,16 @@
             </a>
         </div>
 
+        
+        <!-- KUNZ CHRISTINE -->
+ <div class="carousel-item">
+            <a href="ficheChristineKunz1.php">
+                <div class="person">
+                    <img src="images/christinekunz/christinekunz1.webp" alt="Photo de KUNZ CHRISTINE" class="photo">
+                    <p class="name">KUNZ CHRISTINE</p>
+                </div>
+            </a>
+        </div>
 
          <!-- LE GUENNEC LUC -->
  <div class="carousel-item">
@@ -173,16 +183,6 @@
                 <div class="person">
                     <img src="images/lucLeGuennec/lucLeGuennec.webp" alt="Photo de LE GUENNEC LUC" class="photo">
                     <p class="name">LE GUENNEC LUC</p>
-                </div>
-            </a>
-        </div>
-
-          <!-- KUNZ CHRISTINE -->
- <div class="carousel-item">
-            <a href="ficheChristineKunz.php">
-                <div class="person">
-                    <img src="images/christinekunz/photo1.webp" alt="Photo de KUNZ CHRISTINE" class="photo">
-                    <p class="name">KUNZ CHRISTINE</p>
                 </div>
             </a>
         </div>
@@ -444,7 +444,15 @@
           <h2>ASH VERONIQUE</h2>
         </div>
       </a>
- 
+ <!-- KUNZ CHRISTINE-->
+      <a href="ficheChristineKunz.php" class="profile-card director">
+        <div class="imgBx">
+          <img src="images/ChristineKunz/" class="img-fluid" alt="Photo KUNZ CHRISTINE">
+        </div>
+        <div class="details mb-3">
+          <h2>KUNZ CHRISTINE</h2>
+        </div>
+      </a>
  <!-- LE GUENNEC LUC-->
       <a href="ficheLucLeGuennec.php" class="profile-card producer">
         <div class="imgBx">
@@ -454,17 +462,6 @@
           <h2>LE GUENNEC LUC</h2>
         </div>
       </a>
-
-      <!-- Kunz Christine-->
-      <a href="ficheChristineKunz.php" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/christinekunz/christinekunz1.webp" class="img-fluid" alt=" Photo de LO PINTO GUY">
-        </div>
-        <div class="details mb-3">
-          <h2>KUNZ CHRISTINE</h2>
-        </div>
-      </a>
-      
  <!-- LO PINTO GUY-->
       <a href="ficheGuyLoPinto.php" class="profile-card producer">
         <div class="imgBx">
@@ -553,7 +550,7 @@
   </div>
 
  <!-- Boutons de navigation du trombinoscope -->
-<div class="carousel-navigation mb-5">
+<div class="carousel-navigation">
   <button id="prevBtn" class="carousel-btn text-white">Précédent</button>
   <button id="nextBtn" class="carousel-btn text-white">Suivant</button>
 </div>
