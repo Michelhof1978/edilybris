@@ -1,4 +1,14 @@
-<div class="headerAuteur">
+<?php include("head.php"); ?>
+
+<title></title>
+ <meta name="description" content="">
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Patrice Bachereau</h1>
         <img src="images/patriceBachereau/patriceBachereau.webp" alt="Portrait de Patrice Bachereau" class="img-fluid bio-image">
@@ -32,7 +42,7 @@
             <!-- MODE MOBILE -->
             <div class="d-block d-md-none">
                 <!-- Groupe 1 - Patrice Bachereau La grande prophétie-->
-                <div id="mobile-group1PierreBrandao" class="mobile-books-container">
+                <div id="mobile-group1PierreBrandao" class="mobile-books-container" style="margin-top: -50px;">
                     <div class="mobile-book-card">
                         <a href="fichePatriceBachereau.php">
                             <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de La grande prophétie">
@@ -47,7 +57,7 @@
 
             <!-- MODE DESKTOP -->
             <div class="d-none d-md-block">
-                <div id="desktop-group1PierreBrandao" class="new-card-container">
+                <div id="desktop-group1PierreBrandao" class="new-card-container" style="margin-top: -50px;">
                     <!-- Carte 1 -La grande prophétie-->
                     <div class="new-card">
                         <a href="fichePatriceBachereauLaGrandeProphetie.php">
@@ -64,3 +74,10 @@
         </div>
     </section>
 </main>
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>

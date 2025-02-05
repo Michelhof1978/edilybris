@@ -42,7 +42,7 @@
             <!-- MODE MOBILE -->
             <div class="d-block d-md-none">
                 <!-- Groupe 1 - Patrice Bachereau La grande prophétie-->
-                <div id="mobile-group1PierreBrandao" class="mobile-books-container" style="margin-top: -50px;">
+                <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
                         <a href="fichePatriceBachereau.php">
                             <img src="images/patriceBachereau/image-basse-resolution-couverture-min.webp" class="img-fluid" alt="Couverture de La grande prophétie">
