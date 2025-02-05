@@ -78,39 +78,40 @@ body {
 
 
 h1 {
-  font-family: 'Georgia', serif;
-  font-size: 2.5em;
-  font-weight: 700;
-  color: #ffcc00; /* Jaune */
-  text-align: center;
-  text-transform: capitalize;
-  letter-spacing: 1px;
-  position: relative;
-  padding-bottom: 10px;
-  margin: 30px 0;
-  transition: color 0.3s ease, transform 0.3s ease;
-}
-
-h1::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 2px;
-  background: #ffcc00;
-  transform: scaleX(0);
-  transition: transform 0.3s ease;
-}
-
-h1:hover {
-  color: #ffcc00;
-  transform: translateY(-4px);
-}
-
-h1:hover::before {
-  transform: scaleX(1);
-}
+  color: ;
+    font-family: 'Georgia', serif;
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #34495e;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    position: relative;
+    padding-bottom: 10px;
+    margin: 30px 0;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  h1::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: #ffcc00;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+  
+  h1:hover {
+    color: #ffcc00;
+    transform: translateY(-4px);
+  }
+  
+  h1:hover::before {
+    transform: scaleX(1);
+  }
 
   @media (max-width: 768px) {
     h1, h2{
@@ -1783,9 +1784,7 @@ input[type="email"]:focus {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: -150px !important;
-  margin-bottom: -150px !important;
-  
+  margin-top: 30px;
 }
 
 .bio-image {

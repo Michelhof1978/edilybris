@@ -18,7 +18,7 @@ body {
 <?php include("header.php"); ?>
 
 <h1 class="text-white text-center m-5">Soutien et promotion des auteurs littéraires</h1>
-<?php include("trombinoscope.php"); ?>
+
 <?php include("nouveaute.php"); ?>
 
 <!-- TEXTE AUTEURS -->

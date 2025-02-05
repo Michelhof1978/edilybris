@@ -13,7 +13,7 @@
             <!-- Section image et texte -->
             <div class="bio-content">
                 <div class="bio-text">
-                    <p class="lead text-white text-center ">
+                    <p class="lead text-white text-center">
                         L'univers que nous connaissons n'est pas assez grand pour Patrice Bachereau, auteur d'un premier roman héroïc-fantasy qui transporte le lecteur dans un monde où créatures fantastiques et aventure humaine se côtoient !
 
                         L'auteur a pourtant ses journées bien remplies : entre son activité professionnelle, ses occupations de maire de sa commune, et sa vie familiale, il n'a de cesse de rêver et faire partager son onirisme en embrassant le papier de ses écrits fantastiques. La grande prophétie s'annonce comme les prémices d'une aventure de haut vol, car la suite est déjà attendue !
