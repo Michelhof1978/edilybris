@@ -1755,49 +1755,30 @@ input[type="email"]:focus {
 }
 
 /* Section Biographie */
-.bio-text {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  width: 100%; /* Garantit que le texte occupe toute la largeur du conteneur parent */
-  max-width: 800px; /* Limite la largeur maximale pour éviter que le texte soit trop large */
-  margin-right: 0; /* Pour éviter l'espace trop grand à droite */
-  padding-right: 15px; /* Ajout d'un léger espacement à droite */
-  overflow: hidden; /* Empêche que le texte dépasse du conteneur */
-  text-align: justify; /* Aligne le texte de manière plus fluide */
-}
-
-.bio-content {
-  display: flex;
-  flex-wrap: wrap; /* Permet au texte de se réorganiser si l'espace est insuffisant */
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin-top: 20px; /* Éviter l'écart trop important entre les éléments */
-  margin-bottom: 20px;
-  padding: 20px; /* Assurez un peu d'espace autour de l'ensemble du contenu */
-}
-
-.bio-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-right: 20px;
-}
-
-.containerAuteur {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
+/* Assurez-vous que le conteneur du texte ne dépasse pas */
 .bio-text-container {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+    overflow: hidden; /* Cache le contenu qui dépasse */
+    padding: 10px; /* Ajoute un peu d'espace autour du texte */
+    margin-bottom: 20px; /* Espacement en bas pour éviter le chevauchement */
 }
 
+/* Utilisation de flexbox pour une meilleure disposition */
+.bio-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Ajustement de la taille du texte si nécessaire */
+.bio-text-container p {
+    font-size: 16px; /* Taille de police appropriée */
+    line-height: 1.6; /* Espacement des lignes pour une meilleure lisibilité */
+}
+
+/* Gestion des cartes pour éviter le chevauchement */
+.mobile-books-container, .new-card-container {
+    margin-top: 20px; /* Espacement au-dessus des cartes */
+}
 /* Section Livres */
 .livres {
   background-image: url('images/fondLivres.webp'); /* Remplacer par ton image */

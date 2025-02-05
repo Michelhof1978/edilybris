@@ -1755,47 +1755,72 @@ input[type="email"]:focus {
 }
 
 /* Section Biographie */
-.bio-text {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  width: 100%; /* Garantit que le texte occupe toute la largeur du conteneur parent */
-  max-width: 800px; /* Limite la largeur maximale pour éviter que le texte soit trop large */
-  margin-right: 0; /* Pour éviter l'espace trop grand à droite */
-  padding-right: 15px; /* Ajout d'un léger espacement à droite */
-  overflow: hidden; /* Empêche que le texte dépasse du conteneur */
-  text-align: justify; /* Aligne le texte de manière plus fluide */
+.biographie {
+  background-image: url('images/fondLivres.webp'); 
+  background-size: cover; /* L'image occupe toute la section */
+  background-position: center;
+  background-attachment: fixed; /* L'image reste fixe lors du défilement */
+  padding: 40px 0; /* Ajoute de l'espace autour de la section */
+  color: white; /* Texte en blanc pour contraster avec le fond */
 }
 
+.biographie .container {
+  width: 90%; /* Augmente la largeur de la section pour plus d'espace */
+  margin: 0 auto;
+  height: auto;
+}
+
+.biographie h2 {
+  font-size: 2.5rem; /* Agrandit la taille du titre */
+  color: #ffcc00;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Bio Content avec image et texte */
 .bio-content {
   display: flex;
-  flex-wrap: wrap; /* Permet au texte de se réorganiser si l'espace est insuffisant */
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin-top: 20px; /* Éviter l'écart trop important entre les éléments */
-  margin-bottom: 20px;
-  padding: 20px; /* Assurez un peu d'espace autour de l'ensemble du contenu */
+  align-items: flex-start; /* Aligne l'image et le texte en haut */
+  justify-content: space-between;
+  margin-top: 0; /* Supprime la marge négative */
+  margin-bottom: 40px; /* Ajoute une marge sous le texte */
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .bio-image {
-  width: 150px;
-  height: 150px;
+  width: 180px; /* Augmente la taille de l'image */
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
-  margin-right: 20px;
+  margin-right: 30px; /* Plus d'espace entre l'image et le texte */
 }
 
-.containerAuteur {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+.bio-text p {
+  font-size: 1.2rem; /* Augmente la taille de la police */
+  line-height: 1.8;
+  max-width: 800px; /* Limite la largeur du texte pour une lecture plus agréable */
 }
 
-.bio-text-container {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+/* MODE MOBILE */
+@media (max-width: 767px) {
+  .bio-content {
+    flex-direction: column; /* Sur mobile, affiche le texte et l'image en colonne */
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .bio-image {
+    width: 120px; /* Taille de l'image plus petite sur mobile */
+    height: 120px;
+    margin-bottom: 20px; /* Ajoute de l'espace sous l'image */
+  }
+
+  .bio-text p {
+    font-size: 1rem; /* Taille de texte plus petite sur mobile */
+    max-width: 100%; /* Laisse plus de place pour le texte sur mobile */
+  }
 }
 
 /* Section Livres */

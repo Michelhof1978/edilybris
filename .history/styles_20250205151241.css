@@ -1755,26 +1755,46 @@ input[type="email"]:focus {
 }
 
 /* Section Biographie */
-.bio-text {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  width: 100%; /* Garantit que le texte occupe toute la largeur du conteneur parent */
-  max-width: 800px; /* Limite la largeur maximale pour éviter que le texte soit trop large */
-  margin-right: 0; /* Pour éviter l'espace trop grand à droite */
-  padding-right: 15px; /* Ajout d'un léger espacement à droite */
-  overflow: hidden; /* Empêche que le texte dépasse du conteneur */
-  text-align: justify; /* Aligne le texte de manière plus fluide */
+.biographie {
+  background-image: url('images/fondLivres.webp'); 
+  background-size: cover; /* L'image occupe toute la section */
+  background-position: center;
+  background-attachment: fixed; /* L'image reste fixe lors du défilement */
+  padding: 40px 0;
+  color: white; /* Texte en blanc pour contraster avec le fond */
 }
 
+.biographie .container {
+  width: 80%;
+  margin: 0 auto;
+  height: auto;
+}
+
+.biographie h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+  color: #ffcc00;
+}
+
+
+
+/* Bio Content avec image et texte */
 .bio-content {
   display: flex;
-  flex-wrap: wrap; /* Permet au texte de se réorganiser si l'espace est insuffisant */
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin-top: 20px; /* Éviter l'écart trop important entre les éléments */
-  margin-bottom: 20px;
-  padding: 20px; /* Assurez un peu d'espace autour de l'ensemble du contenu */
+  flex-wrap: wrap; /* Permettre aux éléments de passer à la ligne */
+  align-items: center;
+  justify-content: center;
+  position: relative; /* Assurer un bon empilement */
+  gap: 20px; /* Espacement entre les éléments */
 }
+
+
+.bio-text {
+  max-width: 800px; /* Limiter la largeur */
+  margin-bottom: 20px; /* Ajouter un espace sous le texte */
+}
+
 
 .bio-image {
   width: 150px;
@@ -1784,18 +1804,19 @@ input[type="email"]:focus {
   margin-right: 20px;
 }
 
-.containerAuteur {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+.bio-text p {
+  font-size: 1.1rem;
+  line-height: 1.8;
 }
 
-.bio-text-container {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+.mobile-book-card, .new-card {
+  max-width: 200px; /* Ajustez selon votre besoin */
+  word-wrap: break-word;
+}
+.mobile-book-details, .new-card-content {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* Section Livres */

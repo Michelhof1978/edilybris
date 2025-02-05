@@ -1791,13 +1791,6 @@ input[type="email"]:focus {
   padding: 20px;
 }
 
-.bio-text-container {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
 /* Section Livres */
 .livres {
   background-image: url('images/fondLivres.webp'); /* Remplacer par ton image */

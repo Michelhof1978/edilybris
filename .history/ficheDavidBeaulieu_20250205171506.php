@@ -48,7 +48,7 @@
             <div class="books-section" >
                 <!-- Mode Mobile -->
                 <div class="d-block d-md-none">
-                    <div id="mobile-group1PierreBrandao" class="mobile-books-container" style="margin-top:900px">
+                    <div id="mobile-group1PierreBrandao" class="mobile-books-container" style="margin-top:1380px">
                         <div class="mobile-book-card">
                             <a href="fichePatriceBachereau.php">
                                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de Le sillage de l'encre">

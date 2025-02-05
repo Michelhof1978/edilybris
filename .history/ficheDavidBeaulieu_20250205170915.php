@@ -45,10 +45,10 @@
             </div>
 
             <!-- Section des livres -->
-            <div class="books-section" >
+            <div class="books-section">
                 <!-- Mode Mobile -->
                 <div class="d-block d-md-none">
-                    <div id="mobile-group1PierreBrandao" class="mobile-books-container" style="margin-top:900px">
+                    <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                         <div class="mobile-book-card">
                             <a href="fichePatriceBachereau.php">
                                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de Le sillage de l'encre">
@@ -62,8 +62,8 @@
                 </div>
 
                 <!-- Mode Desktop -->
-                <div class="d-none d-md-block" >
-                    <div id="desktop-group1PierreBrandao"  class="new-card-container" style="margin-top:380px">
+                <div class="d-none d-md-block">
+                    <div id="desktop-group1PierreBrandao" class="">
                         <div class="new-card">
                             <a href="fichedavidBeaulieuLeSillageDeLEncre.php">
                                 <img src="images/davidBeaulieu/couv-le-sillage-de-l-encre-1.webp" class="img-fluid" alt="Couverture de Le sillage de l'encre">

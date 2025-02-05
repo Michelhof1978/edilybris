@@ -1755,47 +1755,105 @@ input[type="email"]:focus {
 }
 
 /* Section Biographie */
-.bio-text {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  width: 100%; /* Garantit que le texte occupe toute la largeur du conteneur parent */
-  max-width: 800px; /* Limite la largeur maximale pour éviter que le texte soit trop large */
-  margin-right: 0; /* Pour éviter l'espace trop grand à droite */
-  padding-right: 15px; /* Ajout d'un léger espacement à droite */
-  overflow: hidden; /* Empêche que le texte dépasse du conteneur */
-  text-align: justify; /* Aligne le texte de manière plus fluide */
+.body {
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
-.bio-content {
-  display: flex;
-  flex-wrap: wrap; /* Permet au texte de se réorganiser si l'espace est insuffisant */
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin-top: 20px; /* Éviter l'écart trop important entre les éléments */
-  margin-bottom: 20px;
-  padding: 20px; /* Assurez un peu d'espace autour de l'ensemble du contenu */
+.containerAuteur {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.headerAuteur {
+  text-align: center;
+  background: #333;
+  padding: 40px 20px;
+  border-bottom: 4px solid #ffcc00;
+}
+
+.headerAuteur h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #ffcc00;
 }
 
 .bio-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  object-fit: cover;
-  margin-right: 20px;
+  margin-top: 20px;
+  border: 4px solid #ffcc00;
 }
 
-.containerAuteur {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+.biographie {
+  background: #252525;
+  padding: 40px 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(255, 204, 0, 0.3);
 }
 
-.bio-text-container {
+.h2Jaune {
+  color: #ffcc00;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bio-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bio-text {
+  text-align: justify;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Styles des cartes */
+.new-card-container, .mobile-books-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.new-card, .mobile-book-card {
+  background: #333;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgba(255, 204, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.new-card:hover, .mobile-book-card:hover {
+  transform: scale(1.05);
+}
+
+.new-card img, .mobile-book-card img {
   width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+  max-width: 200px;
+  border-radius: 5px;
+}
+
+.new-card-author, .mobile-book-author {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #ffcc00;
+}
+
+.new-card-price, .mobile-book-price {
+  font-size: 1.1rem;
+  color: #ffffff;
 }
 
 /* Section Livres */

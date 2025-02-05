@@ -18,13 +18,12 @@
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-image: url('images/fondbleu.webp');
+    background-image: url('images/fondBleu.webp')!important;
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    
-    
+    background-repeat: no-repeat;   
 }
+
 .fond-text {
   background-image: url('images/fondLivres.webp') !important; /* Remplace l'URL par le chemin de ton image */
   background-size: cover; /* L'image couvre toute la zone */
@@ -37,7 +36,20 @@ body {
   color: #ffcc00;
  }
 
+ .liens-sociaux ul li {
+  color: yellow; /* Applique la couleur jaune */
+}
 
+/* Lien sociaux */
+.liens-sociaux ul li a {
+  color: #ffcc00; /* Applique la couleur jaune aux liens */
+  text-decoration: none; /* Retire le soulignement, facultatif */
+}
+
+.liens-sociaux ul li a:hover {
+  text-decoration: underline; /* Facultatif, pour souligner au survol */
+}
+/* Fin Lien sociaux */
 /* Row alignée en flexbox */
 .row {
   display: flex;
@@ -66,39 +78,39 @@ body {
 
 
 h1 {
-    font-family: 'Georgia', serif;
-    font-size: 2.5em;
-    font-weight: 700;
-    color: #34495e;
-    text-align: center;
-    text-transform: capitalize;
-    letter-spacing: 1px;
-    position: relative;
-    padding-bottom: 10px;
-    margin: 30px 0;
-    transition: color 0.3s ease, transform 0.3s ease;
-  }
-  
-  h1::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background: #ffcc00;
-    transform: scaleX(0);
-    transition: transform 0.3s ease;
-  }
-  
-  h1:hover {
-    color: #ffcc00;
-    transform: translateY(-4px);
-  }
-  
-  h1:hover::before {
-    transform: scaleX(1);
-  }
+  font-family: 'Georgia', serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #ffcc00; /* Jaune */
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  position: relative;
+  padding-bottom: 10px;
+  margin: 30px 0;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+h1::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: #ffcc00;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+h1:hover {
+  color: #ffcc00;
+  transform: translateY(-4px);
+}
+
+h1:hover::before {
+  transform: scaleX(1);
+}
 
   @media (max-width: 768px) {
     h1, h2{
@@ -177,6 +189,11 @@ header {
 .nav-item a {
     color: #083b7a;
 }
+
+.navbar-nav .nav-link:hover {
+  color: #083b7a !important;
+}
+
 
 .nav-item a:hover {
     color: #e4e9ed;
@@ -714,71 +731,83 @@ footer {
 /*FIN LIVRES PROMO SOUSCRIPTION*/
 
 /*CARD L*/
-/* Nouveau style modifié */
-.desktop-card-container {
+.L-card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  justify-content: center; /* Centre horizontalement */
+  gap: 20px; /* Espace entre les cartes */
   width: 100%;
   transition: opacity 0.3s ease;
 }
 
-.desktop-card {
+.L-card {
   background-color: #1E3A5F;
   padding: 20px;
   margin: 0;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(249, 248, 248, 0.1);
-  width: 250px;
+  width: 250px; /* Largeur des cartes */
   text-align: center;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-.desktop-card img {
+.L-card img {
   width: 100%;
   height: auto;
   border-radius: 5px;
   margin-bottom: 15px;
 }
 
-.desktop-card-content {
-  text-align: center;
+.L-card-content {
+  text-align: center; /* Centrer tout le texte */
 }
 
-.desktop-card-author,
-.desktop-card-price {
-  color: white;
+.L-card-title,
+.L-card-author,
+.L-card-description,
+.L-card-price {
+  color: white; /* Texte en blanc */
 }
 
-.desktop-card-author {
+.L-card-title {
+  font-size: 18px;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.L-card-author {
   font-size: 14px;
   color: #ffcc00;
   font-weight: bold;
 }
 
-.desktop-card-price {
+.L-card-description {
+  font-size: 14px;
+  color: #bbb;
+}
+
+.L-card-price {
   font-size: 18px;
   color: #ffcc00;
   margin-top: 10px;
-  font-weight: bold;
+  font-weight: bold; /* Texte en gras */
 }
 
-.desktop-card:hover {
+.L-card:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-.desktop-hidden {
+.L-hidden {
   display: none;
 }
 
-.desktop-navigation {
+.L-navigation {
   text-align: center;
   margin-top: 20px;
 }
 
-.desktop-button {
+.L-button {
   background-color: #ffcc00;
   border: none;
   padding: 10px 20px;
@@ -788,22 +817,28 @@ footer {
   border-radius: 5px;
 }
 
-.desktop-button:disabled {
+.L-button:disabled {
   background-color: #ddd;
   cursor: not-allowed;
 }
 
 /* Désactiver la sélection de texte sur les cartes */
-.desktop-card, .desktop-card * {
-  user-select: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
+.L-card, .L-card * {
+  user-select: none;  /* Désactive la sélection de texte */
+  -webkit-user-select: none; /* Pour Safari */
+  -moz-user-select: none; /* Pour Firefox */
 }
 
-.desktop-card a {
-  text-decoration: none;
-  color: inherit;
+/* Enlever les effets de surlignage sur les liens (s'il y en a) */
+.L-card a {
+  text-decoration: none;  /* Supprimer le soulignement des liens */
+  color: inherit;  /* Hériter de la couleur du texte */
 }
+
+.new-hidden, .L-hidden {
+  display: none;
+}
+
 /* FIN CARDS L*/
 
 /* CARD XL AUTEURS MOBILE */
@@ -1720,18 +1755,10 @@ input[type="email"]:focus {
 }
 
 /* Section Biographie */
-.biographie {
-  background-image: url('images/fondLivres.webp'); 
-  background-size: cover; /* L'image occupe toute la section */
-  background-position: center;
-  background-attachment: fixed; /* L'image reste fixe lors du défilement */
-  padding: 40px 0;
-  color: white; /* Texte en blanc pour contraster avec le fond */
-}
 
-.biographie .container {
-  width: 80%;
-  margin: 0 auto;
+
+.biographie  {
+  margin-top: 10px;
 }
 
 .biographie h2 {
@@ -1745,10 +1772,11 @@ input[type="email"]:focus {
 
 /* Bio Content avec image et texte */
 .bio-content {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: 30px;
+  
+  padding-top: ;
+  padding-left: 50px !important;
+ padding-right: 50px !important;
+  
 }
 
 .bio-image {
@@ -2256,3 +2284,103 @@ input[type="email"]:focus {
   display: none !important;
 }
 /* FIN FICHE AUTEUR MOBILE*/
+
+
+/* PierreBandao Fiche cards*/
+.mobile-hidden {
+  display: none;
+}
+
+.new-hidden {
+  display: none;
+}
+
+.mobile-button, .desktop-button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #ffcc00;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.mobile-button:disabled, .desktop-button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
+
+.desktop-navigation {
+  text-align: center;
+  margin-top: 20px;
+}
+/* FIN PierreBandao Fiche cards*/
+
+/* Video youtube joel berthelot*/
+
+.bio-content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh; /* Occuper toute la hauteur de l'écran */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Fin Video youtube joel berthelot*/
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 80%;
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #ffcc00 !important;
+}
+
+a {
+  color: white; /* Couleur blanche par défaut pour les liens */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ffcc00 ; /* Couleur jaune au survol */
+  text-decoration: underline;
+}
+
+td {
+  color: #ffcc00 !important;
+}
+
+a {
+  color: white !important; /* Couleur blanche par défaut pour tous les liens */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  color: white !important; /* Couleur blanche même après avoir visité le lien */
+}
+
+a:hover {
+  color: #ffcc00 !important; /* Couleur jaune au survol */
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ffcc00  !important; /* Couleur jaune lors du clic */
+}
+
+
+
+
+

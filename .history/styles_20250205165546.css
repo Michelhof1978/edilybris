@@ -1755,27 +1755,43 @@ input[type="email"]:focus {
 }
 
 /* Section Biographie */
-.bio-text {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  width: 100%; /* Garantit que le texte occupe toute la largeur du conteneur parent */
-  max-width: 800px; /* Limite la largeur maximale pour éviter que le texte soit trop large */
-  margin-right: 0; /* Pour éviter l'espace trop grand à droite */
-  padding-right: 15px; /* Ajout d'un léger espacement à droite */
-  overflow: hidden; /* Empêche que le texte dépasse du conteneur */
-  text-align: justify; /* Aligne le texte de manière plus fluide */
+/* Conteneur principal de la biographie */
+.biographie {
+  margin-top: 10px;
+  clear: both; /* Empêche les éléments de se chevaucher */
 }
 
+.biographie h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+  color: #ffcc00;
+}
+
+/* Bio Content avec image et texte */
 .bio-content {
   display: flex;
-  flex-wrap: wrap; /* Permet au texte de se réorganiser si l'espace est insuffisant */
-  justify-content: flex-start;
+  flex-wrap: wrap; /* Permet au texte de se réorganiser s'il y a trop de contenu */
   align-items: flex-start;
-  margin-top: 20px; /* Éviter l'écart trop important entre les éléments */
+  justify-content: flex-start;
+  margin-top: 20px;
   margin-bottom: 20px;
-  padding: 20px; /* Assurez un peu d'espace autour de l'ensemble du contenu */
+  padding: 20px; /* Ajoute de l'espace autour des éléments */
 }
 
+/* Conteneur du texte */
+.bio-text-container {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  width: 100%; /* S'assure que le texte occupe toute la largeur disponible */
+  max-width: 800px; /* Limite la largeur du texte */
+  margin-right: 0;
+  padding-right: 20px;
+  overflow: hidden; /* Empêche le texte de dépasser */
+  text-align: justify; /* Justifie le texte pour une meilleure lisibilité */
+}
+
+/* Image de la biographie */
 .bio-image {
   width: 150px;
   height: 150px;
@@ -1784,18 +1800,18 @@ input[type="email"]:focus {
   margin-right: 20px;
 }
 
-.containerAuteur {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+/* Conteneur des cartes (mobile et desktop) */
+.mobile-books-container, .new-card-container {
+  margin-top: 20px;
 }
 
-.bio-text-container {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+.mobile-book-card, .new-card {
+  margin-top: 20px;
+}
+
+/* Mise à jour du layout sur mobile */
+.d-block.d-md-none {
+  margin-top: 20px;
 }
 
 /* Section Livres */
