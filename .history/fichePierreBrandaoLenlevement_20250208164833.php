@@ -1,8 +1,8 @@
 <?php include("head.php"); ?>
 
 <title>Pierre Brandao - Auteur</title>
-<meta name="description" content="Biographie et livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-</head> <!-- Correction : fermeture correcte de la balise <head> -->
+<meta name="description" content="Livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
+</head> 
 
 <?php include("header.php"); ?>
 
@@ -16,8 +16,6 @@
             <!-- Livre 1 : L'ENLEVEMENT -->
             <div id="livre-1-mobile" class="livre-mobile row align-items-center my-4">
                 <div class="col-12 text-center">
-                                        <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
-
                     <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement">
                     <p class="fw-bold coloryellow fs-5">22,00 €</p>
                 </div>
@@ -31,6 +29,9 @@
                     </p>
                     <p>
                         <strong class="h2Jaune">Genre :</strong> Policier
+                    </p>
+                    <p>
+                        <strong class="h2Jaune">Référence :</strong> 9782363440761
                     </p>
                     <p class="lead">
                         <strong class="h2Jaune">Résumé :</strong> Après Meurtres à la micro-carte, la gendarme Isabelle Loubry doit beaucoup prendre sur elle pour accepter de pardonner au genre humain. Cependant, elle aussi doit rendre des comptes auprès d’une hiérarchie fidèle à ses principes de transparence et d’honnêteté.
@@ -77,13 +78,19 @@ Depuis combien de minutes s’est-elle réveillée ? Combien de kilomètres on
                 <div class="livre-content">
                     <div class="livre-image">
                         <img src="images/pierreBrandao/couvlenlevement.webp" class="img-fluid" alt="Couverture du livre L'enlèvement">
+
                         <p class="fw-bold coloryellow mt-3 fs-4 lead">22,00 €</p>
+
+                        <img src="images/livreIndex2.webp" class="img-fluid mt-5 mb-5" alt="Illustration">
+
                     </div>
                     <div class="livre-details">
                         <h3 class="h2Jaune">L'enlèvement</h3>
                         <p class="annee text-white"><strong class="h2Jaune">Année de publication :</strong> 2024</p>
                         <p class="annee text-white"><strong class="h2Jaune">Genre :</strong> Policier</p>
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 338</p>
+                        <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440761</p>
+
                         <p class="lead text-white">
                         Après Meurtres à la micro-carte, la gendarme Isabelle Loubry doit beaucoup prendre sur elle pour accepter de pardonner au genre humain. Cependant, elle aussi doit rendre des comptes auprès d’une hiérarchie fidèle à ses principes de transparence et d’honnêteté.
 
