@@ -1,4 +1,14 @@
-<div class="headerAuteur">
+<?php include("head.php"); ?>
+
+<title></title>
+ <meta name="description" content="">
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>David Beaulieu</h1>
         <img src="images/annieBrunetot/annieBrunetot.webp" alt="Portrait de Annie Brunetot" class="img-fluid bio-image">
@@ -71,3 +81,10 @@ Une phrase résume parfaitement l’esprit de ce recueil de pensées, phrase qui
         </div>
     </section>
 </main>
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>

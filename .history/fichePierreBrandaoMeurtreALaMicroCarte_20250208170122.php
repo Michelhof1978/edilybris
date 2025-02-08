@@ -137,96 +137,59 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440266</p>
 
                         <p class="lead text-white">
-    Laissons la parole à Jocelyn Maily, l'auteur de <em>Loozana Blues</em>, et membre du comité de lecture d'Edi'lybris...
-</p>
+                        Laissons la parole à Jocelyn Maily, l'auteur de Loozana Blues, et membre du comité de lecture d'Edi'lybris...
 
-<p><strong>***</strong></p>
+***
 
-<p>
-    Elle croyait avoir tout vu.<br>
-    Tout.<br>
-    Elle pensait avoir tout supporté.<br>
-    Tout.<br>
-    Elle était certaine d'être capable de tout endurer.
-</p>
+Elle croyait avoir tout vu. 
+Tout.
+Elle pensait avoir tout supporté.
+Tout.
+Elle était certaine d'être capable de tout endurer.
 
-<p>
-    Mais Isabelle va découvrir qu'il n'en est rien.
-</p>
+Mais Isabelle va découvrir qu'il n'en est rien. 
 
-<p>
-    Cette fois-ci, elle va devoir affronter sa propre mort.<br>
-    Et ça n'est que le début.<br>
-    Car au-delà, elle devra apprendre à dépasser la terreur, le carnage et le Mal organisé.
-</p>
+Cette fois-ci, elle va devoir affronter sa propre mort.
+Et ça n'est que le début. 
+Car au delà, elle devra apprendre à dépasser la terreur, le carnage et le Mal organisé.
 
-<p><strong>***</strong></p>
+ 
 
-<p>
-    À Port-d'Envaux, en Charente-Maritime, les carrières de calcaire s'offrent aux doigts experts de sculpteurs de pierre. L'un d'eux rencontre l'édile du coin, un député. Discrètement, il lui confie une micro-carte, mais celle-ci tombe sans qu'aucun des deux hommes s'en aperçoive. Dans l'assistance, un hacker a tout vu. Il subtilise l'objet, rentre chez lui et se précipite sur son ordinateur. Le lendemain, on le retrouve mort sur sa table de travail...
-</p>
+***
 
-<p>
-    Le moniteur est allumé : une invite exige un mot de passe, mais personne ne le connaît...
-</p>
+À  Port-d'Envaux, en Charente-Maritime, les carrières de calcaire s'offrent aux doigts experts de sculpteurs de pierre. L'un d'eux rencontre l'édile du coin, un député. Discrètement, il lui confie une micro-carte, mais celle-ci tombe sans qu'aucun des deux hommes s'en aperçoive. Dans l'assistance, un hacker a tout vu. Il subtilise l'objet, rentre chez lui et se précipite sur son ordinateur. Le lendemain, on le retrouve mort sur sa table de travail...
 
+Le moniteur est allumé : une invite exige un mot de passe, mais personne ne le connaît...
+ </p>
 
  <h3 class="h2Jaune text-center m-3">Extrait prologue</h3>
                     <h4 class="h2Jaune text-center m-3">L’ENTERREMENT</h4>
 
                     <p>
-    <strong>Cimetière Saint-Éloi, La Rochelle,</strong><br>
-    Lundi 16 février 2015, 10 h 00.
-</p>
+                    cimetière Saint-Éloi, La Rochelle,
+lundi 16 février 2015, 10 h 00.
+En ce milieu de matinée de février 2015, deux à trois cents personnes se rassemblaient autour d’une tombe du cimetière Saint-Éloi à La Rochelle. Triste et pluvieux, le temps était de circonstance, pour accompagner les femmes et les hommes présents. Beaucoup de regards bas, d’yeux humides, de frissons provoqués par la peine et le froid. Beaucoup d’incompréhension aussi… Dans ce cercueil veillé par les assistants funéraires, un cœur avait battu, une âme avait vécu, une vie en avait entraîné d’autres sur les chemins de la joie, du bonheur et de la recherche de la vérité. On juge parfois l’étendue de l’aura d’un être humain au nombre de personnes venues lui rendre un dernier hommage. Ils étaient une multitude pour la circonstance… Dans les allées contiguës, d’autres gens arrivaient, la mine accablée, la démarche lourde. Des curieux aussi, de tous âges, de tous sexes, de toutes origines et de tous horizons. Bien sûr, les gendarmes avaient revêtu leur uniforme d’apparat pour rendre honneur à la défunte, ce qui expliquait ces notes bleu foncé disséminées un peu partout dans la foule. Des civils, rencontrés au gré de précédentes intrigues criminelles, avaient fait le dépla-cement : Aurore Martin, l’assistante légiste d’Auxerre, victime d’un malentendu qui aurait pu lui coûter la liberté ; Stéphane Desfougères, le chef clown, accompagné de sa femme, échappé par miracle d'un sort peu enviable ; Dominique Toirne, l’énigmatique femme au passé douloureux, prête à souffrir les ténèbres plutôt que la lumière ; Jean-Luc Roman, rencontré à l’occasion d’une histoire à tourner en rond. Bien d’autres personnalités encore, qui à un moment de leur existence, furent séduites par la personnalité attachante de l’être gisant près d’eux.
+Mais le chagrin et la douleur de la famille, surtout, déchiraient les cœurs : William tenait à chaque main ses deux ados devenus jeunes adultes. Même s’ils conservaient une droiture exemplaire, les larmes d’Aurélia et de Jonathan trahissaient leur émotion… Le trou béant accueillera bientôt le cercueil de celle qui sut leur apporter amour, réconfort, tendresse. Pourtant, ces deux-là ressentaient du dépit… Durant les sept dernières années, leur mère privilégia son profil de carrière plutôt que la famille ; ainsi, absente au quotidien, elle se contentait des jours de repos et de permissions pour profiter de la vie ensemble. Alors, à quoi bon ce sacrifice, puisqu’on en était arrivé là !
+Un peu à l’écart, Pascal Duvivier, le technicien en identification criminelle du groupement de gendarmerie de la Charente-Maritime, s’entretenait discrètement avec le capitaine Rouger, nouveau commandant de la compagnie de La Rochelle ayant remplacé le capitaine Andret, parti à la retraite le vendredi précédent.
+– Alors, chef, demanda l’officier à voix basse, rien qui puisse nous mettre sur une piste ?
+–  J’ai examiné ses dernières notes, mais j’avoue ne pas y comprendre grand-chose. Isabelle n’avait mis personne au courant de ses investigations… À vrai dire, elle ne semble pas en avoir eu le temps… Peut-être Desfougères en sait-il plus que nous, mais depuis le drame, il est effondré…
+–– Tout ça pour une vidéo ?
+––  En fait, on ne sait pas trop ! Ce peut être un film, un fichier Excel, un document Word, ou autre ! Cette microcarte SD renferme un secret que personne n’a réussi à percer !
+–– A-t-on mis un dispositif de surveillance en place aujourd’hui ?
+––  Oui, aux quatre coins du… On en reparlera un peu plus tard, si vous voulez bien…
+–– Dès notre retour au bureau, nous prendrons une décision radicale : recommencer l’enquête à zéro et permettre aux nouveaux enquêteurs ce qu’il n’a pas été possible de faire jusqu’à maintenant… Taisons-nous… Le prêtre vient de lancer une rose sur le cercueil… Nous allons suivre la procession…
 
-<p>
-    En ce milieu de matinée de février 2015, deux à trois cents personnes se rassemblaient autour d’une tombe du cimetière Saint-Éloi à La Rochelle. Triste et pluvieux, le temps était de circonstance pour accompagner les femmes et les hommes présents. Beaucoup de regards bas, d’yeux humides, de frissons provoqués par la peine et le froid. Beaucoup d’incompréhension aussi…
-</p>
+Longue et douloureuse. À l’image des mines tristes de ceux qui firent le déplacement. Rarement cimetière ne connut une population vivante piétinant si péniblement les allées fleuries. À l’issue de la cérémonie, les visiteurs quittèrent le lieu de recueillement et se dirigèrent vers leurs véhicules. La vie reprit ses droits, tandis qu’une âme rejoignait les cieux.
 
-<p>
-    Dans ce cercueil veillé par les assistants funéraires, un cœur avait battu, une âme avait vécu, une vie en avait entraîné d’autres sur les chemins de la joie, du bonheur et de la recherche de la vérité. On juge parfois l’étendue de l’aura d’un être humain au nombre de personnes venues lui rendre un dernier hommage. Ils étaient une multitude pour la circonstance…
-</p>
+L’épitaphe sobre résumait sa vie.
 
-<p>
-    Dans les allées contiguës, d’autres gens arrivaient, la mine accablée, la démarche lourde. Des curieux aussi, de tous âges, de tous sexes, de toutes origines et de tous horizons. Bien sûr, les gendarmes avaient revêtu leur uniforme d’apparat pour rendre honneur à la défunte, ce qui expliquait ces notes bleu foncé disséminées un peu partout dans la foule. Des civils, rencontrés au gré de précédentes intrigues criminelles, avaient fait le déplacement : Aurore Martin, l’assistante légiste d’Auxerre, victime d’un malentendu qui aurait pu lui coûter la liberté ; Stéphane Desfougères, le chef clown, accompagné de sa femme, échappé par miracle d'un sort peu enviable ; Dominique Toirne, l’énigmatique femme au passé douloureux, prête à souffrir les ténèbres plutôt que la lumière ; Jean-Luc Roman, rencontré à l’occasion d’une histoire à tourner en rond. Bien d’autres personnalités encore, qui à un moment de leur existence, furent séduites par la personnalité attachante de l’être gisant près d’eux.
-</p>
 
-<p>
-    Mais le chagrin et la douleur de la famille, surtout, déchiraient les cœurs : William tenait à chaque main ses deux ados devenus jeunes adultes. Même s’ils conservaient une droiture exemplaire, les larmes d’Aurélia et de Jonathan trahissaient leur émotion… Le trou béant accueillera bientôt le cercueil de celle qui sut leur apporter amour, réconfort, tendresse. Pourtant, ces deux-là ressentaient du dépit… Durant les sept dernières années, leur mère privilégia son profil de carrière plutôt que la famille ; ainsi, absente au quotidien, elle se contentait des jours de repos et de permissions pour profiter de la vie ensemble. Alors, à quoi bon ce sacrifice, puisqu’on en était arrivé là !
-</p>
+Isabelle LOUBRY
+40 ans- Majore de gendarmerie à titre posthume
+Née le 1er mai 1971 – décédée le 13.02.2015.
 
-<p>
-    Un peu à l’écart, Pascal Duvivier, le technicien en identification criminelle du groupement de gendarmerie de la Charente-Maritime, s’entretenait discrètement avec le capitaine Rouger, nouveau commandant de la compagnie de La Rochelle ayant remplacé le capitaine Andret, parti à la retraite le vendredi précédent.
-</p>
-
-<p>
-    – Alors, chef, demanda l’officier à voix basse, rien qui puisse nous mettre sur une piste ?<br>
-    – J’ai examiné ses dernières notes, mais j’avoue ne pas y comprendre grand-chose. Isabelle n’avait mis personne au courant de ses investigations… À vrai dire, elle ne semble pas en avoir eu le temps… Peut-être Desfougères en sait-il plus que nous, mais depuis le drame, il est effondré…<br>
-    – Tout ça pour une vidéo ?<br>
-    – En fait, on ne sait pas trop ! Ce peut être un film, un fichier Excel, un document Word, ou autre ! Cette microcarte SD renferme un secret que personne n’a réussi à percer !<br>
-    – A-t-on mis un dispositif de surveillance en place aujourd’hui ?<br>
-    – Oui, aux quatre coins du… On en reparlera un peu plus tard, si vous voulez bien…<br>
-    – Dès notre retour au bureau, nous prendrons une décision radicale : recommencer l’enquête à zéro et permettre aux nouveaux enquêteurs ce qu’il n’a pas été possible de faire jusqu’à maintenant… Taisons-nous… Le prêtre vient de lancer une rose sur le cercueil… Nous allons suivre la procession…
-</p>
-
-<p>
-    Longue et douloureuse. À l’image des mines tristes de ceux qui firent le déplacement. Rarement cimetière ne connut une population vivante piétinant si péniblement les allées fleuries. À l’issue de la cérémonie, les visiteurs quittèrent le lieu de recueillement et se dirigèrent vers leurs véhicules. La vie reprit ses droits, tandis qu’une âme rejoignait les cieux.
-</p>
-
-<p>
-    L’épitaphe sobre résumait sa vie.
-</p>
-
-<p>
-    <strong>Isabelle LOUBRY</strong><br>
-    40 ans - Majore de gendarmerie à titre posthume<br>
-    Née le 1er mai 1971 – décédée le 13.02.2015.
-</p>
-
-<p>
-    La flamme de la vérité qui l’animait a fini par l’éteindre.
-</p>
-
+La flamme de la vérité qui l’animait a fini par l’éteindre.
+                    </p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
