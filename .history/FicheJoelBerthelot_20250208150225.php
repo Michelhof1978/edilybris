@@ -1,4 +1,21 @@
-<div class="headerAuteur">
+<?php include("head.php"); ?>
+
+<title></title>
+ <meta name="description" content="">
+
+ <style>
+    .bio-content{
+        margin-bottom: -100px;
+         margin-top: -40px
+    }
+ </style>
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Joël BERTHELOT</h1>
         <img src="images/joelBerthelot/joelBerthelot.webp" alt="Portrait de Joël BERTHELOT" class="img-fluid bio-image">
@@ -71,3 +88,10 @@
         </div>
     </section>
 </main>
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>

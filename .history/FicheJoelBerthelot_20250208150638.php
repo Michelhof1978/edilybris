@@ -5,8 +5,7 @@
 
  <style>
     .bio-content{
-        margin-top: -90px;
-        margin-bottom: -150px;
+        margin-bottom: -100px;
      
     }
 

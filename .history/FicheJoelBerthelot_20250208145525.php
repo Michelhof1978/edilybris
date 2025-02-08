@@ -2,21 +2,63 @@
 
 <title></title>
  <meta name="description" content="">
-
  <style>
-    .bio-content{
-        margin-top: -90px;
-        margin-bottom: -150px;
-     
+    /* Réduction des espaces globaux */
+.biographie {
+    padding: 20px 0; /* Ajustez la marge intérieure */
+}
+
+/* Ajustement du container principal */
+.containerAuteur {
+    margin-bottom: 10px; /* Réduction de l'espace sous le titre */
+}
+
+/* Suppression de la hauteur excessive sur l'iframe */
+.bio-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* Réduction de l'espace entre les éléments */
+}
+
+.bio-content iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Ajustement des marges pour les cartes (mobile & desktop) */
+.mobile-books-container, .new-card-container {
+    margin-top: 10px;
+}
+
+.mobile-book-card, .new-card {
+    margin-bottom: 10px; /* Réduction de l'espace entre les cartes */
+}
+
+/* Suppression des <br> inutiles */
+br {
+    display: none;
+}
+
+/* Mode responsive */
+@media (max-width: 768px) {
+    .biographie {
+        padding: 10px 0;
+    }
+    
+    .bio-content {
+        gap: 5px;
     }
 
-    @media screen and (max-width: 768px) {
-    .bio-content {
-        margin-top: -300px;
-        margin-bottom: -300px;
-       
+    .mobile-books-container {
+        margin-top: 5px;
+    }
+
+    .mobile-book-card {
+        margin-bottom: 5px;
     }
 }
+
  </style>
 </head>
 

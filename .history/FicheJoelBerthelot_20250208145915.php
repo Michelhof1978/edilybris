@@ -3,21 +3,7 @@
 <title></title>
  <meta name="description" content="">
 
- <style>
-    .bio-content{
-        margin-top: -90px;
-        margin-bottom: -150px;
-     
-    }
-
-    @media screen and (max-width: 768px) {
-    .bio-content {
-        margin-top: -300px;
-        margin-bottom: -300px;
-       
-    }
-}
- </style>
+ <style></style>
 </head>
 
  <?php include("header.php"); ?>
@@ -37,7 +23,7 @@
             <h2 class="h2Jaune">Biographie</h2>
 
          <!-- Section image et texte -->
-<div class="bio-content">
+<div class="bio-content" style="margin-bottom: -100px; margin-top: -40px">
     <div class="bio-text">
     <div class="bio-content d-flex justify-content-center align-items-center" style="height: 100vh;">
     <iframe 

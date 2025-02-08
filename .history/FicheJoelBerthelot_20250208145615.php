@@ -2,22 +2,7 @@
 
 <title></title>
  <meta name="description" content="">
-
- <style>
-    .bio-content{
-        margin-top: -90px;
-        margin-bottom: -150px;
-     
-    }
-
-    @media screen and (max-width: 768px) {
-    .bio-content {
-        margin-top: -300px;
-        margin-bottom: -300px;
-       
-    }
-}
- </style>
+ <style
 </head>
 
  <?php include("header.php"); ?>
