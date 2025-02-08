@@ -2,23 +2,6 @@
 
 <title></title>
  <meta name="description" content="">
-
- <style>
-     .bio-content{
-        margin-top: 50px;
-        margin-bottom: 200px;
-     
-    }
-
-    @media screen and (max-width: 768px) {
-    .bio-content {
-        margin-top: -40px;
-        margin-bottom: 450px;
-       
-    }
-}
-</style>
-
 </head>
 
  <?php include("header.php"); ?>
@@ -41,21 +24,19 @@
             <div class="bio-content">
                 <div class="bio-text">
                     <p class="lead text-white text-center m-4">
-                    Va voir là-bas si j'y suis est un recueil de nouvelles.<br>
+                    Va voir là-bas si j'y suis est un recueil de nouvelles.
 
-Annie Brunetot y partage ses expériences passées et leur transformation au fil de sa vie ; l'enjeu consiste ainsi à dire le lien entre faits, gestes ou décisions séparés par des décennies.<br>
+Annie Brunetot y partage ses expériences passées et leur transformation au fil de sa vie ; l'enjeu consiste ainsi à dire le lien entre faits, gestes ou décisions séparés par des décennies.
 
-Et c'est dans ce lien que se trouve le sens.<br>
+Et c'est dans ce lien que se trouve le sens.
 
 Autrement dit, une véritable histoire de transclasse.<br>
-<img src="images/annieBrunetot/a.b.webp" alt="Portrait de Annie Brunetot" class="img-fluid bio-image"><br>
+<img src="images/annieBrunetot/a.b.webp" alt="Portrait de Annie Brunetot" class="img-fluid bio-image">
+Cinglant… c’est le terme qui me vient à l’esprit lorsque je lis les textes d’Annie Brunetot. À l’image du titre, le ton est donné. L’autrice nous ouvre les volets de son existence. De biscuits enivrants au baiser du soir oublié, de la bouillotte cabossée à la boussole déboussolante, des péripéties estudiantines à l’exercice de l’enseignement, de sa vie de femme meurtrie à l’artiste qui sommeille et se révèle, rien ne vous est épargné.
 
-Cinglant… c’est le terme qui me vient à l’esprit lorsque je lis les textes d’Annie Brunetot. <br> À l’image du titre, le ton est donné. <br> L’autrice nous ouvre les volets de son existence. <br> De biscuits enivrants au baiser du soir oublié, de la bouillotte cabossée à la boussole déboussolante, des péripéties estudiantines à l’exercice de l’enseignement, de sa vie de femme meurtrie à l’artiste qui sommeille et se révèle, rien ne vous est épargné.<br>
+Une phrase résume parfaitement l’esprit de ce recueil de pensées, phrase qui ponctue son texte « Le baquet » : « Se nettoyer le regard pour ne plus se rincer l’œil ». Pourtant, cela ne ressemble-t-il pas à une volonté d’exacerber la curiosité naturelle qui est en nous ?
 
-Une phrase résume parfaitement l’esprit de ce recueil de pensées, phrase qui ponctue son texte « Le baquet » : « Se nettoyer le regard pour ne plus se rincer l’œil ». <br> Pourtant, cela ne ressemble-t-il pas à une volonté d’exacerber la curiosité naturelle qui est en nous ?<br>
-
-À lire absolument. <br> Vous réfléchirez après.
-
+À lire absolument. Vous réfléchirez après.
 
                     </p>
                 </div>
