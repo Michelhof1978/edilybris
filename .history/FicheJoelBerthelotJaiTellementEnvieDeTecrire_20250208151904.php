@@ -210,7 +210,7 @@ Ah, si ! J’ai un message quand même : faisons lire et surtout aimons faire li
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440815</p>
 
                        <p class="lead">
-    <strong class="h2Jaune">Résumé :</strong> Printemps 1917, quelque part en Allemagne.<br> 
+    <strong class="h2Jaune">Résumé :</strong>Printemps 1917, quelque part en Allemagne.<br> 
     Loin de chez lui, l’artiflot, un artilleur blessé à la tête et dépourvu de sa mémoire est dérouté dans un camp de prisonniers, un camp froid et gris, très gris, noir même.<br> 
     Dénutritions, punitions, travaux forcés, maladies, sont des mots qui reviennent sans cesse nourrir le quotidien de ces hommes fragilisés par la détention.<br> 
     Ils s’efforcent de vivre dans des conditions détestables et immorales.<br> 
