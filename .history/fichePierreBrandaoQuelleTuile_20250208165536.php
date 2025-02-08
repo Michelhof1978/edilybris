@@ -100,53 +100,23 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440389</p>
 
                         <p class="lead text-white">
-    Mardi 12 août 2014, 8 heures<br>
-    Quelque part sur le littoral charentais<br><br>
+                        Mardi 12 août 2014, 8 heures
+Quelque part sur le littoral charentais
 
-    Flâner dans ce charmant village situé sur l’île d’Oléron, en Charente-Maritime, s’apparente à un vrai moment d’évasion pur.<br>
-    Des maisons basses à la façade blanche et aux frontons fiers se dressent devant le visiteur soucieux de dépaysement.<br>
-    Les volets bleus et les courettes baignées de lumière enchantent, les axes principaux sont aussi larges que les venelles sont étroites, les commerces vivent au gré des saisons touristiques et la proximité de l’Atlantique respire bon les vacances.<br>
-    Auguste Naud, un insulaire, goûte à ces congés spéciaux, offerts par sa retraite de marin et d’ostréiculteur.<br>
-    Il déambule avec sa baguette et ses croissants, achetés dans la boulangerie de la rue Semard et prend le chemin le conduisant à son domicile.<br><br>
+Flâner dans ce charmant village situé sur l’île d’Oléron, en Charente-Maritime, s’apparente à un vrai moment d’évasion pur. Des maisons basses à la façade blanche et aux frontons fiers se dressent devant le visiteur soucieux de dépaysement. Les volets bleus et les courettes baignées de lumière enchantent, les axes principaux sont aussi larges que les venelles sont étroites, les commerces vivent au gré des saisons touristiques et la proximité de l’Atlantique respire bon les vacances. Auguste Naud, un insulaire, goûte à ces congés spéciaux, offerts par sa retraite de marin et d’ostréiculteur. Il déambule avec sa baguette et ses croissants, achetés dans la boulangerie de la rue Semard et prend le chemin le conduisant à son domicile.
 
-    Auguste Naud, soixante-quatorze ans, un caractère très terrien, forgé par l’âpreté du travail en mer !<br>
-    Il demeure seul depuis toujours, dans une de ces habitations, un peu à l’écart de la commune, face à la grande étendue maritime.<br>
-    Oh ! Il n’a pas toujours connu l’isolement, le brave homme !<br>
-    Mais son amour de jeunesse a préféré l’abandonner sur cette île pour rejoindre un Québécois riche et fortuné…<br>
-    Alors, les femmes, mieux vaut ne pas trop lui en parler !<br>
-    Il aime ces promenades, accompagné de ses pensées.<br>
-    Lorsqu’on goûte la chance d’être propriétaire à côté de l’océan, on profite du moindre soupçon d’iode !<br>
-    Pour se rendre chez lui, il faut emprunter le chemin du Râteau qui longe le littoral pour apercevoir sa maison, sur votre gauche.<br>
-    Mais qu’importe son logis ; l’essentiel réside plutôt en cette journée particulière qu’il n’oubliera pas de sitôt.<br><br>
+Auguste Naud, soixante-quatorze ans, un caractère très terrien, forgé par l’âpreté du travail en mer ! Il demeure seul depuis toujours, dans une de ces habitations, un peu à l’écart de la commune, face à la grande étendue maritime. Oh ! Il n’a pas toujours connu l’isolement, le brave homme ! Mais son amour de jeunesse a préféré l’abandonner sur cette île pour rejoindre un Québécois riche et fortuné… Alors, les femmes, mieux vaut ne pas trop lui en parler ! Il aime ces promenades, accompagné de ses pensées. Lorsqu’on goûte la chance d’être propriétaire à côté de l’océan, on profite du moindre soupçon d’iode ! Pour se rendre chez lui, il faut emprunter le chemin du Râteau qui longe le littoral pour apercevoir sa maison, sur votre gauche. Mais qu’importe son logis ; l’essentiel réside plutôt en cette journée particulière qu’il n’oubliera pas de sitôt.
 
-    Tout d’abord, déposer la casquette sur la patère de l’entrée, s’installer devant son café, savourer les viennoiseries, apprécier le moment.<br>
-    Se lever, piquer une cacahuète dans le pot, narguer le perroquet pour la lui remettre tout de même à travers les grilles de la cage.<br>
-    L’entendre répéter « cacahuète… rhôooo… », suivi de son sifflement aigu « uil… uil… », le flatter, appliquer le « baiser » rituel et reprendre son couvre-chef pour la balade le long de la côte.<br>
-    Cela, il ne le manquerait pour rien au monde !<br>
-    Rien d’anodin dans cet exercice : chaque sortie lui amène son lot de découvertes et sa cour en regorge : coquillages pittoresques, bois mort flotté aux allures d’extraterrestres ou de fantômes, algues originales, cadavres de poissons échoués sur la berge...<br>
-    Les marées lui apportent régulièrement un présent que son regard perpétuellement neuf lui permet d’apprécier.<br><br>
+Tout d’abord, déposer la casquette sur la patère de l’entrée, s’installer devant son café, savourer les viennoiseries, apprécier le moment. Se lever, piquer une cacahuète dans le pot, narguer le perroquet pour la lui remettre tout de même à travers les grilles de la cage. L’entendre répéter « cacahuète… rhôooo… », suivi de son sifflement aigu « uil… uil… », le flatter, appliquer le « baiser » rituel et reprendre son couvre-chef pour la balade le long de la côte. Cela, il ne le manquerait pour rien au monde ! Rien d’anodin dans cet exercice : chaque sortie lui amène son lot de découvertes et sa cour en regorge : coquillages pittoresques, bois mort flotté aux allures d’extraterrestres ou de fantômes, algues originales, cadavres de poissons échoués sur la berge... Les marées lui apportent régulièrement un présent que son regard perpétuellement neuf lui permet d’apprécier.
 
-    Il referme la porte derrière lui et s’engage sur le chemin des dunes.<br>
-    Des barbelés, placés à mi-hauteur des monticules, empêchent les intrus de débarquer de l’autre côté.<br>
-    Il devrait contourner l’obstacle sur une longue distance pour se retrouver là où il le souhaitait, mais lorsqu’on habite face à la mer, l’envie de contourner le règlement vient naturellement.<br>
-    La police municipale de Saint-Georges ne commencerait pas sa tournée avant au moins neuf heures trente... D’ici là, il serait revenu.<br>
-    Il grimpe, ne prête pas attention au sable inondant ses chaussures et son regard se porte en premier lieu sur l’horizon.<br>
-    Beau ciel bleu, pour ce milieu d’été orageux !<br>
-    Il jette un œil de droite à gauche, contemple les vestiges abandonnés par le ressac.<br>
-    Rien de bien important ce matin, qui vaille la peine de s’y intéresser.<br>
-    En contrebas, il remarque une forme oblongue repliée sur elle-même.<br>
-    Il se souvient du journal de la veille, qui rapportait l’échouage d’un phoque sur les plages charentaises.<br>
-    Comment agir, dans ce genre de situation ? Ah oui ! Aviser l’Aquarium de La Rochelle, qui enverrait une équipe.<br>
-    À deux mètres de la dépouille, Auguste s’arrête net.<br>
-    Il n’a jamais vu de mammifère marin accoutré comme un être humain : portant veste et pantalon...<br><br>
+Il referme la porte derrière lui et s’engage sur le chemin des dunes. Des barbelés, placés à mi-hauteur des monticules, empêchent les intrus de débarquer de l’autre côté. Il devrait contourner l’obstacle sur une longue distance pour se retrouver là où il le souhaitait, mais lorsqu’on habite face à la mer, l’envie de contourner le règlement vient naturellement. La police municipale de Saint-Georges ne commencerait pas sa tournée avant au moins neuf heures trente... D’ici là, il serait revenu. Il grimpe, ne prête pas attention au sable inondant ses chaussures et son regard se porte en premier lieu sur l’horizon. Beau ciel bleu, pour ce milieu d’été orageux ! Il jette un œil de droite à gauche, contemple les vestiges abandonnés par le ressac. Rien de bien important ce matin, qui vaille la peine de s’y intéresser. En contrebas, il remarque une forme oblongue repliée sur elle-même. Il se souvient du journal de la veille, qui rapportait l’échouage d’un phoque sur les plages charentaises. Comment agir, dans ce genre de situation ? Ah oui ! Aviser l’Aquarium de La Rochelle, qui enverrait une équipe. À deux mètres de la dépouille, Auguste s’arrête net. Il n’a jamais vu de mammifère marin accoutré comme un être humain : portant veste et pantalon...
 
-    — Bon sang, fallait que ça tombe sur moi !<br><br>
+— Bon sang, fallait que ça tombe sur moi !
 
-    Il s’approche, retourne le visage du noyé et s’exclame :<br>
+Il s’approche, retourne le visage du noyé et s’exclame :
 
-    — Eh merde ! C’est Justin !<br>
-</p>
-
+— Eh merde ! C’est Justin !
+                        </p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
