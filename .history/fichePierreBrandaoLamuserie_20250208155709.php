@@ -61,7 +61,7 @@
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
             <h2>Les livres de Pierre Brandao</h2>
-            <!-- Carte 1 : L'amuserie (et pleure parfois) -->
+            <!-- Carte 1 : L'ENLEVEMENT -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">

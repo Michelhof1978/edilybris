@@ -267,20 +267,14 @@
                 <p>
     5 septembre 2022, COB Parthenay<br>
 
-    Hier, en fin de journée, un individu au comportement suspect est signalé dans les toilettes d’un établissement médical. <br>
-    Selon le témoin, il pourrait s’agir d’un trafic de stupéfiants. <br>
-    Les gendarmes sont aussitôt engagés. <br>
-    Sur place, ils progressent avec infiniment de précautions vers le lieu du délit puis, soudainement, investissent la pièce. <br>
-    Là, les militaires tombent nez à nez avec la personne signalée.<br>
+    Hier, en fin de journée, un individu au comportement suspect est signalé dans les toilettes d’un établissement médical. Selon le témoin, il pourrait s’agir d’un trafic de stupéfiants. Les gendarmes sont aussitôt engagés. Sur place, ils progressent avec infiniment de précautions vers le lieu du délit puis, soudainement, investissent la pièce. Là, les militaires tombent nez à nez avec la personne signalée.<br>
 
-    Les pieds dans l’eau, cet homme travesti en femme cherche désespérément à remplir une poche pour mieux rembourrer son soutien-gorge. <br>
-    Il a surtout réussi à inonder les toilettes !<br>
+    Les pieds dans l’eau, cet homme travesti en femme cherche désespérément à remplir une poche pour mieux rembourrer son soutien-gorge. Il a surtout réussi à inonder les toilettes !<br>
 
     Comme il n’y a rien d’illégal à ce trafic, l’individu a été invité à pratiquer ses hobbies à son domicile !<br>
 
     Au final, une histoire stupéfiante qui ne l’est pas tant au regard des circonstances, mais que l’on a plaisir à vous conter.<br>
 </p>
-
 
 
                         
@@ -292,8 +286,7 @@
                 <p>
     Janvier 2019<br>
 
-    Une dame sollicite le central d’urgence, car sa bouteille de gaz est vide. Elle n’arrive pas à joindre son mari qui se trouve chez la voisine, laquelle est aussi sa maîtresse...<br>
-     Raison pour laquelle il ne lui répond pas au téléphone.<br>
+    Une dame sollicite le central d’urgence, car sa bouteille de gaz est vide. Elle n’arrive pas à joindre son mari qui se trouve chez la voisine, laquelle est aussi sa maîtresse... Raison pour laquelle il ne lui répond pas au téléphone.<br>
 
     La requérante souhaite que le gendarme contacte l’époux volage afin qu’il vienne changer sa bouteille de gaz !<br>
     (Nota : on a eu chaud, elle aurait pu le demander au gendarme...)<br>
@@ -384,19 +377,8 @@
                 <p>
     7 juillet 2022, BTA Saint-Maixent-l’École<br>
 
-    Jeudi, en milieu d’après-midi, Bobinette circule toute guillerette au volant de sa jolie Peugeot 208. <br>
-    Un feu rouge, elle s’arrête. <br>
-    Il passe au vert, elle enclenche la première, mais s’emmêle les pédales et cale tout net. <br>
-    Surprise, la conductrice qui suit ne parvient pas à éviter la voiture de Bobinette et vient la heurter à faible allure. <br>
-    Fort heureusement, il n’y a que des dégâts matériels, mais les deux femmes se querellent. <br>
-    On appelle les gendarmes pour arbitrer les débats et c’est Bobinette qui en pâtira... <br>
-    En effet, le dépistage de l’alcoolémie est positif et affiche un taux de 2,26 gr/l !!! <br>
-    Ce qui n’est pas rien. <br>
-    Les gendarmes comprennent mieux le « hic » au vert de Bobinette, une histoire de verres... <br>
-    Et c’est à pied (sans verre) qu’elle finira son trajet. <br>
-    Espérons qu’elle était mieux chaussée que Cendrillon pour ce faire.<br>
+    Jeudi, en milieu d’après-midi, Bobinette circule toute guillerette au volant de sa jolie Peugeot 208. Un feu rouge, elle s’arrête. Il passe au vert, elle enclenche la première, mais s’emmêle les pédales et cale tout net. Surprise, la conductrice qui suit ne parvient pas à éviter la voiture de Bobinette et vient la heurter à faible allure. Fort heureusement, il n’y a que des dégâts matériels, mais les deux femmes se querellent. On appelle les gendarmes pour arbitrer les débats et c’est Bobinette qui en pâtira... En effet, le dépistage de l’alcoolémie est positif et affiche un taux de 2,26 gr/l !!! Ce qui n’est pas rien. Les gendarmes comprennent mieux le « hic » au vert de Bobinette, une histoire de verres... Et c’est à pied (sans verre) qu’elle finira son trajet. Espérons qu’elle était mieux chaussée que Cendrillon pour ce faire.<br>
 </p>
-
 
                       
 <!-------------------------------------------------------------------------------------->

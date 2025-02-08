@@ -44,7 +44,7 @@
 </p>
 
                     <!-- Bouton citations -->
-                <div class="text-center mb-5">
+                <div class="text-center m">
                     <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
                 </div>
                     </p>
@@ -61,7 +61,7 @@
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
             <h2>Les livres de Pierre Brandao</h2>
-            <!-- Carte 1 : L'amuserie (et pleure parfois) -->
+            <!-- Carte 1 : L'ENLEVEMENT -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
@@ -87,7 +87,6 @@
 
     L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !
 </p>
-
 
    <!-- Bouton citations -->
    <div class="text-center mb-5">

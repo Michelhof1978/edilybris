@@ -289,15 +289,17 @@
 <h4 class="h2Jaune mt-2 mb-3 text-center">BRÈVE CHARENTE-MARITIME</h4>
                         <div class="col-12 text-center">
                 </div>
-                <p>
+                <p> 
     Janvier 2019<br>
 
-    Une dame sollicite le central d’urgence, car sa bouteille de gaz est vide. Elle n’arrive pas à joindre son mari qui se trouve chez la voisine, laquelle est aussi sa maîtresse...<br>
-     Raison pour laquelle il ne lui répond pas au téléphone.<br>
+    Une dame sollicite le central d’urgence, car sa bouteille de gaz est vide. <br>
+    Elle n’arrive pas à joindre son mari qui se trouve chez la voisine, laquelle est aussi sa maîtresse... <br>
+    Raison pour laquelle il ne lui répond pas au téléphone.<br>
 
     La requérante souhaite que le gendarme contacte l’époux volage afin qu’il vienne changer sa bouteille de gaz !<br>
     (Nota : on a eu chaud, elle aurait pu le demander au gendarme...)<br>
 </p>
+
 
                     
                       

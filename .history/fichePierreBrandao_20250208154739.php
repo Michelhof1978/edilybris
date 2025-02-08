@@ -11,8 +11,8 @@
 
     @media screen and (max-width: 768px) {
     .bio-content {
-        margin-top: -80px;
-        margin-bottom: -60px;
+        margin-top: -800px;
+        margin-bottom: -100px;
        
     }
 }

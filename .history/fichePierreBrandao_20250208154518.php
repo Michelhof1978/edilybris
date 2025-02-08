@@ -2,21 +2,6 @@
 
 <title>Pierre Brandao - Auteur</title>
 <meta name="description" content="Biographie et livres de Pierre Brandao. Découvrez ses œuvres et téléchargez un bon de commande.">
-<style>
-     .bio-content{
-        margin-top: -90px;
-        margin-bottom: -50px;
-     
-    }
-
-    @media screen and (max-width: 768px) {
-    .bio-content {
-        margin-top: -80px;
-        margin-bottom: -60px;
-       
-    }
-}
-</style>
 
 </head>
 

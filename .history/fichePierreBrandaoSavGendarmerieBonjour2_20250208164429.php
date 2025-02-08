@@ -207,7 +207,7 @@
     Samedi 14 mai 2022 vers 23 heures 15, alors qu’ils patrouillent sur la RD 725 du côté de Faye-l’Abbesse, les gendarmes de Bressuire sont les témoins d’un « spectacle » routier plutôt insolite.<br>
     Devant eux, une voiture roulant bord sur bord telle la vergue d’un bateau sur une mer agitée. <br>
     Les militaires intrigués prennent soin de l’arrêter.<br>
-    Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer.<br> Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler.<br> 2, 92 gr/l, les gendarmes sont éberlués !<br>
+    Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer.<br> Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler. 2, 92 gr/l, les gendarmes sont éberlués !<br>
     Un taux suffisant pour assommer le commun des mortels.<br> Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...<br>
 </p>
 
@@ -218,7 +218,7 @@
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/bob-le-moldu.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                        <p>
+                        <<p>
     Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.<br>
     Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.<br>
     Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.<br>

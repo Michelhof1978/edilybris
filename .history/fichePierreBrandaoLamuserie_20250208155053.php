@@ -43,8 +43,12 @@
     L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !
 </p>
 
+                    <div class="text-center mt-3">
+                        <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
+                    </div>
+
                     <!-- Bouton citations -->
-                <div class="text-center mb-5">
+                <div class="text-center">
                     <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>
                 </div>
                     </p>
@@ -61,7 +65,7 @@
     <section class="livres d-none d-md-block">
         <div class="containerAuteur">
             <h2>Les livres de Pierre Brandao</h2>
-            <!-- Carte 1 : L'amuserie (et pleure parfois) -->
+            <!-- Carte 1 : L'ENLEVEMENT -->
             <div id="livre-1" class="livre">
                 <div class="livre-content">
                     <div class="livre-image">
@@ -78,17 +82,15 @@
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 134</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440563</p>
 
-                        <p class="lead">
-    <strong class="h2Jaune">Résumé :</strong> Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur.<br><br>
+                        <p class="lead text-white">
+                        Ce septième recueil de poésies de Pierre Brandao regroupe des textes dont le fil conducteur est la musique des mots, la mélodie des émotions, l’inspiration du coeur.
 
-    À l’instar d’une épicerie imaginaire, l’Amuserie vous propose cinq rayons qui sauront occuper vos aspirations de liberté : Amour et tendresse – Révolte – C’est la vie ! – Vague à l’âme – Bazar.<br><br>
+À l’instar d’une épicerie imaginaire, l’Amuserie vous propose cinq rayons qui sauront occuper vos aspirations de liberté : Amour et tendresse – Révolte – C’est la vie ! – Vague à l’âme – Bazar.
 
-    Pour vous plaire, l’Amuse-rit (et pleure parfois) évoque les joies des passions, les colères éphémères, les doutes existentiels et les blessures quotidiennes dont on se passerait bien, mais qui font aussi partie de la nécessité de vivre.<br><br>
+Pour vous plaire, l’Amuse-rit (et pleure parfois) évoque les joies des passions, les colères éphémères, les doutes existentiels et les blessures quotidiennes dont on se passerait bien, mais qui font aussi partie de la nécessité de vivre.
 
-    L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !
-</p>
-
-
+L’auteur plagierait bien volontiers Michel Sardou en fredonnant que tout est prétexte à chanson : cet ouvrage l’illustre parfaitement ! Alors, si un air vous trotte dans la tête en lisant, ne vous étonnez pas : c’est voulu !
+                        </p>
    <!-- Bouton citations -->
    <div class="text-center mb-5">
                     <a href="fichePierreBrandaoCitations.php" class="btnCitations">Découvrir les citations</a>

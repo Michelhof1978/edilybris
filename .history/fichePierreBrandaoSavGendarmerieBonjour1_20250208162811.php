@@ -384,19 +384,9 @@
                 <p>
     7 juillet 2022, BTA Saint-Maixent-l’École<br>
 
-    Jeudi, en milieu d’après-midi, Bobinette circule toute guillerette au volant de sa jolie Peugeot 208. <br>
-    Un feu rouge, elle s’arrête. <br>
-    Il passe au vert, elle enclenche la première, mais s’emmêle les pédales et cale tout net. <br>
-    Surprise, la conductrice qui suit ne parvient pas à éviter la voiture de Bobinette et vient la heurter à faible allure. <br>
-    Fort heureusement, il n’y a que des dégâts matériels, mais les deux femmes se querellent. <br>
-    On appelle les gendarmes pour arbitrer les débats et c’est Bobinette qui en pâtira... <br>
-    En effet, le dépistage de l’alcoolémie est positif et affiche un taux de 2,26 gr/l !!! <br>
-    Ce qui n’est pas rien. <br>
-    Les gendarmes comprennent mieux le « hic » au vert de Bobinette, une histoire de verres... <br>
-    Et c’est à pied (sans verre) qu’elle finira son trajet. <br>
-    Espérons qu’elle était mieux chaussée que Cendrillon pour ce faire.<br>
+    Jeudi, en milieu d’après-midi, Bobinette circule toute guillerette au volant de sa jolie Peugeot 208. Un feu rouge, elle s’arrête. Il passe au vert, elle enclenche la première, mais s’emmêle les pédales et cale tout net. Surprise, la conductrice qui suit ne parvient pas à éviter la voiture de Bobinette et vient la heurter à faible allure.<br>
+     Fort heureusement, il n’y a que des dégâts matériels, mais les deux femmes se querellent. On appelle les gendarmes pour arbitrer les débats et c’est Bobinette qui en pâtira...<br> En effet, le dépistage de l’alcoolémie est positif et affiche un taux de 2,26 gr/l !!! Ce qui n’est pas rien. Les gendarmes comprennent mieux le « hic » au vert de Bobinette, une histoire de verres... Et c’est à pied (sans verre) qu’elle finira son trajet. Espérons qu’elle était mieux chaussée que Cendrillon pour ce faire.<br>
 </p>
-
 
                       
 <!-------------------------------------------------------------------------------------->

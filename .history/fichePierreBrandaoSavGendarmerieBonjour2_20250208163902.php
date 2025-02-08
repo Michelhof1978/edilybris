@@ -205,10 +205,9 @@
                 </div>
                 <p>
     Samedi 14 mai 2022 vers 23 heures 15, alors qu’ils patrouillent sur la RD 725 du côté de Faye-l’Abbesse, les gendarmes de Bressuire sont les témoins d’un « spectacle » routier plutôt insolite.<br>
-    Devant eux, une voiture roulant bord sur bord telle la vergue d’un bateau sur une mer agitée. <br>
-    Les militaires intrigués prennent soin de l’arrêter.<br>
-    Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer.<br> Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler.<br> 2, 92 gr/l, les gendarmes sont éberlués !<br>
-    Un taux suffisant pour assommer le commun des mortels.<br> Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...<br>
+    Devant eux, une voiture roulant bord sur bord telle la vergue d’un bateau sur une mer agitée. Les militaires intrigués prennent soin de l’arrêter.<br>
+    Le conducteur qui circule malgré la suspension de son permis et sous le fardeau de son ivresse, peine à s’expliquer. Malgré le gite de sa ligne de flottaison, l’homme ne manque pas d’air et parvient à souffler. 2, 92 gr/l, les gendarmes sont éberlués !<br>
+    Un taux suffisant pour assommer le commun des mortels. Fort heureusement, les gendarmes ont le sens de l’hospitalité et notre Bob, à la brigade, pourra dégriser...<br>
 </p>
 
                         
@@ -218,12 +217,11 @@
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/bob-le-moldu.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                        <p>
-    Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.<br>
-    Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.<br>
-    Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.<br>
-</p>
+                        <p>Au milieu du XIXe siècle, Ottaline Gambol, Ministre de la Magie, projeta de relier Saint-Maixent-l’École à Poudlard et ce au moyen d’un passage secret.
 
+Ainsi fut créée quelques années plus tard, sur un trottoir de la cité, la célèbre voie 9 3/4. Mais ce que Bob ignore, c’est que ce passage est exclusivement réservé aux sorciers. Les Moldus ne peuvent donc pas l’emprunter, même sous l’effet de quelques produits psychotropes défendus.
+
+Une leçon que Bob n’est pas prêt d’oublier, lui qui le 19 mai 2022 en fin de soirée, roulant vite et sans permis, aura su trouver le passage secret qui à défaut de conduire au phalanstère des sorciers, permet de rejoindre directement celui de la maréchaussée.</p>                       
                       
 <!-------------------------------------------------------------------------------------->
 
@@ -231,14 +229,17 @@
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/pecheur-pecheur.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                <p>
-    Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.<br>
-    Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).<br>
-    Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.<br>
-    Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.<br>
-    Un comble pour ce Bob qui se croyait à l’abri des vues...<br>
-</p>
+                        <p>Le 18 septembre 2022 en fin de matinée, dans un centre aquatique, une nageuse repère un OFBI (objet flottant bien identifié) au niveau du jacuzzi.
 
+Infirmière de son état et sûre de son fait, la personne signale l’individu en train de taquiner le goujon avec son asticot en main (ledit OFBI).
+
+Alertés, les maîtres-nageurs sollicitent aussitôt l’intervention de la gendarmerie pour mettre fin aux agissements de ce malsain pêcheur.
+
+Arrivés sur place, les hommes de la maréchaussée, chaussés pour l’amarrer, interpellent illico l’homo phallus erectus qui est alors placé en garde à vue pour s’être mis au garde-à-vous.
+
+Un comble pour ce Bob qui se croyait à l’abri des vues...
+
+</p>                       
                       
 <!-------------------------------------------------------------------------------------->
 
@@ -246,14 +247,15 @@
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/angry-bob-2.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                <p>
-    Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.<br>
-    L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les gendarmes présents, allant même jusqu’à proférer des menaces de mort à leur endroit.<br>
-    Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller.<br>
-    À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.<br>
-    Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !<br>
-</p>
+                        <p>Dimanche 6 février 2022, vers 17 heures à Saint-Maixent-l’École, un automobiliste est contrôlé en état d’ébriété au volant de son véhicule.
 
+L’alcool aidant, notre Bob se met à vociférer et outrager copieusement les gendarmes présents, allant même jusqu’à proférer des menaces de mort à leur endroit.
+
+Les militaires procèdent à l’interpellation de cet individu qui, récalcitrant, tente alors de se rebeller. À l’issue de sa garde-à-vue, Bob, qui n’en est pas à son premier « coup » d’essai, est placé en détention provisoire dans l’attente de son jugement.
+
+Moralité : l’alcool ne rend ni beau ni intelligent et peut, sous certaines conditions, vous conduire... tout droit en prison !
+
+</p>                       
                       
 <!-------------------------------------------------------------------------------------->
 
@@ -261,17 +263,21 @@
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/corg.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                <p>
-    Allo, qui c’est ? C’n’est pas l’plombier !<br>
-    — Gendarmerie de Niort, bonjour.<br>
-    — Bonjour, Monsieur. Je vous appelle parce que mon radiateur fuit.<br>
-    — Le radiateur de votre voiture ?<br>
-    — Non, celui de mon salon.<br>
-    — Mais, Monsieur, nous ne faisons pas dans la plomberie...<br>
-    Le 17 est un numéro d’appel d’urgence... pour les urgences.<br>
-    Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharmacie de garde ? Internet est votre ami.<br>
-</p>
-                   
+                        <p>Allo, qui c’est ? C’n’est pas l’plombier !
+
+— Gendarmerie de Niort, bonjour.
+— Bonjour, Monsieur. Je vous appelle parce que mon radiateur fuit.
+— Le radiateur de votre voiture ?
+— Non, celui de mon salon.
+— Mais, Monsieur, nous ne faisons pas dans la plomberie...
+
+Le 17 est un numéro d’appel d’urgence... pour les urgences.
+
+Alors besoin d’un plombier ? D’une pizza ? Ou encore du numéro de la pharmacie de garde ? Internet est votre ami.
+
+
+
+</p>                       
                       
 <!-------------------------------------------------------------------------------------->
 
@@ -279,17 +285,17 @@
                         <div class="col-12 text-center">
                     <img src="images/pierreBrandao/portrait-pierre-dessin-seul.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
-                <p>
-    — Je répète. Vous me dites que votre père est votre maire et que votre tante est aussi votre mère. Votre autre tante est votre sœur et votre frère est masseur. Votre cousin est votre frère et votre cousine une fille au pair ?<br>
-    — C’est bien cela, monsieur le Gendarme.<br>
-    — Je n’ai rien compris !! Vous allez bientôt me dire que vous êtes le grand-père de votre mère ?<br>
-    — Euh non.<br>
-    — Are you sure ? Parce moi je ne suis pas your mother, I am not your père but je peux m’occuper de vous.<br>
-    — Non, monsieur le Gendarme, I am tout a fait sure.<br>
-    — Dites, you are very sympathique but aujourd’hui, c’est Mondaymotivation et I prefer vous savoir ailleurs vous et toute votre family. Alors vous allez souhaiter une bonne semaine à tous nos followers et filer loin, très loin d’ici... Are you understand ?<br>
-    — Yes I do et bonne semaine à tous les followers !<br>
-</p>
+                        <p>— Je répète. Vous me dites que votre père est votre maire et que votre tante est aussi votre mère. Votre autre tante est votre sœur et votre frère est masseur. Votre cousin est votre frère et votre cousine une fille au pair ?
+— C’est bien cela, monsieur le Gendarme.
+— Je n’ai rien compris !! Vous allez bientôt me dire que vous êtes le grand-père de votre mère ?
+— Euh non.
+— Are you sure ? Parce moi je ne suis pas your mother, I am not your père but je peux m’occuper de vous.
+— Non, monsieur le Gendarme, I am tout a fait sure.
+— Dites, you are very sympathique but aujourd’hui, c’est Mondaymotivation et I prefer vous savoir ailleurs vous et toute votre family. Alors vous allez souhaiter une bonne semaine à tous nos followers et filer loin, très loin d’ici... Are you understand ?
+— Yes I do et bonne semaine à tous les followers !
 
+
+</p>                       
                       
 <!-------------------------------------------------------------------------------------->
 

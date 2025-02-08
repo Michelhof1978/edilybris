@@ -5,14 +5,14 @@
 <style>
      .bio-content{
         margin-top: -90px;
-        margin-bottom: -50px;
+        margin-bottom: -150px;
      
     }
 
     @media screen and (max-width: 768px) {
     .bio-content {
-        margin-top: -80px;
-        margin-bottom: -60px;
+        margin-top: -300px;
+        margin-bottom: -300px;
        
     }
 }
