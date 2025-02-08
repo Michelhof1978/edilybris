@@ -96,11 +96,11 @@
                         <p class="lead text-white">
     Au hasard des routes, le regard se pose négligemment sur les aménagements de certains ronds-points… En Charente-Maritime, plusieurs d’entre eux aiguisent notre curiosité… Ainsi, deux impressionnantes mains s’apprêtent à ouvrir une huître à l’Éguille-sur-Seudre, un groupe de pèlerins en composite se dirige vers l’hospice de Pons, une phénoménale statue de fer répondant au nom d’Hermès accueille les voyageurs en provenance de Marans, un gigantesque terre-plein central accueille une baraque ostréicole près de Chaillevette… Et bien d’autres encore valent le détour.<br><br>
 
-    Mais, lorsque ces ornements cachent de lourds secrets, conduisant notre héroïne gendarme Isabelle Loubry à solliciter un détective outre-Atlantique, notre compassion dépassera-t-elle le seuil de l’étonnement et de l’admiration ?<br><br>
-    Qui a intérêt à cacher ces fardeaux plutôt morbides ?<br><br>
+    Mais, lorsque ces ornements cachent de lourds secrets, conduisant notre héroïne gendarme Isabelle Loubry à solliciter un détective outre-Atlantique, notre compassion dépassera-t-elle le seuil de l’étonnement et de l’admiration ?<br>
+    Qui a intérêt à cacher ces fardeaux plutôt morbides ?<br>
     De giratoires en giratoires, les enquêteurs vont connaître le summum de l’horreur, tout en se mettant en quête de motards au présent particulièrement douteux…<br><br>
 
-    Entrez dans la ronde, brave gens, et que la tête ne vous tourne pas trop, car cette enquête vous mettra sens dessus-dessous !<br>
+    Entrez dans la ronde, brave gens, et que la tête ne vous tourne pas trop, car cette enquête vous mettra sens dessus-dessous !
 </p>
 
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 2</h3>

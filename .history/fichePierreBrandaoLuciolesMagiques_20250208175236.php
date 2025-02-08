@@ -155,86 +155,93 @@ Tu es le miroir de mes saisons.<br>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440396</p>
 
                         <p class="lead text-white">
-    LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net.<br> 
-    De la passion des mots et des images ce recueil emporte le lecteur dans les sentiments troubles de la vie ; plutôt d'écriture libre, les thèmes évoqués ne pourront pas laisser indifférent.<br> 
-    Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques.<br>
-</p>
-<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
-<h3 class="h2Jaune mt-5">EXTRAIT DU RECUEIL</h3>
-<p>
-    <p class="m-4 h2jaune"><strong>Je nourris une larme</strong></p>
-    <img src="images/pierreBrandao/jeNourrisUneLarme.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement"><br>
+                        LUCIOLES MAGIQUES est le deuxième fruit d'une rencontre avec Marie, rencontrée sur un des innombrables fils du net. De la passion des mots et des images ce recueil emporte le lecteur dans les sentiments troubles de la vie ; plutôt d'écriture libre, les thèmes évoqués ne pourront pas laisser indifférent. 
 
-    Je nourris une larme au pupitre d’un cœur<br>
-    La craie crisse en un cri strident<br>
-    Déchire le velours de l’âme<br>
-    Gémit de ne pouvoir avouer sa douleur<br>
+Recueil au format 21x29,7, totalement en couleurs, 26 pages de rêves poétiques. 
 
-    Je nourris une larme au pupitre d’un cœur<br>
-    Un tableau vert sans tain s’essouffle<br>
-    Le tampon broie la nostalgie<br>
-    Efface l’interdit des mots nés d’un regard<br>
 
-    Je nourris une larme au pupitre d’un cœur<br>
-    L’ardoise écoute ma souffrance<br>
-    Supporte un pleur cicatrisé<br>
-    Qui déclare sa peine en ocre sentiment<br>
+                        </p>
+                        <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
+                        <h3 class="h2Jaune mt-5">EXTRAIT DU RECUEIL</h3>
+                        <p>
+                        <p class="m-4 h2jaune"><strong>Je nourris une larme</strong></p>
+                        <img src="images/pierreBrandao/jeNourrisUneLarme.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement"><br>
 
-    Je nourris une larme au pupitre d’un cœur<br>
-    Le stylo puise l’encre d’âme<br>
-    Tache une vierge effarouchée<br>
-    Qui se froisse et s’en va dans l’ombre d’un panier<br>
+Je nourris une larme au pupitre d’un cœur
 
-    Je nourris une larme au pupitre d’un cœur<br>
-    La cloche résonne… rebelle<br>
-    D’un passé meurtri de silence<br>
-    Les pas collés au sol… l’heure veut se figer<br>
+La craie crisse en un cri strident 
+Déchire le velours de l’âme 
+Gémit de ne pouvoir avouer sa douleur
 
-    Je nourris une larme au pupitre d’un cœur<br>
-</p>
+Je nourris une larme au pupitre d’un cœur 
+
+Un tableau vert sans tain s’essouffle 
+Le tampon broie la nostalgie 
+Efface l’interdit des mots nés d’un regard 
+
+Je nourris une larme au pupitre d’un cœur 
+
+L’ardoise écoute ma souffrance
+Supporte un pleur cicatrisé 
+Qui déclare sa peine en ocre sentiment
+
+Je nourris une larme au pupitre d’un cœur 
+
+Le stylo puise l’encre d’âme 
+Tache une vierge effarouchée 
+Qui se froisse et s’en va dans l’ombre d’un panier 
+
+Je nourris une larme au pupitre d’un cœur
+
+La cloche résonne… rebelle 
+D’un passé meurtri de silence 
+Les pas collés au sol… l’heure veut se figer 
+
+Je nourris une larme au pupitre d’un cœur
 
 <h3 class="h2Jaune text-center m-3">EXTRAIT DU RECUEIL</h3>
-<p>
-    <p class="m-3 "><strong>Miroir de mes saisons </strong></p>
-    <img src="images/pierreBrandao/miroirDeMesSaisons.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement"><br>
+                    <p>
+<p class="m-3 "><strong>Miroir de mes saisons </strong></p>
+<img src="images/pierreBrandao/miroirDeMesSaisons.webp" class="img-fluid w-75 mb-3" alt="Couverture du livre L'enlèvement"><br>
 
-    L'hirondelle de ton regard<br>
-    Lance un boomerang au soleil ;<br>
-    Me revient un trait de sourire<br>
-    Au bord des pluies intérieures ;<br>
-    Je saute la corde des jours<br>
-    Le vent s'engouffre de mystère<br>
-    Et les bourgeons se font désir<br>
-    À la brise printanière…<br>
+L'hirondelle de ton regard
+Lance un boomerang au soleil ; 
+Me revient un trait de sourire
+Au bord des pluies intérieures ;
+Je saute la corde des jours 
+Le vent s'engouffre de mystère
+Et les bourgeons se font désir
+À la brise printanière…
 
-    Les rayons de ta peau ruissellent<br>
-    Sur une plage de sable d'or<br>
-    Ton corps chauffe les galets<br>
-    Brûlant les soupirs estivants<br>
-    Dans le creux du ressac hardi<br>
-    La fraîcheur bouillonne troublée<br>
-    Et l'océan devient geyser<br>
-    Quand tu plonges en vague d'aise…<br>
+Les rayons de ta peau ruissellent
+Sur une plage de sable d'or
+Ton corps chauffe les galets
+Brûlant les soupirs estivants
+Dans le creux  du ressac hardi
+La fraîcheur bouillonne troublée
+Et l'océan devient geyser
+Quand tu  plonges en vague d'aise… 
 
-    Un souffle de mille couleurs<br>
-    S'échappe des arbres en feu,<br>
-    Le moineau de ton âme s'envole,<br>
-    Picore la douceur des grains mûrs<br>
-    Les feuillaisons de tes pensées<br>
-    Se reflètent dans mes flaques<br>
-    Et le chemin que tu empruntes<br>
-    Mène à l'automne des passions…<br>
+Un souffle de mille couleurs
+S'échappe des arbres en feu,
+Le moineau de ton âme s'envole,
+Picore la douceur des grains mûrs
+Les feuillaisons de tes pensées
+Se reflètent dans mes flaques 
+Et le chemin que tu empruntes
+Mène à l'automne des passions…
 
-    Tu étales un drap blanc<br>
-    Aux branches des souvenirs<br>
-    Les neiges fondent en cœurs liés<br>
-    Si les braises du foyer pétillent<br>
-    La couverture hivernale se défile<br>
-    Quand revient l'hirondelle de ton regard<br>
-    Et dans l'air de tous les matins<br>
-    Tu es le miroir de mes saisons.<br>
-</p>
+Tu étales un drap blanc
+Aux  branches des souvenirs 
+Les neiges fondent en cœurs liés
+Si les braises du foyer pétillent   
+La couverture hivernale se défile
+Quand revient l'hirondelle de ton regard 
+Et dans l'air de tous les matins      
+Tu es le miroir de mes saisons.
 
+ 
+                        </p>
                         <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

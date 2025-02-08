@@ -94,56 +94,27 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440013</p>
 
                         <p class="lead text-white">
-    Au hasard des routes, le regard se pose négligemment sur les aménagements de certains ronds-points… En Charente-Maritime, plusieurs d’entre eux aiguisent notre curiosité… Ainsi, deux impressionnantes mains s’apprêtent à ouvrir une huître à l’Éguille-sur-Seudre, un groupe de pèlerins en composite se dirige vers l’hospice de Pons, une phénoménale statue de fer répondant au nom d’Hermès accueille les voyageurs en provenance de Marans, un gigantesque terre-plein central accueille une baraque ostréicole près de Chaillevette… Et bien d’autres encore valent le détour.<br><br>
+                        Au hasard des routes, le regard se pose négligemment sur les aménagements de certains ronds-points… En Charente-Maritime, plusieurs d’entre eux aiguisent notre curiosité… Ainsi, deux impressionnantes mains s’apprêtent à ouvrir une huître à l’Éguille-sur-Seudre, un groupe de
+pèlerins en composite se dirige vers l’hospice de Pons, une phénoménale statue de fer répondant au nom d’Hermès accueille les voyageurs en provenance de Marans, un gigantesque terre-plein central accueille une baraque ostréicole près de Chaillevette… Et bien d’autres encore valent le détour.  
 
-    Mais, lorsque ces ornements cachent de lourds secrets, conduisant notre héroïne gendarme Isabelle Loubry à solliciter un détective outre-Atlantique, notre compassion dépassera-t-elle le seuil de l’étonnement et de l’admiration ?<br><br>
-    Qui a intérêt à cacher ces fardeaux plutôt morbides ?<br><br>
-    De giratoires en giratoires, les enquêteurs vont connaître le summum de l’horreur, tout en se mettant en quête de motards au présent particulièrement douteux…<br><br>
+Mais, lorsque ces ornements cachent de lourds secrets, conduisant notre héroïne gendarme Isabelle Loubry à solliciter un détective outre-Atlantique, notre compassion dépassera-t-elle le seuil de l’étonnement et de l’admiration ?
+Qui a intérêt à cacher ces fardeaux plutôt morbides ? 
+De giratoires en giratoires, les enquêteurs vont connaître le summum de l’horreur, tout en se mettant en quête de motards au présent particulièrement douteux…           
 
-    Entrez dans la ronde, brave gens, et que la tête ne vous tourne pas trop, car cette enquête vous mettra sens dessus-dessous !<br>
-</p>
-
+Entrez dans la ronde, brave gens, et que la tête ne vous tourne pas trop, car cette enquête vous mettra sens dessus-dessous !
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 2</h3>
 
-<p>
-    nuit du lundi 12 avril 2010 – 00H45<br>
-    Rond-point des Pèlerins, à Pons<br><br>
+                    <p>
+                    nuit du lundi 12 avril 2010 – 00H45
+Rond-point des Pèlerins, à Pons
 
-    Du haut de ses dix-sept printemps, un physique de déesse, Astrill savait jouer de son pouvoir de séduction.<br> 
-    Ses cheveux, longues nouilles chinoises tortillées et colorées dans un charbon maintes fois passé au ras du feu, descendaient jusqu’à ses épaules, tandis que quelques mèches rebelles écarlates balayaient son front haut et délicat.<br> 
-    Son regard, souligné par un mascara aussi foncé que sa teinture, coïncidait parfaitement avec le noir épousant ses lèvres de jeune femme.<br> 
-    Dotée d’une poitrine déjà bien proéminente pour son âge, la demoiselle savait mettre en valeur sa féminité…<br> 
-    Elle s’en servait pour exacerber le désir de l’homme…<br> 
-    Astrill portait un chemisier à manches courtes, aux couleurs chamarrées, bien échancré — peut-être un peu trop pour la décence de l’époque ! —.<br> 
-    Pour couvrir ses jambes, une mini-jupe charmait d’érotisme l’atmosphère friponne de la soirée.<br><br>
-
-    La vie lui souriait, tandis qu’à ses côtés, un duo cocasse de garçons bavait d’envie, et elle s’en fichait éperdument.<br> 
-    Même si l’un d’entre eux, Christophe, affichait sa différence dans un accoutrement inhabituel, le jouet qu’il représentait suffisait à la belle.<br> 
-    Le second, plus commun, se prénommait Mickaël.<br> 
-    Elle le préférait à jeun, car au naturel ses traits n'étaient pas autant marqués qu'à l'instant, et l’alcool lui donnait l'aspect prématuré d'un vieillard.<br><br>
-
-    Manipulatrice, contrôlant la moindre tentative d’approche de ses soupirants, Astrill maîtrisait le jeu pervers nourricier de ses caprices.<br> 
-    Tous les garçons étaient à ses pieds ; elle les menait par le bout du nez !<br> 
-    Au gré du vent, elle les balayait, comme des brins de paille… et du vent, ça, elle savait ce que ça voulait dire !<br> 
-    D’ailleurs, elle ne prêtait même plus attention aux sous-entendus salaces qu’ils échangeaient discrètement entre eux — du moins le croyaient-ils ! —.<br> 
-    Elle s’en amusait sous cape.<br> 
-    Combien de fois avaient-ils murmuré, examinant en parfaits connaisseurs les contours de la demoiselle ? : — Putain, avec cette nana, ce serait le pied !<br> 
-    Mais Astrill menait la barque, la dirigeait… et l’arrêterait selon son bon vouloir !<br><br>
-
-    Flanquée de ses deux copains du moment, ivres à souhait, elle descendait à pied la rue du Maréchal Leclerc, déserte à cette heure avancée de la nuit.<br> 
-    Mickaël poussa le vice jusqu’à s’arrêter un instant derrière l’église pour soulager un besoin pressant.<br> 
-    Ils l’attendirent, puis le trio émergea sur le rond-point des Pèlerins, qui permettait au voyageur en transit de tirer sa révérence une ultime fois à cette bonne ville de Pons avant de s’engager sur les chemins de Cognac, Jonzac, Saintes ou même Royan.<br><br>
-
-    Là, cinq statues en composite dominaient le terre-plein central du giratoire.<br> 
-    Il s’agissait de marcheurs qui, jadis, venaient faire une halte salutaire à l’hôpital des pèlerins situé à cinq cents mètres de là.<br> 
-    Ils y soignaient les plaies de leurs pieds en feu et y trouvaient une maigre parcelle de réconfort propre à apaiser leur esprit torturé.<br> 
-    Le premier coquillard – ainsi appelait-on alors ces pèlerins –, muni d’un bourdon et coiffé d’un chapeau à bords ras, pointait de son index la direction de l’hospice, sorte de gîte-étape incontournable avant d’entamer la route présumée de Saint Jacques de Compostelle, la destination finale.<br> 
-    Étrangement, nul ne savait ce qui motivait véritablement ces hommes et encore moins s’ils parviendraient tous au terme d’un aussi long et pénible voyage, perçu comme la repentance nécessaire au repos de leur âme.<br><br>
-
-    Au beau milieu de la nuit, la lune éclairait ces répliques fantomatiques d’un autre âge et une sorte de halo blanchâtre les enveloppait étrangement, conférant à la scène une impression lugubre de mystère.<br> 
-    L’ombre qui se détachait de l’église ajoutait au décor, appuyant cette sensation d’outre-tombe…<br>
+Du haut de ses dix-sept printemps, un physique de déesse, Astrill savait jouer de son pouvoir de séduction. Ses cheveux, longues nouilles chinoises tortillées et colorées dans un charbon maintes fois passé au ras du feu, descendaient jusqu’à ses épaules, tandis que quelques mèches rebelles écarlates balayaient son front haut et délicat. Son regard, souligné par un mascara aussi foncé que sa teinture, coïncidait parfaitement avec le noir épousant ses lèvres de jeune femme. Dotée d’une poitrine déjà bien proéminente pour son âge, la demoiselle savait mettre en valeur sa féminité… Elle s’en servait pour exacerber le désir de l’homme… Astrill portait un chemisier à manches courtes, aux couleurs chamarrées, bien échancré — peut-être un peu trop pour la décence de l’époque ! —. Pour couvrir ses jambes, une mini-jupe charmait d’érotisme l’atmosphère friponne de la soirée.
+La vie lui souriait, tandis qu’à ses côtés, un duo cocasse de garçons bavait d’envie, et elle s’en fichait éperdument. Même si l’un d’entre eux, Christophe, affichait sa différence dans un accoutrement inhabituel, le jouet qu’il représentait suffisait à la belle. Le second, plus commun, se prénommait Mickaël. Elle le préférait à jeun, car au naturel ses traits n'étaient pas autant marqués qu'à l'instant, et l’alcool lui donnait l'aspect prématuré d'un vieillard.
+Manipulatrice, contrôlant la moindre tentative d’approche de ses soupirants, Astrill maîtrisait le jeu pervers nourricier de ses caprices. Tous les garçons étaient à ses pieds ; elle les menait par le bout du nez ! Au gré du vent, elle les balayait, comme des brins de paille… et du vent, ça, elle savait ce que ça voulait dire ! D’ailleurs, elle ne prêtait même plus attention aux sous-entendus salaces qu’ils échangeaient discrètement entre eux — du moins le croyaient-ils ! —. Elle s’en amusait sous cape. Combien de fois avaient-ils murmuré, examinant en parfaits connaisseurs les contours de la demoiselle ? : — Putain, avec cette nana, ce serait le pied ! Mais Astrill menait la barque, la dirigeait… et l’arrêterait selon son bon vouloir !
+Flanquée de ses deux copains du moment, ivres à souhait, elle descendait à pied la rue du Maréchal Leclerc, déserte à cette heure avancée de la nuit. Mickaël poussa le vice jusqu’à s’arrêter un instant derrière l’église pour soulager un besoin pressant. Ils l’attendirent, puis le trio émergea sur le rond-point des Pèlerins, qui permettait au voyageur en transit de tirer sa révérence une ultime fois à cette bonne ville de Pons avant de s’engager sur les chemins de Cognac, Jonzac, Saintes ou même Royan.
+Là, cinq statues en composite dominaient le terre-plein central du giratoire. Il s’agissait de marcheurs qui, jadis, venaient faire une halte salutaire à l’hôpital des pèlerins situé à cinq cents mètres de là. Ils y soignaient les plaies de leurs pieds en feu et y trouvaient une maigre parcelle de réconfort propre à apaiser leur esprit torturé. Le premier coquillard – ainsi appelait-on alors ces pèlerins –, muni d’un bourdon et coiffé d’un chapeau à bords ras, pointait de son index la direction de l’hospice, sorte de gîte-étape incontournable avant d’entamer la route présumée de Saint Jacques de Compostelle, la destination finale. Étrangement, nul ne savait ce qui motivait véritablement ces hommes et encore moins s’ils parviendraient tous au terme d’un aussi long et pénible voyage, perçu comme la repentance nécessaire au repos de leur âme.
+Au beau milieu de la nuit, la lune éclairait ces répliques fantomatiques d’un autre âge et une sorte de halo blanchâtre les enveloppait étrangement, conférant à la scène une impression lugubre de mystère. L’ombre qui se détachait de l’église ajoutait au décor, appuyant cette sensation d’outre-tombe…
 </p>
-
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

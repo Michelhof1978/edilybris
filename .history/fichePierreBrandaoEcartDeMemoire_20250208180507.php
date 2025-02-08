@@ -139,12 +139,13 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440051</p>
 
                         <p class="lead text-white">
-    Quel lien existe-t-il entre un commissaire parisien à la recherche d’une femme accidentée, mystérieusement disparue d’un hôpital, une prostituée septuagénaire qui officie sur un parking proche du littoral charentais, un cambrioleur infect qui défie les forces de gendarmerie de La Rochelle, et le passé trouble d’un notable occis dans une maison au fin fond du Jonzacais ?<br> 
-    Isabelle Loubry devra se méfier de ses certitudes, surtout quand apparaît un journal intime écrit avec le noir des vicissitudes, le pourpre des passions criminelles, le gris de la fange humaine.<br> 
-    Cette histoire relate l’existence réelle d’une enfant martyre à une fiction policière.<br> 
-    Elle ne laissera pas le lecteur indifférent, car une question demeure après avoir refermé la dernière page : à quel point sommes-nous tributaires des autres pour mener notre propre destin ?<br>
-</p>
+                        Quel lien existe-t-il entre un commissaire parisien à la recherche d’une femme accidentée, mystérieusement disparue d’un hôpital, une prostituée septuagénaire qui officie sur un parking proche du littoral charentais, un cambrioleur infect qui défie les forces de gendarmerie de La Rochelle, et le passé trouble d’un notable occis dans une maison au fin fond du Jonzacais ? 
 
+
+Isabelle Loubry devra se méfier de ses certitudes, surtout quand apparaît un journal intime écrit avec le noir des vicissitudes, le pourpre des passions criminelles, le gris de la fange humaine. 
+
+
+Cette histoire relate l’existence réelle d’une enfant martyre à une fiction policière. Elle ne laissera pas le lecteur indifférent, car une question demeure après avoir refermé la dernière page : à quel point sommes-nous tributaires des autres pour mener notre propre destin ?
 <h3 class="h2Jaune text-center m-3">Extrait chapitre </h3>
 <h3 class="h2Jaune text-center m-3">Préambule de la première partie</h3>
 

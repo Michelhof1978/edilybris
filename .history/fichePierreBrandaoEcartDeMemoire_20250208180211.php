@@ -139,73 +139,31 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440051</p>
 
                         <p class="lead text-white">
-    Quel lien existe-t-il entre un commissaire parisien à la recherche d’une femme accidentée, mystérieusement disparue d’un hôpital, une prostituée septuagénaire qui officie sur un parking proche du littoral charentais, un cambrioleur infect qui défie les forces de gendarmerie de La Rochelle, et le passé trouble d’un notable occis dans une maison au fin fond du Jonzacais ?<br> 
-    Isabelle Loubry devra se méfier de ses certitudes, surtout quand apparaît un journal intime écrit avec le noir des vicissitudes, le pourpre des passions criminelles, le gris de la fange humaine.<br> 
-    Cette histoire relate l’existence réelle d’une enfant martyre à une fiction policière.<br> 
-    Elle ne laissera pas le lecteur indifférent, car une question demeure après avoir refermé la dernière page : à quel point sommes-nous tributaires des autres pour mener notre propre destin ?<br>
-</p>
+                        Quel lien existe-t-il entre un commissaire parisien à la recherche d’une femme accidentée, mystérieusement disparue d’un hôpital, une prostituée septuagénaire qui officie sur un parking proche du littoral charentais, un cambrioleur infect qui défie les forces de gendarmerie de La Rochelle, et le passé trouble d’un notable occis dans une maison au fin fond du Jonzacais ? 
 
+
+Isabelle Loubry devra se méfier de ses certitudes, surtout quand apparaît un journal intime écrit avec le noir des vicissitudes, le pourpre des passions criminelles, le gris de la fange humaine. 
+
+
+Cette histoire relate l’existence réelle d’une enfant martyre à une fiction policière. Elle ne laissera pas le lecteur indifférent, car une question demeure après avoir refermé la dernière page : à quel point sommes-nous tributaires des autres pour mener notre propre destin ?
 <h3 class="h2Jaune text-center m-3">Extrait chapitre </h3>
 <h3 class="h2Jaune text-center m-3">Préambule de la première partie</h3>
 
 
-<p>
-    La lumière me fait mal !<br> 
-    Et, pourtant, l'éclat de mes prunelles, sous des paupières à demi fermées, s'habille d'une pâleur effroyable…<br> 
-    Alors, un cri bizarre déchire la nuit... mon cri ?<br> 
-    Strident, répétitif, alarmant, que nul ne semble entendre...<br> 
-    Le froid m'entoure, le vent me gifle, la rue m'oppresse...<br> 
-    Je ne vois rien, pas encore assez, juste ce disque blafard, fondu sur un écran d'étoiles...<br> 
-    Je perçois des sons rassurants, un geste calme me recouvre d'une veste rêche, censée protéger ma nudité et nettoyer ma peau trempée de sang et de liquide amniotique.<br> 
-    J’étais si bien dans mon antre lymphatique, baignant dans l’insouciance de la chair maternelle…<br> 
-    Et me voilà allongée sur un ventre maigre, presque flasque, affaibli, un ventre dont je découvre l'envers, supportant les mêmes épreuves que les miennes : froidure, solitude, incertitude... le tout auréolé de réverbères agressifs...<br> 
-    Ah, enfin ! Un peu de chaleur émane d'un mamelon doux et humide, mes doigts se dégourdissent, attrapent la colline pleine de promesses et mes lèvres goûtent goulûment au lait si agréable et si chaud.<br> 
-    Mon souffle s'apaise, la faim s’estompe et je me surprends à la gloutonnerie, dans l’insolente indifférence d’une avenue célèbre de Paris.<br>
+                    <p>
+                    La lumière me fait mal ! Et, pourtant, l'éclat de mes prunelles, sous des paupières à demi fermées, s'habille d'une pâleur effroyable… Alors, un cri bizarre déchire la nuit... mon cri ? Strident, répétitif, alarmant, que nul ne semble entendre... Le froid m'entoure, le vent me gifle, la rue m'oppresse... Je ne vois rien, pas encore assez, juste ce disque blafard, fondu sur un écran d'étoiles... Je perçois des sons rassurants, un geste calme me recouvre d'une veste rêche, censée protéger ma nudité et nettoyer ma peau trempée de sang et de liquide amniotique. J’étais si bien dans mon antre lymphatique, baignant dans l’insouciance de la chair maternelle… Et me voilà allongée sur un ventre maigre, presque flasque, affaibli, un ventre dont je découvre l'envers, supportant les mêmes épreuves que les miennes : froidure, solitude, incertitude... le tout auréolé de réverbères agressifs... Ah, enfin ! Un peu de chaleur émane d'un mamelon doux et humide, mes doigts se dégourdissent, attrapent la colline pleine de promesses et mes lèvres goûtent goulûment au lait si agréable et si chaud. Mon souffle s'apaise, la faim s’estompe et je me surprends à la gloutonnerie, dans l’insolente indifférence d’une avenue célèbre de Paris.
 
-    À nos côtés, un personnage d’allure imposante bouge dans tous les sens.<br> 
-    Il se prend la tête à deux mains, comme s’il voulait assurer le lien entre son esprit et son corps…<br> 
-    Ses râles, gargarismes aigus qui m'interpellent dans un chant de sirènes plaintif, se propagent en toutes directions…<br> 
-    Veut-il l'univers à son écoute, le monde à son agonie, le pays à sa souffrance, Paris à ses pieds ?<br> 
-    Les oreilles naissent en chaque chose, affirmait-il, l’œil tourné vers les murs de la ville…<br> 
-    Il me sera bien utile de le savoir !<br> 
-    Que de tremblements et d’impuissances dans sa voix rauque !<br> 
-    Que d’énergie puisant sa source dans le désespoir !<br> 
-    Les oreilles naissent en chaque chose, les oreilles naissent en chaque chose !<br> 
-    Oui ! Oui ! Mais pourquoi gesticuler, pourquoi parsemer sa raison aux rigoles du macadam ?<br> 
-    Je ne comprends pas son silence soudain, mais moi, je m'en moque, car je suis préoccupée par ce téton offert qui me réchauffe…<br> 
-    J’aime la chaleur de cette poitrine qui me berce ; j’apprécie vraiment le lait maternel…<br> 
-    Alors, dans une paix retrouvée, je me désintéresse complètement de lui, qui en temps normal aurait dû s'appeler "père"…<br>
+À nos côtés, un personnage d’allure imposante bouge dans tous les sens. Il se prend la tête à deux mains, comme s’il voulait assurer le lien entre son esprit et son corps… Ses râles, gargarismes aigus qui m'interpellent dans un chant de sirènes plaintif, se propagent en toutes directions… Veut-il l'univers à son écoute, le monde à son agonie, le pays à sa souffrance, Paris à ses pieds ? Les oreilles naissent en chaque chose, affirmait-il, l’œil tourné vers les murs de la ville… Il me sera bien utile de le savoir ! Que de tremblements et d’impuissances dans sa voix rauque ! Que d’énergie puisant sa source dans le désespoir ! Les oreilles naissent en chaque chose, les oreilles naissent en chaque chose ! Oui ! Oui ! Mais pourquoi gesticuler, pourquoi parsemer sa raison aux rigoles du macadam ? Je ne comprends pas son silence soudain, mais moi, je m'en moque, car je suis préoccupée par ce téton offert qui me réchauffe… J’aime la chaleur de cette poitrine qui me berce ; j’apprécie vraiment le lait maternel… Alors, dans une paix retrouvée, je me désintéresse complètement de lui, qui en temps normal aurait dû s'appeler "père"…
 
-    Certains passants prononcent quelques mots dont les derniers signifient le pire : « il fait une crise de faux lit ».<br> 
-    J’ai du mal à m’imaginer ce qu’est un « faux lit », mais apparemment c’est grave.<br> 
-    Assez pour expliquer que par la suite, plus jamais je ne le vis ni n’entendis parler de lui, trop souvent sujet à la panique en de pareilles circonstances !<br> 
-    Panique… Ce mot me frappe, martèle mon esprit, perturbe mon existence de petite fille !<br> 
-    Puis des globes aveuglants surgissent d’un monstre énorme en acier et arrivent droit sur nous…<br> 
-    J'ai peur ! Mon cœur bat la chamade, s'affole… L'instinct de survie ?<br> 
-    Cela s'arrête très près de moi, souffle une fumée âcre et immonde...<br> 
-    Je tousse, je pleure, je crie !<br> 
-    Enfin, il se retient de cracher, comme s'il avait la faculté de ne plus respirer !<br> 
-    Il ferme même ses yeux jaunes...<br> 
-    Il n'émet plus de bruit également !<br> 
-    Ses bouches latérales s'ouvrent sur d'étranges êtres en blanc...<br>
+Certains passants prononcent quelques mots dont les derniers signifient le pire : « il fait une crise de faux lit ». J’ai du mal à m’imaginer ce qu’est un « faux lit », mais apparemment c’est grave. Assez pour expliquer que par la suite, plus jamais je ne le vis ni n’entendis parler de lui, trop souvent sujet à la panique en de pareilles circonstances ! Panique… Ce mot me frappe, martèle mon esprit, perturbe mon existence de petite fille ! Puis des globes aveuglants surgissent d’un monstre énorme en acier et arrivent droit sur nous… J'ai peur ! Mon cœur bat la chamade, s'affole… L'instinct de survie ? Cela s'arrête très près de moi, souffle une fumée âcre et immonde... Je tousse, je pleure, je crie ! Enfin, il se retient de cracher, comme s'il avait la faculté de ne plus respirer ! Il ferme même ses yeux jaunes... Il n'émet plus de bruit également ! Ses bouches latérales s'ouvrent sur d'étranges êtres en blanc...
 
-    Le mélange de paroles douces me rassure, les gestes s’appliquent avec beaucoup d’attention, avec tendresse.<br> 
-    On me soulève, me recroqueville au creux d'une épaule, m'emmène dans l'antre de fer...<br> 
-    J'entrevois ma mère, portée délicatement sur une civière par des blouses immaculées...<br> 
-    Ils la transportent aussi au chaud, avec moi… Elle en profite pour me toucher.<br> 
-    L’un des hommes, en rouge et bleu celui-là, me pose entre ses bras.<br> 
-    Elle me prend la main et me sourit comme il n’est pas permis !<br> 
-    Cela ne s’adresse pas à moi mais plutôt au vide sidéral ; c'est un sourire dont la béatitude annonce déjà l’absence…<br> 
-    À moins que ce ne soit le contraire : trop de sensations qui s'entrechoquent en moi !<br> 
-    Les oreilles naissent en chaque chose…<br> 
-    Comment comprendre, moi qui n’ai pas demandé à naître !?<br>
+Le mélange de paroles douces me rassure, les gestes s’appliquent avec beaucoup d’attention, avec tendresse. On me soulève, me recroqueville au creux d'une épaule, m'emmène dans l'antre de fer... J'entrevois ma mère, portée délicatement sur une civière par des blouses immaculées... Ils la transportent aussi au chaud, avec moi… Elle en profite pour me toucher. L’un des hommes, en rouge et bleu celui-là, me pose entre ses bras. Elle me prend la main et me sourit comme il n’est pas permis ! Cela ne s’adresse pas à moi mais plutôt au vide sidéral ; c'est un sourire dont la béatitude annonce déjà l’absence… À moins que ce ne soit le contraire : trop de sensations qui s'entrechoquent en moi ! Les oreilles naissent en chaque chose… Comment comprendre, moi qui n’ai pas demandé à naître !?
 
-    Alors, je me rends compte qu'il fait bon à l'intérieur de l'engin, bien meilleur qu’à l’endroit hostile où j'ai ouvert pour la toute première fois mes pupilles de nouveau-née...<br>
+Alors, je me rends compte qu'il fait bon à l'intérieur de l'engin, bien meilleur qu’à l’endroit hostile où j'ai ouvert pour la toute première fois mes pupilles de nouveau-née...
 
-    « Bienvenue dans ce monde de brutes, belle enfant ».<br> 
-    L'infirmière avait certainement un don de prédiction... La première brute de ma vie, c'était la vie elle-même...<br>
+« Bienvenue dans ce monde de brutes, belle enfant ». L'infirmière avait certainement un don de prédiction... La première brute de ma vie, c'était la vie elle-même...
+Au beau milieu de la nuit, la lune éclairait ces répliques fantomatiques d’un autre âge et une sorte de halo blanchâtre les enveloppait étrangement, conférant à la scène une impression lugubre de mystère. L’ombre qui se détachait de l’église ajoutait au décor, appuyant cette sensation d’outre-tombe…
 </p>
-
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold" download>Télécharger le bon de commande</a>
                     </div>
                 </div>
