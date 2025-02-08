@@ -127,20 +127,17 @@
 
 <h3 class="h2Jaune text-center m-3">L'illustrateur : Guy Lo Pinto</h3>
 <img src="images/arletteBessede/arlette-guy-br_11zon.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
-<p>
-    Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses œuvres pour la couverture du recueil de poésies d'Arlette.<br><br>
+<P>Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses oeuvres pour la couverture du recueil de poésies d'Arlette.
 
-    Ce n'est pas un hasard... Comme le dit si bien Arlette :<br><br>
+Ce n'est pas un hasard... Comme le dit si bien Arlette : 
 
-    « Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.<br><br>
+« Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.
 
-    Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.<br><br>
+Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.
 
-    Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".<br><br>
+Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".
 
-    Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà... »
-</p>
-
+Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà...»</P>
 
                     </p>
                     <div class="text-center mt-3">
@@ -228,56 +225,63 @@
 
 
  
-<p>
-    Extrait 1 :<br><br>
+<p>  
+Extrait 1 :
 
-    Ma cité lointaine<br>
-    je te vois au bout de mes rêves<br>
-    vibrante hérissée<br>
-    dans la lumière<br><br>
+Ma cité lointaine
+je te vois au bout de mes rêves
+vibrante hérissée
+dans la lumière
 
-    laisseras-tu le vent<br>
-    effacer tes murs<br><br>
 
-    abandonner au sable<br>
-    tes parfums<br>
-    de menthe et de jasmin ?<br><br>
+laisseras-tu le vent
+effacer tes murs
 
-    ***<br><br>
+abandonner au sable
+tes parfums
+de menthe et de jasmin ?
 
-    Extrait 2 :<br><br>
 
-    Ton visage sous la lune<br>
-    est pain de messe<br><br>
+ 
 
-    les pervenches de tes yeux<br>
-    retiennent mon cœur<br><br>
+***
 
-    au bord de tes lèvres<br>
-    mes lèvres<br>
-    tremblantes<br><br>
+ 
 
-    sur tes joues fleurissent toutes les roses<br><br>
+Extrait 2 :
 
-    ton beau visage ma déchirure<br>
+Ton visage sous la lune
+est pain de messe
+
+
+les pervenches de tes yeux
+ retiennent mon cœur
+
+
+au bord de tes lèvres
+mes lèvres
+tremblantes
+
+
+sur tes joues fleurissent toutes les roses
+
+
+ton beau visage ma déchirure
+
 </p>
-
 <h3 class="h2Jaune text-center m-3">L'illustrateur : Guy Lo Pinto</h3>
 <img src="images/arletteBessede/arlette-guy-br_11zon.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
-<p>
-    Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses œuvres pour la couverture du recueil de poésies d'Arlette.<br><br>
+<P>Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses oeuvres pour la couverture du recueil de poésies d'Arlette.
 
-    Ce n'est pas un hasard... Comme le dit si bien Arlette :<br><br>
+Ce n'est pas un hasard... Comme le dit si bien Arlette : 
 
-    « Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.<br><br>
+« Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.
 
-    Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.<br><br>
+Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.
 
-    Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".<br><br>
+Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".
 
-    Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà... »
-</p>
-
+Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà...»</P>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

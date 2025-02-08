@@ -91,56 +91,63 @@
 
 
  
-<p>
-    Extrait 1 :<br><br>
 
-    Ma cité lointaine<br>
-    je te vois au bout de mes rêves<br>
-    vibrante hérissée<br>
-    dans la lumière<br><br>
+Extrait 1 :
 
-    laisseras-tu le vent<br>
-    effacer tes murs<br><br>
+Ma cité lointaine
+je te vois au bout de mes rêves
+vibrante hérissée
+dans la lumière
 
-    abandonner au sable<br>
-    tes parfums<br>
-    de menthe et de jasmin ?<br><br>
 
-    ***<br><br>
+laisseras-tu le vent
+effacer tes murs
 
-    Extrait 2 :<br><br>
+abandonner au sable
+tes parfums
+de menthe et de jasmin ?
 
-    Ton visage sous la lune<br>
-    est pain de messe<br><br>
 
-    les pervenches de tes yeux<br>
-    retiennent mon cœur<br><br>
+ 
 
-    au bord de tes lèvres<br>
-    mes lèvres<br>
-    tremblantes<br><br>
+***
 
-    sur tes joues fleurissent toutes les roses<br><br>
+ 
 
-    ton beau visage ma déchirure<br>
+Extrait 2 :
+
+Ton visage sous la lune
+est pain de messe
+
+
+les pervenches de tes yeux
+ retiennent mon cœur
+
+
+au bord de tes lèvres
+mes lèvres
+tremblantes
+
+
+sur tes joues fleurissent toutes les roses
+
+
+ton beau visage ma déchirure
+
 </p>
-
 <h3 class="h2Jaune text-center m-3">L'illustrateur : Guy Lo Pinto</h3>
 <img src="images/arletteBessede/arlette-guy-br_11zon.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
-<p>
-    Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses œuvres pour la couverture du recueil de poésies d'Arlette.<br><br>
+<P>Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses oeuvres pour la couverture du recueil de poésies d'Arlette.
 
-    Ce n'est pas un hasard... Comme le dit si bien Arlette :<br><br>
+Ce n'est pas un hasard... Comme le dit si bien Arlette : 
 
-    « Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.<br><br>
+« Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.
 
-    Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.<br><br>
+Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.
 
-    Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".<br><br>
+Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".
 
-    Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà... »
-</p>
-
+Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà...»</P>
 
                     </p>
                     <div class="text-center mt-3">
@@ -199,85 +206,96 @@
 
 
 <p>
-    Un titre prometteur pour une invitation dans un voyage intime qui ne laissera pas de marbre le lecteur !<br>
+Un titre prometteur pour une invitation dans un voyage intime qui ne laissera pas de marbre le lecteur !
 
-    Les retours du comité de lecture sont éloquents !<br>
+Les retours du comité de lecture sont éloquents !
 
-    Jugez-en !<br><br>
+Jugez-en !<br>
 
-    <strong class="h2Jaune">Véro :</strong> Je viens juste de prendre le temps de lire le recueil d'Arlette. J'ai beaucoup aimé et je suis d'accord pour dire que cela mérite d'être publié. Des photos sont-elles prévues pour l'illustration ? Si besoin j'en ai quelques unes sous le coude qui pourraient être utilisées. Cette petite pause "poésie" m'a fait du bien et m'a fait oublier un temps mes tracas (...) Un petit coup de boost au moral....<br><br>
+<strong class="h2Jaune">Véro :</strong>  Je viens juste de prendre le temps de lire le recueil d'Arlette. J'ai beaucoup aimé et je suis d'accord pour dire que cela mérite d'être publié. Des photos sont-elles prévues pour l'illustration ? Si besoin j'en ai quelques unes sous le coude qui pourraient être utilisées.
+Cette petite pause "poésie" m'a fait du bien et m'a fait oublié un temps mes tracas (...)  Un  petit coup de boost au moral....<br>
 
-    <strong class="h2Jaune">Jocelyn :</strong> Je ne suis pas un spécialiste de la poésie, loin de là, mes connaissances s'arrêtant aux grands classiques, ce qui est désespéré car je suis frontalier du pays de Rimbaud... Cet ouvrage est très intéressant car fluide, sensible et empli d'une douce tristesse à certains moments. Arlette a réussi à accrocher mon attention sur un domaine qui m'est étranger en pleine nuit (je viens juste de le terminer). Il y a de la sensibilité, du volume... Il faudrait accompagner cette belle écriture de photos, cela rendrait le texte encore plus fort. Bravo pour ce beau travail.<br><br>
+<strong class="h2Jaune">Jocelyn  :</strong> Je ne suis pas un spécialiste de la poésie, loin de là, mes connaissances s'arrêtant aux grands classiques, ce qui est désespéré car je suis frontalier du pays de Rimbaud... Cet ouvrage est très intéressant car fluide, sensible et empli d'une douce tristesse à certains moments. Arlette à réussi à accrocher mon attention sur un domaine qui m'est étranger en pleine nuit (je viens juste de le terminer). Il y a de la sensibilité, du volume... Il faudrait accompagner cette belle écriture de photos, cela rendrait le texte encore plus fort. Bravo pour ce beau travail.<br>
 
-    <strong class="h2Jaune">Christine :</strong> Réfugiée dans ma Bretagne chérie, en ce Finistère sud que j'aime tant, je me suis posée pour lire ta poésie Arlette. Les mots sont joliment liés et agencés entre eux, la lecture est fluide et agréable. Je suis moi aussi favorable à l'édition de ton recueil.<br><br>
+<strong class="h2Jaune">Christine :</strong>  Réfugiée dans ma bretagne chérie, en ce Finistère sud que j'aime tant, je me suis posée pour lire ta poésie Arlette.
+Les mots sont joliment liés et agencés entre eux, la lecture est fluide et agréable.
+Je suis moi aussi favorable à l'édition de ton recueil.<br>
 
-    <strong class="h2Jaune">Jean-Pierre :</strong> L'écriture est très personnelle, sensible. Rien ne s'oppose à l'accomplissement des poésies en recueil.<br><br>
+<strong class="h2Jaune">Jean-Pierre :</strong>Jean-Pierre  L'écriture est très personnelle, sensible. Rien ne s'oppose à l'accomplissement des poésies en recueil.<br>
 
-    <strong class="h2Jaune">Nicole :</strong> Ce petit recueil de poésie m'a réchauffé le cœur et l'esprit ce dont j'ai tant besoin en ce moment, merci.<br><br>
+<strong class="h2Jaune">Nicole :</strong>  Ce petit recueil de poésie m'a réchauffé le cœur et l'esprit ce dont j'ai tant besoin en ce moment, merci.<br>
 
-    <strong class="h2Jaune">Monica :</strong> Rayons de soleil dans la grisaille ambiante, ces poésies donnent envie de jardins, de fleurs et de voyages. J'aime beaucoup.<br><br>
+<strong class="h2Jaune">Monica :</strong> rayons de soleil dans la grisaille ambiante, ces poésies donnent envie de jardins, de fleurs et de voyages. J'aime beaucoup.<br>
 
-    <strong class="h2Jaune">Résumé :</strong> Je réagis sur l'ouvrage poétique d'Arlette qui me semble (à mon humble avis) très agréable à lire et à entendre. Je ne suis pas qualifiée pour juger de la technique, mais à mes oreilles je le trouve rythmé et chantant. Bref... vous aurez compris que je donne mon aval sur l'édition de cet ouvrage..<br><br>
+<strong class="h2Jaune">Résumé :</strong>Je réagis sur l'ouvrage poétique d'Arlette qui me semble (à mon humble avis) très agréable à lire et à entendre. Je ne suis pas qualifiée pour juger de la technique, mais à mes oreilles je le trouve rythmé et chantant. Bref...vous aurez compris que je donne mon aval sur l'édition de cet ouvrage..<br>
 
-    <strong class="h2Jaune">Jacqueline :</strong> Tout à fait d’accord avec le commentaire de Monica… c’est souple et bien écrit, je ne peux juger du fond (qui n’est pas une nouveauté en soi dans le monde de la poésie, mais pourquoi pas?) Allez Arlette! Ça te donnera du baume au cœur de te voir encore publiée… et courage !
-</p>
-
+<strong class="h2Jaune">Jacqueline :</strong>Jacqueline : tout à fait d’accord avec le commentaire de Monica… c’est souple et bien écrit, je ne peux juger du fond (qui n’est pas une nouveauté en soi dans le monde de la poésie, mais pourquoi pas?)
+Allez Arlette! Ça te donnera du baume au coeur de te voir encore publiée… et courage !
+                        </p>
+ 
 
 <img src="images/arletteBessede/arletteBessede.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
 
 
 
  
-<p>
-    Extrait 1 :<br><br>
 
-    Ma cité lointaine<br>
-    je te vois au bout de mes rêves<br>
-    vibrante hérissée<br>
-    dans la lumière<br><br>
+Extrait 1 :
 
-    laisseras-tu le vent<br>
-    effacer tes murs<br><br>
+Ma cité lointaine
+je te vois au bout de mes rêves
+vibrante hérissée
+dans la lumière
 
-    abandonner au sable<br>
-    tes parfums<br>
-    de menthe et de jasmin ?<br><br>
 
-    ***<br><br>
+laisseras-tu le vent
+effacer tes murs
 
-    Extrait 2 :<br><br>
+abandonner au sable
+tes parfums
+de menthe et de jasmin ?
 
-    Ton visage sous la lune<br>
-    est pain de messe<br><br>
 
-    les pervenches de tes yeux<br>
-    retiennent mon cœur<br><br>
+ 
 
-    au bord de tes lèvres<br>
-    mes lèvres<br>
-    tremblantes<br><br>
+***
 
-    sur tes joues fleurissent toutes les roses<br><br>
+ 
 
-    ton beau visage ma déchirure<br>
+Extrait 2 :
+
+Ton visage sous la lune
+est pain de messe
+
+
+les pervenches de tes yeux
+ retiennent mon cœur
+
+
+au bord de tes lèvres
+mes lèvres
+tremblantes
+
+
+sur tes joues fleurissent toutes les roses
+
+
+ton beau visage ma déchirure
+
 </p>
-
 <h3 class="h2Jaune text-center m-3">L'illustrateur : Guy Lo Pinto</h3>
 <img src="images/arletteBessede/arlette-guy-br_11zon.webp" class="img-fluid  mb-3 d-block mx-auto w-50" alt="Illustration">
-<p>
-    Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses œuvres pour la couverture du recueil de poésies d'Arlette.<br><br>
+<P>Guy Lo Pinto, peintre reconnu demeurant sur l'île de Ré, pose ici avec Arlette Bessède. Il a gentiment accepté de prêter une de ses oeuvres pour la couverture du recueil de poésies d'Arlette.
 
-    Ce n'est pas un hasard... Comme le dit si bien Arlette :<br><br>
+Ce n'est pas un hasard... Comme le dit si bien Arlette : 
 
-    « Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.<br><br>
+« Ma démarche poétique, dans ce recueil, a été l'interprétation de toiles abstraites réalisées par le peintre Guy Lopinto.
 
-    Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.<br><br>
+Avec ses couleurs, Guy Lopinto crée un monde de lumière et de douceurs où chacun de mes poèmes est inspiré par l'enchantement de ses toiles.
 
-    Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".<br><br>
+Fleurs, paysages, déserts d'ocres, villes perdues, autres galaxies et chemins de muses, que je vous laisse imaginer en rêvant " Sur le ventre irisé des nos rivières ".
 
-    Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà... »
-</p>
-
+Nous aurons le plaisir de découvrir plus en avant Guy Lo Pinto, dans un projet l'associant à la poètesse Danielle Siron, que les lecteurs connaissent déjà...»</P>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

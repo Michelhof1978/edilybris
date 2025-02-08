@@ -36,14 +36,14 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-        <p class="text-center text-white">Arlette Bessède, pérignacienne, se veut avant tout témoin de son univers plutôt que d'une ville en particulier.<br> 
-Elle a une plume sensible à fleur de peau et sait, par une épure du texte, aller à l'essentiel.<br><br> 
+<p class="text-center text-white">Arlette BESSEDE pratique une poésie épurée, qui suggère plus qu’elle ne montre ;<br> 
+qui, au détour d’une association d’idées, pose la magie, touche au miracle du mot dévoilé, s’abandonne à la découverte du monde ;<br> 
+une poésie qui émeut, parce qu’elle est nôtre et s’immisce au fond de notre conscience et des réalités quotidiennes.<br> 
+Entre les pierres blanches de la Saintonge et le désert qui surgit au fil du verbe, Arlette BESSEDE voyage et s’émerveille.<br> 
+Les impressions qu’elle distille en sont la parfaite illustration et son amour du partage se livre entre vos mains...</p><br>
 
-Très impliquée dans la vie associative, elle s'occupe de causes nobles comme la place de la femme dans nos sociétés modernes.<br> 
-Elle est à l'initiative également de salons féminins sur La Rochelle.<br><br> 
-
-Personnalité très attachante, Arlette Bessède saura séduire votre âme de poète.</p>
-
+<p>« D’une goutte d’eau j’ai étanché Ma soif » écrit-elle dans « L’amie du désert »,<br> 
+mais elle est loin de satisfaire notre envie de découvrir à nouveau sa plume !</p>
              <!-- Section image et texte -->
 <div class="bio-content">
     <div class="bio-text">

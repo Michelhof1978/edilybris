@@ -48,15 +48,13 @@
                     <h4 class="h2Jaune text-center m-3">Maillot</h4>
 
                     <p>
-    Mets ton une pièce, n’oublie ni lunettes ni chapeau.<br>
-    Abandonne ton tablier, ta vaisselle et tes chiffons.<br>
-    Ivre de liberté, baigne-toi de mer et de soleil.<br>
-    Lâche prise, enfin, allongée sur le sable, livre à la main.<br>
-    Laisse-toi vivre comme star à la peau dorée et nage.<br>
-    Olympienne dans ton maillot diapré de couleurs chatoyantes,<br>
-    Top Modèle de ces vacances de charme.
-</p>
-
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -102,15 +100,13 @@
                     <h4 class="h2Jaune text-center m-3">Maillot</h4>
 
                     <p>
-    Mets ton une pièce, n’oublie ni lunettes ni chapeau.<br>
-    Abandonne ton tablier, ta vaisselle et tes chiffons.<br>
-    Ivre de liberté, baigne-toi de mer et de soleil.<br>
-    Lâche prise, enfin, allongée sur le sable, livre à la main.<br>
-    Laisse-toi vivre comme star à la peau dorée et nage.<br>
-    Olympienne dans ton maillot diapré de couleurs chatoyantes,<br>
-    Top Modèle de ces vacances de charme.
-</p>
-
+                    Mets ton une pièce n’oublie ni lunettes ni chapeau
+Abandonne ton tablier ta vaisselle et tes chiffons
+Ivre de liberté baigne-toi de mer et de soleil
+Lâche prise      enfin     allongée sur le sable livre à la main
+Laisse-toi vivre comme star à la peau dorée et nage
+Olympienne dans ton maillot diapré de couleurs chatoyantes
+Top Modèle de ces vacances de charme</P>
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
                 </div>

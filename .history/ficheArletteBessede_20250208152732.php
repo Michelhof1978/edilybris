@@ -1,4 +1,29 @@
+<?php include("head.php"); ?>
 
+<title></title>
+ <meta name="description" content="">
+ <style>
+     .bio-content{
+        margin-top: -90px;
+        margin-bottom: -50px;
+     
+    }
+
+    @media screen and (max-width: 768px) {
+    .bio-content {
+        margin-top: -300px;
+        margin-bottom: -300px;
+       
+    }
+}
+ </style>
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ 
 <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Arlette Bessède</h1>
@@ -11,7 +36,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-<p class="text-center">Arlette Bessède, pérignacienne, se veut avant tout témoin de son univers plutôt que d'une ville en particulier. <br>
+<p class="text-center text-white">Arlette Bessède, pérignacienne, se veut avant tout témoin de son univers plutôt que d'une ville en particulier. <br>
     Elle a une plume sensible à fleur de peau et sait, par une épure du texte, aller à l'essentiel.<br>
 
 Très impliquée dans la vie associative, elle s'occupe de causes nobles comme la place de la femme dans nos sociétés modernes. <br>
@@ -120,3 +145,10 @@ Personnalité très attachante, Arlette Bessède saura séduire votre âme de po
     </div>
 </section>
 
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>
