@@ -42,7 +42,6 @@
     Entrez donc dans cette maison située dans le quartier Sainte-Pezenne à Niort, vous aurez à coeur d’aider Yveline et ses filles dans leur quête de vérité et de justice !<br>
 </p>
 
-
                     <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -162,99 +161,96 @@ J’ai, dans un premier temps, accepté de réécrire entièrement le livre – 
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440600</p>
 
                         <p class="lead text-white">
-    Emménager dans un nouveau logement révèle souvent une part d’inconnu. Un sentiment excitant, à découvrir les secrets cachés. Aussi, lorsqu’une enseignante et ses filles jumelles découvrent un cahier-journal dans la cave de la maison d’école qu’elles occupent, elles sont loin d’imaginer ce qui les attend...<br>
-    
-    Puis, par une pluie d’orage, ce sont les intempéries qui réveillent le passé... une montre à gousset, des boutons «R.F.», et... Tout un pan d’une histoire tragique surgit, la curiosité est piquée et la vérité enfouie ne demande qu’à se dévoiler. C’est à cela que cette mère et ces demoiselles s’appliquent ! Sauf si les obstacles rencontrés les en empêchent, bien évidemment...<br>
+                        Emménager dans un nouveau logement révèle souvent une part d’inconnu. Un sentiment excitant, à découvrir les secrets cachés. Aussi, lorsqu’une enseignante et ses filles jumelles découvrent un cahier-journal dans la cave de la maison d’école qu’elles occupent, elles sont loin d’imaginer ce qui les attend...
 
-    Entrez donc dans cette maison située dans le quartier Sainte-Pezenne à Niort, vous aurez à coeur d’aider Yveline et ses filles dans leur quête de vérité et de justice !<br>
-</p>
+Puis, par une pluie d’orage, ce sont les intempéries qui réveillent le passé... une montre à gousset, des boutons «R.F.», et... Tout un pan d’une histoire tragique surgit, la curiosité est piquée et la vérité enfouie ne demande qu’à se dévoiler. C’est à cela que cette mère et ces demoiselles s’appliquent ! Sauf si les obstacles rencontrés les en empêchent, bien évidemment...
 
+Entrez donc dans cette maison située dans le quartier Sainte-Pezenne à Niort, vous aurez à coeur d’aider Yveline et ses filles dans leur quête de vérité et de justice !
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1 </h3>
-<p>
-    Lorsqu’après plusieurs années dans une tour HLM au ras du boulevard ceinturant Niort, qui n’était habitée que par des retraités et leurs toutous, on nous proposa, les filles et moi, la location de la rue de l’Hometrou, il n’y eut aucune hésitation. C’est avec un peu d’impatience que nous avons attendu que l’ancienne maison d’école, qui avait été squattée et détériorée, soit remise à neuf et le jardin débarrassé. De temps à autre, nous venions voir notre futur logement, dont la peinture beurre frais, tout juste refaite, étincelait sous le soleil.<br>
+                    <p>
+                    Lorsqu’après plusieurs années dans une tour HLM au ras du boulevard ceinturant Niort, qui n’était habitée que par des retraités et leurs toutous, on nous proposa, les filles et moi, la location de la rue de l’Hometrou, il n’y eut aucune hésitation. C’est avec un peu d’impatience que nous avons attendu que l’ancienne maison d’école, qui avait été squattée et détériorée, soit remise à neuf et le jardin débarrassé. De temps à autre, nous venions voir notre futur logement, dont la peinture beurre frais, tout juste refaite, étincelait sous le soleil.
 
-    Le jour de l’emménagement, il pleuvait des cordes et les lieux nous semblèrent bien peu accueillants. Mais, deux jours après, le plus gros des cartons déballé, l’électricité installée, nous étions chez nous dans cette maison claire et vaste, flanquée d’une étroite bande de terre et d’un cabanon en pierre de taille. Le « jardin » a la particularité de former une sorte de terrasse en herbe, dominant la vallée de la Sèvre. De ce fait, les grands arbres qui bordent le fleuve poussent en contrebas, et nous sommes, dans la cuisine et les chambres, à hauteur de cimes, de pies et d’écureuils.<br>
+Le jour de l’emménagement, il pleuvait des cordes et les lieux nous semblèrent bien peu accueillants. Mais, deux jours après, le plus gros des cartons déballé, l’électricité installée, nous étions chez nous dans cette maison claire et vaste, flanquée d’une étroite bande de terre et d’un cabanon en pierre de taille. Le « jardin » a la particularité de former une sorte de terrasse en herbe, dominant la vallée de la Sèvre. De ce fait, les grands arbres qui bordent le fleuve poussent en contrebas, et nous sommes, dans la cuisine et les chambres, à hauteur de cimes, de pies et d’écureuils.
 
-    Les vacances scolaires se terminent, et nous goûtons aux dernières heures de repos. Élina fait de la chaise longue dans le jardin, juste sous ma fenêtre, Ethel écoute Norah Jones dans sa chambre, je range le bail récemment signé en chantonnant avec le CD…<br>
+Les vacances scolaires se terminent, et nous goûtons aux dernières heures de repos. Élina fait de la chaise longue dans le jardin, juste sous ma fenêtre, Ethel écoute Norah Jones dans sa chambre, je range le bail récemment signé en chantonnant avec le CD…
 
-    — Maman, t’as regardé sur le bail comment ça s’écrit Hometrou ?<br>
+— Maman, t’as regardé sur le bail comment ça s’écrit Hometrou ?
 
-    C’est Ethel, la plus curieuse de mes filles. Elle dit souvent que c’est parce que je lui ai donné un prénom qui commence par une question !<br>
+C’est Ethel, la plus curieuse de mes filles. Elle dit souvent que c’est parce que je lui ai donné un prénom qui commence par une question ! 
 
-    — Ça s’écrit : h.o.m.e.t.r.o.u, tu sais bien. Comme sur la plaque du début de la rue.<br>
+— Ça s’écrit : h.o.m.e.t.r.o.u, tu sais bien. Comme sur la plaque du début de la rue. 
 
-    — Ça fait pas vrai, Hometrou, ça doit être la déformation d’un autre mot, homme dans le trou, homme-tronc…<br>
+— Ça fait pas vrai, Hometrou, ça doit être la déformation d’un autre mot, homme dans le trou, homme-tronc…
 
-    — C’est quoi, un homme-tronc ? dit la petite voix flûtée d’Élina.<br>
+— C’est quoi, un homme-tronc ? dit la petite voix flûtée d’Élina.
 
-    Ethel se penche à la fenêtre encore sans rideaux.<br>
+Ethel se penche à la fenêtre encore sans rideaux.
 
-    — C’est comme la femme à barbe ou les sœurs siamoises, c’étaient des attractions dans les cirques d’autrefois…<br>
+— C’est comme la femme à barbe ou les sœurs siamoises, c’étaient des attractions dans les cirques d’autrefois…
 
-    — Ethel, il y a aussi des hommes-troncs à la suite d’un accident. Ton papy en connaît un, que j’ai vu jouer au ping-pong en fauteuil. Il a été en quelque sorte désossé, il ne reste plus rien de ses jambes.<br>
+— Ethel, il y a aussi des hommes-troncs à la suite d’un accident. Ton papy en connaît un, que j’ai vu jouer au ping-pong en fauteuil. Il a été en quelque sorte désossé, il ne reste plus rien de ses jambes.
 
-    — Pouah, dit Ethel. Pauvre homme. Tu crois qu’Hometrou, ça veut dire homme-tronc ?<br>
+— Pouah, dit Ethel. Pauvre homme. Tu crois qu’Hometrou, ça veut dire homme-tronc ?
 
-    — Je ne crois rien, je n’en sais rien. Je sais juste que le nom est ancien. Nous sommes dans le bourg de Sainte-Pezenne, qui doit dater du Moyen-Âge. Il y a peut-être des moyens de savoir, mais tu n’as pas envie d’aller au cadastre ou aux Archives départementales aujourd’hui, j’imagine ?<br>
+— Je ne crois rien, je n’en sais rien. Je sais juste que le nom est ancien. Nous sommes dans le bourg de Sainte-Pezenne, qui doit dater du Moyen-Âge. Il y a peut-être des moyens de savoir, mais tu n’as pas envie d’aller au cadastre ou aux Archives départementales aujourd’hui, j’imagine ?
 
-    — Non. Et puis j’ai dit à Ben de passer, maintenant qu’on est voisins. Je chercherai un jour. Pour moi, c’est homme-tronc et un curé ou un notaire d’autrefois a oublié un m.<br>
+— Non. Et puis j’ai dit à Ben de passer, maintenant qu’on est voisins. Je chercherai un jour. Pour moi, c’est homme-tronc et un curé ou un notaire d’autrefois a oublié un m. 
 
-    — S’il n’avait pas d’orthographe, ce n’était pas forcément un homme du passé !<br>
+— S’il n’avait pas d’orthographe, ce n’était pas forcément un homme du passé !
 
-    La voix d’Élina se fait de nouveau entendre.<br>
+La voix d’Élina se fait de nouveau entendre. 
 
-    — Moi, je pense que ça veut dire homme, et trou. Reste à savoir où est le trou.<br>
+— Moi, je pense que ça veut dire homme, et trou. Reste à savoir où est le trou.
 
-    Je ris.<br>
+Je ris.
 
-    — Tu dois être dessus ! D’après les renseignements fournis par la Semie, tu as posé ta chaise longue sur l’ancienne fosse septique.<br>
+— Tu dois être dessus ! D’après les renseignements fournis par la Semie, tu as posé ta chaise longue sur l’ancienne fosse septique. 
 
-    — J’sens rien. Tu crois ?<br>
+— J’sens rien. Tu crois ?
 
-    — Il y a le tout-à-l’égout depuis longtemps. Mais la fosse doit subsister, au moins en partie. Méfie-toi, avec ton énorme poids et celui de ton bouquin, le sol risque de s’effondrer et Dieu seul sait où on te retrouvera. Dans la Sèvre, peut-être.<br>
+— Il y a le tout-à-l’égout depuis longtemps. Mais la fosse doit subsister, au moins en partie. Méfie-toi, avec ton énorme poids et celui de ton bouquin, le sol risque de s’effondrer et Dieu seul sait où on te retrouvera. Dans la Sèvre, peut-être. 
 
-    — T’exagères, Maman. Je dois peser moins que la chaise longue. Et puis j’ai l’estomac vide. On va goûter quand ?<br>
+— T’exagères, Maman. Je dois peser moins que la chaise longue. Et puis j’ai l’estomac vide. On va goûter quand ?
 
-    — Puisque toi, tu es au rez-de-chaussée, si tu t’occupais du goûter ? J’ai du travail là-haut.<br>
+— Puisque toi, tu es au rez-de-chaussée, si tu t’occupais du goûter ? J’ai du travail là-haut.
 
-    Je range encore quelques factures dans des chemises, puis je descends par l’escalier de bois.<br>
+Je range encore quelques factures dans des chemises, puis je descends par l’escalier de bois.
 
-    Mes filles sont dans le salon, en train de faire les imbéciles, enveloppées, l’une dans un rideau non installé, l’autre dans un grand morceau de toile laissé par les déménageurs.<br>
+Mes filles sont dans le salon, en train de faire les imbéciles, enveloppées, l’une dans un rideau non installé, l’autre dans un grand morceau de toile laissé par les déménageurs.
 
-    — Je suis Fantômette, et je découvrirai ton secret, l’homme-tronc, je saurai qui tu es !<br>
+— Je suis Fantômette, et je découvrirai ton secret, l’homme-tronc, je saurai qui tu es ! 
 
-    — Piochi, piocha, je suis Arkéologia, homme-trou ou homme-tronc, je te découvrirai !<br>
+— Piochi, piocha, je suis Arkéologia, homme-trou ou homme-tronc, je te découvrirai ! 
 
-    — Oh la la, les filles, quand je pense que vous allez entrer en seconde…<br>
+— Oh la la, les filles, quand je pense que vous allez entrer en seconde…
 
-    — Maman, faut bien qu’on s’amuse un peu. Toi, tu nous interprètes bien la danse du tri sélectif depuis que la Semie t’a donné quatre poubelles. Et puis, on est bien là, non ? On est plus détendues que sur notre boulevard. La première nuit, ça me faisait tout drôle de ne plus entendre Lutin aboyer.<br>
+— Maman, faut bien qu’on s’amuse un peu. Toi, tu nous interprètes bien la danse du tri sélectif depuis que la Semie t’a donné quatre poubelles. Et puis, on est bien là, non ? On est plus détendues que sur notre boulevard. La première nuit, ça me faisait tout drôle de ne plus entendre Lutin aboyer.
 
-    La rue de l’Hometrou comporte un seul commerce, à cent mètres de chez nous : une boulangerie-pâtisserie, dont nous étrennons ce jour les chocolatines.<br>
+La rue de l’Hometrou comporte un seul commerce, à cent mètres de chez nous : une boulangerie-pâtisserie, dont nous étrennons ce jour les chocolatines.
 
-    — On essaiera les pains aux raisins la prochaine fois, dit Ethel la bouche pleine. Maman, j’ai une idée, si on donnait un nom à la maison ?<br>
+— On essaiera les pains aux raisins la prochaine fois, dit Ethel la bouche pleine. Maman, j’ai une idée, si on donnait un nom à la maison ?
 
-    — Un nom à la maison ?<br>
+— Un nom à la maison ?
 
-    — Oui, vu que c’est le numéro 7, on pourrait l’appeler « Sept à nous ».<br>
+— Oui, vu que c’est le numéro 7, on pourrait l’appeler « Sept à nous ».
 
-    — Mais nous sommes locataires ! Je propose « Sept ici », pour les gens qui nous chercheraient.<br>
+— Mais nous sommes locataires ! Je propose « Sept ici », pour les gens qui nous chercheraient. 
 
-    — C’est nul, c’est de l’humour de prof. J’ai une meilleure idée, on va l’appeler « Hometrou, sweet hometrou ».<br>
+— C’est nul, c’est de l’humour de prof. J’ai une meilleure idée, on va l’appeler « Hometrou, sweet hometrou ».
 
-    — Et ça, c’est pire que de l’humour de prof, c’est de l’humour de potache. Remarque, ce n’est pas facile de nommer une maison.<br>
+— Et ça, c’est pire que de l’humour de prof, c’est de l’humour de potache. Remarque, ce n’est pas facile de nommer une maison. 
 
-    — On lui donnera un nom dans quelques mois, dit Ethel en avalant la dernière bouchée. Quand on aura trouvé…<br>
+— On lui donnera un nom dans quelques mois, dit Ethel en avalant la dernière bouchée. Quand on aura trouvé…
 
-    — Trouvé quoi ?<br>
+— Trouvé quoi ?
 
-    — Ben… l’homme-trou ou l’homme-tronc, pardi !<br>
+— Ben… l’homme-trou ou l’homme-tronc, pardi !
 </p>
-
 
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
                     <p>
-<P  class="coloryellow">Edi’lybris : Bonjour  Jocelyne</P><br>
-<p>Réponse : Bonjour Pierre !</p>
+<P  class="coloryellow">Edi’lybris : Bonjour  Jocelyne<br>
+Réponse : Bonjour Pierre !</P>
 
 <P class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ?<br> </p>
 <P class="coloryellow">Tu te souviens en quelle année ?<br> </p>

@@ -20,7 +20,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation</h2>
-        <div class="text-center text-white">
+        <div class="text-center">
   <p>
     Voilà l’exercice le plus difficile que j’aie jamais eu à faire… écrire ma « biographie ». <br>
     Tous mes livres sont en partie autobiographiques, mais il n’y a que moi qui le sais ! Et quelques proches qui se reconnaissent. <br>
@@ -92,7 +92,7 @@
 </div>
 <!-- MODE MOBILE -->
 <div class="d-block d-md-none">
-    <!-- Groupe 1  le grand livre--->
+    <!-- Groupe 1  l egrand livre--->
     <div id="mobile-group1PierreBrandao" class="mobile-books-container">
         <div class="mobile-book-card">
             <a href="ficheJocelynCathelineauLeGrandLivre.php">
@@ -124,10 +124,10 @@
     
 
     <!-- Boutons de navigation -->
-    <!-- <div class="mobile-navigation">
+    <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
         <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
-    </div> -->
+    </div>
 </div>
 
     <!-- MODE DESKTOP -->

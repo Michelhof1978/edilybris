@@ -1,5 +1,15 @@
+<?php include("head.php"); ?>
 
-<div class="headerAuteur">
+<title></title>
+ <meta name="description" content="">
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Roxane Lovac</h1>
         <img src="images/roxaneLovac/roxaneLovac.webp" alt="Arlette Bessède" class="img-fluid bio-image">
@@ -11,7 +21,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Véronique ASH en quelques mots...</h2>
-<p class="text-center">Roxane LOVAC, lorsqu’elle écrit son premier roman, est une femme active de quarante et un
+<p class="text-center text-white">Roxane LOVAC, lorsqu’elle écrit son premier roman, est une femme active de quarante et un
 ans. Elle a toujours été attirée par le développement personnel, passionnée par les relations
 humaines et les échanges à cœur ouvert. Ses préceptes favoris, au gré de ses lectures :
 
@@ -32,24 +42,24 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
 <h2 class="h2Jaune">L'INTERVIEW</h2>
 <div class="text-center">
   <p class="coloryellow">Edi’lybris : Bonjour Roxane </p>
-  <p>Roxane Lovac : Bonjour Pierre</p>
+  <p class="text-white">Roxane Lovac : Bonjour Pierre</p>
 
   <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ?</p>
   <p>Tu te souviens en quelle année ?</p>
-  <p>Par hasard sur un salon du livre en 2023. Mais puisque le hasard n’existe pas, c’était sûrement un rendez-vous !</p>
+  <p class="text-white">Par hasard sur un salon du livre en 2023. Mais puisque le hasard n’existe pas, c’était sûrement un rendez-vous !</p>
 
-  <p>Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p>
-  <p>En toute simplicité…</p>
+  <p class="text-white">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p>
+  <p class="text-white">En toute simplicité…</p>
 
   <p class="coloryellow">Quelle impression gardes-tu de ta collaboration avec l’équipe rédactionnelle ?</p>
   <p class="coloryellow">Les conseils prodigués ont-ils été à la hauteur de tes attentes ?</p>
-  <p>Ce qui m’a le plus marquée est la bienveillance dont l’équipe fait preuve.</p>
+  <p class="text-white">Ce qui m’a le plus marquée est la bienveillance dont l’équipe fait preuve.</p>
 
   <p class="coloryellow">Parlons du livre. Comment t’est venue l’idée d’écrire sur ce sujet ?</p>
-  <p>Les petits bonheurs du jour est né à un moment charnière de ma vie. J’ai ressenti le besoin de coucher mon histoire sur le papier. Ma vie parfaitement imparfaite vient de mon envie d’y coucher mes rêves et fantasmes tout en abordant un sujet qui touche tout le monde : la pérennité du couple.</p>
+  <p class="text-white">Les petits bonheurs du jour est né à un moment charnière de ma vie. J’ai ressenti le besoin de coucher mon histoire sur le papier. Ma vie parfaitement imparfaite vient de mon envie d’y coucher mes rêves et fantasmes tout en abordant un sujet qui touche tout le monde : la pérennité du couple.</p>
 
   <p class="coloryellow">Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?!</p>
-  <p>Les petits bonheurs du jour : une histoire vraie, une rencontre en toute intimité où l’empathie et les émotions sont reines. 
+  <p class="text-white">Les petits bonheurs du jour : une histoire vraie, une rencontre en toute intimité où l’empathie et les émotions sont reines. 
   Ma vie parfaitement imparfaite : Pour qu’une histoire d’amour perdure dans le temps, rien de tel qu’un nouvel élan !</p>
 
   <p>La couverture : du projet à l’étape finale, une aventure ?</p>
@@ -145,4 +155,12 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
         </div>
     </div>
 </section>
+
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>
 

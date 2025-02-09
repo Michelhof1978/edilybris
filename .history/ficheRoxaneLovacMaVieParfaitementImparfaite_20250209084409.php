@@ -210,7 +210,7 @@
     — Non, c’est celle d’une amie à moi, Marie.<br> 
     Après avoir cru que tout s’écroulait dans ma vie, je commence à aller réellement mieux.<br> Ce dossier est complètement clos et loin derrière moi.<br> Je me fabrique une nouvelle vie professionnelle et me crée un nouvel équilibre personnel.<br> Et… Waouh ! Ce que c’est bon de se sentir bien ! Je ne prétends pas avoir une vie sans défaut.<br> J’affirme juste être assez heureuse pour trouver la force de passer les petites et grandes épreuves qui se présentent dans ma vie… Assez forte, pour avouer – mais le lecteur s’en doute – que Marie et Roxane ne font qu’une… (...)<br> 
 
- 
+EXTRAIT DU CHAPITRE 1<br> 
 
 Je me souviens d’un téléphone orange, avec lequel je joue, petite.<br> Il s’agit d’un appareil à l’ancienne que l’on qualifierait de vintage aujourd’hui.<br> Il possède un cadran rotatif, composé de dix cercles numérotés de zéro à neuf (et d’un écouteur pour les curieux qui souhaitent suivre les conversations.<br> Lorsque j’en présente un à mon fils Esteban, son réflexe consiste à appuyer dans les encoches pour composer le numéro.<br> Ça me vaut un fou rire.<br> Je lui explique alors la marche à suivre :<br> 
     — Tu dois mettre ton doigt dans un trou et faire un tour complet du cadran pour chacun des chiffres qui composent le numéro de téléphone.<br> 

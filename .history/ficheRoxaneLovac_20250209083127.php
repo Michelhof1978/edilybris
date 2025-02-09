@@ -45,7 +45,7 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
   <p class="text-white">Roxane Lovac : Bonjour Pierre</p>
 
   <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ?</p>
-  <p class="coloryellow">Tu te souviens en quelle année ?</p>
+  <p>Tu te souviens en quelle année ?</p>
   <p class="text-white">Par hasard sur un salon du livre en 2023. Mais puisque le hasard n’existe pas, c’était sûrement un rendez-vous !</p>
 
   <p class="text-white">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p>

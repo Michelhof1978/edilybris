@@ -124,10 +124,10 @@
     
 
     <!-- Boutons de navigation -->
-    <!-- <div class="mobile-navigation">
+    <div class="mobile-navigation">
         <button id="mobile-back-btnPierreBrandao" class="mobile-button" disabled>Précédent</button>
         <button id="mobile-next-btnPierreBrandao" class="mobile-button">Suivant</button>
-    </div> -->
+    </div>
 </div>
 
     <!-- MODE DESKTOP -->

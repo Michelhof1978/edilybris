@@ -204,32 +204,49 @@
                     <div class="">
                         <h3 class="h2Jaune">EXTRAIT DU PROLOGUE ET DU CHAPITRE 1</h3>
                         <p class="lead text-white">
-    Tout n’est qu’impermanence ! Je le sais depuis quelques années, maintenant.<br> Quatre ans auparavant, je suis dix pieds sous terre, dans le creux de la vague, au plus bas, déprimée, dévastée, sans aucun amour-propre.<br> Un jour, prenant conscience que mon mental ne dépend que de moi, j’ai acheté un petit carnet.<br> À la première page, j’ai écrit le titre : Les petits bonheurs du jour.<br> Chaque matin, je me suis attelée à y noter tous les petits bonheurs de la veille.<br> Et ça marche : le positif attire le positif ! Mais puisque rien n’est simple, mon passé plus ou moins proche, mes peurs profondes, mes fausses croyances me rattrapent toujours.<br> C’est pour cela qu’en parallèle, j’entame l’écriture de mon premier roman Les petits bonheurs du jour.<br> 
-    — Roxane, Les petits bonheurs du jour, c’est votre histoire ?<br> 
-    J’ai entendu ou lu cette question des centaines de fois… Je répondais invariablement :<br> 
-    — Non, c’est celle d’une amie à moi, Marie.<br> 
-    Après avoir cru que tout s’écroulait dans ma vie, je commence à aller réellement mieux.<br> Ce dossier est complètement clos et loin derrière moi.<br> Je me fabrique une nouvelle vie professionnelle et me crée un nouvel équilibre personnel.<br> Et… Waouh ! Ce que c’est bon de se sentir bien ! Je ne prétends pas avoir une vie sans défaut.<br> J’affirme juste être assez heureuse pour trouver la force de passer les petites et grandes épreuves qui se présentent dans ma vie… Assez forte, pour avouer – mais le lecteur s’en doute – que Marie et Roxane ne font qu’une… (...)<br> 
+                        Tout n’est qu’impermanence ! Je le sais depuis quelques années, maintenant. Quatre ans auparavant, je suis dix pieds sous terre, dans le creux de la vague, au plus bas, déprimée, dévastée, sans aucun amour-propre. Un jour, prenant conscience que mon mental ne dépend que de moi, j’ai acheté un petit carnet. À la première page, j’ai écrit le titre : Les petits bonheurs du jour. Chaque matin, je me suis attelée à y noter tous les petits bonheurs de la veille. Et ça marche : le positif attire le positif ! Mais puisque rien n’est simple, mon passé plus ou moins proche, mes peurs profondes, mes fausses croyances me rattrapent toujours. C’est pour cela qu’en parallèle, j’entame l’écriture de mon premier roman Les petits bonheurs du jour.
+
+— Roxane, Les petits bonheurs du jour, c’est votre histoire ?
+
+J’ai entendu ou lu cette question des centaines de fois… Je répondais invariablement :
+
+— Non, c’est celle d’une amie à moi, Marie.
+
+Après avoir cru que tout s’écroulait dans ma vie, je commence à aller réellement mieux. Ce dossier est complètement clos et loin derrière moi. Je me fabrique une nouvelle vie professionnelle et me crée un nouvel équilibre personnel. Et… Waouh ! Ce que c’est bon de se sentir bien ! Je ne prétends pas avoir une vie sans défaut. J’affirme juste être assez heureuse pour trouver la force de passer les petites et grandes épreuves qui se présentent dans ma vie… Assez forte, pour avouer – mais le lecteur s’en doute – que Marie et Roxane ne font qu’une… (...)
 
  
 
-Je me souviens d’un téléphone orange, avec lequel je joue, petite.<br> Il s’agit d’un appareil à l’ancienne que l’on qualifierait de vintage aujourd’hui.<br> Il possède un cadran rotatif, composé de dix cercles numérotés de zéro à neuf (et d’un écouteur pour les curieux qui souhaitent suivre les conversations.<br> Lorsque j’en présente un à mon fils Esteban, son réflexe consiste à appuyer dans les encoches pour composer le numéro.<br> Ça me vaut un fou rire.<br> Je lui explique alors la marche à suivre :<br> 
-    — Tu dois mettre ton doigt dans un trou et faire un tour complet du cadran pour chacun des chiffres qui composent le numéro de téléphone.<br> 
-    — Waouh, mais c’est super long de lancer un appel avec un téléphone des années 1900 !<br> 
-    Et bim, en pleine tronche, la vieille ! Les enfants sont sans pitié, on le sait.<br> Mais les enfants des années 2000, encore plus ! Pour eux, nous sommes de vieux croûtons du siècle dernier ! Pas faux, mais pas complètement vrai non plus…<br> 
+EXTRAIT DU CHAPITRE 1
 
-J’entends la porte d’entrée claquer. Richard est rentré.<br> 
-    — Salut, ma chérie ! Salut, mon Lou ! Ça va ? Bonne journée ?<br> 
-    Pendant que je lui réponds, tel un automate, il se penche pour m’embrasser du bout des lèvres, dépose ses clefs, ses clopes et son briquet sur la table.<br> Il s’assoit sur le canapé, étend ses jambes et s’empare de son téléphone pour jouer à son nouveau jeu de stratégie.<br> Parfois, pendant des heures… Mais il reste à l’écoute malgré tout.<br> Soit de ce que je lui raconte, soit de ce qu’il se passe à la télé.<br> Sans pour autant, ne serait-ce qu’une seconde, lâcher son mobile.<br> Les deux seules choses qui, à ce moment de la journée lui font lâcher cet engin de malheur sont soit son estomac qui le rappelle à son bon souvenir, soit la fatigue qui l’assaille et l’emporte pour une courte sieste.<br> 
-    — Qu’est-ce qu’on mange ce soir, ma chérie ? m’interroge-t-il les yeux en cœur.<br> 
-    Tu nous as fait du « bon manger » ?<br> 
-    Le plus souvent, à ce moment-là, tout en lui répondant, je me lève pour faire réchauffer un petit plat fait maison, cuisiné durant la journée.<br> Esteban, lui, dresse la table et nourrit notre beagle et Sweety, notre chatonne nouvellement arrivée.<br> Après dîner, deux fois sur trois, les garçons se reconnectent à leurs écrans respectifs.<br> Moi, je vais et viens, entre mes pensées, la télé et quelques regards vers eux pour m’enquérir de ce qu’ils font.<br> Et deux fois sur trois, Esteban est absorbé par son écran et Richard ronfle déjà sur le canapé.<br> 
+Je me souviens d’un téléphone orange, avec lequel je joue, petite. Il s’agit d’un appareil à l’ancienne que l’on qualifierait de vintage aujourd’hui. Il possède un cadran rotatif, composé de dix cercles numérotés de zéro à neuf (et d’un écouteur pour les curieux qui souhaitent suivre les conversations. Lorsque j’en présente un à mon fils Esteban, son réflexe consiste à appuyer dans les encoches pour composer le numéro. Ça me vaut un fou rire. Je lui explique alors la marche à suivre :
 
-Il doit être fatigué de sa journée sinon il préférerait sûrement partager des moments avec moi.<br> 
+— Tu dois mettre ton doigt dans un trou et faire un tour complet du cadran pour chacun des chiffres qui composent le numéro de téléphone.
 
-Richard est… « quelqu’un de bien, juste quelqu’un de bien, le cœur à portée de main, juste quelqu’un de bien, quelqu’un de bien » (Enzo Enzo).<br> 
-Et c’est peu dire ! Mon amoureux est altruiste au possible.<br> Il se fiche de son image et de ce que pensent les autres.<br> Il aime avec simplicité et naturel, n’est ni coquet ni dans la séduction.<br> Il est lui, brut et rugueux, tendre, à l’écoute et parfois impulsif dans ses ressentis.<br> Il s’écoute, s’aime, se montre parfois égoïste, mais n’est-il pas dans le vrai ?<br> Il ne fait les choses que lorsqu’il est décidé.<br> Il dort s’il est fatigué, mange s’il a faim, crie s’il est en colère et câline s’il en a envie.<br> Aux yeux d’inconnus, il paraît d’une assurance inébranlable.<br> Et pourtant, il est parfois profondément blessé, par certains jugements trop hâtifs.<br> Moi qui vis à ses côtés depuis plus de vingt ans, j’ai exploré ses contours, ses failles et ses profondeurs.<br> Il n’est pas ce que certains voient de lui.<br> Il peut paraître fier, mais jamais orgueilleux, arrogant par sa franchise, mais jamais insolent ni même méprisant.<br> 
-</p>
+— Waouh, mais c’est super long de lancer un appel avec un téléphone des années 1900 !
 
+Et bim, en pleine tronche, la vieille ! Les enfants sont sans pitié, on le sait. Mais les enfants des années 2000, encore plus ! Pour eux, nous sommes de vieux croûtons du siècle dernier ! Pas faux, mais pas complètement vrai non plus…
+
+J’entends la porte d’entrée claquer. Richard est rentré.
+
+— Salut, ma chérie ! Salut, mon Lou ! Ça va ? Bonne journée ?
+
+Pendant que je lui réponds, tel un automate, il se penche pour m’embrasser du bout des lèvres, dépose ses clefs, ses clopes et son briquet sur la table. Il s’assoit sur le canapé, étend ses jambes et s’empare de son téléphone pour jouer à son nouveau jeu de stratégie. Parfois, pendant des heures… Mais il reste à l’écoute malgré tout. Soit de ce que je lui raconte, soit de ce qu’il se passe à la télé. Sans pour autant, ne serait-ce qu’une seconde, lâcher son mobile. Les deux seules choses qui, à ce moment de la journée lui font lâcher cet engin de malheur sont soit son estomac qui le rappelle à son bon souvenir, soit la fatigue qui l’assaille et l’emporte pour une courte sieste.
+
+— Qu’est-ce qu’on mange ce soir, ma chérie ? m’interroge-t-il les yeux en cœur. Tu nous as fait du « bon manger » ?
+
+Le plus souvent, à ce moment-là, tout en lui répondant, je me lève pour faire réchauffer un petit plat fait maison, cuisiné durant la journée. Esteban, lui, dresse la table et nourrit notre beagle et Sweety, notre chatonne nouvellement arrivée. Après dîner, deux fois sur trois, les garçons se reconnectent à leurs écrans respectifs. Moi, je vais et viens, entre mes pensées, la télé et quelques regards vers eux pour m’enquérir de ce qu’ils font. Et deux fois sur trois, Esteban est absorbé par son écran et Richard ronfle déjà sur le canapé.
+
+
+Il doit être fatigué de sa journée sinon il préférerait sûrement partager des moments avec moi.
+
+Richard est… « quelqu’un de bien, juste quelqu’un de bien, le cœur à portée de main, juste quelqu’un de bien, quelqu’un de bien » (Enzo Enzo).
+
+Et c’est peu dire ! Mon amoureux est altruiste au possible. Il se fiche de son image et de ce que pensent les autres. Il aime avec simplicité et naturel, n’est ni coquet ni dans la séduction. Il est lui, brut et rugueux, tendre, à l’écoute et parfois impulsif dans ses ressentis. Il s’écoute, s’aime, se montre parfois égoïste, mais n’est-il pas dans le vrai ? Il ne fait les choses que lorsqu’il est décidé. Il dort s’il est fatigué, mange s’il a faim, crie s’il est en colère et câline s’il en a envie. Aux yeux d’inconnus, il paraît d’une assurance inébranlable. Et pourtant, il est parfois profondément blessé, par certains jugements trop hâtifs. Moi qui vis à ses côtés depuis plus de vingt ans, j’ai exploré ses contours, ses failles et ses profondeurs. Il n’est pas ce que certains voient de lui. Il peut paraître fier, mais jamais orgueilleux, arrogant par sa franchise, mais jamais insolent ni même méprisant.
+
+ 
+
+ 
+                    </p>
 
 
                     <div class="carousel-container">

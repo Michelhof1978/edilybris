@@ -194,125 +194,72 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440716</p>
 
                         <p class="lead text-white">
-    25 Décembre 1995.<br><br>
+                        25 Décembre 1995.
 
-    Le corps d'un homme découvert noyé dans la fontaine Médicis du jardin du Luxembourg.<br> 
-    Une enquête confiée à la gendarmerie dans le secret le plus tacite, mais dans l'urgence la plus décisive.<br> 
-    Une femme aussi glaciale que le froid de l'hiver, le Maréchal des Logis Chef Isabelle Loubry : chargée d'une enquête qui va réveiller peu à peu les démons d'un passé endormi, saura-t-elle venir à bout de son propre passé et renaître à la vie ?<br> 
-    Auprès d'elle le gendarme William Planquart, qui l'assiste dans ses recherches, a perçu la femme sensible et blessée derrière l'armure d'acier qu'elle s'impose...<br> 
-    À eux deux, ils vont tenter de mettre à jour la vérité, celle des faits qui ont provoqué le meurtre, mais aussi celle tout aussi profonde et inextricable de leurs cœurs.<br><br>
+Le corps d'un homme découvert noyé dans la fontaine Médicis du jardin du Luxembourg. Une enquête confiée à la gendarmerie dans le secret le plus tacite, mais dans l'urgence la plus décisive. Une femme aussi glaciale que le froid de l'hiver, le Maréchal des Logis Chef Isabelle Loubry : chargée d'une enquête qui va réveiller peu à peu les démons d'un passé endormi, saura-t-elle venir à bout de son propre passé et renaître à la vie ? Auprès d'elle le gendarme William Planquart, qui l'assiste dans ses recherches, a perçu la femme sensible et blessée derrière l'armure d'acier qu'elle s'impose... A eux deux, ils vont tenter de mettre à jour la vérité, celle des faits qui ont provoqué le meurtre, mais aussi celle tout aussi profonde et inextricable de leurs coeurs.
 
-    Une affaire inclassable.<br> 
-    Une vengeance à travers un siècle de rancœur et de douleur.<br> 
-    Un homme et une femme qui cherchent et qui se cherchent...<br> 
-    Un livre dont l'engagement humain, mais aussi militaire et citoyen, dévoile les valeurs essentielles à l'Homme et à la Société.<br><br>
+Une affaire inclassable.
+Une vengeance à travers un siècle de rancoeur et de douleur.
+Un homme et une femme qui cherchent et qui se cherchent...
+Un livre dont l'engagement humain, mais aussi militaire et citoyen, dévoile les valeurs essentielles  à l'Homme et à la Société.
 
-    Valérie-Bérengère Bettelheim<br> 
-    Éditrice et romancière<br>
-</p>
-
+Valérie-Bérengère Bettelheim
+Éditrice et romancière
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
 
-<p>
-    J’adore ce gros et beau camion bicolore, sur lequel je peux m’asseoir pour conduire comme les grands.<br> 
-    Sur son immense plateau bleu, je joue à la pâte à modeler, à la poupée, aux blocs de construction et y mange mon quatre-heures.<br> 
-    Il me procure un sentiment de sécurité, de stabilité.<br> 
-    Du haut de mes cinq pommes, au volant de mon engin, rien ne peut m’arriver.<br> 
-    Lorsque je traverse en trombe le long couloir de l’appartement, poussant très fort sur mes jambes pour prendre de la vitesse, mon cœur plus léger, plus libre, goûte inconsciemment à l’innocence de l’enfance.<br><br> 
+                    <p>
+                    J’adore ce gros et beau camion bicolore, sur lequel je peux m’asseoir pour conduire comme les grands. Sur son immense plateau bleu, je joue à la pâte à modeler, à la poupée, aux blocs de construction et y mange mon quatre-heures. Il me procure un sentiment de sécurité, de stabilité. Du haut de mes cinq pommes, au volant de mon engin, rien ne peut m’arriver. Lorsque je traverse en trombe le long couloir de l’appartement, poussant très fort sur mes jambes pour prendre de la vitesse, mon cœur plus léger, plus libre, goûte inconsciemment à l’innocence de l’enfance.
 
-    Ce soir-là, papa et maman me servent mon repas, tout en me laissant à califourchon sur mon bolide, c’est tellement chouette !<br> 
-    Et puis, lavage des dents, pipi et au lit, avec une petite histoire avant un bon gros dodo…<br><br> 
+Ce soir-là, papa et maman me servent mon repas, tout en me laissant à califourchon sur mon bolide, c’est tellement chouette ! Et puis, lavage des dents, pipi et au lit, avec une petite histoire avant un bon gros dodo…
+C’est quoi, tout ce bruit ? Il fait encore nuit, pourquoi il y a des gens qui crient à la maison ?
 
-    C’est quoi, tout ce bruit ?<br> 
-    Il fait encore nuit, pourquoi il y a des gens qui crient à la maison ?<br><br> 
+Je pousse mes boucles rousses sur les côtés de mon visage, frotte mes yeux pleins de sommeil et me lève. Derrière la porte fermée, j’écoute. Je suis attentive à tous les sons, des trucs qui roulent, des portes qui claquent, des bips et des voix. Des voix qui résonnent et que je ne reconnais pas. Prudente et méfiante, je sors. Immédiatement glacés par le carrelage froid, mes petits pieds se recroquevillent. Toutes les lumières sont allumées, ça me fait mal aux yeux. Je traverse le long couloir en longeant le buffet jusqu’à la chambre de papa et maman. Personne ne me voit, toutes les grandes personnes courent et parlent très fort. Ils ont l’air pressés et concentrés. Ils tirent des chariots à roulettes plus grands que moi, ça fait beaucoup de bruit.
+C’est qui, tous ces gens ?
+La porte est ouverte. Au pied de leur lit, papa est essoufflé, il a l’air d’avoir peur. Il serre fort les jambes de maman, l’une contre l’autre pour…
+— Ne pas laisser le bébé sortir tout de suite, c’est trop tôt !
 
-    Je pousse mes boucles rousses sur les côtés de mon visage, frotte mes yeux pleins de sommeil et me lève.<br> 
-    Derrière la porte fermée, j’écoute.<br> 
-    Je suis attentive à tous les sons, des trucs qui roulent, des portes qui claquent, des bips et des voix.<br> 
-    Des voix qui résonnent et que je ne reconnais pas.<br> 
-    Prudente et méfiante, je sors.<br> 
-    Immédiatement glacés par le carrelage froid, mes petits pieds se recroquevillent.<br> 
-    Toutes les lumières sont allumées, ça me fait mal aux yeux.<br> 
-    Je traverse le long couloir en longeant le buffet jusqu’à la chambre de papa et maman.<br> 
-    Personne ne me voit, toutes les grandes personnes courent et parlent très fort.<br> 
-    Ils ont l’air pressés et concentrés.<br> 
-    Ils tirent des chariots à roulettes plus grands que moi, ça fait beaucoup de bruit.<br><br> 
+Papa hurle, il est paniqué. Intriguée et inquiète, j’entre un peu plus, je vois le visage de maman. Elle fait des grimaces, je crois qu’elle a mal, elle a peur aussi… Comme moi…
+— Pourquoi tu fais mal à maman ?
+— Marie ! Ne reste pas là !
 
-    C’est qui, tous ces gens ?<br> 
-    La porte est ouverte.<br> 
-    Au pied de leur lit, papa est essoufflé, il a l’air d’avoir peur.<br> 
-    Il serre fort les jambes de maman, l’une contre l’autre pour…<br> 
-    — Ne pas laisser le bébé sortir tout de suite, c’est trop tôt !<br><br> 
+Il me prend par la main et me fait m’asseoir dans la cuisine.
 
-    Papa hurle, il est paniqué.<br> 
-    Intriguée et inquiète, j’entre un peu plus, je vois le visage de maman.<br> 
-    Elle fait des grimaces, je crois qu’elle a mal, elle a peur aussi… Comme moi…<br> 
-    — Pourquoi tu fais mal à maman ?<br> 
-    — Marie ! Ne reste pas là !<br><br> 
+— Ne bouge pas d’ici, je reviens.
 
-    Il me prend par la main et me fait m’asseoir dans la cuisine.<br><br> 
+Papa me laisse toute seule. Je ne vois que le couloir, mais j’entends tout.
 
-    — Ne bouge pas d’ici, je reviens.<br><br> 
+— Non ! alertent les pompiers. Elle ne peut pas aller faire pipi, le bébé va sortir !
 
-    Papa me laisse toute seule.<br> 
-    Je ne vois que le couloir, mais j’entends tout.<br><br> 
+Quoi ? Mais ça sort par où un bébé ? Il va tomber dans les toilettes ? C’est dégoûtant !
 
-    — Non ! alertent les pompiers.<br> 
-    Elle ne peut pas aller faire pipi, le bébé va sortir !<br><br> 
+Maman fait des bruits comme quand on a mal, elle pleure… Et puis ils l’emmènent. Moi, je reste là, au bout du couloir, l’observant, emballée dans du papier doré pareil à celui des chocolats de Noël. Elle est allongée sur un lit que des pompiers font rouler de la même manière qu’à la télé. Les épaules basses, le visage trempé de larmes, je les regarde m’arracher ma maman.
 
-    Quoi ?<br> 
-    Mais ça sort par où un bébé ?<br> 
-    Il va tomber dans les toilettes ?<br> 
-    C’est dégoûtant !<br><br> 
+Silence de plomb après la tempête. Ma grand-mère préférée, mémé Yoyo, apparaît d’un coup de baguette magique dans l’entrée. Je traverse le couloir en courant et m’agrippe à ses jambes. Une fois dans la cuisine, elle me pose sur ses genoux et m’enveloppe de ses bras pleins d’amour.
 
-    Maman fait des bruits comme quand on a mal, elle pleure…<br> 
-    Et puis ils l’emmènent.<br> 
-    Moi, je reste là, au bout du couloir, l’observant, emballée dans du papier doré pareil à celui des chocolats de Noël.<br> 
-    Elle est allongée sur un lit que des pompiers font rouler de la même manière qu’à la télé.<br> 
-    Les épaules basses, le visage trempé de larmes, je les regarde m’arracher ma maman.<br><br> 
+Ensuite, les échanges entre adultes déferlent :
+— Les pompiers ont défoncé la porte du voisin pour brancher la couveuse, c’était violent ! C’est trop tôt, cinq mois ! Le bébé est arrivé trop tôt !
 
-    Silence de plomb après la tempête.<br> 
-    Ma grand-mère préférée, mémé Yoyo, apparaît d’un coup de baguette magique dans l’entrée.<br> 
-    Je traverse le couloir en courant et m’agrippe à ses jambes.<br> 
-    Une fois dans la cuisine, elle me pose sur ses genoux et m’enveloppe de ses bras pleins d’amour.<br><br> 
+« Prématuré… faire attention… surveillé… dangereux… hôpital… peur… »
 
-    Ensuite, les échanges entre adultes déferlent :<br> 
-    — Les pompiers ont défoncé la porte du voisin pour brancher la couveuse, c’était violent !<br> 
-    C’est trop tôt, cinq mois !<br> 
-    Le bébé est arrivé trop tôt !<br><br> 
+Et le couperet tombe !
 
-    « Prématuré… faire attention… surveillé… dangereux… hôpital… peur… »<br><br> 
+— On ne va pas pouvoir la garder, on travaille !
+— Tant pis, elle ira chez son autre grand-mère.
 
-    Et le couperet tombe !<br><br> 
+Mais… c’est de moi qu’ils parlent, là ?
 
-    — On ne va pas pouvoir la garder, on travaille !<br> 
-    — Tant pis, elle ira chez son autre grand-mère.<br><br> 
+Je couine dans un quasi-silence :
 
-    Mais… c’est de moi qu’ils parlent, là ?<br><br> 
+— Non, j’veux pas…
 
-    Je couine dans un quasi-silence :<br> 
-    — Non, j’veux pas…<br><br> 
+Ce n’est pas que je ne l’aime pas, cette autre mémé, mais papa et maman m’ont toujours déposée chez elle quand j’étais petite, ils n’avaient pas de temps pour moi… Ou peut-être pas envie ? J’ai appris, des dizaines d’années plus tard, que j’avais vécu mes premières années chez mémé M., car mes parents étaient bien trop pris par leur travail. Alors ils venaient me voir le week-end et repartaient…
 
-    Ce n’est pas que je ne l’aime pas, cette autre mémé, mais papa et maman m’ont toujours déposée chez elle quand j’étais petite, ils n’avaient pas de temps pour moi…<br> 
-    Ou peut-être pas envie ?<br> 
-    J’ai appris, des dizaines d’années plus tard, que j’avais vécu mes premières années chez mémé M., car mes parents étaient bien trop pris par leur travail.<br> 
-    Alors ils venaient me voir le week-end et repartaient…<br><br> 
+J’ai peur, je tremble, mon premier petit frère est né, je gêne, personne ne peut s’occuper de moi, même pas mon papa ! Je vais aller où ? Je me mets à pleurer. Mon chagrin est si gros que les adultes s’adressent enfin à moi et cessent de parler comme si je n’étais qu’un colis à mettre à l’abri durant un temps. Une parenthèse pendant laquelle ils prendront soin de ce « petit quelque chose » considéré plus important que moi. Moi, je suis assez grande maintenant, j’ai cinq ans.
 
-    J’ai peur, je tremble, mon premier petit frère est né, je gêne, personne ne peut s’occuper de moi, même pas mon papa !<br> 
-    Je vais aller où ?<br> 
-    Je me mets à pleurer.<br> 
-    Mon chagrin est si gros que les adultes s’adressent enfin à moi et cessent de parler comme si je n’étais qu’un colis à mettre à l’abri durant un temps.<br> 
-    Une parenthèse pendant laquelle ils prendront soin de ce « petit quelque chose » considéré plus important que moi.<br> 
-    Moi, je suis assez grande maintenant, j’ai cinq ans.<br><br> 
+— Ton pépé et moi devons aller au travail, nous te récupèrerons ce week-end. Tu veux que nous te déposions chez ton arrière-grand-mère ? Mémé Cité ?
 
-    — Ton pépé et moi devons aller au travail, nous te récupèrerons ce week-end.<br> 
-    Tu veux que nous te déposions chez ton arrière-grand-mère ?<br> 
-    Mémé Cité ?<br><br> 
-
-    Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant.<br> 
-    Je n’ai pas les armes nécessaires pour me battre contre la décision d’adultes tout-puissants.<br> 
-</p>
-
+Je ne peux que prononcer un « hum » résigné, mélancolique et larmoyant. Je n’ai pas les armes nécessaires pour me battre contre la décision d’adultes tout-puissants.
+                    </p>
 
                     <div class="carousel-container">
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">

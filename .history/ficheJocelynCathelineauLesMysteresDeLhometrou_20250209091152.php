@@ -254,7 +254,7 @@ J’ai, dans un premier temps, accepté de réécrire entièrement le livre – 
 <h3 class="h2Jaune text-center m-3">L'INTERVIEW</h3>
                     <p>
 <P  class="coloryellow">Edi’lybris : Bonjour  Jocelyne</P><br>
-<p>Réponse : Bonjour Pierre !</p>
+<p></p>Réponse : Bonjour Pierre !
 
 <P class="coloryellow">Edi’lybris : Comment as-tu fait la connaissance d’Edi’lybris ?<br> </p>
 <P class="coloryellow">Tu te souviens en quelle année ?<br> </p>

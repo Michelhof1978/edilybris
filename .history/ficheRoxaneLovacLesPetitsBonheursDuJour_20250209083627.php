@@ -194,23 +194,17 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440716</p>
 
                         <p class="lead text-white">
-    25 Décembre 1995.<br><br>
+                        25 Décembre 1995.
 
-    Le corps d'un homme découvert noyé dans la fontaine Médicis du jardin du Luxembourg.<br> 
-    Une enquête confiée à la gendarmerie dans le secret le plus tacite, mais dans l'urgence la plus décisive.<br> 
-    Une femme aussi glaciale que le froid de l'hiver, le Maréchal des Logis Chef Isabelle Loubry : chargée d'une enquête qui va réveiller peu à peu les démons d'un passé endormi, saura-t-elle venir à bout de son propre passé et renaître à la vie ?<br> 
-    Auprès d'elle le gendarme William Planquart, qui l'assiste dans ses recherches, a perçu la femme sensible et blessée derrière l'armure d'acier qu'elle s'impose...<br> 
-    À eux deux, ils vont tenter de mettre à jour la vérité, celle des faits qui ont provoqué le meurtre, mais aussi celle tout aussi profonde et inextricable de leurs cœurs.<br><br>
+Le corps d'un homme découvert noyé dans la fontaine Médicis du jardin du Luxembourg. Une enquête confiée à la gendarmerie dans le secret le plus tacite, mais dans l'urgence la plus décisive. Une femme aussi glaciale que le froid de l'hiver, le Maréchal des Logis Chef Isabelle Loubry : chargée d'une enquête qui va réveiller peu à peu les démons d'un passé endormi, saura-t-elle venir à bout de son propre passé et renaître à la vie ? Auprès d'elle le gendarme William Planquart, qui l'assiste dans ses recherches, a perçu la femme sensible et blessée derrière l'armure d'acier qu'elle s'impose... A eux deux, ils vont tenter de mettre à jour la vérité, celle des faits qui ont provoqué le meurtre, mais aussi celle tout aussi profonde et inextricable de leurs coeurs.
 
-    Une affaire inclassable.<br> 
-    Une vengeance à travers un siècle de rancœur et de douleur.<br> 
-    Un homme et une femme qui cherchent et qui se cherchent...<br> 
-    Un livre dont l'engagement humain, mais aussi militaire et citoyen, dévoile les valeurs essentielles à l'Homme et à la Société.<br><br>
+Une affaire inclassable.
+Une vengeance à travers un siècle de rancoeur et de douleur.
+Un homme et une femme qui cherchent et qui se cherchent...
+Un livre dont l'engagement humain, mais aussi militaire et citoyen, dévoile les valeurs essentielles  à l'Homme et à la Société.
 
-    Valérie-Bérengère Bettelheim<br> 
-    Éditrice et romancière<br>
-</p>
-
+Valérie-Bérengère Bettelheim
+Éditrice et romancière
 <h3 class="h2Jaune text-center m-3">Extrait chapitre 1</h3>
 
 <p>

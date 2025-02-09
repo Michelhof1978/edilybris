@@ -38,73 +38,56 @@
                     
                     
                  <p class="lead">
-    Une giboulée de printemps vient de s’abattre sur Neuchâtel, très courte, et maintenant tout luit sous le soleil retrouvé : le pavé des rues, les feuilles nouvelles des arbres, les eaux claires du Seyon.<br>
-    Il est haut en cette période de l’année où fond la neige, sans qu’on s’inquiète d’une possible inondation.<br>
-    Le souvenir de crues catastrophiques est encore présent, mais on n’a jamais vu la rivière déborder deux années de suite.<br>
-    À la première goutte, Blaise s’est prudemment abrité sous un porche.<br>
-    Son chargement de papier est soigneusement enveloppé, mais sait-on jamais ?<br>
-    Il attendra d’être sûr qu’il fasse tout à fait sec pour remettre un pied sur le trottoir et tirer le chariot.<br>
-    Cyprien le contremaître ne lui fera pas reproche de son retard.<br>
-    Il est le premier à dire qu’un bon livre commence par un papier de qualité, et aucune précaution n’est de trop pour que celui-ci, qui vient d’arriver au relais des diligences, parvienne intact à l’imprimerie…<br>
-    Adossé contre la porte de bois d’un entrepôt, le garçon rêve.<br>
-    Une cloche tinte, c’est celle de l’office.<br>
-    Il n’est pas concerné.<br>
-    Neuchâtel depuis des années a adopté le modèle genevois : tous les enfants de six à douze ans vont à l’école le matin, et les prières et les offices sont compris dans ce temps de classe.<br>
-    Après le déjeuner, pris à la maison, contrairement aux enfants des familles aisées, Blaise travaille.<br>
-    Il est fier de dire qu’il est apprenti à la Société Typographique dirigée par Jean-Frédéric Ostervald, un homme aussi prospère que respectable.<br>
-    Bien sûr, le jeune garçon n’est pas encore affecté à la mise en page ni à la presse, ces tâches sont réservées aux compagnons formés, bien plus vieux que lui… pour le moment, il fait les commissions et chaque jour, il sillonne la ville pour récupérer les livraisons, porter les commandes, les messages…<br>
-    Il lui arrive même d’aller chercher le pain pour les ouvriers.<br>
-    Ses parents, de modestes teinturiers, arrivent à payer le maître d’apprentissage et entretiennent un grand rêve : un jour, leur fils unique sera ouvrier typographe.<br>
-    Ces livres de piété, qu’en bons Réformés ils savent déchiffrer, sortiront des mains de Blaise…<br>
+    Une giboulée de printemps vient de s’abattre sur Neuchâtel, très courte, et maintenant tout luit sous le soleil retrouvé : le pavé des rues, les feuilles nouvelles des arbres, les eaux claires du Seyon. Il est haut en cette période de l’année où fond la neige, sans qu’on s’inquiète d’une possible inondation. Le souvenir de crues catastrophiques est encore présent, mais on n’a jamais vu la rivière déborder deux années de suite.
+    À la première goutte, Blaise s’est prudemment abrité sous un porche. Son chargement de papier est soigneusement enveloppé, mais sait-on jamais ? Il attendra d’être sûr qu’il fasse tout à fait sec pour remettre un pied sur le trottoir et tirer le chariot. Cyprien le contremaître ne lui fera pas reproche de son retard. Il est le premier à dire qu’un bon livre commence par un papier de qualité, et aucune précaution n’est de trop pour que celui-ci, qui vient d’arriver au relais des diligences, parvienne intact à l’imprimerie…
+    Adossé contre la porte de bois d’un entrepôt, le garçon rêve. Une cloche tinte, c’est celle de l’office. Il n’est pas concerné. Neuchâtel depuis des années a adopté le modèle genevois : tous les enfants de six à douze ans vont à l’école le matin, et les prières et les offices sont compris dans ce temps de classe. Après le déjeuner, pris à la maison, contrairement aux enfants des familles aisées, Blaise travaille. Il est fier de dire qu’il est apprenti à la Société Typographique dirigée par Jean-Frédéric Ostervald, un homme aussi prospère que respectable. Bien sûr, le jeune garçon n’est pas encore affecté à la mise en page ni à la presse, ces tâches sont réservées aux compagnons formés, bien plus vieux que lui… pour le moment, il fait les commissions et chaque jour, il sillonne la ville pour récupérer les livraisons, porter les commandes, les messages… Il lui arrive même d’aller chercher le pain pour les ouvriers. Ses parents, de modestes teinturiers, arrivent à payer le maître d’apprentissage et entretiennent un grand rêve : un jour, leur fils unique sera ouvrier typographe. Ces livres de piété, qu’en bons Réformés ils savent déchiffrer, sortiront des mains de Blaise…
 </p>
 
 <p>
-    Un jeune garçon se glisse sous le porche, serrant contre lui une grande enveloppe.<br>
-    Pressé, il bouscule Blaise et lui présente ses excuses.<br>
-    L’apprenti le reconnaît tout de suite.<br>
-    <br><strong>— René !</strong><br>
-    <strong>— Blaise ! Il y a longtemps qu’on ne s’était pas vus !</strong><br>
-    <strong>— Qu’est-ce que tu fais là ?</strong><br>
-    <strong>— La même chose que toi ! Je m’abrite ! Je ne voudrais pas que le courrier de mon maître se mouille…</strong><br>
-    <strong>— Depuis combien de temps est-ce qu’on ne s’est pas vus ? Un an ? Deux ? Alors qu’on est presque cousins ! Quelles nouvelles ? Moi je suis apprenti à la Société Typographique.</strong><br>
-    <strong>— Tu ne sais pas… que mon père est mort ?</strong><br>
-    <strong>— Mon Dieu, non ! Mais, en y pensant bien, on m’avait dit qu’il était malade…</strong><br>
-    <strong>— Il a souffert bien longtemps. Il nous a quittés il y a dix-huit mois.</strong><br>
-    <strong>— Comme c’est triste…</strong><br>
-    <strong>— Maman n’a pu garder l’atelier. Nous l’avons vendu pour rembourser les dettes contractées pendant la maladie de Père…</strong><br>
-    <strong>— Alors, où habitez-vous maintenant ? Je me souviens que votre maison était derrière l’atelier, dans une petite cour.</strong><br>
-    <strong>— Nous habitons tous les deux chez le patron de ma mère, Maître Descombes, le notaire.</strong><br>
-    <strong>— Je vois qui c’est ! N’est-il pas le frère d’Isaac Descombes, qui est un bon ami de mon maître et qui siège comme banneret au Grand Conseil ?</strong><br>
-    <strong>— C’est bien possible… Oui, Maître Descombes reçoit quelquefois le soir un homme important qu’il embrasse… Il a l’air bon… pas comme son frère ! Ah, Blaise, si tu savais…</strong><br>
-    <strong>— N’est-il pas un bon maître ?</strong><br>
-    <strong>— Pas du tout. Sous prétexte qu’il a payé une partie des dettes de Père et qu’il nous loge dans une petite dépendance de son hôtel, il nous traite comme des chiens… ma mère surtout…</strong><br>
-    <strong>— Est-elle obligée de rester à son service ?</strong><br>
-    <strong>— Comment pourrait-elle trouver un autre emploi, avec le logement en plus ? Maître Descombes connaît tout le monde ici… Elle n’a pas le choix. Moi non plus, qui lui sert de commissionnaire et qui soigne ses chevaux lorsque je reviens de ville.</strong><br>
+    Un jeune garçon se glisse sous le porche, serrant contre lui une grande enveloppe. Pressé, il bouscule Blaise et lui présente ses excuses. L’apprenti le reconnaît tout de suite.
+    <br><strong>— René !</strong>
+    <br><strong>— Blaise ! Il y a longtemps qu’on ne s’était pas vus !</strong>
+    <br><strong>— Qu’est-ce que tu fais là ?</strong>
+    <br><strong>— La même chose que toi ! Je m’abrite ! Je ne voudrais pas que le courrier de mon maître se mouille…</strong>
+    <br><strong>— Depuis combien de temps est-ce qu’on ne s’est pas vus ? Un an ? Deux ? Alors qu’on est presque cousins ! Quelles nouvelles ? Moi je suis apprenti à la Société Typographique.</strong>
+    <br><strong>— Tu ne sais pas… que mon père est mort ?</strong>
+    <br><strong>— Mon Dieu, non ! Mais, en y pensant bien, on m’avait dit qu’il était malade…</strong>
+    <br><strong>— Il a souffert bien longtemps. Il nous a quittés il y a dix-huit mois.</strong>
+    <br><strong>— Comme c’est triste…</strong>
+    <br><strong>— Maman n’a pu garder l’atelier. Nous l’avons vendu pour rembourser les dettes contractées pendant la maladie de Père…</strong>
+    <br><strong>— Alors, où habitez-vous maintenant ? Je me souviens que votre maison était derrière l’atelier, dans une petite cour.</strong>
+    <br><strong>— Nous habitons tous les deux chez le patron de ma mère, Maître Descombes, le notaire.</strong>
+    <br><strong>— Je vois qui c’est ! N’est-il pas le frère d’Isaac Descombes, qui est un bon ami de mon maître et qui siège comme banneret au Grand Conseil ?</strong>
+    <br><strong>— C’est bien possible… Oui, Maître Descombes reçoit quelquefois le soir un homme important qu’il embrasse… Il a l’air bon… pas comme son frère ! Ah, Blaise, si tu savais…</strong>
+    <br><strong>— N’est-il pas un bon maître ?</strong>
+    <br><strong>— Pas du tout. Sous prétexte qu’il a payé une partie des dettes de Père et qu’il nous loge dans une petite dépendance de son hôtel, il nous traite comme des chiens… ma mère surtout…</strong>
+    <br><strong>— Est-elle obligée de rester à son service ?</strong>
+    <br><strong>— Comment pourrait-elle trouver un autre emploi, avec le logement en plus ? Maître Descombes connaît tout le monde ici… Elle n’a pas le choix. Moi non plus, qui lui sert de commissionnaire et qui soigne ses chevaux lorsque je reviens de ville.</strong>
 </p>
 
 <p>
-    <strong>— Ne vas-tu pas à l’école ?</strong><br>
-    <strong>— Je viens de passer l’âge… et de toute façon, je n’y allais pas. Pendant toute la maladie de Père, je suis resté à la maison pour seconder Maman. Lorsque nous avons dû emménager chez Maître Descombes, cet homme mauvais s’est arrangé avec le recteur – un obligé à lui, client de l’étude – pour que je n’y aille pas. Il a trop besoin d’un valet gratuit ! Mon cher Blaise, je devine que toi, tu sais lire comme ces Messieurs du Conseil ou comme les clercs de mon maître ! Pour ma part, il y a si longtemps que je ne me suis pas assis sur les bancs de l’école que je me souviens à peine de mon alphabet…</strong><br>
-    <strong>— Ce n’est pas perdu, René. Ce qu’on a appris ne s’oublie pas vraiment. Quand tu seras un homme et pourras disposer de toi, tu pourras recommencer à étudier…</strong><br>
-    <strong>— Crois-tu vraiment ? Cela me semble si loin… tous les jours je vois souffrir ma pauvre mère…</strong><br>
-    <strong>— N’as-tu pas une sœur aînée ?</strong><br>
-    <strong>— Si. Florine. Elle a dix-sept ans maintenant. Elle a pu échapper à Maître Descombes en se gageant chez des bourgeois de la Chaux-de-Fonds. Elle s’occupe de leurs enfants et aide la cuisinière. Je crois qu’elle est heureuse, ses maîtres sont justes et la traitent bien. Quelquefois, quand son maître lui donne congé, elle vient à Neuchâtel. Elle économise ses gages et essaie de nous aider, Maman et moi. Regarde mes chaussures, c’est elle qui me les a achetées…</strong><br>
-    <strong>— Je vois surtout tes pieds nus dans des sabots ! En avril !</strong><br>
-    <strong>— Comme tu le vois, je porte mes chaussures attachées à une ficelle autour de mon cou pour ne pas les salir ni les user. Maître Descombes tient à ce que j’aille chaque jour à l’office de cinq heures du soir, et le dimanche à celui du matin bien sûr. Alors je mets mes chaussures. Je les remets également lorsque j’entre chez ses clients et fournisseurs.</strong><br>
-    <strong>— Mon pauvre René ! Ah… je crois que la pluie s’est arrêtée…</strong><br>
-    <strong>Blaise tend son bras. Oui, il ne pleut plus. Il sent tout-à-coup un grand élan de compassion pour son presque-cousin si peu favorisé par le sort et lui dit brusquement : — René, si tu veux, je t’apprendrai à lire, le soir… moi je sais…</strong><br>
-    <strong>— Avec quoi ? Tu as des livres de classe ?</strong><br>
-    <strong>— Non. Mais à l’imprimerie, les apprentis récupèrent les feuilles ratées. Plutôt que d’en faire des petits bateaux pour naviguer sur le Seyon ou des cornets pour les marrons chauds, je peux t’apprendre à lire dessus…</strong><br>
-    <strong>— C’est gentil de ta part ! J’ai tellement le désir de savoir lire…</strong><br>
-    <strong>— René, je dois y aller. Et toi aussi, qui risques d’être puni si tu tardes. Où tu habites, tu entends la cloche de l’ancien couvent des Récollets ?</strong><br>
-    <strong>— Oui. Très bien.</strong><br>
-    <strong>— Quand elle sonne huit coups, as-tu soupé ?</strong><br>
-    <strong>— Oui. Heureusement, Maître Descombes est un couche-tôt. Pour Maman et moi, c’est le meilleur moment de la journée. Nous sommes libres…</strong><br>
-    <strong>— Eh bien, si ta mère t’y autorise, rejoins-moi dès que tu auras entendu sonner l’office de huit heures, dans la ruelle derrière les entrepôts de l’imprimerie…</strong><br>
-    <strong>— Je sais où c’est. J’y suis déjà allé porter des messages.</strong><br>
-    <strong>— On se revoit ce soir ? Demain ?</strong><br>
-    <strong>— Ce soir si je peux.</strong><br>
-    René s’éloigne vivement, ses chaussures bringuebalant dans son dos.<br>
+    <strong>— Ne vas-tu pas à l’école ?</strong>
+    <br><strong>— Je viens de passer l’âge… et de toute façon, je n’y allais pas. Pendant toute la maladie de Père, je suis resté à la maison pour seconder Maman. Lorsque nous avons dû emménager chez Maître Descombes, cet homme mauvais s’est arrangé avec le recteur – un obligé à lui, client de l’étude – pour que je n’y aille pas. Il a trop besoin d’un valet gratuit ! Mon cher Blaise, je devine que toi, tu sais lire comme ces Messieurs du Conseil ou comme les clercs de mon maître ! Pour ma part, il y a si longtemps que je ne me suis pas assis sur les bancs de l’école que je me souviens à peine de mon alphabet…</strong>
+    <br><strong>— Ce n’est pas perdu, René. Ce qu’on a appris ne s’oublie pas vraiment. Quand tu seras un homme et pourras disposer de toi, tu pourras recommencer à étudier…</strong>
+    <br><strong>— Crois-tu vraiment ? Cela me semble si loin… tous les jours je vois souffrir ma pauvre mère…</strong>
+    <br><strong>— N’as-tu pas une sœur aînée ?</strong>
+    <br><strong>— Si. Florine. Elle a dix-sept ans maintenant. Elle a pu échapper à Maître Descombes en se gageant chez des bourgeois de la Chaux-de-Fonds. Elle s’occupe de leurs enfants et aide la cuisinière. Je crois qu’elle est heureuse, ses maîtres sont justes et la traitent bien. Quelquefois, quand son maître lui donne congé, elle vient à Neuchâtel. Elle économise ses gages et essaie de nous aider, Maman et moi. Regarde mes chaussures, c’est elle qui me les a achetées…</strong>
+    <br><strong>— Je vois surtout tes pieds nus dans des sabots ! En avril !</strong>
+    <br><strong>— Comme tu le vois, je porte mes chaussures attachées à une ficelle autour de mon cou pour ne pas les salir ni les user. Maître Descombes tient à ce que j’aille chaque jour à l’office de cinq heures du soir, et le dimanche à celui du matin bien sûr. Alors je mets mes chaussures. Je les remets également lorsque j’entre chez ses clients et fournisseurs.</strong>
+    <br><strong>— Mon pauvre René ! Ah… je crois que la pluie s’est arrêtée…</strong>
+    <br><strong>Blaise tend son bras. Oui, il ne pleut plus. Il sent tout-à-coup un grand élan de compassion pour son presque-cousin si peu favorisé par le sort et lui dit brusquement : — René, si tu veux, je t’apprendrai à lire, le soir… moi je sais…</strong>
+    <br><strong>— Avec quoi ? Tu as des livres de classe ?</strong>
+    <br><strong>— Non. Mais à l’imprimerie, les apprentis récupèrent les feuilles ratées. Plutôt que d’en faire des petits bateaux pour naviguer sur le Seyon ou des cornets pour les marrons chauds, je peux t’apprendre à lire dessus…</strong>
+    <br><strong>— C’est gentil de ta part ! J’ai tellement le désir de savoir lire…</strong>
+    <br><strong>— René, je dois y aller. Et toi aussi, qui risques d’être puni si tu tardes. Où tu habites, tu entends la cloche de l’ancien couvent des Récollets ?</strong>
+    <br><strong>— Oui. Très bien.</strong>
+    <br><strong>— Quand elle sonne huit coups, as-tu soupé ?</strong>
+    <br><strong>— Oui. Heureusement, Maître Descombes est un couche-tôt. Pour Maman et moi, c’est le meilleur moment de la journée. Nous sommes libres…</strong>
+    <br><strong>— Eh bien, si ta mère t’y autorise, rejoins-moi dès que tu auras entendu sonner l’office de huit heures, dans la ruelle derrière les entrepôts de l’imprimerie…</strong>
+    <br><strong>— Je sais où c’est. J’y suis déjà allé porter des messages.</strong>
+    <br><strong>— On se revoit ce soir ? Demain ?</strong>
+    <br><strong>— Ce soir si je peux.</strong>
+    <br>René s’éloigne vivement, ses chaussures bringuebalant dans son dos.
 </p>
 
                     <div class="text-center mt-3">

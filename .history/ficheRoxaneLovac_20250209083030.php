@@ -45,7 +45,7 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
   <p class="text-white">Roxane Lovac : Bonjour Pierre</p>
 
   <p class="coloryellow">Comment as-tu fait la connaissance d’Edi’lybris ?</p>
-  <p class="coloryellow">Tu te souviens en quelle année ?</p>
+  <p>Tu te souviens en quelle année ?</p>
   <p class="text-white">Par hasard sur un salon du livre en 2023. Mais puisque le hasard n’existe pas, c’était sûrement un rendez-vous !</p>
 
   <p class="text-white">Être accepté par le comité de lecture est l’une des premières étapes à franchir pour être publié au sein d’Edi’lybris. Comment cela s’est-il passé pour toi ?</p>
@@ -56,25 +56,25 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
   <p class="text-white">Ce qui m’a le plus marquée est la bienveillance dont l’équipe fait preuve.</p>
 
   <p class="coloryellow">Parlons du livre. Comment t’est venue l’idée d’écrire sur ce sujet ?</p>
-  <p class="text-white">Les petits bonheurs du jour est né à un moment charnière de ma vie. J’ai ressenti le besoin de coucher mon histoire sur le papier. Ma vie parfaitement imparfaite vient de mon envie d’y coucher mes rêves et fantasmes tout en abordant un sujet qui touche tout le monde : la pérennité du couple.</p>
+  <p>Les petits bonheurs du jour est né à un moment charnière de ma vie. J’ai ressenti le besoin de coucher mon histoire sur le papier. Ma vie parfaitement imparfaite vient de mon envie d’y coucher mes rêves et fantasmes tout en abordant un sujet qui touche tout le monde : la pérennité du couple.</p>
 
   <p class="coloryellow">Peux-tu résumer en quelques mots l’intrigue, sans dévoiler la fin bien sûr ?!</p>
-  <p class="text-white">Les petits bonheurs du jour : une histoire vraie, une rencontre en toute intimité où l’empathie et les émotions sont reines. 
+  <p>Les petits bonheurs du jour : une histoire vraie, une rencontre en toute intimité où l’empathie et les émotions sont reines. 
   Ma vie parfaitement imparfaite : Pour qu’une histoire d’amour perdure dans le temps, rien de tel qu’un nouvel élan !</p>
 
-  <p class="coloryellow">La couverture : du projet à l’étape finale, une aventure ?</p>
-  <p class="text-white">J’ai adoré !</p>
+  <p>La couverture : du projet à l’étape finale, une aventure ?</p>
+  <p>J’ai adoré !</p>
 
   <p class="coloryellow">Quel message souhaites-tu délivrer à travers tes deux premiers récits ?</p>
-  <p class="text-white">Nous pensons toujours que l’herbe est plus verte dans le jardin d’à côté… 
+  <p>Nous pensons toujours que l’herbe est plus verte dans le jardin d’à côté… 
   Peut-être est-ce parce qu’elle est arrosée plus souvent ? 
   Et puis… Le bonheur, ça se cultive !</p>
 
   <p class="coloryellow">As-tu un nouveau projet d’écriture ? Si oui, peux-tu en dévoiler quelques aspects ?</p>
-  <p class="text-white">Je change totalement de registre… Mais c’est une surprise !</p>
+  <p>Je change totalement de registre… Mais c’est une surprise !</p>
 
   <p class="coloryellow">Un dernier mot à l’attention des lecteurs ?</p>
-  <p class="text-white">Aimez-vous, riez, vibrez ! La vie passe en un éclair !</p>
+  <p>Aimez-vous, riez, vibrez ! La vie passe en un éclair !</p>
 
   <p class="coloryellow">Merci pour t’être prêté à ce jeu, à bientôt !</p>
 </div>
