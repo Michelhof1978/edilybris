@@ -149,45 +149,46 @@ Mais le prochain se passera dans la jungle, terrible jungle d'Edi'lybris.</p>
 
 
                         <p class="lead text-white">
-    Vous avez toujours rêvé de connaître les ingrédients pour organiser une belle représentation théâtrale ?<br><br>
+                        Vous avez toujours rêvé de connaître les ingrédients pour organiser une belle représentation théâtrale ?
 
-    Eh bien, passez votre chemin !<br><br>
+Eh bien, passez votre chemin !
 
-    Ici, le propos de Lydia est totalement déjanté, loufouque, abracadantesque !<br><br>
+Ici, le propos de Lydia est totalement déjanté, loufouque, abracadantesque !
 
-    Si vous ne vous sortez pas de la lecture avec un mal au ventre tant vous aurez ri des facéties des danseuses, mousquetaires, princesses, et bien d’autres personnages, c’est que vous ne l’aurez pas lu, tout simplement !<br><br>
+Si vous ne vous sortez pas de la lecture avec un mal au ventre tant vous aurez ri des facéties des danseuses, mousquetaires, princesses, et bien d’autres personnages, c’est que vous ne l’aurez pas lu, tout simplement !
 
-    Découvrez vite l'extrait qui suit !<br><br>
+Découvrez vite l'extrait qui suit !
 
-    La couverture est réalisée par une lycéenne de 16 ans, Émilie Pitschon. Le dessin n'est pas totalement terminé, mais nous sommes trop heureux de vous présenter ce projet pour attendre plus longtemps. Ceci dit, dans sa version finale, vous serez ravis !<br><br>
+La couverture est réalisée par une lycéenne de 16 ans, Émilie Pitschon. Le dessin n'est pas totalement terminé, mais nous sommes trop heureux de vous présenter ce projet pour attendre plus longtemps. Ceci dit, dans sa version finale, vous serez ravis !
 
-    Merci à Émilie pour cette réalisation, qui démontre un réel savoir-faire et un talent certain !<br><br><br>
-    
-    <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a><br><br>
+Merci à Émilie pour cette réalisation, qui démontre un réel savoir faire et un talent certain !<br><br><br>
+     
+<a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
 
-    <h3>Lydia CHAUVIN : en quelques mots et interview </h3>
+<h3>Lydia CHAUVIN : en quelques mots et interview </h3>
     <p class="text-center">
 
-    Née à Toulouse en 1959 mais parisienne dès l'âge de quatre ans, c'est en intégrant l'école des enfants du spectacle dans le 5e arrondissement de Paris dès la primaire, que naît sa passion pour le théâtre.<br><br>
+    
 
-    Elle fait toute sa scolarité dans des établissements aux horaires aménagés pour laisser plus de place à cette activité. Elle passe ses soirées dans différents cours de théâtre, puis en formation classique en conservatoire, pour finir à l'école Fanny Vallon.<br>
-    Depuis, elle s'adonne dès que possible aux joies de la scène et parallèlement, essaie de transmettre sa passion du théâtre en donnant des cours dans les écoles, les centres culturels et les associations.<br><br>
+Née à Toulouse en 1959 mais parisienne dès l'âge de quatre ans, c'est en intégrant l'école des enfants du spectacle dans le 5e arrondissement de Paris dès la primaire, que naît sa passion pour le théâtre.
 
-    La difficulté rencontrée pour mettre en scène des pièces avec des groupes importants d'élèves l'incite à écrire ses propres scénarii.<br><br>
+Elle fait toute sa scolarité dans des établissements aux horaires aménagés pour laisser plus de place à cette activité. Elle passe ses soirées dans différents cours de théâtre, puis en formation classique en conservatoire, pour finir à l'école Fanny Vallon.
+Depuis, elle s'adonne dès que possible aux joies de la scène et parallèlement, essaie de transmettre sa passion du théâtre en donnant des cours dans les écoles, les centres culturels et les associations.
 
-    Sociétaire de la SACD, ses pièces sont régulièrement jouées par les élèves des écoles maternelles et primaires, des collèges et des lycées. Mais aussi par des troupes d'adultes amateurs.<br><br>
+La difficulté rencontrée pour mettre en scène des pièces avec des groupes importants d'élèves l'incite à écrire ses propres scénarii.
 
-    Ce sont des comédies pleines d'humour agréables à jouer et à regarder et ce sont les encouragements du public qui l'incitent à se faire éditer.<br>
-    Installée en Charente Maritime depuis septembre 2014, elle continue d'enseigner le théâtre et de mettre en scène ses pièces.<br><br>
+Sociétaire de la SACD, ses pièces sont régulièrement jouées par les élèves des écoles maternelles et primaires, des collèges et des lycées. Mais aussi par des troupes d'adultes amateurs.
 
-    Lydia bénéficie de deux pages sur Internet :<br>
-    <a href="http://www.eatheatre.fr/espace-adherent/1219.html" target="_blank">http://www.eatheatre.fr/espace-adherent/1219.html</a><br>
-    et<br>
-    <a href="http://www.lydiachauvin.com" target="_blank">http://www.lydiachauvin.com</a><br>
+Ce sont des comédies pleine d'humour agréables à jouer et à regarder et ce sont les encouragements du public qui l'incitent à se faire éditer.
+Installée en Charente Maritime depuis septembre 2014, elle continue d'enseigner le théâtre et de mettre en scène ses pièces.
+
+
+Lydia bénéficie de deux pages sur Internet :
+http://www.eatheatre.fr/espace-adherent/1219.html
+et
+http://www.lydiachauvin.com
 
     </p>
-</p>
-
 
     <h3 class="text-center">L'interview ! </h3>
     <h3 class="texte-center">Le jeu questions réponses </h3>
