@@ -3,16 +3,16 @@
 <title></title>
  <meta name="description" content="">
  <style>
-   
-    @media screen and (max-width: 768px) {
-    .bio-content {
-         margin-top: -200px;
-        margin-bottom: -250px; 
+     .bio-content{
+         margin-top: -20px;
        
+     
     }
 
-    .bio-content2 {
-         margin-top: -200px;
+    @media screen and (max-width: 768px) {
+    .bio-content {
+        margin-top: -300px;
+        margin-bottom: -300px;
        
     }
 }
@@ -53,12 +53,12 @@
 </p>
 
          <!-- Section image et texte -->
-<div class="bio-content mb-5">
+<div class="bio-content">
     <div class="bio-text">
     <div class="bio-content d-flex justify-content-center align-items-center" style="height: 100vh;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8ddLXOcrloM?si=airjQ1sk523Dhdwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<p class="text-white ">
+<p class="text-white">
     Oui, entrer dans le monde de Lydia consiste à entendre les trois coups du brigadier annonçant le début de la pièce. Lorsque celui-ci s'accompagne de musique, nul doute qu'entre en scène son compagnon dans la vie, Jacques Debout, musicien ! En voilà un beau couple pour faire rêver son monde, n'est-ce pas ?
 </p>
 
@@ -73,7 +73,7 @@
             <!-- Carte après le texte -->
 
             <!-- MODE MOBILE -->
-            <div class="bio-content2 d-block d-md-none">
+            <div class="d-block d-md-none">
                 <!-- Groupe 1 - Joel berthelot- j'ai tellement envie de t'écrire-->
                 <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
@@ -89,7 +89,7 @@
             </div>
 
             <!-- MODE DESKTOP -->
-            <div class="d-none d-md-block mt-5">
+            <div class="d-none d-md-block">
                 <div id="desktop-group1PierreBrandao" class="new-card-container">
                     <!-- Carte 1 - Le sillage de l'encre-->
                     <div class="new-card">

@@ -13,6 +13,7 @@
 
     .bio-content2 {
          margin-top: -200px;
+        
        
     }
 }

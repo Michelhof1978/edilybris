@@ -6,13 +6,8 @@
    
     @media screen and (max-width: 768px) {
     .bio-content {
-         margin-top: -200px;
-        margin-bottom: -250px; 
-       
-    }
-
-    .bio-content2 {
-         margin-top: -200px;
+         margin-top: -300px;
+        margin-bottom: -1300px; 
        
     }
 }
@@ -73,7 +68,7 @@
             <!-- Carte après le texte -->
 
             <!-- MODE MOBILE -->
-            <div class="bio-content2 d-block d-md-none">
+            <div class="d-block d-md-none">
                 <!-- Groupe 1 - Joel berthelot- j'ai tellement envie de t'écrire-->
                 <div id="mobile-group1PierreBrandao" class="mobile-books-container">
                     <div class="mobile-book-card">
