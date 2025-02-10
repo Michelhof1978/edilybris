@@ -20,7 +20,7 @@
 <section class="biographie">
     <div class="containerAuteur">
         <h2 class="h2Jaune">Présentation Auteur</h2>
-        <div class="text-center m-3 text-white">
+<div class="text-center m-3 text-white">
 
 Né à Paris en 1955 puis habitant en Seine-et-Marne, il exerce, dès l’âge de vingt ans et durant quarante années, dans un grand établissement bancaire.<br>
 

@@ -145,7 +145,7 @@ Dans les deux sens du terme : « NOUVELLES ».
 Lorsque le fond et la forme se rejoignent...
 <h3 class="h2Jaune text-center m-3">Extrait</h3>
 
-<h4 class=" h2Jaune text-center m-3">L’enfert du décord</h4>
+<h4 class="text-center m-3">L’enfert du décord</h4>
 
 <p class="colorYellow lead text-center">Avertissement : cet épisode – fictif – de la Guerre du Vietnam (1963-1975) se base néanmoins sur des faits réels, similaires ou approchants...<br>
 
