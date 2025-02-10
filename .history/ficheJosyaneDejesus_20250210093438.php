@@ -89,7 +89,7 @@
 <div class="d-none d-md-block">
     <div id="desktop-group1PierreBrandao" class="new-card-container">
         <div class="new-card">
-            <a href="ficheJosyaneDejesusLeVentNousConduira.php">
+            <a href="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp">
                 <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" 
                      alt="Couverture du livre Le vent nous conduira" 
                      class="img-fluid">

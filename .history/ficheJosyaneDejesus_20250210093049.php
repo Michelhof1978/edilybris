@@ -25,17 +25,17 @@
                          alt="Josyane De Jesus-Bergey en conférence" 
                          class="img-fluid w-25 m-5 rounded">
                 </div>
-                <p class="text-white">
+                <p>
     Très attachée à cet élan vers l’autre que justifie, dit-elle, le poème, Josyane De Jesus-Bergey, poète franco-portugaise, retraitée de la fonction publique, est née et vit à La Rochelle (Charente-Maritime, France). 
     Elle écrit depuis l’enfance : poésie, contes, essais, chansons (S.A.C.E.M).
 </p>
-<p class="text-white">
+<p>
     Engagée dans diverses associations culturelles, elle participe activement au Printemps des Poètes et anime des ateliers d’écriture en France et à l’étranger.
 </p>
-<p class="text-white">
+<p>
     Elle fait également partie de l’équipe des animateurs du Festival « Voix Vives de Méditerranée en Méditerranée » à Sète.
 </p>
-<p class="text-white">
+<p>
     Régulièrement publiée en revue, ses écrits sont traduits en arabe, espagnol, italien et portugais. Invitée à de nombreux festivals et rencontres littéraires en France et à l’international, 
     elle est l’auteure d’une vingtaine d’ouvrages (voir Bio-bibliographie).
 </p>
@@ -46,7 +46,7 @@
                          alt="Houari Bouchenak-Khelladi avec Josyane De Jesus-Bergey devant une exposition" 
                          class="img-fluid w-25 m-5 rounded">
                 </div>
-                <p class="m-5 text-white">
+                <p class="m-5">
     Houari Bouchenak-Khelladi, photographe algérien, nourrit depuis toujours une passion pour la photographie, animée par une grande sensibilité et une ouverture sur le monde qui l’entoure. 
     Il possède ce regard, constamment en éveil, qui lui permet de saisir l'essentiel, bien au-delà de la simple image. Ses divers parcours témoignent de cette curiosité insatiable et de son sens du partage.
 </p>
@@ -89,7 +89,7 @@
 <div class="d-none d-md-block">
     <div id="desktop-group1PierreBrandao" class="new-card-container">
         <div class="new-card">
-            <a href="ficheJosyaneDejesusLeVentNousConduira.php">
+            <a href="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp">
                 <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" 
                      alt="Couverture du livre Le vent nous conduira" 
                      class="img-fluid">

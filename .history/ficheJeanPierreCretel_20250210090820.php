@@ -48,7 +48,7 @@
         (ext. Le chemisier)
     </p><br>
 
-    <img src="images/jeanPierreCretel/toulouse-1_11zon.webp" class="img-fluid rounded w-25 m-3 d-block mx-auto" alt="Photo"><br>
+    <img src="images/jeanPierreCretel/toulouse-1_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo"><br>
 
     Et on ne peut que partager cette gourmandise-là. Ces paysages, ces personnages, sont aussi autre chose que des vers descriptifs ; ils sont vivants, ils existent, on les reconnaît. Ils sont notre environnement, nos voisins, des amis, des comme nous en ce qu’ils ont d’universel.<br><br>
 
@@ -57,7 +57,7 @@
 
     Se penser écrivain est une chose mais la vie à rebondissements de Jean-Pierre Crétel devait en décider autrement. Néanmoins, on retrouve un premier recueil incluant la période de 1959 à 1973 pour <i>L'Empreinte</i>.<br><br>
 
-    <img src="images/jeanPierreCretel/reims_11zon_11zon.webp" class="img-fluid rounded w-25 m-3 d-block mx-auto" alt="Photo"><br>
+    <img src="images/jeanPierreCretel/reims_11zon_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo"><br>
 
     Des rencontres fortuites en 1962 avec Jean Cocteau à Paris et le compositeur interprète Jacques Douai à Cap d'Ail en 1963, l'encouragent à poursuivre son travail d'écriture.<br><br>
 

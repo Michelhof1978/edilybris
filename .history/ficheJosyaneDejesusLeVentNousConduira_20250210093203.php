@@ -120,35 +120,34 @@
          class="img-fluid w-50 m-5 rounded">
 </div>
                    
-<p class="text-center mb-5 coloryellow">
-    'Je vous salue hommes d'avant<br>
-    Mes frères<br>
-    Ici le temps n'a plus d'importance<br>
-    Chaque stèle en son attente<br>
-    Berce la prière de l'oiseau'<br>
+
+                <p class=" text-center mb-5 coloryellow">
+                'Je vous salue hommes d'avant<br>
+Mes frères<br>
+Ici le temps n'a plus d'importance<br>
+Chaque stèle en son attente<br>
+Berce la prière de l'oiseau'<br>
 </p>
 
-<h3 class="h2Jaune text-center m-3">Chemins de lectures</h3>
+<h3 class="h2Jaune text-center m-3">Chemins de lectures  </h3>
 
 <p class="text-center">
-    Il n’est pas aisé d’accompagner en mots des photos : celles de Houari Bouchenak-Khelladi d’une parfaite et fascinante beauté, ont séduit Josyane De Jesus-Berger, passionnée du désert et de l’Algérie.<br> 
-    À chaque photo, on pourrait dire à chaque tableau, correspond un poème qui évoque ce qu’éprouve son auteure.<br>
-    Dans cette marche parmi des paysages d’une belle unité et d’une grande simplicité vont et viennent les sensations éprouvées.<br>
-    C’est d’abord la notion de temps qui marque les principales étapes de ce voyage : en face de la course de la gazelle, Josyane De Jesus-Berger s’interroge sur ce que représente le temps et cette interrogation sans réponse ne cesse de la hanter : « Toi la gazelle / Connais-tu la course du temps ? » 
-    Posant son regard sur la photo d’une femme voilée, ce sont ces vers qui évoquent le même thème : « Chaque pierre souligne / Ton mystère / Le temps t’appartient ».<br>
-    Çà et là des photos de visages appellent à la réflexion sur la durée imperceptible : « Qui es-tu toi l’homme du désert / Ici le temps / N’a pas sa fatigue / Il se repose à l’ombre des souks ».<br>
-    Ce ne sont pas seulement les questions relatives au temps qui fondent la réflexion de Josyane De Jesus-Berger mais aussi les rapports avec les êtres : ainsi ce poème suggéré par la vue de femmes voilées de blanc.<br>
-    À l’une d’elles elle demande : « Serais-tu / Celle qui apaise nos désirs ? »<br>
-    Chaque parcelle du désert ne cesse de solliciter le poète, de la conduire à une reconnaissance envers ces paysages.<br>
-    Il y a dans ces mots une ferveur à laquelle le lecteur ne reste pas indifférent : le regard s’imprègne des couleurs, des formes : « Je brûle pour toi / Fantôme du désert / Chaude sera la braise / Qui sommeille en mon cœur / Est-ce toi le feu qui me consume ? »<br>
-    Les monuments rencontrés, leur dépouillement délivrent aussi un message et Josyane De Jesus-Berger interroge l’un d’eux, la Mansourah : « Ruine de feu / Qui te dresse vers le ciel / Apprendras-tu enfin aux hommes la sagesse ? »<br>
-    Il faut regarder ces photos et lire ces poèmes pour comprendre l’attachement que Josyane De Jesus-Berger voue au désert, au symbole qu’il représente. Entre paysage et êtres humains la fusion s’accomplit.<br>
-    Le chant se fait plus ample, l’adhésion plus forte encore, la leçon du désert se trouve ici : « Je plante ma tente / Libre / les rides du creux des sables / M’appartiennent / Moi venue de l’autre rive / Je connais le puits qui calme / les soifs ! »<br>
-    On ne peut que s’arrêter sur ces photos de Houari Bouchenak-Khelladi qui fascinent, incitent à la rêverie et assurent la justesse des mots chez Josyane De Jesus-Berger : un livre autant qu’un voyage qui comble les yeux et l’esprit du lecteur.<br>
-    Max Alhau<br>
-    Josyane De Jesus-Bergey : « Le vent nous conduira vers le désert en Algérie »
-</p>
- 
+                    Il n’est pas aisé d’accompagner en mots des photos : celles de Houari Bouchenak-Khelladi d’une parfaite et fascinante beauté, ont séduit Josyane De Jesus-Berger, passionnée du désert et de l’Algérie.<br> A chaque photo, on pourrait dire à chaque tableau, correspond un poème qui évoque ce qu’éprouve son auteure. <br>
+                    Dans cette marche parmi des paysages d’une belle unité et d’une grande simplicité vont et viennent les sensations éprouvées.  <br>
+C’est d’abord la notion de temps qui marque les principales étapes de ce voyage : en face de la course de la gazelle, Josyane De Jesus-Berger s’interroge sur ce que représente le temps et cette interrogation sans réponse ne cesse de la hanter : « Toi la gazelle / Connais-tu la course du temps ? » Posant son regard sur la photo d’une femme voilée, ce sont ces vers qui évoquent le même thème : « Chaque pierre souligne / Ton mystère / Le temps t’appartient ».<br>
+ Çà et là des photos de visages appellent à la réflexion sur la durée imperceptible : « Qui es-tu toi l’homme du désert / Ici le temps / N’a pas sa fatigue / Il se repose à l’ombre des souks ». <br>
+Ce ne sont pas seulement les questions relatives au temps qui fondent la réflexion de Josyane De Jesus Berger mais aussi les rapports avec les êtres : ainsi ce poème suggéré par la vue de femmes voilées de blanc.<br>
+ A l’une d’elles elle demande : « Serais-tu / Celle qui apaise nos désirs ? » 
+Chaque parcelle du désert ne cesse de solliciter le poète, de la conduire à une reconnaissance envers ces paysages. <br>
+Il y a dans ces mots une ferveur à laquelle le lecteur ne reste pas indifférent : le regard s’imprègne des couleurs, des formes : « Je brûle pour toi / Fantôme du désert / Chaude sera la braise / Qui sommeille en mon cœur / Est-ce toi le feu qui me consume ? » <br>
+Les monuments rencontrés, leur dépouillement délivrent aussi un message et Josyane De Jesus-Berger interroge l’un d’eux, la Mansourah : « Ruine de feu / Qui te dresse vers le ciel / Apprendras-tu enfin aux hommes la sagesse ? » <br>
+Il faut regarder ces photos et lire ces poèmes pour comprendre l’attachement que Josyane De Jesus-Berger voue au désert, au symbole qu’il représente. Entre paysage et êtres humains la fusion s’accomplit.<br>
+ Le chant se fait plus ample, l’adhésion plus forte encore, la leçon du désert se trouve ici :  « Je plante ma tente / Libre / les rides du creux des sables / M’appartiennent / Moi venue de l’autre rive / Je connais le puits qui calme / les soifs ! »  <br>
+On ne peut que s’arrêter sur ces photos de Houari Bouchenak-Khelladi qui fascinent, incitent à la rêverie et assurent la justesse des mots chez Josyane De Jesus-Berger : un livre autant qu’un voyage qui comble les yeux et l’esprit du lecteur.<br>
+
+Max Alhau<br>
+
+Josyane De Jesus-Bergey : « Le vent nous conduira vers le désert en Algérie »</p>   
 
 <div style="text-align: center; margin-top: 20px;">
     <a href="images/bulletin-de-commande-2024.pdf" 

@@ -29,13 +29,13 @@
     Très attachée à cet élan vers l’autre que justifie, dit-elle, le poème, Josyane De Jesus-Bergey, poète franco-portugaise, retraitée de la fonction publique, est née et vit à La Rochelle (Charente-Maritime, France). 
     Elle écrit depuis l’enfance : poésie, contes, essais, chansons (S.A.C.E.M).
 </p>
-<p class="text-white">
+<p>
     Engagée dans diverses associations culturelles, elle participe activement au Printemps des Poètes et anime des ateliers d’écriture en France et à l’étranger.
 </p>
-<p class="text-white">
+<p>
     Elle fait également partie de l’équipe des animateurs du Festival « Voix Vives de Méditerranée en Méditerranée » à Sète.
 </p>
-<p class="text-white">
+<p>
     Régulièrement publiée en revue, ses écrits sont traduits en arabe, espagnol, italien et portugais. Invitée à de nombreux festivals et rencontres littéraires en France et à l’international, 
     elle est l’auteure d’une vingtaine d’ouvrages (voir Bio-bibliographie).
 </p>
@@ -89,7 +89,7 @@
 <div class="d-none d-md-block">
     <div id="desktop-group1PierreBrandao" class="new-card-container">
         <div class="new-card">
-            <a href="ficheJosyaneDejesusLeVentNousConduira.php">
+            <a href="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp">
                 <img src="images/JosyaneDeJesus/couverture-recto-pour-web-le-vent-nous-conduira-jdjb.webp" 
                      alt="Couverture du livre Le vent nous conduira" 
                      class="img-fluid">

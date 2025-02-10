@@ -133,52 +133,63 @@ Mail : jpcretel17@orange.fr
 
                     <h4 class="h2Jaune text-center m-3">À vif</h4>
 
-                    <p class="text-center text-white">
-    Dans l'épaisseur brumeuse<br>
-    De détours sournois<br>
-    Les rêves ne sont plus<br>
-    Pour effacer l'enfer.<br><br>
+                    <p>
+                    Dans l'épaisseur brumeuse
 
-    Des phrases à échardes<br>
-    Toutes piquetées de ronces<br>
-    Où des voix déchirées<br>
-    Ornent des barbelés.<br><br>
+De détours sournois
 
-    Elles échappent à l'effroi<br>
-    Qui glace et brûle tout,<br>
-    Avec la précision<br>
-    Acérée des rasoirs.
+Les rêves ne sont plus
+
+Pour effacer l'enfer.
+
+ 
+
+Des phrases à échardes
+
+Toutes piquetées de ronces
+
+Où des voix déchirées
+
+Ornent des barbelés.
+
+Elles échappent à l'effroi
+
+Qui glace et brûle tout,
+
+Avec la précision
+
+Acérée des rasoirs.
 </p>
 
-<h4 class="h2Jaune text-center m-3">Liberté…</h4>
+<h4 class="h2Jaune text-center m-3">Liberté… </h4>
 
-<p class="text-center text-white">
-    À quel prix ? Ah oui, la Liberté !<br>
-    Mais à quel prix parfois<br>
-    Faut-il aller vraiment<br>
-    Pour se l'offrir en grand ?<br><br>
+<p>
 
-    Même pour le verbe aimer<br>
-    C'est souvent contraignant.<br>
-    Plus encore si l'idée<br>
-    Est aussi la tendresse.<br><br>
 
-    J'aime payer comptant<br>
-    Presque avec largesse<br>
-    Cet extrême plaisir<br>
-    Qui nous rend bienveillants,<br><br>
+À quel prix ?Ah oui, la Liberté !
+Mais à quel prix parfois
+Faut-il aller vraiment
+Pour se l'offrir en grand ?
 
-    Et comme j'ai souvent dit<br>
-    Pour un même retour ;<br>
-    Donner est tellement mieux<br>
-    Que toujours recevoir.<br><br>
+Même pour le verbe aimer
+C'est souvent contraignant.
+Plus encore si l'idée
+Est aussi la tendresse.
 
-    En fait, la Liberté<br>
-    N'a pas de prix souvent.<br>
-    Elle se prend, elle se donne<br>
-    Elle est au gré du vent...
-</p>
+J'aime payer comptant
+Presque avec largesse
+Cet extrême plaisir
+Qui nous rend bienveillants,
 
+Et comme j'ai souvent dit
+Pour un même retour ;
+Donner est tellement mieux
+Que toujours recevoir.
+
+En fait, la Liberté
+N'a pas de prix souvent.
+Elle se prend, elle se donne
+Elle est au gré du vent...</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

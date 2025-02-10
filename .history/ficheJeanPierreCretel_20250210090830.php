@@ -48,7 +48,7 @@
         (ext. Le chemisier)
     </p><br>
 
-    <img src="images/jeanPierreCretel/toulouse-1_11zon.webp" class="img-fluid rounded w-25 m-3 d-block mx-auto" alt="Photo"><br>
+    <img src="images/jeanPierreCretel/toulouse-1_11zon.webp" class="img-fluid w-25 m-3 d-block mx-auto" alt="Photo"><br>
 
     Et on ne peut que partager cette gourmandise-là. Ces paysages, ces personnages, sont aussi autre chose que des vers descriptifs ; ils sont vivants, ils existent, on les reconnaît. Ils sont notre environnement, nos voisins, des amis, des comme nous en ce qu’ils ont d’universel.<br><br>
 

@@ -1,5 +1,15 @@
+<?php include("head.php"); ?>
 
-<div class="headerAuteur">
+<title></title>
+ <meta name="description" content="">
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+
+ <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Jean-Pierre Cretel</h1>
         <img src="images/jeanPierreCretel/jeanPierreCretel.webp" alt="Jean-Pierre Cretel" class="img-fluid bio-image">
@@ -212,3 +222,10 @@ Une manière plus fluide de voir et de penser, de saisir autre chose." <br>
     </div>
 </section>
 
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>
