@@ -57,9 +57,8 @@
 
 <h2 class="h2Jaune">L'interview radio de Lydia </h2>
 <p class="text-center text-white">
-    Lydia et Jacques passent à la trappe des questions de Stéphane Couzinet, le sympathique animateur d'Hélène FM, à l'occasion de son émission Scène ouverte du 18.12.2020.<br>  
+    Lydia et Jacques passent à la trappe des questions de Stéphane Couzinet, le sympathique animateur d'Hélène FM, à l'occasion de son émission Scène ouverte du 18.12.2020.
 </p>
-
 
          <!-- Section image et texte -->
 <div class="bio-content mb-5">
@@ -67,12 +66,9 @@
     <div class="bio-content d-flex justify-content-center align-items-center" style="height: 100vh;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8ddLXOcrloM?si=airjQ1sk523Dhdwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<p class="text-white">
-    Oui, entrer dans le monde de Lydia consiste à entendre les trois coups du brigadier annonçant le début de la pièce.<br>  
-    Lorsque celui-ci s'accompagne de musique, nul doute qu'entre en scène son compagnon dans la vie, Jacques Debout, musicien !<br>  
-    En voilà un beau couple pour faire rêver son monde, n'est-ce pas ?<br>  
+<p class="text-white ">
+    Oui, entrer dans le monde de Lydia consiste à entendre les trois coups du brigadier annonçant le début de la pièce. Lorsque celui-ci s'accompagne de musique, nul doute qu'entre en scène son compagnon dans la vie, Jacques Debout, musicien ! En voilà un beau couple pour faire rêver son monde, n'est-ce pas ?
 </p>
-
 
     </div>
 </div>
@@ -101,7 +97,7 @@
             </div>
 
             <!-- MODE DESKTOP -->
-            <div class="d-none d-md-block" style="margin-top: 100px;">
+            <div class="d-none d-md-block mt-5">
                 <div id="desktop-group1PierreBrandao" class="new-card-container">
                     <!-- Carte 1 - Le sillage de l'encre-->
                     <div class="new-card">

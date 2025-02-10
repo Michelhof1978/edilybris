@@ -101,7 +101,7 @@
             </div>
 
             <!-- MODE DESKTOP -->
-            <div class="d-none d-md-block" style="margin-top: 100px;">
+            <div class="d-none d-md-block mt-5">
                 <div id="desktop-group1PierreBrandao" class="new-card-container">
                     <!-- Carte 1 - Le sillage de l'encre-->
                     <div class="new-card">
