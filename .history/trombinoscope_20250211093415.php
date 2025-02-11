@@ -533,16 +533,24 @@
         </div>
       </a>
 
-      <!-- KUNZ CHRISTINE-->
-      <a href="ficheChristineKunz.php" class="profile-card director">
+      <!-- SCHARFF PATRICIA-->
+      <a href="fichePatriciaScharff.php" class="profile-card director">
         <div class="imgBx">
-          <img src="images/christinekunz/christinekunz.webp" class="img-fluid" alt="Photo de KUNZ CHRISTINE">
+          <img src="images/patriciaScharff/patriciaScharff.webp" class="img-fluid" alt="Photo de SCHARFF PATRICIA">
+        </div>
+        <div class="details mb-3">
+          <h2>SCHARFF PATRICIA</h2>
+        </div>
+      </a>
+       <!-- Kunz Christine-->
+       <a href="ficheChristineKunz.php" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/christinekunz/christinekunz1.webp" class="img-fluid" alt=" Photo de KUNZ CHRISTIN">
         </div>
         <div class="details mb-3">
           <h2>KUNZ CHRISTINE</h2>
         </div>
       </a>
-
 
        <!-- D-LYS Decoeur-->
        <a href="ficheD-LysDeCoeur.php" class="profile-card director">

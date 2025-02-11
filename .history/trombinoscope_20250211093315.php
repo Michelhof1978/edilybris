@@ -533,17 +533,6 @@
         </div>
       </a>
 
-      <!-- KUNZ CHRISTINE-->
-      <a href="ficheChristineKunz.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/christinekunz/christinekunz.webp" class="img-fluid" alt="Photo de KUNZ CHRISTINE">
-        </div>
-        <div class="details mb-3">
-          <h2>KUNZ CHRISTINE</h2>
-        </div>
-      </a>
-
-
        <!-- D-LYS Decoeur-->
        <a href="ficheD-LysDeCoeur.php" class="profile-card director">
         <div class="imgBx">

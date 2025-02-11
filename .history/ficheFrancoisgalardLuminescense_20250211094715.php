@@ -173,37 +173,41 @@
 <h4 class="h2Jaune text-center m-3">SAINTS CAR NÉ (E) S</h4>
 
 <p>
-    En venant au sein de ce monde,<br>
-    On oublie très vite notre origine,<br>
-    Au point d’en avoir des angines,<br>
-    À ne plus ressentir les ondes.<br><br>
 
-    Nous avons beau être incarnés,<br>
-    Que nous arrivons à peine<br>
-    À nous enraciner<br>
-    Tellement nous avons de la peine.<br><br>
 
-    Certains s’engouffrent dans la déprime,<br>
-    La dépression, voire les idées noires,<br>
-    Quand d’autres vont se mettre à boire<br>
-    Jusqu’à commettre des crimes.<br><br>
+En venant au sein de ce monde,
+On oublie très vite notre origine,
+Au point d’en avoir des angines,
+À ne plus ressentir les ondes.
 
-    Mais si nous acceptons notre divinité,<br>
-    Alors nous basculons dans l’Unité,<br>
-    Car qui nous sommes est reconnu<br>
-    Et devenons cet UN-connu.<br><br>
 
-    Nous avons une telle motivation,<br>
-    Grâce à nos cellules qui scintillent,<br>
-    Permettant qu’en-nous tout pétille,<br>
-    Pour avoir dit oui à l’unification.<br><br>
+Nous avons beau être incarnés,
+Que nous arrivons à peine
+À nous enraciner
+Tellement nous avons de la peine.
 
-    Nous autorisons l’Esprit Saint<br>
-    À se déployer totalement en nous,<br>
-    Quitte à passer pour de doux fous,<br>
-    Voire quelques fois pour des saints.<br>
-</p>
 
+Certains s’engouffrent dans la déprime,
+La dépression, voire les idées noires,
+Quand d’autres vont se mettre à boire
+Jusqu’à commettre des crimes.
+
+
+Mais si nous acceptons notre divinité,
+Alors nous basculons dans l’Unité,
+Car qui nous sommes est reconnu
+Et devenons cet UN-connu.
+
+Nous avons une telle motivation,
+Grâce à nos cellules qui scintillent,
+Permettant qu’en-nous tout pétille,
+Pour avoir dit oui à l’unification.
+
+
+Nous autorisons l’Esprit Saint
+À se déployer totalement en nous,
+Quitte à passer pour de doux fous,
+Voire quelques fois pour des saints.</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>

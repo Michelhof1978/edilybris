@@ -455,8 +455,25 @@
         </div>
       </a>
 
-     
-
+      <!-- Kunz Christine-->
+      <a href="ficheChristineKunz.php" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images/christinekunz/christinekunz1.webp" class="img-fluid" alt=" Photo de LO PINTO GUY">
+        </div>
+        <div class="details mb-3">
+          <h2>KUNZ CHRISTINE</h2>
+        </div>
+      </a>
+      
+ <!-- LO PINTO GUY-->
+      <a href="ficheGuyLoPinto.php" class="profile-card producer">
+        <div class="imgBx">
+          <img src="images:" class="img-fluid" alt=" Photo de LO PINTO GUY">
+        </div>
+        <div class="details mb-3">
+          <h2>LO PINTO GUY</h2>
+        </div>
+      </a>
  <!-- MAILY JOCELYN-->
       <a href="ficheJocelynMaily.php" class="profile-card producer">
         <div class="imgBx">
@@ -476,17 +493,6 @@
           <h2>NADINI ABDEL FRANCOIS</h2>
         </div>
       </a>
-
-       <!--LO PINTO GUY-->
-       <a href="ficheGuyLoPinto.php" class="profile-card producer">
-        <div class="imgBx">
-          <img src="images/guyLopinto/guyLopinto.webp" class="img-fluid" alt="Photo LO PINTO GUY">
-        </div>
-        <div class="details mb-3">
-          <h2>LO PINTO GUY</h2>
-        </div>
-      </a>
-
       <!-- TAHET ALAIN-->
       <a href="ficheAlainTahet.php" class="profile-card director">
         <div class="imgBx">
@@ -532,17 +538,6 @@
           <h2>SCHARFF PATRICIA</h2>
         </div>
       </a>
-
-      <!-- KUNZ CHRISTINE-->
-      <a href="ficheChristineKunz.php" class="profile-card director">
-        <div class="imgBx">
-          <img src="images/christinekunz/christinekunz.webp" class="img-fluid" alt="Photo de KUNZ CHRISTINE">
-        </div>
-        <div class="details mb-3">
-          <h2>KUNZ CHRISTINE</h2>
-        </div>
-      </a>
-
 
        <!-- D-LYS Decoeur-->
        <a href="ficheD-LysDeCoeur.php" class="profile-card director">

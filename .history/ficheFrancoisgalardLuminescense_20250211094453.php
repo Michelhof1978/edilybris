@@ -72,38 +72,30 @@
 <h4 class="h2Jaune text-center m-3">SAINTS CAR NÉ (E) S</h4>
 
 <p>
-<p>
-    En venant au sein de ce monde,<br>
-    On oublie très vite notre origine,<br>
-    Au point d’en avoir des angines,<br>
-    À ne plus ressentir les ondes.<br><br>
+    À quel prix ? Ah oui, la Liberté !<br>
+    Mais à quel prix parfois<br>
+    Faut-il aller vraiment<br>
+    Pour se l'offrir en grand ?<br><br>
 
-    Nous avons beau être incarnés,<br>
-    Que nous arrivons à peine<br>
-    À nous enraciner<br>
-    Tellement nous avons de la peine.<br><br>
+    Même pour le verbe aimer<br>
+    C'est souvent contraignant.<br>
+    Plus encore si l'idée<br>
+    Est aussi la tendresse.<br><br>
 
-    Certains s’engouffrent dans la déprime,<br>
-    La dépression, voire les idées noires,<br>
-    Quand d’autres vont se mettre à boire<br>
-    Jusqu’à commettre des crimes.<br><br>
+    J'aime payer comptant<br>
+    Presque avec largesse<br>
+    Cet extrême plaisir<br>
+    Qui nous rend bienveillants,<br><br>
 
-    Mais si nous acceptons notre divinité,<br>
-    Alors nous basculons dans l’Unité,<br>
-    Car qui nous sommes est reconnu<br>
-    Et devenons cet UN-connu.<br><br>
+    Et comme j'ai souvent dit<br>
+    Pour un même retour ;<br>
+    Donner est tellement mieux<br>
+    Que toujours recevoir.<br><br>
 
-    Nous avons une telle motivation,<br>
-    Grâce à nos cellules qui scintillent,<br>
-    Permettant qu’en-nous tout pétille,<br>
-    Pour avoir dit oui à l’unification.<br><br>
-
-    Nous autorisons l’Esprit Saint<br>
-    À se déployer totalement en nous,<br>
-    Quitte à passer pour de doux fous,<br>
-    Voire quelques fois pour des saints.<br>
-</p>
-
+    En fait, la Liberté<br>
+    N'a pas de prix souvent.<br>
+    Elle se prend, elle se donne<br>
+    Elle est au gré du vent...<br>
 </p>
 
                     <div class="text-center mt-3">
@@ -143,67 +135,75 @@
                     <h4 class="h2Jaune text-center m-3">TRAIN GALACTIQUE VIRULENT</h4>
 
                     <p>
-    Le train est annoncé sur le panneau d’affichage.<br>
-    Il s’agit du train céleste qui est de passage<br>
-    Uniquement Ici et Maintenant. Mais êtes-vous prêt<br>
-    À monter dans l’un de ses wagons ? Il arrive en quai !<br><br>
+                    Le train est annoncé sur le panneau d’affichage.
+Il s’agit du train céleste qui est de passage
+Uniquement Ici et Maintenant. Mais êtes-vous prêt
+À monter dans l’un de ses wagons ? Il arrive en quai !
 
-    Certains voyageurs sont excités depuis si longtemps<br>
-    Qu’ils sont comme soulagés de le voir en cet instant.<br>
-    D’autres s’interrogent quant à son utilité de le prendre.<br>
-    Le seront-ils vraiment, ne vont-ils pas se méprendre ?<br><br>
 
-    Les premiers jubilent et montent à son bord sans attendre.<br>
-    Pour les seconds, ils ont le même refrain.<br>
-    Et si cela n’était qu’un rêve ou un frein<br>
-    Face à leurs ambitions, vont-ils pouvoir comprendre ?<br><br>
+Certains voyageurs sont excités depuis si longtemps
+Qu’ils sont comme soulagés de le voir en cet instant.
+D’autres s’interrogent quant à son utilité de le prendre.
+Le seront-ils vraiment, ne vont-ils pas se méprendre ?
 
-    Être porté sur des rails pour un voyage inattendu<br>
-    Vers une dimension en un espace inconnu<br>
-    Semble pour beaucoup impossible à concevoir.<br>
-    Mais qu’importe, il y aura d’autres moments pour se revoir.<br><br>
 
-    La fumée éthérée de la locomotive se voit à nouveau.<br>
-    Au signal, les Anges de la Présence s’activent en douceur.<br>
-    Ils savent que leurs impulsions apportent tout le bonheur,<br>
-    Qu’ils se réjouissent de la beauté et en apposent leur sceau…<br>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;de sagesse et de tendresse.<br>
+Les premiers jubilent et montent à son bord sans attendre.
+Pour les seconds, ils ont le même refrain.
+Et si cela n’était qu’un rêve ou un frein
+Face à leurs ambitions, vont-ils pouvoir comprendre ?
+
+
+Être porté sur des rails pour un voyage inattendu
+Vers une dimension en un espace inconnu
+Semble pour beaucoup impossible à concevoir.
+Mais qu’importe, il y aura d’autres moments pour se revoir.
+
+
+La fumée éthérée de la locomotive se voit à nouveau.
+Au signal, les Anges de la Présence s’activent en douceur.
+Ils savent que leurs impulsions apportent tout le bonheur,
+Qu’ils se réjouissent de la beauté et en apposent leur sceau…
+                                                       de sagesse et de tendresse.
 </p>
 
 <h4 class="h2Jaune text-center m-3">SAINTS CAR NÉ (E) S</h4>
 
 <p>
-    En venant au sein de ce monde,<br>
-    On oublie très vite notre origine,<br>
-    Au point d’en avoir des angines,<br>
-    À ne plus ressentir les ondes.<br><br>
 
-    Nous avons beau être incarnés,<br>
-    Que nous arrivons à peine<br>
-    À nous enraciner<br>
-    Tellement nous avons de la peine.<br><br>
 
-    Certains s’engouffrent dans la déprime,<br>
-    La dépression, voire les idées noires,<br>
-    Quand d’autres vont se mettre à boire<br>
-    Jusqu’à commettre des crimes.<br><br>
+En venant au sein de ce monde,
+On oublie très vite notre origine,
+Au point d’en avoir des angines,
+À ne plus ressentir les ondes.
 
-    Mais si nous acceptons notre divinité,<br>
-    Alors nous basculons dans l’Unité,<br>
-    Car qui nous sommes est reconnu<br>
-    Et devenons cet UN-connu.<br><br>
 
-    Nous avons une telle motivation,<br>
-    Grâce à nos cellules qui scintillent,<br>
-    Permettant qu’en-nous tout pétille,<br>
-    Pour avoir dit oui à l’unification.<br><br>
+Nous avons beau être incarnés,
+Que nous arrivons à peine
+À nous enraciner
+Tellement nous avons de la peine.
 
-    Nous autorisons l’Esprit Saint<br>
-    À se déployer totalement en nous,<br>
-    Quitte à passer pour de doux fous,<br>
-    Voire quelques fois pour des saints.<br>
-</p>
 
+Certains s’engouffrent dans la déprime,
+La dépression, voire les idées noires,
+Quand d’autres vont se mettre à boire
+Jusqu’à commettre des crimes.
+
+
+Mais si nous acceptons notre divinité,
+Alors nous basculons dans l’Unité,
+Car qui nous sommes est reconnu
+Et devenons cet UN-connu.
+
+Nous avons une telle motivation,
+Grâce à nos cellules qui scintillent,
+Permettant qu’en-nous tout pétille,
+Pour avoir dit oui à l’unification.
+
+
+Nous autorisons l’Esprit Saint
+À se déployer totalement en nous,
+Quitte à passer pour de doux fous,
+Voire quelques fois pour des saints.</p>
 
                       <a href="images/bulletin-de-commande-2024.pdf" class="lien text-white fw-bold mt-5" download>Télécharger le bon de commande</a>
                     </div>
