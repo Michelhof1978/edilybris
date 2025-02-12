@@ -1,4 +1,14 @@
+<?php include("head.php"); ?>
 
+<title></title>
+ <meta name="description" content="">
+</head>
+
+ <?php include("header.php"); ?>
+
+
+
+ 
 <div class="headerAuteur">
     <div class="containerAuteur">
         <h1>Véronique Ash</h1>
@@ -112,3 +122,10 @@ Véronique, à l'âge des décisions importantes, reste attachée à sa nature ;
     </div>
 </section>
 
+
+
+
+ 
+ <?php include("footer.php"); ?>
+</body>
+</html>

@@ -55,11 +55,11 @@ Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes i
                     <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-75 mb-3" alt="ILLUSTATION">
                 </div>
                     <p class="text-center">
-                    Parce qu’on refuse de les croire,<br>
-Qu’on les soupçonne d’affabuler,<br>
-Qu’ils ont honte,<br>
-Se sentent coupables,<br>
-Ont peur,<br>
+                    Parce qu’on refuse de les croire,
+Qu’on les soupçonne d’affabuler,
+Qu’ils ont honte,
+Se sentent coupables,
+Ont peur,
 Parce qu’ils se croient seuls au monde<br>
 Avec leur terrible secret…<br>
 
@@ -186,32 +186,22 @@ Jamais elle ne réussira à se fixer.<br>
                     <img src="images/veroniqueAsh/petitPaquet3.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
  
-                <p> 1962-63. Orpheline sans vraiment l’être, elle naît dans l’ombre.<br> Dans le monde des murmures, elle a grandi.<br> Les adultes ont programmé son futur.<br>
-Bébé, arme de séduction : le sourire.<br>
+<p>
+1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
 
-Adolescente, des formes généreuses prennent le dessus.<br>
+Bébé, arme de séduction : le sourire. <br>        
 
-Devenue femme, elle comprend que tout passe par les prunelles.<br>
-Elle n’a jamais été belle, juste jolie.<br>
-Son atout majeur, un charme naturel.<br>
-Elle ressemble à ces femmes à qui la souffrance a fait don d’une personnalité et d’une force hors du commun.<br>
-Elle laisse une trace aimable sur son passage.<br>
-Tout cela, elle s’en apercevra un peu tard.<br>
+Ados, des formes généreuses prennent le dessus.<br>  
 
-Si son regard semble inviter, son corps reste fidèle à ses principes.<br>
-Elle a souvent posé sur la gent masculine un regard mêlé de compassion, de méfiance.<br>
-Les hommes confondaient régulièrement sollicitude avec encouragements.<br>
+Devenue femme, elle comprend que tout passe par les prunelles. Elle n’a jamais été belle, juste jolie. Son atout majeur, un charme naturel. Elle ressemble à ces femmes à qui la souffrance a fait don d’une personnalité et d’une force hors du commun. Elle laisse une trace aimable sur son passage. Tout cela, elle s’en apercevra un peu tard.<br>
 
-L’empreinte d’une descendance de femmes légères a toujours plané au-dessus de sa tête.<br>
-Jamais elle n’ose blesser, ce qui la fait passer pour un être naïf voire faible, le contraire de sa réalité.<br>
+Si son regard semble inviter, son corps reste fidèle à ses principes. Elle a souvent posé sur la gent masculine un regard mêlé de compassion, de méfiance. Les hommes confondaient régulièrement sollicitude avec encouragements.<br>
 
-Au fur et à mesure des années, la coupe se remplira jusqu’à déborder.<br>
-Son comportement changera.<br>
-Viendront des années de colères incontrôlées face aux autres.<br>
-Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
+L’empreinte d’une descendance de femmes légères a toujours plané au-dessus de sa tête. Jamais elle n’ose blesser, ce qui la fait passer pour un être naïf voire faible, le contraire de sa réalité.<br>
+
+Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son comportement changera. Viendront des années de colères incontrôlées face aux autres. Elle se délestera de ses meilleures amies : addiction, souffrance, douleurs...<br>
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
-
 </p>
 </div>
 
@@ -341,18 +331,14 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                         <p class="annee text-white"><strong class="h2Jaune">Nombre de pages :</strong> 154</p>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440532</p>
 
-                        <p class="lead text-white"> Le bonheur est dans l’attente, le malheur vient du hasard.<br>
-Considérée dès sa conception comme un parasite inutile, juste bon à être éliminé, Vika décide de s’accrocher à la vie par tous les moyens.<br>
-Malheureusement, ELLE vient au monde dans une mauvaise famille.<br>
-Ce petit Paquet oublié, déplacé au gré des envies de sa génitrice, meurtri par son entourage, ne baisse pourtant pas les bras, se bat.<br>
-Astucieuse, intelligente, ELLE s’adapte, se construit, commet des erreurs, mais les assume sans faillir.<br>
+                        <p class="lead text-white">
+                        Le bonheur est dans l’attente, le malheur vient du hasard. <br>
 
+Considérée dès sa conception comme un parasite inutile, juste bon à être éliminé, Vika décide de s’accrocher à la vie par tous les moyens. Malheureusement, ELLE vient au monde dans une mauvaise famille. Ce petit Paquet oublié, déplacé au gré des envies de sa génitrice, meurtri par son entourage, ne baisse pourtant pas les bras, se bat. Astucieuse, intelligente, ELLE s’adapte, se construit, commet des erreurs, mais les assume sans faillir.<br>
 Ce récit, poignant, douloureux, déchirant, parfois cruel et malsain, navigue entre prose et poésie, outils d’une souffrance peinte avec la beauté de la maladresse...<br>
-La lecture, volontairement désordonnée, nous en met plein le visage, comme un uppercut direct qui tient sa force d’une vérité balancée sans pudeur.<br>
-
-Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes inébranlables convictions !<br>
-
-</p>
+La lecture, volontairement désordonnée, nous en met plein le visage, comme un uppercut direct qui tient sa force d’une vérité balancée sans pudeur. <br>
+Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes inébranlables convictions !
+                        </p>
                         <div class="text-center mt-3">
                         <a href="images/bulletin-de-commande-2024.pdf" class="btn btn-warning fw-bold text-white" download>Télécharger le bon de commande</a>
                     </div>
@@ -363,7 +349,18 @@ Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes i
                     <div class="col-12 text-center">
                     <img src="images/veroniqueAsh/petitPaquet1.webp" class="img-fluid w-50 mb-3" alt="ILLUSTATION">
                 </div>
-                <p class="text-center"> Parce qu’on refuse de les croire,<br> Qu’on les soupçonne d’affabuler,<br> Qu’ils ont honte,<br> Se sentent coupables,<br> Ont peur,<br> Parce qu’ils se croient seuls au monde<br> Avec leur terrible secret…<br> </p>
+                    <p class="text-center">
+                    Parce qu’on refuse de les croire,
+Qu’on les soupçonne d’affabuler,
+Qu’ils ont honte,
+Se sentent coupables,
+Ont peur,
+Parce qu’ils se croient seuls au monde
+Avec leur terrible secret…
+
+
+ 
+                    </p>
 
 <!-------------------------------------------------------------------------------------->
 
@@ -374,13 +371,9 @@ Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes i
                     <div class="text-center">
                     Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
 
-Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. <br>
-Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique.<br>
- Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
+Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
 
-Mon souhait... vous offrir une lecture loin de la haine ou de la colère.<br>
- Emplie de réflexion. <br>
- Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
+Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
 <blockquote class="text-center"> 'matin, j’ai terminé<br>
 Avec un arc-en-ciel<br>
 Le raccommodage d’une faille<br>
@@ -484,10 +477,12 @@ Jamais elle ne réussira à se fixer.<br>
                     <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
  
-                <p> 1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
-Bébé, arme de séduction : le sourire. <br>
 
-Ados, des formes généreuses prennent le dessus.<br>
+1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
+
+Bébé, arme de séduction : le sourire. <br>        
+
+Ados, des formes généreuses prennent le dessus.<br>  
 
 Devenue femme, elle comprend que tout passe par les prunelles. Elle n’a jamais été belle, juste jolie. Son atout majeur, un charme naturel. Elle ressemble à ces femmes à qui la souffrance a fait don d’une personnalité et d’une force hors du commun. Elle laisse une trace aimable sur son passage. Tout cela, elle s’en apercevra un peu tard.<br>
 
@@ -499,7 +494,6 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
-</p>
 </div>
                       
 <!-------------------------------------------------------------------------------------->
@@ -568,8 +562,8 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
       <!-------------------------------------------------------------------------------------->
                  
-          <!-- Carousel -->
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+     <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
@@ -586,7 +580,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-               
+                
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -598,6 +592,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
             </a>
         </div>
     </div>
+
                 </div>
             </div>
         </div>

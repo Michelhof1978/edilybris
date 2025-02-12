@@ -79,25 +79,13 @@ Bonne lecture, ami(e)s carabistouilleurs !<br>
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440577</p>
 
                         <div class="lead text-white text-center">
-                        <p> Pour lire, nul besoin de dico ou d’aspirine.<br>
-Prenez votre jolie tête bien faite.<br>
-Adoptez une aimable araignée-paon inoffensive, couleur arc-en-ciel.<br>
-Laissez-la titiller les neurones de la joie.<br>
-Laissez-la vous conter à l’oreille moult idées extraordinaires.<br>
-Prenez votre plume, un joli parchemin.<br>
-Demandez à votre main de glisser tous ces mots sur la page blanche.<br>
-Une fois l’histoire terminée, lisez à voix haute.<br>
-Voilà comment faire une tendre Carabistouillette.<br>
+                       <p> Pour lire, nul besoin de dico ou d’aspirine.
 
-Trêve de babillage, le matin au réveil, ouvrez ce livre.<br>
-Choisissez une page au hasard.<br>
-Lisez-en quelques mots, voire tous.<br>
-Si le sourire vous vient aux lèvres, la journée sera bonne.<br>
-Dans le cas contraire, retournez vous coucher !<br>
+Prenez votre jolie tête bien faite, adoptez une aimable araignée-paon inoffensive, couleur arc-en-ciel, laissez-la titiller les neurones de la joie. Laissez-la vous conter à l’oreille moult idées extraordinaires. Prenez votre plume, un joli parchemin, demandez à votre main de glisser tous ces mots sur la page blanche. Une fois l’histoire terminée, lisez à voix haute, voilà comment faire une tendre Carabistouillette.
 
-Bonne lecture, ami(e)s carabistouilleurs !<br>
+Trêve de babillage, le matin au réveil, ouvrez ce livre, choisissez une page au hasard. Lisez-en quelques voire tous les mots. Si le sourire vous vient aux lèvres, la journée sera bonne. Dans le cas contraire, retournez vous coucher !
 
-</p>
+Bonne lecture, ami(e)s carasbitouilleurs !</p>
 </div>
                    
                         </p>

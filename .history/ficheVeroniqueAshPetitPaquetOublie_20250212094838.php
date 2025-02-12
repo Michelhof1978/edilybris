@@ -484,10 +484,12 @@ Jamais elle ne réussira à se fixer.<br>
                     <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
  
-                <p> 1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
-Bébé, arme de séduction : le sourire. <br>
+<p></p>
+1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
 
-Ados, des formes généreuses prennent le dessus.<br>
+Bébé, arme de séduction : le sourire. <br>        
+
+Ados, des formes généreuses prennent le dessus.<br>  
 
 Devenue femme, elle comprend que tout passe par les prunelles. Elle n’a jamais été belle, juste jolie. Son atout majeur, un charme naturel. Elle ressemble à ces femmes à qui la souffrance a fait don d’une personnalité et d’une force hors du commun. Elle laisse une trace aimable sur son passage. Tout cela, elle s’en apercevra un peu tard.<br>
 
@@ -499,7 +501,6 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
-</p>
 </div>
                       
 <!-------------------------------------------------------------------------------------->
@@ -568,8 +569,8 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
       <!-------------------------------------------------------------------------------------->
                  
-          <!-- Carousel -->
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+     <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
@@ -586,7 +587,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-               
+                
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -598,6 +599,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
             </a>
         </div>
     </div>
+
                 </div>
             </div>
         </div>

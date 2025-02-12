@@ -568,8 +568,8 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
       <!-------------------------------------------------------------------------------------->
                  
-          <!-- Carousel -->
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+     <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
@@ -586,7 +586,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-               
+                
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -598,6 +598,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
             </a>
         </div>
     </div>
+
                 </div>
             </div>
         </div>

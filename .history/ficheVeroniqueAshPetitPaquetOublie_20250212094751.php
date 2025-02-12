@@ -375,12 +375,9 @@ Toi qui as entre les mains ces feuillets brûlants, attends-toi à heurter tes i
                     Ce livre raconte l’histoire d’une fille d’Asphalteuse, née de père inconnu…<br>
 
 Ce petit Paquet oublié joue sa vie aux dés sur le plateau d’un fictif jeu de l’oie. <br>
-Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique.<br>
- Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
+Par son entremise, je vous propose sans animosité, avec humour, son parcours atypique. Celui-ci évoque l’abandon, les placements dans des lieux pas toujours roses, la cruauté, certaines déviances d’adultes incorrects, les mauvaises prises de décisions, additionnées par plusieurs erreurs de parcours personnel…<br>
 
-Mon souhait... vous offrir une lecture loin de la haine ou de la colère.<br>
- Emplie de réflexion. <br>
- Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
+Mon souhait... vous offrir une lecture loin de la haine ou de la colère. Emplie de réflexion. Qui vous prouvera que l’on peut survivre à l’improbable.<br><br>
 <blockquote class="text-center"> 'matin, j’ai terminé<br>
 Avec un arc-en-ciel<br>
 Le raccommodage d’une faille<br>
@@ -484,10 +481,12 @@ Jamais elle ne réussira à se fixer.<br>
                     <img src="images/veroniqueAsh/petitPaquet6.webp" class="img-fluid w-25 mb-3" alt="ILLUSTATION">
                 </div>
  
-                <p> 1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
-Bébé, arme de séduction : le sourire. <br>
 
-Ados, des formes généreuses prennent le dessus.<br>
+1962 63 2Orpheline sans vraiment l’être, elle naît dans l’ombre. Dans le monde des murmures, elle a grandi. Les adultes ont programmé son futur.<br>
+
+Bébé, arme de séduction : le sourire. <br>        
+
+Ados, des formes généreuses prennent le dessus.<br>  
 
 Devenue femme, elle comprend que tout passe par les prunelles. Elle n’a jamais été belle, juste jolie. Son atout majeur, un charme naturel. Elle ressemble à ces femmes à qui la souffrance a fait don d’une personnalité et d’une force hors du commun. Elle laisse une trace aimable sur son passage. Tout cela, elle s’en apercevra un peu tard.<br>
 
@@ -499,7 +498,6 @@ Au fur et à mesure des années, la coupe se remplira jusqu’à déborder. Son 
 
 Puis, elle se réveillera trop tôt… trop tard… ?<br>
 
-</p>
 </div>
                       
 <!-------------------------------------------------------------------------------------->
@@ -568,8 +566,8 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
 
       <!-------------------------------------------------------------------------------------->
                  
-          <!-- Carousel -->
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+     <!-- Carousel -->
+     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel1.webp" alt="Photos de Veronique Ash">
@@ -586,7 +584,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
                 <div class="carousel-item">
                     <img class="d-block w-50 mx-auto" src="images/veroniqueAsh/caroussel5.webp" alt="Photo ancienne de Veronique Ash">
                 </div>
-               
+                
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -598,6 +596,7 @@ Merci à vous qui achèterez ce livre pas facile. Qu’il vous aide à comprendr
             </a>
         </div>
     </div>
+
                 </div>
             </div>
         </div>

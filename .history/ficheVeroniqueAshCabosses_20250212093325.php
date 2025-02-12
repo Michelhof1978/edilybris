@@ -84,18 +84,15 @@
                         <p class="annee text-white"><strong class="h2Jaune">Référence :</strong> 9782363440686</p>
 
                         <div class="lead text-white text-center">
-                        <p class="lead text-white"> <strong class="h2Jaune">Résumé :</strong> Naissances non programmées, adolescentes non structurées.<br> Devenues femmes, elles ont vogué au gré de violentes marées.<br> Mamans, elles se sont adaptées, ont élevé sans mode d’emploi leur progéniture.<br>
-Puis, à l’aube d’un destin bancal, elles se sont réveillées.<br>
-Avec la dextérité d’une joueuse de tennis, chacune a balancé un revers gagnant.<br>
+                       <p> Naissances non programmées, adolescentes non structurées. Devenues femmes, elles ont vogué au gré de violentes marées. Mamans, elles se sont adaptées, ont élevé sans mode d’emploi leur progéniture.
 
-***<br>
+Puis, à l’aube d’un destin bancal, elles se sont réveillées. Avec la dextérité d’une joueuse de tennis, chacune a balancé un revers gagnant.
 
-Véronique Ash, de son nom d’autrice, couche dans ces pages des histoires vraies.<br>
-Elle les propose sous forme de nouvelles.<br>
+***
 
-Ceux qui la suivent reconnaîtront son style libre et atypique.<br>
+Véronique Ash, de son nom d’autrice, couche dans ces pages des histoires vraies. Elle les propose sous forme de nouvelles.
 
-</p>
+Ceux qui la suivent reconnaîtront son style libre et atypique.</p>
 </div>
                    
                         </p>
